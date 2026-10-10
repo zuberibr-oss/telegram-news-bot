@@ -1,0 +1,33 @@
+# One RSS/Atom feed URL per line. Lines starting with # are ignored.
+# Optional label after a pipe:  URL | Label shown in posts
+# The bot logs how many items each feed returned, so check the first run's log
+# and delete any feed that keeps returning 0.
+
+# --- African tech (verified working Oct 2026) ---
+https://techpoint.africa/feed/ | Techpoint Africa
+https://restofworld.org/feed/latest | Rest of World
+
+# --- African tech (likely works from GitHub's servers; blocks some bots) ---
+https://techcabal.com/feed/ | TechCabal
+
+# --- Ethiopian tech (verified working Oct 2026) ---
+https://shega.co/rss | Shega
+
+# --- Ethiopian primary sources (verified working Oct 2026) ---
+# Ethio Telecom's main /feed/ is all procurement bids; this category feed is press releases only.
+https://www.ethiotelecom.et/category/press_release-news/feed/ | Ethio Telecom
+# NBE press releases (English and Amharic); the main /feed/ only has MPC meetings.
+https://nbe.gov.et/feed/?post_type=nbe_news | National Bank of Ethiopia
+# No RSS for these two; see scrapers.py.
+scrape:nbe_directives | National Bank of Ethiopia
+scrape:nbe_announcements | National Bank of Ethiopia
+# Safaricom Ethiopia has no working press page (safaricom.et "media center" is two 2023
+# galleries, and the Kenyan newsroom's feeds return 500), so follow coverage instead.
+https://news.google.com/rss/search?q=%22Safaricom+Ethiopia%22+OR+%22M-PESA+Ethiopia%22+when:7d&hl=en-US&gl=US&ceid=US:en | Google News
+
+# --- Ethiopia-specific (general news; the AI filter keeps only tech/fintech) ---
+https://addisstandard.com/feed/ | Addis Standard
+https://www.thereporterethiopia.com/feed/ | The Reporter
+
+# --- Google News search: Ethiopian tech/fintech from any outlet ---
+https://news.google.com/rss/search?q=Ethiopia+(fintech+OR+startup+OR+Telebirr+OR+%22Ethio+Telecom%22+OR+Safaricom+OR+%22digital+payment%22)+when:2d&hl=en-US&gl=US&ceid=US:en | Google News
