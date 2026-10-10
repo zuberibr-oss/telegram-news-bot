@@ -10,8 +10,23 @@ https://restofworld.org/feed/latest | Rest of World
 # --- African tech (likely works from GitHub's servers; blocks some bots) ---
 https://techcabal.com/feed/ | TechCabal
 
+# --- More African tech (verified working Oct 2026) ---
+https://techafricanews.com/feed/ | TechAfrica News
+https://www.benjamindada.com/rss/ | Benjamindada
+https://techtrendske.co.ke/feed/ | TechTrends KE
+https://itweb.africa/rss | ITWeb Africa
+https://www.connectingafrica.com/rss.xml | Connecting Africa
+
 # --- Ethiopian tech (verified working Oct 2026) ---
 https://shega.co/rss | Shega
+
+# --- Ethiopian business and finance (verified working Oct 2026) ---
+https://birrmetrics.com/feed/ | Birr Metrics
+https://stockmarket.et/feed/ | StockMarket.et
+https://capitalethiopia.com/feed/ | Capital Ethiopia
+https://ethiopianbusinessreview.net/feed/ | Ethiopian Business Review
+https://addisfortune.news/feed/ | Addis Fortune
+https://www.fanabc.com/english/feed/ | Fana
 
 # --- Ethiopian primary sources (verified working Oct 2026) ---
 # Ethio Telecom's main /feed/ is all procurement bids; this category feed is press releases only.

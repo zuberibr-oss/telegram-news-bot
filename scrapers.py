@@ -19,7 +19,7 @@ from email.utils import parsedate_to_datetime
 import requests
 from bs4 import BeautifulSoup
 
-TIMEOUT = 20
+TIMEOUT = 30  # Ethiopian government sites can take ~20s to respond
 
 
 def clean(text: str) -> str:

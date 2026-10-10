@@ -153,7 +153,7 @@ def fetch_article_text(session: requests.Session, url: str) -> str:
     if "news.google.com" in url:
         return ""  # Google News links are JavaScript redirects, not the article
     try:
-        resp = session.get(url, timeout=20)
+        resp = session.get(url, timeout=30)
         resp.raise_for_status()
     except Exception:
         return ""
@@ -212,7 +212,7 @@ def fetch_feed(url: str, label: str, session: requests.Session) -> list[Item]:
             Item(make_uid(e["link"], e["title"]), e["title"], e["link"], e["summary"][:1500], source, e["published"])
             for e in scrapers.run(url.removeprefix("scrape:"), session)
         ]
-    resp = session.get(url, timeout=20)
+    resp = session.get(url, timeout=30)  # Ethiopian government sites can take ~20s
     resp.raise_for_status()
     return parse_feed(resp.content, label)
 
