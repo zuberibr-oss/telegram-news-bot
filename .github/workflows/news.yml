@@ -23,7 +23,12 @@ jobs:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       MODEL: ${{ vars.MODEL }}   # empty = the bot's default for whichever key is set
     steps:
+      # Check out the branch tip, not the commit that triggered the run. A run that waited in the
+      # queue behind another would otherwise start from state/ as it was before that run's posts
+      # and post the same stories again.
       - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v7
         with:
