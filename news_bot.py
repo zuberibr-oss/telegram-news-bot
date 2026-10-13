@@ -1,16 +1,20 @@
 """
-Automatic Amharic tech-news channel for Telegram.
+Automatic Amharic news channels for Telegram.
+
+One bot serves several channels. Each channel is a profile (see PROFILES): its own feed list,
+seen-stories file and editorial brief. NEWS_PROFILE picks which one a run works on.
 
 Each run:
-  1. Pulls every feed in feeds.txt (RSS, or a scraper from scrapers.py)
+  1. Pulls every feed in the profile's feed list (RSS, or a scraper from scrapers.py)
   2. Drops anything already seen, too old, or obviously sponsored
   3. Asks the LLM (Gemini or Claude) whether each item fits the channel, and if so writes an
      Amharic headline + 2-3 sentence summary (it also rejects stories that
      duplicate something posted recently)
   4. Posts up to MAX_POSTS_PER_RUN items to the channel
-  5. Saves what it has seen to state/seen.json
+  5. Saves what it has seen to the profile's file in state/
 
 Environment variables:
+  NEWS_PROFILE         optional  "tech" (default) or "main" (Ethiopian + major global news)
   TELEGRAM_BOT_TOKEN   required  token from @BotFather
   TELEGRAM_CHANNEL     required  "@yourchannel" or numeric id like -1001234567890
   GEMINI_API_KEY       required  unless ANTHROPIC_API_KEY is set; Gemini is used when present
@@ -50,8 +54,16 @@ from bs4 import BeautifulSoup
 import scrapers
 
 ROOT = Path(__file__).resolve().parent
-FEEDS_FILE = ROOT / "feeds.txt"
-STATE_FILE = ROOT / "state" / "seen.json"
+# NEWS_PROFILE -> (feed list, seen-stories file). The editorial brief for each is in EDITORIAL below.
+PROFILES = {
+    "tech": ("feeds.txt", "seen.json"),
+    "main": ("feeds_main.txt", "seen_main.json"),
+}
+PROFILE = os.getenv("NEWS_PROFILE") or "tech"
+if PROFILE not in PROFILES:
+    sys.exit(f"Unknown NEWS_PROFILE '{PROFILE}' (available: {', '.join(PROFILES)})")
+FEEDS_FILE = ROOT / PROFILES[PROFILE][0]
+STATE_FILE = ROOT / "state" / PROFILES[PROFILE][1]
 EXTRA_CERTS_FILE = ROOT / "certs" / "intermediates.pem"
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
@@ -68,7 +80,8 @@ MIN_ARTICLE_CHARS = 400  # shorter "full text" is really just a teaser
 MAX_ARTICLE_CHARS = 8000  # enough for the LLM to write a full summary; caps tokens per call
 SEEN_RETENTION_DAYS = 14
 RECENT_HEADLINES_KEPT = 40
-USER_AGENT = "Mozilla/5.0 (compatible; TechNewsBot/1.0; +https://t.me/)"
+# Says what it is. The Reporter's firewall answers 403 to "Mozilla/5.0 (compatible; ...Bot...)" strings.
+USER_AGENT = "EthiopianNewsExpress/1.0 (feed reader; +https://t.me/enxmain)"
 
 # Cheap pre-filter so we don't pay the LLM to reject obvious paid content.
 BLOCKED_URL_PATTERNS = ["/brandpress/", "/sponsored", "/press-release", "/partner-content"]
@@ -144,7 +157,13 @@ def parse_feed(content: bytes, label: str) -> list[Item]:
     return items
 
 
-ARTICLE_JUNK = re.compile(r"related|share|social|newsletter|subscribe|comment|advert|promo|sidebar|author-bio|breadcrumb|cookie", re.I)
+# A class like "with-sidebar" or "above-sidebar" is the column next to the sidebar, i.e. the article
+# itself (BBC, France 24), so only a bare "sidebar" counts as junk.
+ARTICLE_JUNK = re.compile(
+    r"related|share|social|newsletter|subscribe|comment|advert|promo|author-bio|breadcrumb|cookie|consent"
+    r"|(?<!with)(?<!with[-_])(?<!above[-_])(?<!beside[-_])sidebar",
+    re.I,
+)
 ARTICLE_CONTAINERS = ["[itemprop=articleBody]", ".entry-content", ".post-content", ".article-content", ".article-body", "article", "main"]
 
 
@@ -251,7 +270,7 @@ def save_state(state: dict) -> None:
 # --------------------------------------------------------------------------- #
 # LLM (Gemini or Claude): relevance filter + Amharic summary
 # --------------------------------------------------------------------------- #
-SYSTEM_PROMPT = """You are the editor of an Amharic-language Telegram channel covering technology, \
+TECH_EDITORIAL = """You are the editor of an Amharic-language Telegram channel covering technology, \
 startups, fintech, telecom and digital policy for Ethiopian readers.
 
 For each story you receive, decide whether to publish it and, if so, write the post.
@@ -270,9 +289,48 @@ announcements, not disguised press releases. Publish them when they are real new
 directives or rules, licensing, FX or payment-system changes, product and service launches, pricing, \
 substantive partnerships, financial results. Skip the routine ones: courtesy visits, CSR and tree planting, \
 awards, recruitment, tenders and procurement notices. Some regulator items include only a document title; \
-then report only what the title states and don't guess at what the rule says.
+then report only what the title states and don't guess at what the rule says."""
 
-WRITING RULES (when publishing):
+MAIN_EDITORIAL = """You are the editor of Ethiopian News Express, an Amharic-language Telegram channel that \
+gives Ethiopian readers the day's important news: what is happening in Ethiopia, and the major stories from \
+the rest of the world.
+
+For each story you receive, decide whether to publish it and, if so, write the post.
+
+PUBLISH Ethiopian news of national interest: federal and regional government and politics, parliament and \
+new laws, the economy (inflation, the exchange rate, fuel and prices, taxes, banking, trade, large \
+investments and infrastructure), security and conflict, diplomacy and the Horn of Africa (Eritrea, Somalia, \
+Sudan, Djibouti, Kenya, the Nile and GERD, Red Sea access), health, education, agriculture, transport and \
+Ethiopian Airlines, disasters and humanitarian news, the diaspora, and notable results for Ethiopian athletes \
+and national teams.
+
+PUBLISH world news only when it is major, the kind of story that leads international bulletins: wars and \
+major escalations or peace deals, elections and changes of leadership in influential countries, large \
+disasters and attacks, decisions that move the world economy (oil, interest rates, trade, sanctions), global \
+health emergencies, landmark science and technology, African Union and continent-wide affairs, and anything \
+abroad that directly affects Ethiopians (migration and visa rules, Gulf labour, remittances, aid). When \
+unsure whether a foreign story is major, skip it.
+
+DO NOT PUBLISH: opinion, editorials, interviews, features, and analysis or explainers with no new \
+development; sponsored content and press releases; routine ceremonies, courtesy visits, workshops, awards, \
+tenders and vacancies; minor crime and accidents; celebrity and entertainment; routine sports fixtures and \
+results; other countries' everyday domestic politics; live blogs, video or photo-only items, newsletters and \
+quizzes. Routine tech, startup, fintech and telecom product news belongs to the sister channel @enxtech; \
+publish a technology story here only when it is national news in its own right (a nationwide outage or \
+internet shutdown, a major law, a very large deal). Also reject any story that covers the same event as one \
+of the recently published headlines provided, unless it reports a significant new development; another \
+outlet's version of the story or a reaction to it is not a new development.
+
+REPORTING STANDARDS:
+- Neutral and factual. No opinion, no loaded adjectives, and no taking sides in political, ethnic, religious \
+or armed conflicts.
+- Attribute anything contested to whoever said it: casualty figures, accusations, and the claims of \
+governments, parties and armed groups. Never present an allegation as established fact.
+- Fana, ENA and EBC are state media; report what they carry as the government's account ("the government \
+said..."), not as independently confirmed.
+- No graphic detail about violence or victims."""
+
+WRITING_RULES = """WRITING RULES (when publishing):
 - Natural, fluent Amharic as an Ethiopian journalist would write it, not a word-for-word translation.
 - Keep company, product and person names in their usual Latin spelling (e.g. Safaricom, Telebirr, OpenAI).
 - Use Western digits for numbers and keep currencies explicit (ብር, USD).
@@ -285,6 +343,9 @@ paragraphs with a blank line.
 short phrase of it; readers follow the link for the full story.
 - Use only facts in the provided text. Never invent figures, dates or quotes.
 - If the story is outside Ethiopia, make the location clear in the summary."""
+
+EDITORIAL = {"tech": TECH_EDITORIAL, "main": MAIN_EDITORIAL}
+SYSTEM_PROMPT = EDITORIAL[PROFILE] + "\n\n" + WRITING_RULES
 
 DECISION_TOOL = {
     "name": "publish_decision",
@@ -434,6 +495,7 @@ def send_telegram(text: str, link: str) -> None:
 # Main
 # --------------------------------------------------------------------------- #
 def run(dry_run: bool) -> int:
+    log(f"[run] profile: {PROFILE}")
     state = load_state()
     first_run = state is None
     if first_run:

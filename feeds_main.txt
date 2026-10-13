@@ -1,0 +1,26 @@
+# Feeds for the main channel (NEWS_PROFILE=main): Ethiopian news + major world news.
+# Same format as feeds.txt: one RSS/Atom URL per line, optional label after a pipe.
+# Every new item costs one LLM call, so keep this list short; the world feeds are the busy ones.
+
+# --- Ethiopian news (verified working Oct 2026) ---
+https://www.thereporterethiopia.com/feed/ | The Reporter
+https://www.ethiopianreporter.com/feed/ | ሪፖርተር
+https://www.fanabc.com/english/feed/ | Fana
+https://capitalethiopia.com/feed/ | Capital Ethiopia
+https://addisfortune.news/feed/ | Addis Fortune
+https://www.ethiopiaobserver.com/feed/ | Ethiopia Observer
+https://wazemaradio.com/feed/ | Wazema
+https://addisinsight.net/feed/ | Addis Insight
+https://feeds.bbci.co.uk/amharic/rss.xml | BBC Amharic
+
+# Addis Standard's own feed sits behind a Cloudflare check that blocks some networks. When it
+# answers, it comes first so its stories get the full text; the Google News search below covers
+# it either way (the same headline from both is posted once).
+https://addisstandard.com/feed/ | Addis Standard
+https://news.google.com/rss/search?q=site:addisstandard.com+when:1d&hl=en-US&gl=US&ceid=US:en | Google News
+
+# --- Africa and the world (verified working Oct 2026; the AI filter keeps only major stories) ---
+https://feeds.bbci.co.uk/news/world/africa/rss.xml | BBC News
+https://www.france24.com/en/africa/rss | France 24
+https://feeds.bbci.co.uk/news/world/rss.xml | BBC News
+https://www.aljazeera.com/xml/rss/all.xml | Al Jazeera

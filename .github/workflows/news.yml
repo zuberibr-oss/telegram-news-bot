@@ -1,4 +1,4 @@
-name: Post tech news
+name: Post news
 
 on:
   schedule:
@@ -12,12 +12,16 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
-  contents: write   # needed to commit state/seen.json back to the repo
+  contents: write   # needed to commit state/*.json back to the repo
 
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 15   # Gemini's free tier occasionally takes 1-2 minutes per call
+    timeout-minutes: 30   # two channels; Gemini's free tier occasionally takes 1-2 minutes per call
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      MODEL: ${{ vars.MODEL }}   # empty = the bot's default for whichever key is set
     steps:
       - uses: actions/checkout@v6
 
@@ -28,18 +32,29 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Fetch, summarize, post
+      - name: Tech channel - fetch, summarize, post
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          NEWS_PROFILE: tech
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          MODEL: ${{ vars.MODEL }}   # empty = the bot's default for whichever key is set
           MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN || '4' }}
           CHANNEL_SIGNATURE: ${{ vars.CHANNEL_SIGNATURE }}
         run: python news_bot.py
 
-      # Runs even if the post step failed, so stories already posted aren't posted again.
+      # Runs even if the tech step failed; one channel's trouble must not silence the other.
+      - name: Main channel - fetch, summarize, post
+        if: ${{ !cancelled() }}
+        env:
+          NEWS_PROFILE: main
+          TELEGRAM_CHANNEL: ${{ vars.TELEGRAM_CHANNEL_MAIN || '@enxmain' }}
+          # A key from a second Google project gives this channel its own free daily quota.
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_MAIN || secrets.GEMINI_API_KEY }}
+          MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN_MAIN || '4' }}
+          MAX_AGE_HOURS: "24"   # general news goes stale faster than tech
+          CHANNEL_SIGNATURE: ${{ vars.CHANNEL_SIGNATURE_MAIN }}
+        run: python news_bot.py
+
+      # Runs even if a post step failed, so stories already posted aren't posted again.
       - name: Save seen-stories state
         if: always()
         run: |
@@ -54,6 +69,6 @@ jobs:
               git pull --rebase && git push && exit 0
               sleep 5
             done
-            echo "::error::Could not save state/seen.json; the next run may repost these stories"
+            echo "::error::Could not save state/*.json; the next run may repost these stories"
             exit 1
           fi
