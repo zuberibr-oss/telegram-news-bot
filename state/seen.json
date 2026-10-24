@@ -1,10 +1,5 @@
 {
  "seen": {
-  "dc5f7525ad29f9b4": 1791654021.2755666,
-  "acb849a15c8d7c2e": 1791654021.2755666,
-  "473494c8f1ae92e9": 1791654021.2755666,
-  "f25daea3966e6868": 1791654021.2755666,
-  "c2593028b399948b": 1791654021.2755666,
   "b0da78dc56266a2f": 1791656032.7255247,
   "e4ce4c85c57b83f2": 1791656032.7255247,
   "8e72911d805dbd94": 1791656032.7255247,
@@ -1542,10 +1537,11 @@
   "6317a9b4e78db059": 1792854567.0374827,
   "447a3beb7e90a3a3": 1792856187.7852325,
   "b65002ba6e827ff6": 1792861746.3006356,
-  "98fe90aaff65d8e0": 1792861746.3006356
+  "98fe90aaff65d8e0": 1792861746.3006356,
+  "5704d96bb5f03cdf": 1792865526.139598,
+  "005750bd9659f805": 1792865526.139598
  },
  "recent_headlines": [
-  "በደቡብ አፍሪካ የ AI ትምህርት ኮርሶች ምዝገባ በ75 በመቶ ጨመረ (AI drives SA's learning demand as enrolments surge 75%)",
   "iZinga Assist በደቡብ አፍሪካ ለበጎ አድራጎት ድርጅቶች የዲጂታል ማረጋገጫ አገልግሎት ጀመረ (How Derek Lubner is building a digital bridge between donors and non-profits)",
   "የኬንያ ቴክኖፖሊስ ባለሥልጣን የተሽከርካሪዎችን ፍጥነት ለመቆጣጠር የሚያስችል ዲጂታል ፕላትፎርም ይፋ አደረገ (Kenya’s Technopolis Authority Launches Digital Platform to Monitor Vehicle Speed Limiters)",
   "በደቡብ አፍሪካ የምግብና ምርት አቅርቦት ሰንሰለትን በብሎክቼይን ቴክኖሎጂ ለማዘመን የሚያስችል መድረክ ተካሄደ (Blockchain in supply chains: Building trust, traceability, trade in SA)",
@@ -1584,6 +1580,7 @@
   "ሳፋሪኮም የ Okoa Jahazi ብድር በ M-Shwari ብድር ማግኘት ላይ ያለውን ተፅዕኖ ገለጸ (Safaricom explains how Okoa Jahazi affects M-Shwari loan eligibility)",
   "በኬንያ የሚገኙ ኩባንያዎች የሳይበር ደህንነት አገልግሎት ከመግዛታቸው በፊት ሊጠይቋቸው የሚገቡ ነጥቦች (Before buying cybersecurity services, Kenyan businesses need to ask better questions)",
   "የ Safaricom ዋና ሥራ አስፈፃሚ የአፍሪካ መሪዎች የቴክኖሎጂ ፈጠራዎችን እንዲቀበሉ አሳሰቡ (Safaricom CEO urges African leaders to embrace innovation and challenge market disruption)",
-  "የኢትዮጵያው አግሪቴክ ኩባንያ Lersha አህጉራዊውን የ Africa Sustainable Futures ሽልማት አሸነፈ (Ethiopian Agritech Firm Lersha Wins Top Africa Award, Beating Nearly 600 Entries)"
+  "የኢትዮጵያው አግሪቴክ ኩባንያ Lersha አህጉራዊውን የ Africa Sustainable Futures ሽልማት አሸነፈ (Ethiopian Agritech Firm Lersha Wins Top Africa Award, Beating Nearly 600 Entries)",
+  "አክሰስ ባንክ ቦትስዋና የዳንጎቴ ሪፋይነሪ አክሲዮኖችን የሚሸጥበትን አዲስ መንገድ ይፋ አደረገ (Dangote Refinery Opens New Investment Route Through Botswana)"
  ]
 }
