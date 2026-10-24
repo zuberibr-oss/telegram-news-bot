@@ -1,14 +1,5 @@
 {
  "seen": {
-  "9a4fbdec4940b424": 1791660965.061954,
-  "0cdb57f221f68e7a": 1791660965.061954,
-  "6b9973383c439ec2": 1791660965.061954,
-  "0e72b19c2d676d4e": 1791660965.061954,
-  "ce057bcecd6c5ac6": 1791660965.061954,
-  "8f0a7ff96f8fe2b5": 1791660965.061954,
-  "291f1b5c5a701c5d": 1791660965.061954,
-  "cef1bf36e8dd0cfb": 1791660965.061954,
-  "aad6275d0a9d83df": 1791660965.061954,
   "74ee2f1aaf4de919": 1791663095.2206988,
   "f2acada77ed915cd": 1791663095.2206988,
   "7338755a562651f2": 1791663095.2206988,
@@ -1379,10 +1370,13 @@
   "1f18402f6eec51bb": 1792868869.6037297,
   "96972e9627679702": 1792868869.6037297,
   "e0298fedbb871677": 1792868869.6037297,
-  "726d69662bcda443": 1792870483.7330847
+  "726d69662bcda443": 1792870483.7330847,
+  "b219663b423884ad": 1792872574.3924434,
+  "5f30eeba1245ae03": 1792872574.3924434,
+  "60e8952508dcc9c4": 1792872574.3924434,
+  "6ad50659c8ff4b35": 1792872574.3924434
  },
  "recent_headlines": [
-  "iZinga Assist በደቡብ አፍሪካ ለበጎ አድራጎት ድርጅቶች የዲጂታል ማረጋገጫ አገልግሎት ጀመረ (How Derek Lubner is building a digital bridge between donors and non-profits)",
   "የኬንያ ቴክኖፖሊስ ባለሥልጣን የተሽከርካሪዎችን ፍጥነት ለመቆጣጠር የሚያስችል ዲጂታል ፕላትፎርም ይፋ አደረገ (Kenya’s Technopolis Authority Launches Digital Platform to Monitor Vehicle Speed Limiters)",
   "በደቡብ አፍሪካ የምግብና ምርት አቅርቦት ሰንሰለትን በብሎክቼይን ቴክኖሎጂ ለማዘመን የሚያስችል መድረክ ተካሄደ (Blockchain in supply chains: Building trust, traceability, trade in SA)",
   "በደቡብ አፍሪካ የኢንሹራንስ ኩባንያዎች በ AI እና ዲጂታል ቴክኖሎጂ አገልግሎታቸውን እያዘመኑ ነው (Rewriting insurance)",
@@ -1421,6 +1415,7 @@
   "በኬንያ የሚገኙ ኩባንያዎች የሳይበር ደህንነት አገልግሎት ከመግዛታቸው በፊት ሊጠይቋቸው የሚገቡ ነጥቦች (Before buying cybersecurity services, Kenyan businesses need to ask better questions)",
   "የ Safaricom ዋና ሥራ አስፈፃሚ የአፍሪካ መሪዎች የቴክኖሎጂ ፈጠራዎችን እንዲቀበሉ አሳሰቡ (Safaricom CEO urges African leaders to embrace innovation and challenge market disruption)",
   "የኢትዮጵያው አግሪቴክ ኩባንያ Lersha አህጉራዊውን የ Africa Sustainable Futures ሽልማት አሸነፈ (Ethiopian Agritech Firm Lersha Wins Top Africa Award, Beating Nearly 600 Entries)",
-  "አክሰስ ባንክ ቦትስዋና የዳንጎቴ ሪፋይነሪ አክሲዮኖችን የሚሸጥበትን አዲስ መንገድ ይፋ አደረገ (Dangote Refinery Opens New Investment Route Through Botswana)"
+  "አክሰስ ባንክ ቦትስዋና የዳንጎቴ ሪፋይነሪ አክሲዮኖችን የሚሸጥበትን አዲስ መንገድ ይፋ አደረገ (Dangote Refinery Opens New Investment Route Through Botswana)",
+  "10ኛው የስታቲስቲክስ ኮሚሽን ለአፍሪካ ጉባኤ በአዲስ አበባ መካሄድ ጀመረ (Africa’s statistics and geospatial leaders meet in Addis Ababa to make data count for development)"
  ]
 }
