@@ -1,8 +1,5 @@
 {
  "seen": {
-  "e9c34898a1eca127": 1791687347.9581118,
-  "6c48544d5f755e27": 1791687347.9581118,
-  "99d09ee7bb389e91": 1791687347.9581118,
   "37bdcce091d7e5d8": 1791688907.642979,
   "37b276ec3115f3a3": 1791688907.642979,
   "2ed13033553ccc45": 1791688907.642979,
@@ -1360,11 +1357,14 @@
   "833585b2e265c0fe": 1792891428.5644138,
   "cee4d9b0d53be78c": 1792891428.5644138,
   "abd563e19fec872c": 1792891428.5644138,
-  "5a5fb24118c424cc": 1792891428.5644138
+  "5a5fb24118c424cc": 1792891428.5644138,
+  "b3efcca5cab8737d": 1792897998.9665375,
+  "262797e638e00074": 1792897998.9665375,
+  "dda2271e12ba5f38": 1792897998.9665375,
+  "d534b920fcf89a21": 1792897998.9665375,
+  "980bbccfb2b27e40": 1792897998.9665375
  },
  "recent_headlines": [
-  "በደቡብ አፍሪካ የኢንሹራንስ ኩባንያዎች በ AI እና ዲጂታል ቴክኖሎጂ አገልግሎታቸውን እያዘመኑ ነው (Rewriting insurance)",
-  "የ AZA Finance መስራች ኤሊዛቤዝ ሮሲዬሎ የ B2C2 ዋና ኦፐሬቲንግ ኦፊሰር ሆነው ተሾሙ (Why B2C2 hired AZA Finance founder Elizabeth Rossiello as it expands into stablecoin liquidity)",
   "ባርክሌይስ የ AI ቴክኖሎጂ አጠቃቀሙን በማስፋፋት 5 ሺህ ሰራተኞችን ሊቀንስ ነው (Barclays calls AI ‘icing on the cake’ as it culls jobs)",
   "ሳፋሪኮም በሰው ሰራሽ አስተውሎትና በፋይናንስ አገልግሎቶች ኤም-ፔሳን ለማስፋፋት አቅዷል (Safaricom CEO Reveals What's Next For M-PESA As Firm Bets On AI And Financial Services - NewsTrendsKE)",
   "SANTACO ከ BYD እና Bolt ጋር በመተባበር የኤሌክትሪክ ታክሲዎችን ሊያሰማራ ነው (South Africa’s SANTACO Partners With BYD, Bolt to Launch Electric E-Hailing Fleet)",
@@ -1402,6 +1402,8 @@
   "አክሰስ ባንክ ቦትስዋና የዳንጎቴ ሪፋይነሪ አክሲዮኖችን የሚሸጥበትን አዲስ መንገድ ይፋ አደረገ (Dangote Refinery Opens New Investment Route Through Botswana)",
   "10ኛው የስታቲስቲክስ ኮሚሽን ለአፍሪካ ጉባኤ በአዲስ አበባ መካሄድ ጀመረ (Africa’s statistics and geospatial leaders meet in Addis Ababa to make data count for development)",
   "ማስተርካርድ የክፍያ ደህንነትን ለማጠናከር AI እና Tokenization ቴክኖሎጂዎችን አሰማራ (Mastercard deploys AI, Tokenization to strengthen digital payment security)",
-  "የኢትዮጵያ ካፒታል ማርኬት ባለስልጣን የህብረት ኢንቨስትመንት አሰራር መመሪያ ይፋ አደረገ (Ethiopia’s collective investment schemes)"
+  "የኢትዮጵያ ካፒታል ማርኬት ባለስልጣን የህብረት ኢንቨስትመንት አሰራር መመሪያ ይፋ አደረገ (Ethiopia’s collective investment schemes)",
+  "የካፒታል ማርኬት ባለስልጣን እና ESX የባለአክሲዮኖችን መብት በመወሰን ላይ ተለያዩ (Capital Authority, Securities Exchange Spar Over Who Decides Shareholder Rights)",
+  "ማስተርካርድ በኢትዮጵያ የዲጂታል ክፍያ ገበያ ያለውን ተሳትፎ እያሰፋ ነው (Mastercard Taps the Domestic Market Where Only One Adult in Five Transacts Digitally)"
  ]
 }
