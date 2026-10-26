@@ -1,8 +1,5 @@
 {
  "seen": {
-  "44c72bda45c06297": 1791819747.1253223,
-  "f468ff0d0918de8a": 1791819747.1253223,
-  "655b20a3fe140d23": 1791821573.9619317,
   "b72448f8f91d9995": 1791823242.2974706,
   "9d89a677c90e752c": 1791823242.2974706,
   "98ba993efced962a": 1791825080.0878181,
@@ -1361,11 +1358,13 @@
   "c372a8184540841b": 1793028995.6491077,
   "925f8aff722d5c26": 1793028995.6491077,
   "bcaa095b1877ec8d": 1793028995.6491077,
-  "4e2e44d977fd2a05": 1793028995.6491077
+  "4e2e44d977fd2a05": 1793028995.6491077,
+  "535bd6752aa9cb33": 1793031282.9946434,
+  "e9e787482077c581": 1793031282.9946434,
+  "6c7f6a5a75232bb4": 1793031282.9946434,
+  "b25a8cdcc721f223": 1793031282.9946434
  },
  "recent_headlines": [
-  "በኬንያ የሚገኘው Jaza Supermarket በ WhatsApp እና M-PESA የዲጂታል ንግድ አሰራሩን አሻሻለ (How Jaza Supermarket uses WhatsApp ordering, Glovo integrations, and M-PESA to streamline neighbourhood retail)",
-  "Glovo የ AI ግዢ ረዳቱ የትዕዛዝ ምጣኔን ወደ 41 በመቶ ማሳደጉን ገለጸ (How Glovo’s AI shopping assistant achieves a 41% conversion rate by replacing traditional app browsing)",
   "OPay በኒው ዮርክ የአክሲዮን ገበያ እስከ 336 ሚሊዮን ዶላር ለማሰባሰብ አቀደ (👨🏿‍🚀TechCabal Daily – OPay wants $336 million)",
   "በደቡብ አፍሪካ የባንክ ደህንነትን ለማጠናከር የ Passkeys ትግበራ የስልክ ደረጃዎች ልዩነት ፈተነው (Passkeys are gaining ground, but SA’s device gap remains a hurdle)",
   "በኢትዮጵያ የዲጂታል ትምህርት ለወጣቶች የሥራ ዕድል ለመፍጠር ያለው ሚና ይዳሰሳል (From Digital Learning to Work: How EdTech Can Reach Ethiopia’s Excluded Youth)",
@@ -1403,6 +1402,8 @@
   "የደቡብ አፍሪካ ማዕከላዊ ባንክ ለፊንቴክ ኩባንያዎች ቀጥታ የክፍያ ስነ-ምህዳር መዳረሻ ሊፈቅድ ነው (South African banks could lose their grip on fintech payments)",
   "ምዕራብ አፍሪካ የሞባይል ገንዘብ ዝውውርን የሚያቀናጅ አዲስ ህግ ተግባራዊ አደረገ (The End of Closed Mobile Money Networks in West Africa)",
   "MultiChoice በኬንያ የ DStv ፓኬጆች ዋጋን እስከ 38 በመቶ ቀነሰ (DStv slashes Kenya prices as Canal+ tries to revive subscriber growth)",
-  "DPI Venture Capital 112 ሚሊዮን ዶላር የያዘውን Nclude Fund አጠናቀቀ (DPI closes $112 million Nclude fund with 93% of capital from Africa)"
+  "DPI Venture Capital 112 ሚሊዮን ዶላር የያዘውን Nclude Fund አጠናቀቀ (DPI closes $112 million Nclude fund with 93% of capital from Africa)",
+  "የደቡብ አፍሪካዋ ስራ ፈጣሪ TPC Africa Mobile የተሰኘ አዲስ የ MVNO አገልግሎት ይፋ አደረገች (Another player enters SA’s MVNO fray)",
+  "ዚምባብዌ በገጠር አካባቢዎች የመጀመሪያውን የ AI እና ዲጂታል ቴክኖሎጂ ማዕከል ከፈተች (Zimbabwe's first rural AI hub set to reduce digital divide)"
  ]
 }
