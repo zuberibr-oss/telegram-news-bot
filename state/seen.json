@@ -1,15 +1,5 @@
 {
  "seen": {
-  "8248def76ea13e0b": 1791799048.4843092,
-  "29217023d7a89009": 1791799048.4843092,
-  "7900135d622cd308": 1791799048.4843092,
-  "7200c7c025eb467d": 1791799048.4843092,
-  "3e9e3c6d5d696032": 1791799048.4843092,
-  "4eba23b6bac3412b": 1791799048.4843092,
-  "8b0a29cae780e56b": 1791799048.4843092,
-  "a30bfa6c564f374f": 1791799048.4843092,
-  "aa54df729fc37a4d": 1791799048.4843092,
-  "8b3057a97ba4e166": 1791799048.4843092,
   "64b6bca2dd613f19": 1791800745.6072712,
   "548ff836fb735db6": 1791800745.6072712,
   "fda4d339caa95b03": 1791800745.6072712,
@@ -1357,13 +1347,15 @@
   "0871951fa5168780": 1793008245.1176322,
   "36edbc62cb375b11": 1793008245.1176322,
   "1a2df78a6d9e6691": 1793008245.1176322,
-  "5871f2e91b0a935b": 1793008245.1176322
+  "5871f2e91b0a935b": 1793008245.1176322,
+  "906fee0620879726": 1793009633.7507257,
+  "d0c204a049466a15": 1793009633.7507257,
+  "50811d909cc47817": 1793009633.7507257,
+  "675f51fd8a29686f": 1793009633.7507257,
+  "bf484554a1cbad04": 1793009633.7507257,
+  "4ffc2f5e80194d21": 1793009633.7507257
  },
  "recent_headlines": [
-  "ኦሬንጅ ላይቤሪያ በሀገሪቱ የመጀመሪያውን የ 5G ኢንተርኔት አገልግሎት ይፋ አደረገ (Orange Liberia Launches 5G as Liberia’s First Provider)",
-  "የአውሮፓ ዓይነት ጥብቅ የ AI ህጎች የአፍሪካን ስታርት አፖች ሊጎዱ እንደሚችሉ ተገለጸ (How Heavy AI Rules Risk Killing Africa’s Homegrown Startups)",
-  "የኢትዮጵያ ንግድ ባንክ የኤሌክትሪክ ተሽከርካሪዎች ፈጣን ማቻርጃዎችን ለመግዛት ጨረታ አወጣ (Commercial Bank of Ethiopia Moves into EV Charging Infrastructure as Electric Mobility Investment Expands)",
-  "ቡርኪና ፋሶ የሲቪል ምዝገባ ሰነዶችን በኦንላይን ለመስጠት የሚያስችል አሰራር ዘረጋች (Burkina Faso Moves Towards Online Issuance of Civil Status Certificates)",
   "የኬንያ ቴክኖፖሊስ ለዳታ ሴንተር እና ስማርት ሲቲ ፕሮጀክት የገንዘብ ድጋፍ አገኘ (Kenya’s Konza Technopolis Secures Funding Agreement for Data Centre and Smart City Project)",
   "Redington Gulf እና AWS በመካከለኛው ምስራቅና አፍሪካ የ AI አጠቃቀምን ለማፋጠን ተባበሩ (Redington Gulf and AWS target faster AI adoption across Middle East and Africa)",
   "ዲጂታል አፍሪካ ለኢትዮጵያው አግሪቴክ ስታርት አፕ ChipChip የፋይናንስ ድጋፍ አደረገ (Digital Africa Backs Ethiopian Agritech Startup ChipChip In First Investment In The Country)",
@@ -1399,6 +1391,10 @@
   "የ AI ኤጀንቶች የሥራ ቦታዎችን አሰራር ወደ ሦስተኛው ምዕራፍ እያሸጋገሩት ነው (Workplace enters AI’s third wave)",
   "የ Airtel Money ግማሽ ዓመት ገቢ 34 በመቶ በማደግ 830 ሚሊዮን ዶላር ደረሰ (Airtel Money Revenue Rises 34% to $830 Million in First Half of FY2027)",
   "VFS Global የቪዛ ማመልከቻ ሂደቶችን ለማፋጠን የ AI ቴክኖሎጂን መጠቀም ጀመረ (AI tools speed up visa admin as demand rises)",
-  "ቶጎ የአካባቢ ቋንቋዎችን በ AI ለማበልጸግ የሚያስችል አዲስ ሀገራዊ ፕሮጀክት ይፋ አደረገች (Togo Launches AI Initiative to Digitise National Languages)"
+  "ቶጎ የአካባቢ ቋንቋዎችን በ AI ለማበልጸግ የሚያስችል አዲስ ሀገራዊ ፕሮጀክት ይፋ አደረገች (Togo Launches AI Initiative to Digitise National Languages)",
+  "Paratus በዳሬሰላም አዲስ የኔትወርክ ማዕከል በመክፈት ታንዛኒያን ከአፍሪካና ከአለም ጋር አገናኘ (Paratus connects Tanzania to Africa and beyond with new Dar es Salaam POP)",
+  "የደቡብ አፍሪካው Pick n Pay የኦንላይን ሽያጭ በ AI ታግዞ አደገ (Pick n Pay Online surges as retailer restructures)",
+  "ኢንተርፖል በአፍሪካ ባካሄደው ዘመቻ 1,462 የሳይበር ወንጀል ተጠርጣሪዎችን በቁጥጥር ስር አዋለ (INTERPOL’s Serengeti III nets 1,462 arrests across Africa)",
+  "የ AI ሞዴሎች ከእንግሊዝኛ ውጭ ያሉ ቋንቋዎችን ለማስተናገድ ከፍተኛ ወጪ እንደሚጠይቁ ተገለጸ (AI models cost more when you don’t use English)"
  ]
 }
