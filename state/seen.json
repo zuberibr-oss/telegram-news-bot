@@ -1,7 +1,5 @@
 {
  "seen": {
-  "6059df4ca54c66a7": 1791801943.1639793,
-  "0e60a91b765cec02": 1791801943.1639793,
   "55f9e4de695d02d6": 1791803591.8059676,
   "cc9bcd454e3cf6c5": 1791803591.8059676,
   "18604080b68b5e20": 1791803591.8059676,
@@ -1359,10 +1357,11 @@
   "8081722f38f168d5": 1793011349.6881394,
   "70c9d6d72d044fea": 1793011349.6881394,
   "5d13b957581282c7": 1793011349.6881394,
-  "7b92bcdb60d563d8": 1793011349.6881394
+  "7b92bcdb60d563d8": 1793011349.6881394,
+  "e5db5d04ad13082b": 1793013096.393882,
+  "1aae5e2a2863b163": 1793013096.393882
  },
  "recent_headlines": [
-  "በኬንያ የ Glovo የትዕዛዝ መጠን በ40 በመቶ አደገ (Glovo Kenya orders jump 40pc as quick commerce gains ground)",
   "የ AI ኤጀንቶች ስልጣን ማደግ ኩባንያዎችን ለሳይበር ደህንነት ስጋት እያጋለጠ ነው (As businesses give AI agents more control, security risks grow)",
   "በኬንያ የተመዘገቡ የሳይበር ስጋት ክስተቶች ቁጥር 11 ቢሊዮን ማለፉ ተገለጸ (Kenya records over 11 billion cyber threat events as attack volumes continue to rise)",
   "ሳፋሪኮም የ Okoa Jahazi ብድር በ M-Shwari ብድር ማግኘት ላይ ያለውን ተፅዕኖ ገለጸ (Safaricom explains how Okoa Jahazi affects M-Shwari loan eligibility)",
@@ -1401,6 +1400,7 @@
   "የ Maroc Telecom የዘጠኝ ወራት ገቢ 28.68 ቢሊዮን ዲርሃም ደረሰ (Maroc Telecom Group Revenue Rises 5.1% to MAD 28.68 Billion in Q3 2026)",
   "የኢኖቬሽን እና ቴክኖሎጂ ሚኒስቴር ከአምስት ዓመት ስትራቴጂክ ዕቅዱ በፊት የተቋማት አቅምን ገመገመ (Ethiopia’s Innovation Ministry Reviews Institutional Capacity Ahead of Five-Year Strategic Plan)",
   "EBANX በናይጄሪያ ለሚገኙ ዓለም አቀፍ የደንበኝነት ክፍያዎች የ OPay አገልግሎትን አስተዋወቀ (EBANX Integrates OPay Direct Debit for Global Subscription Payments in Nigeria)",
-  "ኢትዮ ቴሌኮም የ LTE ኔትወርክ አገልግሎቱን ወደ ተጨማሪ 80 ከተሞች አሰፋ (Ethio Telecom extends LTE to 80 more towns)"
+  "ኢትዮ ቴሌኮም የ LTE ኔትወርክ አገልግሎቱን ወደ ተጨማሪ 80 ከተሞች አሰፋ (Ethio Telecom extends LTE to 80 more towns)",
+  "የ Apple የመጀመሪያው ተጣጣፊ ስልክ iPhone Duo በደቡብ አፍሪካ ተሸጦ አለቀ (Foldable iPhone sells out across iStores in SA on launch day)"
  ]
 }
