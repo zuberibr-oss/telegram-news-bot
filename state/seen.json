@@ -1,6 +1,5 @@
 {
  "seen": {
-  "55ef7163a0703aec": 1791818075.6111174,
   "44c72bda45c06297": 1791819747.1253223,
   "f468ff0d0918de8a": 1791819747.1253223,
   "655b20a3fe140d23": 1791821573.9619317,
@@ -1348,13 +1347,23 @@
   "557221529f2d4d96": 1793026798.061849,
   "cccbdb31d610c5b9": 1793026798.061849,
   "72aa8723518aa987": 1793026798.061849,
-  "8b80fcdfc13d7a1b": 1793026798.061849
+  "8b80fcdfc13d7a1b": 1793026798.061849,
+  "f36165ccb89e1e89": 1793028995.6491077,
+  "0ddf6c455fceb0e2": 1793028995.6491077,
+  "361c2a67b21e0f7c": 1793028995.6491077,
+  "fb8a8f9be2c4be1f": 1793028995.6491077,
+  "7c0c847bbf29125c": 1793028995.6491077,
+  "f46bbc119afe6412": 1793028995.6491077,
+  "fed28aab87c3842a": 1793028995.6491077,
+  "52f11c35a8fc5028": 1793028995.6491077,
+  "cd918070c71795b1": 1793028995.6491077,
+  "6abd3650e2564fc5": 1793028995.6491077,
+  "c372a8184540841b": 1793028995.6491077,
+  "925f8aff722d5c26": 1793028995.6491077,
+  "bcaa095b1877ec8d": 1793028995.6491077,
+  "4e2e44d977fd2a05": 1793028995.6491077
  },
  "recent_headlines": [
-  "ማስተርካርድ በኢትዮጵያ የዲጂታል ክፍያ ገበያ ያለውን ተሳትፎ እያሰፋ ነው (Mastercard Taps the Domestic Market Where Only One Adult in Five Transacts Digitally)",
-  "የ AI ኤጀንቶች የክፍያ ሂደት ደህንነት እና አመኔታ መረጋገጥ እንዳለበት Visa ገለጸ (Why checkout trust and security will define the future of AI agent payments)",
-  "በኬንያ የዲጂታል ንግድ ዕድገት በአካባቢ ሁኔታዎችና በደንበኞች ፍላጎት እየተቃኘ ነው (How changing consumer habits and neighbourhood constraints are defining the future of digital commerce in Kenya)",
-  "ዛምዛም ባንክ ከአንድ ቢሊዮን ብር በላይ የተጣራ ትርፍ ማግኘቱን አስታወቀ (Zamzam Bank Posts 1.8 Billion Birr Pre-Tax Profit as Deposits Hit 144% of Target)",
   "በኬንያ የሚገኘው Jaza Supermarket በ WhatsApp እና M-PESA የዲጂታል ንግድ አሰራሩን አሻሻለ (How Jaza Supermarket uses WhatsApp ordering, Glovo integrations, and M-PESA to streamline neighbourhood retail)",
   "Glovo የ AI ግዢ ረዳቱ የትዕዛዝ ምጣኔን ወደ 41 በመቶ ማሳደጉን ገለጸ (How Glovo’s AI shopping assistant achieves a 41% conversion rate by replacing traditional app browsing)",
   "OPay በኒው ዮርክ የአክሲዮን ገበያ እስከ 336 ሚሊዮን ዶላር ለማሰባሰብ አቀደ (👨🏿‍🚀TechCabal Daily – OPay wants $336 million)",
@@ -1390,6 +1399,10 @@
   "በኬንያ የ Twiga Foods ውድቀት በምስራቅ አፍሪካ የ B2B ቴክኖሎጂ ሞዴል ፈተናዎችን አሳይቷል (The Next Wave: The high cost of cutting out the middleman)",
   "ኬንያ የቴክኖሎጂ ዲፕሎማሲን የውጭ ፖሊሲዋ ዋና አካል አደረገች (Kenya puts tech diplomacy at heart of foreign policy)",
   "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን ዶላር ለንግድ ባንኮች በሐራጅ ሊያቀርብ ነው (National Bank to Inject $140 Million into Banking System in Latest FX Auction)",
-  "Moniepoint መዋቅራዊ ለውጥ በማድረግ በኢንጂነሪንግ ክፍሎቹ ላይ የሰራተኞች ቅነሳ አደረገ (Just In: Moniepoint to cut some Engineering, Product roles in major restructuring)"
+  "Moniepoint መዋቅራዊ ለውጥ በማድረግ በኢንጂነሪንግ ክፍሎቹ ላይ የሰራተኞች ቅነሳ አደረገ (Just In: Moniepoint to cut some Engineering, Product roles in major restructuring)",
+  "የደቡብ አፍሪካ ማዕከላዊ ባንክ ለፊንቴክ ኩባንያዎች ቀጥታ የክፍያ ስነ-ምህዳር መዳረሻ ሊፈቅድ ነው (South African banks could lose their grip on fintech payments)",
+  "ምዕራብ አፍሪካ የሞባይል ገንዘብ ዝውውርን የሚያቀናጅ አዲስ ህግ ተግባራዊ አደረገ (The End of Closed Mobile Money Networks in West Africa)",
+  "MultiChoice በኬንያ የ DStv ፓኬጆች ዋጋን እስከ 38 በመቶ ቀነሰ (DStv slashes Kenya prices as Canal+ tries to revive subscriber growth)",
+  "DPI Venture Capital 112 ሚሊዮን ዶላር የያዘውን Nclude Fund አጠናቀቀ (DPI closes $112 million Nclude fund with 93% of capital from Africa)"
  ]
 }
