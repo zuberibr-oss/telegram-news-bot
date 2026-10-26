@@ -1,12 +1,5 @@
 {
  "seen": {
-  "55f9e4de695d02d6": 1791803591.8059676,
-  "cc9bcd454e3cf6c5": 1791803591.8059676,
-  "18604080b68b5e20": 1791803591.8059676,
-  "d189ea4debc7fa5a": 1791803591.8059676,
-  "1503442248fd9e40": 1791803591.8059676,
-  "b8f87c1898f70fad": 1791805294.4401238,
-  "971bfcc5385e7218": 1791805294.4401238,
   "b64ddca302ba52e9": 1791808035.315083,
   "35892f1779c72fed": 1791808035.315083,
   "caea3fbf69439e85": 1791808035.315083,
@@ -1359,12 +1352,14 @@
   "5d13b957581282c7": 1793011349.6881394,
   "7b92bcdb60d563d8": 1793011349.6881394,
   "e5db5d04ad13082b": 1793013096.393882,
-  "1aae5e2a2863b163": 1793013096.393882
+  "1aae5e2a2863b163": 1793013096.393882,
+  "c239ea161e044bdb": 1793014981.8483632,
+  "7eb32a77ca55957a": 1793014981.8483632,
+  "ec37c9c866b0e992": 1793014981.8483632,
+  "0c06f3cbe22c23c1": 1793014981.8483632,
+  "20e4435e9edbeb8e": 1793014981.8483632
  },
  "recent_headlines": [
-  "የ AI ኤጀንቶች ስልጣን ማደግ ኩባንያዎችን ለሳይበር ደህንነት ስጋት እያጋለጠ ነው (As businesses give AI agents more control, security risks grow)",
-  "በኬንያ የተመዘገቡ የሳይበር ስጋት ክስተቶች ቁጥር 11 ቢሊዮን ማለፉ ተገለጸ (Kenya records over 11 billion cyber threat events as attack volumes continue to rise)",
-  "ሳፋሪኮም የ Okoa Jahazi ብድር በ M-Shwari ብድር ማግኘት ላይ ያለውን ተፅዕኖ ገለጸ (Safaricom explains how Okoa Jahazi affects M-Shwari loan eligibility)",
   "በኬንያ የሚገኙ ኩባንያዎች የሳይበር ደህንነት አገልግሎት ከመግዛታቸው በፊት ሊጠይቋቸው የሚገቡ ነጥቦች (Before buying cybersecurity services, Kenyan businesses need to ask better questions)",
   "የ Safaricom ዋና ሥራ አስፈፃሚ የአፍሪካ መሪዎች የቴክኖሎጂ ፈጠራዎችን እንዲቀበሉ አሳሰቡ (Safaricom CEO urges African leaders to embrace innovation and challenge market disruption)",
   "የኢትዮጵያው አግሪቴክ ኩባንያ Lersha አህጉራዊውን የ Africa Sustainable Futures ሽልማት አሸነፈ (Ethiopian Agritech Firm Lersha Wins Top Africa Award, Beating Nearly 600 Entries)",
@@ -1401,6 +1396,9 @@
   "የኢኖቬሽን እና ቴክኖሎጂ ሚኒስቴር ከአምስት ዓመት ስትራቴጂክ ዕቅዱ በፊት የተቋማት አቅምን ገመገመ (Ethiopia’s Innovation Ministry Reviews Institutional Capacity Ahead of Five-Year Strategic Plan)",
   "EBANX በናይጄሪያ ለሚገኙ ዓለም አቀፍ የደንበኝነት ክፍያዎች የ OPay አገልግሎትን አስተዋወቀ (EBANX Integrates OPay Direct Debit for Global Subscription Payments in Nigeria)",
   "ኢትዮ ቴሌኮም የ LTE ኔትወርክ አገልግሎቱን ወደ ተጨማሪ 80 ከተሞች አሰፋ (Ethio Telecom extends LTE to 80 more towns)",
-  "የ Apple የመጀመሪያው ተጣጣፊ ስልክ iPhone Duo በደቡብ አፍሪካ ተሸጦ አለቀ (Foldable iPhone sells out across iStores in SA on launch day)"
+  "የ Apple የመጀመሪያው ተጣጣፊ ስልክ iPhone Duo በደቡብ አፍሪካ ተሸጦ አለቀ (Foldable iPhone sells out across iStores in SA on launch day)",
+  "የሩዋንዳ የሳይበር ደህንነት ባለስልጣን ከ Airtel እና MTN ጋር አብሮ ለመስራት ተስማማ (Rwanda cyber authority boosts security with Airtel, MTN)",
+  "ሳፋሪኮም በኬንያ የቤት ውስጥ ፋይበር እና የሞባይል አገልግሎቶችን ያቀናጀ አዲስ ጥቅል ይፋ አደረገ (Safaricom lets fibre users share data with up to family members)",
+  "የአፍሪካ የሥራ መሪዎች ለ AI ትኩረት ቢሰጡም ዝግጁነታቸው ዝቅተኛ መሆኑ ተገለጸ (KPMG Africa CEOs Prioritise Growth as AI Readiness Lags)"
  ]
 }
