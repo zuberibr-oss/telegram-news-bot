@@ -1,11 +1,5 @@
 {
  "seen": {
-  "64b6bca2dd613f19": 1791800745.6072712,
-  "548ff836fb735db6": 1791800745.6072712,
-  "fda4d339caa95b03": 1791800745.6072712,
-  "df7d5f9a090f73cd": 1791800745.6072712,
-  "52df0e4eb8bd8982": 1791800745.6072712,
-  "a6f20c848c2b3604": 1791800745.6072712,
   "6059df4ca54c66a7": 1791801943.1639793,
   "0e60a91b765cec02": 1791801943.1639793,
   "55f9e4de695d02d6": 1791803591.8059676,
@@ -1353,13 +1347,21 @@
   "50811d909cc47817": 1793009633.7507257,
   "675f51fd8a29686f": 1793009633.7507257,
   "bf484554a1cbad04": 1793009633.7507257,
-  "4ffc2f5e80194d21": 1793009633.7507257
+  "4ffc2f5e80194d21": 1793009633.7507257,
+  "3e9e3c6d5d696032": 1793011349.6881394,
+  "4637fc0395d26eeb": 1793011349.6881394,
+  "0be326482df1661d": 1793011349.6881394,
+  "b7724b861ba26891": 1793011349.6881394,
+  "8f121d57bb4fe2be": 1793011349.6881394,
+  "19837c79ca56a2fb": 1793011349.6881394,
+  "ac6ee43bcf084d19": 1793011349.6881394,
+  "451d4a9271f26c34": 1793011349.6881394,
+  "8081722f38f168d5": 1793011349.6881394,
+  "70c9d6d72d044fea": 1793011349.6881394,
+  "5d13b957581282c7": 1793011349.6881394,
+  "7b92bcdb60d563d8": 1793011349.6881394
  },
  "recent_headlines": [
-  "የኬንያ ቴክኖፖሊስ ለዳታ ሴንተር እና ስማርት ሲቲ ፕሮጀክት የገንዘብ ድጋፍ አገኘ (Kenya’s Konza Technopolis Secures Funding Agreement for Data Centre and Smart City Project)",
-  "Redington Gulf እና AWS በመካከለኛው ምስራቅና አፍሪካ የ AI አጠቃቀምን ለማፋጠን ተባበሩ (Redington Gulf and AWS target faster AI adoption across Middle East and Africa)",
-  "ዲጂታል አፍሪካ ለኢትዮጵያው አግሪቴክ ስታርት አፕ ChipChip የፋይናንስ ድጋፍ አደረገ (Digital Africa Backs Ethiopian Agritech Startup ChipChip In First Investment In The Country)",
-  "በአፍሪካ የግብርና ቴክኖሎጂ እና የ AI ፈጠራዎችን ለማስፋፋት ጥሪ ተቀረበ (Africa must take innovation to scale)",
   "በኬንያ የ Glovo የትዕዛዝ መጠን በ40 በመቶ አደገ (Glovo Kenya orders jump 40pc as quick commerce gains ground)",
   "የ AI ኤጀንቶች ስልጣን ማደግ ኩባንያዎችን ለሳይበር ደህንነት ስጋት እያጋለጠ ነው (As businesses give AI agents more control, security risks grow)",
   "በኬንያ የተመዘገቡ የሳይበር ስጋት ክስተቶች ቁጥር 11 ቢሊዮን ማለፉ ተገለጸ (Kenya records over 11 billion cyber threat events as attack volumes continue to rise)",
@@ -1395,6 +1397,10 @@
   "Paratus በዳሬሰላም አዲስ የኔትወርክ ማዕከል በመክፈት ታንዛኒያን ከአፍሪካና ከአለም ጋር አገናኘ (Paratus connects Tanzania to Africa and beyond with new Dar es Salaam POP)",
   "የደቡብ አፍሪካው Pick n Pay የኦንላይን ሽያጭ በ AI ታግዞ አደገ (Pick n Pay Online surges as retailer restructures)",
   "ኢንተርፖል በአፍሪካ ባካሄደው ዘመቻ 1,462 የሳይበር ወንጀል ተጠርጣሪዎችን በቁጥጥር ስር አዋለ (INTERPOL’s Serengeti III nets 1,462 arrests across Africa)",
-  "የ AI ሞዴሎች ከእንግሊዝኛ ውጭ ያሉ ቋንቋዎችን ለማስተናገድ ከፍተኛ ወጪ እንደሚጠይቁ ተገለጸ (AI models cost more when you don’t use English)"
+  "የ AI ሞዴሎች ከእንግሊዝኛ ውጭ ያሉ ቋንቋዎችን ለማስተናገድ ከፍተኛ ወጪ እንደሚጠይቁ ተገለጸ (AI models cost more when you don’t use English)",
+  "የ Maroc Telecom የዘጠኝ ወራት ገቢ 28.68 ቢሊዮን ዲርሃም ደረሰ (Maroc Telecom Group Revenue Rises 5.1% to MAD 28.68 Billion in Q3 2026)",
+  "የኢኖቬሽን እና ቴክኖሎጂ ሚኒስቴር ከአምስት ዓመት ስትራቴጂክ ዕቅዱ በፊት የተቋማት አቅምን ገመገመ (Ethiopia’s Innovation Ministry Reviews Institutional Capacity Ahead of Five-Year Strategic Plan)",
+  "EBANX በናይጄሪያ ለሚገኙ ዓለም አቀፍ የደንበኝነት ክፍያዎች የ OPay አገልግሎትን አስተዋወቀ (EBANX Integrates OPay Direct Debit for Global Subscription Payments in Nigeria)",
+  "ኢትዮ ቴሌኮም የ LTE ኔትወርክ አገልግሎቱን ወደ ተጨማሪ 80 ከተሞች አሰፋ (Ethio Telecom extends LTE to 80 more towns)"
  ]
 }
