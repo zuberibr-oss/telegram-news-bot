@@ -1,7 +1,5 @@
 {
  "seen": {
-  "b72448f8f91d9995": 1791823242.2974706,
-  "9d89a677c90e752c": 1791823242.2974706,
   "98ba993efced962a": 1791825080.0878181,
   "e2e35c41bddca77e": 1791825080.0878181,
   "28f991a2018459d2": 1791826850.9995148,
@@ -1362,11 +1360,15 @@
   "535bd6752aa9cb33": 1793031282.9946434,
   "e9e787482077c581": 1793031282.9946434,
   "6c7f6a5a75232bb4": 1793031282.9946434,
-  "b25a8cdcc721f223": 1793031282.9946434
+  "b25a8cdcc721f223": 1793031282.9946434,
+  "655b20a3fe140d23": 1793032984.164791,
+  "44c72bda45c06297": 1793032984.164791,
+  "f468ff0d0918de8a": 1793032984.164791,
+  "66119126e50b52fb": 1793032984.164791,
+  "0a616c25d224082c": 1793032984.164791,
+  "4076516d47b5a895": 1793032984.164791
  },
  "recent_headlines": [
-  "OPay በኒው ዮርክ የአክሲዮን ገበያ እስከ 336 ሚሊዮን ዶላር ለማሰባሰብ አቀደ (👨🏿‍🚀TechCabal Daily – OPay wants $336 million)",
-  "በደቡብ አፍሪካ የባንክ ደህንነትን ለማጠናከር የ Passkeys ትግበራ የስልክ ደረጃዎች ልዩነት ፈተነው (Passkeys are gaining ground, but SA’s device gap remains a hurdle)",
   "በኢትዮጵያ የዲጂታል ትምህርት ለወጣቶች የሥራ ዕድል ለመፍጠር ያለው ሚና ይዳሰሳል (From Digital Learning to Work: How EdTech Can Reach Ethiopia’s Excluded Youth)",
   "በደቡብ አፍሪካ የዳታ ሴንተሮች ማስፋፊያ ከአካባቢ ጥበቃ እና ህግጋት ጋር ተያይዞ ተፈተነ (The data centre inquiry is really a test of King V)",
   "የታንዛኒያው ሄልዝቴክ ስታርት አፕ Medikea 1.2 ሚሊዮን ዶላር የኢንቨስትመንት ድጋፍ አገኘ (Tanzanian healthtech Medikea raises $1.2m pre-seed funding)",
@@ -1404,6 +1406,8 @@
   "MultiChoice በኬንያ የ DStv ፓኬጆች ዋጋን እስከ 38 በመቶ ቀነሰ (DStv slashes Kenya prices as Canal+ tries to revive subscriber growth)",
   "DPI Venture Capital 112 ሚሊዮን ዶላር የያዘውን Nclude Fund አጠናቀቀ (DPI closes $112 million Nclude fund with 93% of capital from Africa)",
   "የደቡብ አፍሪካዋ ስራ ፈጣሪ TPC Africa Mobile የተሰኘ አዲስ የ MVNO አገልግሎት ይፋ አደረገች (Another player enters SA’s MVNO fray)",
-  "ዚምባብዌ በገጠር አካባቢዎች የመጀመሪያውን የ AI እና ዲጂታል ቴክኖሎጂ ማዕከል ከፈተች (Zimbabwe's first rural AI hub set to reduce digital divide)"
+  "ዚምባብዌ በገጠር አካባቢዎች የመጀመሪያውን የ AI እና ዲጂታል ቴክኖሎጂ ማዕከል ከፈተች (Zimbabwe's first rural AI hub set to reduce digital divide)",
+  "የኬንያ ከፍተኛ ፍርድ ቤት የ Uber Kenya የክስ ውድቅነት ጥያቄን ሳይቀበለው ቀረ (Uber Kenya must face court case over rider account deactivations)",
+  "በአፍሪካ የ AI ስታርት አፖች ከመንግሥታት ጋር ለመሥራት የገንዘብ እና የጨረታ ፈተና ገጠማቸው (The brutal financial reality behind government AI adoption in Africa)"
  ]
 }
