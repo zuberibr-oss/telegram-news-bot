@@ -1,22 +1,5 @@
 {
  "seen": {
-  "c5acc6144998e98f": 1791793802.468235,
-  "6813c9f2af987ac1": 1791793802.468235,
-  "c0409385f632deba": 1791793802.468235,
-  "1e1c0fb753c88923": 1791793802.468235,
-  "0ac21fae0cc9b3ea": 1791793802.468235,
-  "feb94a9a690ea191": 1791793802.468235,
-  "fce602a7faa0a679": 1791793802.468235,
-  "638f4bd16b224aae": 1791793802.468235,
-  "aec8dfd621e5af67": 1791793802.468235,
-  "795d37038e5e5ae3": 1791793802.468235,
-  "67b24b402d3cc98c": 1791793802.468235,
-  "6abc57250aed7c54": 1791793802.468235,
-  "0ce372761572f3bf": 1791793802.468235,
-  "881488cf6c089f8c": 1791793802.468235,
-  "f9880099f3b53864": 1791793802.468235,
-  "1f4e3e83d36ff68f": 1791793802.468235,
-  "f6f2f8230a915e23": 1791793802.468235,
   "664a63bbde916a3b": 1791795893.1547449,
   "ffb7a737308cc33c": 1791795893.1547449,
   "3d87cde32a8e0d34": 1791795893.1547449,
@@ -1358,12 +1341,18 @@
   "cc41186587ce854b": 1792998529.7540607,
   "dff71ba5d97be787": 1792998529.7540607,
   "3103b78911642fd6": 1793001410.591212,
-  "de201029b3d86000": 1793001410.591212
+  "de201029b3d86000": 1793001410.591212,
+  "a6f676b424d63461": 1793003587.9207106,
+  "be648c3a975752db": 1793003587.9207106,
+  "5d19f5e17d1c7fcb": 1793003587.9207106,
+  "da926e73e751c906": 1793003587.9207106,
+  "c924375a57d50c61": 1793003587.9207106,
+  "cc96a64fe8ace086": 1793003587.9207106,
+  "de744a195996e684": 1793003587.9207106,
+  "21a27ca3147b5f88": 1793003587.9207106,
+  "aacc90e75e6f357f": 1793003587.9207106
  },
  "recent_headlines": [
-  "በደቡብ አፍሪካ የቴክኖሎጂ መሪዎች የሰው ሰራሽ አስተውሎትን (AI) ውጤታማነት ለማስረገጥ ተገደዱ (CIOs under pressure to prove AI’s business value)",
-  "ቦልት በኬንያ የ ‘Bolt Plus’ ዓመታዊ ምዝገባ ክፍያን በከፍተኛ ሁኔታ ቅናሽ አደረገ (Why Bolt is practically giving away its annual subscription in Kenya)",
-  "የሳተላይት ኢንተርኔት አገልግሎቶች በአፍሪካ እየተስፋፉ ቢሆንም የሕግ ማዕቀፎች ተፎካካሪነታቸውን እየተፈተነ ነው (More satellite services to descend on Africa)",
   "ደቡብ አፍሪካ የቴሌኮም መሠረተ ልማት ማጋራትን የሚያፋጥን አዲስ የመመሪያ አቅጣጫ ይፋ አደረገች (Minister issues directive on telco infrastructure sharing)",
   "ሳፋሪኮም ከ M-Pesa ጋር የተያያዘ የካርበን ንግድ ገበያ ለመዘርጋት አማራጮችን እያጠና ነው (Safaricom explores NSE-style carbon trading market with M-Pesa payouts)",
   "Ardena Consulting በምስራቅ አፍሪካ ለሚገኙ ኩባንያዎች የሚያገለግል የ ESG የመረጃ ፕላትፎርም ይፋ አደረገ (Ardena launches an ESG reporting platform designed around the data and compliance needs of East African businesses)",
@@ -1400,6 +1389,9 @@
   "Glovo የ AI ግዢ ረዳቱ የትዕዛዝ ምጣኔን ወደ 41 በመቶ ማሳደጉን ገለጸ (How Glovo’s AI shopping assistant achieves a 41% conversion rate by replacing traditional app browsing)",
   "OPay በኒው ዮርክ የአክሲዮን ገበያ እስከ 336 ሚሊዮን ዶላር ለማሰባሰብ አቀደ (👨🏿‍🚀TechCabal Daily – OPay wants $336 million)",
   "በደቡብ አፍሪካ የባንክ ደህንነትን ለማጠናከር የ Passkeys ትግበራ የስልክ ደረጃዎች ልዩነት ፈተነው (Passkeys are gaining ground, but SA’s device gap remains a hurdle)",
-  "በኢትዮጵያ የዲጂታል ትምህርት ለወጣቶች የሥራ ዕድል ለመፍጠር ያለው ሚና ይዳሰሳል (From Digital Learning to Work: How EdTech Can Reach Ethiopia’s Excluded Youth)"
+  "በኢትዮጵያ የዲጂታል ትምህርት ለወጣቶች የሥራ ዕድል ለመፍጠር ያለው ሚና ይዳሰሳል (From Digital Learning to Work: How EdTech Can Reach Ethiopia’s Excluded Youth)",
+  "በደቡብ አፍሪካ የዳታ ሴንተሮች ማስፋፊያ ከአካባቢ ጥበቃ እና ህግጋት ጋር ተያይዞ ተፈተነ (The data centre inquiry is really a test of King V)",
+  "የታንዛኒያው ሄልዝቴክ ስታርት አፕ Medikea 1.2 ሚሊዮን ዶላር የኢንቨስትመንት ድጋፍ አገኘ (Tanzanian healthtech Medikea raises $1.2m pre-seed funding)",
+  "በኬንያ የሚገኘው ቡሪ የምርጫ ክልል ሰባት የዲጂታል ማዕከላትን አቋቋመ (Kenya’s Buuri Constituency Establishes Seven Digital Hubs Across Five Wards)"
  ]
 }
