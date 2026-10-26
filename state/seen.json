@@ -1,14 +1,5 @@
 {
  "seen": {
-  "b64ddca302ba52e9": 1791808035.315083,
-  "35892f1779c72fed": 1791808035.315083,
-  "caea3fbf69439e85": 1791808035.315083,
-  "734d7768a57b2563": 1791810762.8362887,
-  "66a5a71d745dad7a": 1791810762.8362887,
-  "b8fb0a0d2cfdc8d0": 1791810762.8362887,
-  "609485f8e9bb9bf1": 1791810762.8362887,
-  "a542c0df2fdad8ae": 1791810762.8362887,
-  "27d5f3f62f71319b": 1791810762.8362887,
   "f87ecd089c10864b": 1791813652.8732681,
   "f01acf365adc1586": 1791813652.8732681,
   "e032f3ca14719129": 1791813652.8732681,
@@ -1357,13 +1348,15 @@
   "7eb32a77ca55957a": 1793014981.8483632,
   "ec37c9c866b0e992": 1793014981.8483632,
   "0c06f3cbe22c23c1": 1793014981.8483632,
-  "20e4435e9edbeb8e": 1793014981.8483632
+  "20e4435e9edbeb8e": 1793014981.8483632,
+  "6e16330cde7a1de6": 1793021985.5796587,
+  "7dbff2723aef020c": 1793021985.5796587,
+  "d6c0522bf40f3807": 1793021985.5796587,
+  "8b279a63f780c757": 1793021985.5796587,
+  "709ed17c1cc8e207": 1793021985.5796587,
+  "bb554d9bf9c3ac9b": 1793021985.5796587
  },
  "recent_headlines": [
-  "በኬንያ የሚገኙ ኩባንያዎች የሳይበር ደህንነት አገልግሎት ከመግዛታቸው በፊት ሊጠይቋቸው የሚገቡ ነጥቦች (Before buying cybersecurity services, Kenyan businesses need to ask better questions)",
-  "የ Safaricom ዋና ሥራ አስፈፃሚ የአፍሪካ መሪዎች የቴክኖሎጂ ፈጠራዎችን እንዲቀበሉ አሳሰቡ (Safaricom CEO urges African leaders to embrace innovation and challenge market disruption)",
-  "የኢትዮጵያው አግሪቴክ ኩባንያ Lersha አህጉራዊውን የ Africa Sustainable Futures ሽልማት አሸነፈ (Ethiopian Agritech Firm Lersha Wins Top Africa Award, Beating Nearly 600 Entries)",
-  "አክሰስ ባንክ ቦትስዋና የዳንጎቴ ሪፋይነሪ አክሲዮኖችን የሚሸጥበትን አዲስ መንገድ ይፋ አደረገ (Dangote Refinery Opens New Investment Route Through Botswana)",
   "10ኛው የስታቲስቲክስ ኮሚሽን ለአፍሪካ ጉባኤ በአዲስ አበባ መካሄድ ጀመረ (Africa’s statistics and geospatial leaders meet in Addis Ababa to make data count for development)",
   "ማስተርካርድ የክፍያ ደህንነትን ለማጠናከር AI እና Tokenization ቴክኖሎጂዎችን አሰማራ (Mastercard deploys AI, Tokenization to strengthen digital payment security)",
   "የኢትዮጵያ ካፒታል ማርኬት ባለስልጣን የህብረት ኢንቨስትመንት አሰራር መመሪያ ይፋ አደረገ (Ethiopia’s collective investment schemes)",
@@ -1399,6 +1392,10 @@
   "የ Apple የመጀመሪያው ተጣጣፊ ስልክ iPhone Duo በደቡብ አፍሪካ ተሸጦ አለቀ (Foldable iPhone sells out across iStores in SA on launch day)",
   "የሩዋንዳ የሳይበር ደህንነት ባለስልጣን ከ Airtel እና MTN ጋር አብሮ ለመስራት ተስማማ (Rwanda cyber authority boosts security with Airtel, MTN)",
   "ሳፋሪኮም በኬንያ የቤት ውስጥ ፋይበር እና የሞባይል አገልግሎቶችን ያቀናጀ አዲስ ጥቅል ይፋ አደረገ (Safaricom lets fibre users share data with up to family members)",
-  "የአፍሪካ የሥራ መሪዎች ለ AI ትኩረት ቢሰጡም ዝግጁነታቸው ዝቅተኛ መሆኑ ተገለጸ (KPMG Africa CEOs Prioritise Growth as AI Readiness Lags)"
+  "የአፍሪካ የሥራ መሪዎች ለ AI ትኩረት ቢሰጡም ዝግጁነታቸው ዝቅተኛ መሆኑ ተገለጸ (KPMG Africa CEOs Prioritise Growth as AI Readiness Lags)",
+  "በአለም አቀፍ ውጥረቶች ምክንያት በአፍሪካ የሀገር ውስጥ Cloud እና Sovereign AI ፍላጎት ጨመረ (Fear of foreign shutdowns drives local cloud demand)",
+  "ቻይና ሞባይል በኬንያ የዲጂታል ኢኖቬሽን ውድድር እና የማስተካከያ ፕሮግራም ጀመረ (China Mobile International Launches Four-Month Innovation Programme in Kenya)",
+  "የናይጄሪያው ፊንቴክ Raenest በስቴብልኮይን እና ቁጠባ የተደገፈ አዲስ የክፍያ አገልግሎት አቀረበ (Raenest expands beyond cross-border payments with stablecoins and savings)",
+  "ኢኳቶሪያል ጊኒ አዲሱን TELGESA የተሰኘ የቴሌኮም ኩባንያ ለማቋቋም እንቅስቃሴዋን አፋጠነች (Equatorial Guinea Accelerates TELGESA Formation Ahead of October Deadline)"
  ]
 }
