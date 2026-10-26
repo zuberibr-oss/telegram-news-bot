@@ -1,10 +1,5 @@
 {
  "seen": {
-  "664a63bbde916a3b": 1791795893.1547449,
-  "ffb7a737308cc33c": 1791795893.1547449,
-  "3d87cde32a8e0d34": 1791795893.1547449,
-  "0e260fa7167278a1": 1791795893.1547449,
-  "75d85b1112e01e4f": 1791795893.1547449,
   "8248def76ea13e0b": 1791799048.4843092,
   "29217023d7a89009": 1791799048.4843092,
   "7900135d622cd308": 1791799048.4843092,
@@ -1350,13 +1345,15 @@
   "cc96a64fe8ace086": 1793003587.9207106,
   "de744a195996e684": 1793003587.9207106,
   "21a27ca3147b5f88": 1793003587.9207106,
-  "aacc90e75e6f357f": 1793003587.9207106
+  "aacc90e75e6f357f": 1793003587.9207106,
+  "2fb89b972ccbe35c": 1793006396.078645,
+  "dfc543ca239bc39f": 1793006396.078645,
+  "95fe67c815cdbdef": 1793006396.078645,
+  "e403cd56c0c0cb25": 1793006396.078645,
+  "db833deb36cdd07d": 1793006396.078645,
+  "4eb62931c701e02f": 1793006396.078645
  },
  "recent_headlines": [
-  "ደቡብ አፍሪካ የቴሌኮም መሠረተ ልማት ማጋራትን የሚያፋጥን አዲስ የመመሪያ አቅጣጫ ይፋ አደረገች (Minister issues directive on telco infrastructure sharing)",
-  "ሳፋሪኮም ከ M-Pesa ጋር የተያያዘ የካርበን ንግድ ገበያ ለመዘርጋት አማራጮችን እያጠና ነው (Safaricom explores NSE-style carbon trading market with M-Pesa payouts)",
-  "Ardena Consulting በምስራቅ አፍሪካ ለሚገኙ ኩባንያዎች የሚያገለግል የ ESG የመረጃ ፕላትፎርም ይፋ አደረገ (Ardena launches an ESG reporting platform designed around the data and compliance needs of East African businesses)",
-  "በኬንያ የኤሌክትሪክ ሞተር ብስክሌት ገበያ ዕድገት በብድርና ባትሪ ወጪዎች ላይ መመሥረቱ ተገለጸ (Kenya’s electric boda boda market depends on whether lower running costs outweigh financing and battery expenses)",
   "የኢትዮጵያ ልማት ባንክ አዲስ የጅምላ ብድር እና የብድር ዋስትና አሰራር ለመዘርጋት አቀደ (Development Bank of Ethiopia Moves to Overhaul Lending Model, Plans Wholesale Financing and Credit Guarantee)",
   "የ PHP ፕሮግራሚንግ ቋንቋ የደህንነት ክፍተት በዓለም አቀፍ ደረጃ ስጋት ደቀነ (PHP2Shell alarm a major cyber security wake-up call)",
   "የሳተላይት ኢንተርኔት ገበያ ወደ የተቀናጀ አሰራር እና የዲጂታል ሉአላዊነት እያደገ መሆኑ ተገለጸ (Satellite Connectivity Market Shifts Towards Integration and Digital Sovereignty)",
@@ -1392,6 +1389,10 @@
   "በኢትዮጵያ የዲጂታል ትምህርት ለወጣቶች የሥራ ዕድል ለመፍጠር ያለው ሚና ይዳሰሳል (From Digital Learning to Work: How EdTech Can Reach Ethiopia’s Excluded Youth)",
   "በደቡብ አፍሪካ የዳታ ሴንተሮች ማስፋፊያ ከአካባቢ ጥበቃ እና ህግጋት ጋር ተያይዞ ተፈተነ (The data centre inquiry is really a test of King V)",
   "የታንዛኒያው ሄልዝቴክ ስታርት አፕ Medikea 1.2 ሚሊዮን ዶላር የኢንቨስትመንት ድጋፍ አገኘ (Tanzanian healthtech Medikea raises $1.2m pre-seed funding)",
-  "በኬንያ የሚገኘው ቡሪ የምርጫ ክልል ሰባት የዲጂታል ማዕከላትን አቋቋመ (Kenya’s Buuri Constituency Establishes Seven Digital Hubs Across Five Wards)"
+  "በኬንያ የሚገኘው ቡሪ የምርጫ ክልል ሰባት የዲጂታል ማዕከላትን አቋቋመ (Kenya’s Buuri Constituency Establishes Seven Digital Hubs Across Five Wards)",
+  "ሳፋሪኮም ለኬንያ ጥቃቅን ነጋዴዎች የ Fuliza Ya Pochi የብድር አገልግሎት ይፋ አደረገ (Safaricom Launches Fuliza Ya Pochi Overdraft for Kenyan Merchants)",
+  "Telr እና CreditPool በብዙ ካርዶች የመክፈል አዲስ የዲጂታል ክፍያ አገልግሎት ጀመሩ (Telr Partners With CreditPool to Launch Multi-Card Payments in MENA)",
+  "የናይጄሪያው የ BNPL ስታርት አፕ Klump ሥራውን ማቆሙን አስታወቀ (Nigerian BNPL startup Klump shuts down after five years)",
+  "INFRAGORA በናይጄሪያ የ AI ዳታ ሴንተሮችን ለመገንባት እስከ 1 ቢሊዮን ዶላር አቀደ (Nigeria to get two new AI-ready data centres in a $1 billion investment)"
  ]
 }
