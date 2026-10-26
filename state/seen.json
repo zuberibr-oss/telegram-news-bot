@@ -1,6 +1,5 @@
 {
  "seen": {
-  "f549745f963dcd81": 1791786655.2637615,
   "948f4dd4163848f7": 1791790644.5777385,
   "16dc43b9a27d13eb": 1791790644.5777385,
   "27b89ee894410d0e": 1791790644.5777385,
@@ -1363,10 +1362,11 @@
   "db1bacfd4cfbba86": 1792937397.6077213,
   "c126153d81eeb476": 1792942605.5584898,
   "1142ae709a91851f": 1792986463.7991157,
-  "03ff6483b78c4724": 1792995910.0463521
+  "03ff6483b78c4724": 1792995910.0463521,
+  "cc41186587ce854b": 1792998529.7540607,
+  "dff71ba5d97be787": 1792998529.7540607
  },
  "recent_headlines": [
-  "ሳፋሪኮም የ\"ፉሊዛ ያ ፖቺ\" የብድር አገልግሎት አሰራርን ይፋ አደረገ (Inside Safaricom’s Fuliza Ya Pochi and how it works)",
   "የአዲስ አበባ ገቢዎች ቢሮ በዲጂታል ይዘት ፈጣሪዎች ላይ አዲስ የታክስ መመሪያ ዘረጋ (Addis Ababa expands tax rules for digital content creators)",
   "በደቡብ አፍሪካ የቴክኖሎጂ መሪዎች የሰው ሰራሽ አስተውሎትን (AI) ውጤታማነት ለማስረገጥ ተገደዱ (CIOs under pressure to prove AI’s business value)",
   "ቦልት በኬንያ የ ‘Bolt Plus’ ዓመታዊ ምዝገባ ክፍያን በከፍተኛ ሁኔታ ቅናሽ አደረገ (Why Bolt is practically giving away its annual subscription in Kenya)",
@@ -1405,6 +1405,7 @@
   "ዛምዛም ባንክ ከአንድ ቢሊዮን ብር በላይ የተጣራ ትርፍ ማግኘቱን አስታወቀ (Zamzam Bank Posts 1.8 Billion Birr Pre-Tax Profit as Deposits Hit 144% of Target)",
   "በኬንያ የሚገኘው Jaza Supermarket በ WhatsApp እና M-PESA የዲጂታል ንግድ አሰራሩን አሻሻለ (How Jaza Supermarket uses WhatsApp ordering, Glovo integrations, and M-PESA to streamline neighbourhood retail)",
   "Glovo የ AI ግዢ ረዳቱ የትዕዛዝ ምጣኔን ወደ 41 በመቶ ማሳደጉን ገለጸ (How Glovo’s AI shopping assistant achieves a 41% conversion rate by replacing traditional app browsing)",
-  "OPay በኒው ዮርክ የአክሲዮን ገበያ እስከ 336 ሚሊዮን ዶላር ለማሰባሰብ አቀደ (👨🏿‍🚀TechCabal Daily – OPay wants $336 million)"
+  "OPay በኒው ዮርክ የአክሲዮን ገበያ እስከ 336 ሚሊዮን ዶላር ለማሰባሰብ አቀደ (👨🏿‍🚀TechCabal Daily – OPay wants $336 million)",
+  "በደቡብ አፍሪካ የባንክ ደህንነትን ለማጠናከር የ Passkeys ትግበራ የስልክ ደረጃዎች ልዩነት ፈተነው (Passkeys are gaining ground, but SA’s device gap remains a hurdle)"
  ]
 }
