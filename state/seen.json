@@ -1,13 +1,5 @@
 {
  "seen": {
-  "948f4dd4163848f7": 1791790644.5777385,
-  "16dc43b9a27d13eb": 1791790644.5777385,
-  "27b89ee894410d0e": 1791790644.5777385,
-  "c1c25a7c899c5d97": 1791790644.5777385,
-  "bca2a51823b58f28": 1791790644.5777385,
-  "b2a0003abdaed76b": 1791790644.5777385,
-  "ca03c4f18f89fa56": 1791790644.5777385,
-  "ff39ee7fdf0546ad": 1791790644.5777385,
   "c5acc6144998e98f": 1791793802.468235,
   "6813c9f2af987ac1": 1791793802.468235,
   "c0409385f632deba": 1791793802.468235,
@@ -1364,10 +1356,11 @@
   "1142ae709a91851f": 1792986463.7991157,
   "03ff6483b78c4724": 1792995910.0463521,
   "cc41186587ce854b": 1792998529.7540607,
-  "dff71ba5d97be787": 1792998529.7540607
+  "dff71ba5d97be787": 1792998529.7540607,
+  "3103b78911642fd6": 1793001410.591212,
+  "de201029b3d86000": 1793001410.591212
  },
  "recent_headlines": [
-  "የአዲስ አበባ ገቢዎች ቢሮ በዲጂታል ይዘት ፈጣሪዎች ላይ አዲስ የታክስ መመሪያ ዘረጋ (Addis Ababa expands tax rules for digital content creators)",
   "በደቡብ አፍሪካ የቴክኖሎጂ መሪዎች የሰው ሰራሽ አስተውሎትን (AI) ውጤታማነት ለማስረገጥ ተገደዱ (CIOs under pressure to prove AI’s business value)",
   "ቦልት በኬንያ የ ‘Bolt Plus’ ዓመታዊ ምዝገባ ክፍያን በከፍተኛ ሁኔታ ቅናሽ አደረገ (Why Bolt is practically giving away its annual subscription in Kenya)",
   "የሳተላይት ኢንተርኔት አገልግሎቶች በአፍሪካ እየተስፋፉ ቢሆንም የሕግ ማዕቀፎች ተፎካካሪነታቸውን እየተፈተነ ነው (More satellite services to descend on Africa)",
@@ -1406,6 +1399,7 @@
   "በኬንያ የሚገኘው Jaza Supermarket በ WhatsApp እና M-PESA የዲጂታል ንግድ አሰራሩን አሻሻለ (How Jaza Supermarket uses WhatsApp ordering, Glovo integrations, and M-PESA to streamline neighbourhood retail)",
   "Glovo የ AI ግዢ ረዳቱ የትዕዛዝ ምጣኔን ወደ 41 በመቶ ማሳደጉን ገለጸ (How Glovo’s AI shopping assistant achieves a 41% conversion rate by replacing traditional app browsing)",
   "OPay በኒው ዮርክ የአክሲዮን ገበያ እስከ 336 ሚሊዮን ዶላር ለማሰባሰብ አቀደ (👨🏿‍🚀TechCabal Daily – OPay wants $336 million)",
-  "በደቡብ አፍሪካ የባንክ ደህንነትን ለማጠናከር የ Passkeys ትግበራ የስልክ ደረጃዎች ልዩነት ፈተነው (Passkeys are gaining ground, but SA’s device gap remains a hurdle)"
+  "በደቡብ አፍሪካ የባንክ ደህንነትን ለማጠናከር የ Passkeys ትግበራ የስልክ ደረጃዎች ልዩነት ፈተነው (Passkeys are gaining ground, but SA’s device gap remains a hurdle)",
+  "በኢትዮጵያ የዲጂታል ትምህርት ለወጣቶች የሥራ ዕድል ለመፍጠር ያለው ሚና ይዳሰሳል (From Digital Learning to Work: How EdTech Can Reach Ethiopia’s Excluded Youth)"
  ]
 }
