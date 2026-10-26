@@ -1,19 +1,5 @@
 {
  "seen": {
-  "f87ecd089c10864b": 1791813652.8732681,
-  "f01acf365adc1586": 1791813652.8732681,
-  "e032f3ca14719129": 1791813652.8732681,
-  "f7cb9154898e6a07": 1791813652.8732681,
-  "4132f53ae7b4cadd": 1791813652.8732681,
-  "44d97e1198735245": 1791813652.8732681,
-  "958f0d88d83911ea": 1791813652.8732681,
-  "cf1447adb652e7d5": 1791813652.8732681,
-  "cbceeb6cdeda2e27": 1791816507.3419945,
-  "3dc807accad5fbd0": 1791816507.3419945,
-  "1515a1775ed34576": 1791816507.3419945,
-  "00682c2c8750c24a": 1791816507.3419945,
-  "303ed6a647b97a5c": 1791816507.3419945,
-  "daf299087c957ac9": 1791816507.3419945,
   "55ef7163a0703aec": 1791818075.6111174,
   "44c72bda45c06297": 1791819747.1253223,
   "f468ff0d0918de8a": 1791819747.1253223,
@@ -1354,13 +1340,17 @@
   "d6c0522bf40f3807": 1793021985.5796587,
   "8b279a63f780c757": 1793021985.5796587,
   "709ed17c1cc8e207": 1793021985.5796587,
-  "bb554d9bf9c3ac9b": 1793021985.5796587
+  "bb554d9bf9c3ac9b": 1793021985.5796587,
+  "c79f97f794733b13": 1793026798.061849,
+  "c50b2b8d6e31e1c5": 1793026798.061849,
+  "97fa0b5fdd2706b6": 1793026798.061849,
+  "0d0d105b8b8967f6": 1793026798.061849,
+  "557221529f2d4d96": 1793026798.061849,
+  "cccbdb31d610c5b9": 1793026798.061849,
+  "72aa8723518aa987": 1793026798.061849,
+  "8b80fcdfc13d7a1b": 1793026798.061849
  },
  "recent_headlines": [
-  "10ኛው የስታቲስቲክስ ኮሚሽን ለአፍሪካ ጉባኤ በአዲስ አበባ መካሄድ ጀመረ (Africa’s statistics and geospatial leaders meet in Addis Ababa to make data count for development)",
-  "ማስተርካርድ የክፍያ ደህንነትን ለማጠናከር AI እና Tokenization ቴክኖሎጂዎችን አሰማራ (Mastercard deploys AI, Tokenization to strengthen digital payment security)",
-  "የኢትዮጵያ ካፒታል ማርኬት ባለስልጣን የህብረት ኢንቨስትመንት አሰራር መመሪያ ይፋ አደረገ (Ethiopia’s collective investment schemes)",
-  "የካፒታል ማርኬት ባለስልጣን እና ESX የባለአክሲዮኖችን መብት በመወሰን ላይ ተለያዩ (Capital Authority, Securities Exchange Spar Over Who Decides Shareholder Rights)",
   "ማስተርካርድ በኢትዮጵያ የዲጂታል ክፍያ ገበያ ያለውን ተሳትፎ እያሰፋ ነው (Mastercard Taps the Domestic Market Where Only One Adult in Five Transacts Digitally)",
   "የ AI ኤጀንቶች የክፍያ ሂደት ደህንነት እና አመኔታ መረጋገጥ እንዳለበት Visa ገለጸ (Why checkout trust and security will define the future of AI agent payments)",
   "በኬንያ የዲጂታል ንግድ ዕድገት በአካባቢ ሁኔታዎችና በደንበኞች ፍላጎት እየተቃኘ ነው (How changing consumer habits and neighbourhood constraints are defining the future of digital commerce in Kenya)",
@@ -1396,6 +1386,10 @@
   "በአለም አቀፍ ውጥረቶች ምክንያት በአፍሪካ የሀገር ውስጥ Cloud እና Sovereign AI ፍላጎት ጨመረ (Fear of foreign shutdowns drives local cloud demand)",
   "ቻይና ሞባይል በኬንያ የዲጂታል ኢኖቬሽን ውድድር እና የማስተካከያ ፕሮግራም ጀመረ (China Mobile International Launches Four-Month Innovation Programme in Kenya)",
   "የናይጄሪያው ፊንቴክ Raenest በስቴብልኮይን እና ቁጠባ የተደገፈ አዲስ የክፍያ አገልግሎት አቀረበ (Raenest expands beyond cross-border payments with stablecoins and savings)",
-  "ኢኳቶሪያል ጊኒ አዲሱን TELGESA የተሰኘ የቴሌኮም ኩባንያ ለማቋቋም እንቅስቃሴዋን አፋጠነች (Equatorial Guinea Accelerates TELGESA Formation Ahead of October Deadline)"
+  "ኢኳቶሪያል ጊኒ አዲሱን TELGESA የተሰኘ የቴሌኮም ኩባንያ ለማቋቋም እንቅስቃሴዋን አፋጠነች (Equatorial Guinea Accelerates TELGESA Formation Ahead of October Deadline)",
+  "በኬንያ የ Twiga Foods ውድቀት በምስራቅ አፍሪካ የ B2B ቴክኖሎጂ ሞዴል ፈተናዎችን አሳይቷል (The Next Wave: The high cost of cutting out the middleman)",
+  "ኬንያ የቴክኖሎጂ ዲፕሎማሲን የውጭ ፖሊሲዋ ዋና አካል አደረገች (Kenya puts tech diplomacy at heart of foreign policy)",
+  "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን ዶላር ለንግድ ባንኮች በሐራጅ ሊያቀርብ ነው (National Bank to Inject $140 Million into Banking System in Latest FX Auction)",
+  "Moniepoint መዋቅራዊ ለውጥ በማድረግ በኢንጂነሪንግ ክፍሎቹ ላይ የሰራተኞች ቅነሳ አደረገ (Just In: Moniepoint to cut some Engineering, Product roles in major restructuring)"
  ]
 }
