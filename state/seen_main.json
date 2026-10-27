@@ -1,14 +1,5 @@
 {
  "seen": {
-  "bee6c385ddf37368": 1791932982.6885111,
-  "9c8f14fdba5cc989": 1791932982.6885111,
-  "cd005c2fae7b59cf": 1791932982.6885111,
-  "124bc568835b7a1b": 1791934548.8255475,
-  "e66166d88d71605e": 1791934548.8255475,
-  "4801dfadf7f5b093": 1791934548.8255475,
-  "d47a51faaf0beccb": 1791934548.8255475,
-  "bff0294058891e53": 1791934548.8255475,
-  "9cd1374def1479fd": 1791934548.8255475,
   "01fb16efee414b06": 1791937702.4745033,
   "47fe69ff34fc6768": 1791937702.4745033,
   "745d04e844971587": 1791937702.4745033,
@@ -2701,10 +2692,19 @@
   "9246d1b4b53bd187": 1793138954.394787,
   "42b5be7501cf2428": 1793142498.3673844,
   "cb280ac40b426942": 1793142498.3673844,
-  "7b2be59b52b1a9fc": 1793142498.3673844
+  "7b2be59b52b1a9fc": 1793142498.3673844,
+  "dfcf1f2cba76f736": 1793144146.342232,
+  "b7b8ea9f03e6b0a8": 1793144146.342232,
+  "096ac806ba35cd40": 1793144146.342232,
+  "480dcee5c4a18568": 1793144146.342232,
+  "5e5b0dac8d121229": 1793144146.342232,
+  "bb62ffec699d6a70": 1793144146.342232,
+  "a8fa985d4cd8aec6": 1793144146.342232,
+  "5a5b9be1ab46a62d": 1793144146.342232,
+  "a1604219000e0d10": 1793144146.342232,
+  "f6da1605d21c22e6": 1793144146.342232
  },
  "recent_headlines": [
-  "ዩናይትድ ኪንግደም በሱዳን ወታደራዊ አዛዦች ላይ የጉዞ እና የሀብት ማዕቀብ ጣለች (Britain sanctions Sudanese commanders over weaponised rape)",
   "ኢትዮጵያ የ2027ቱን ዓለም አቀፍ የሎጅስቲክስ ጉባዔ ለማስተናገድ የዘርፉን አፈጻጸም ለማሻሻል እየሠራች ነው (Ethiopia seeks better logistics ranking ahead of 2027 FIATA Congress)",
   "በፍሪደም ሀውስ የኢንተርኔት ነጻነት ሪፖርት ኢትዮጵያ \"ነጻ ያልሆነች\" ተብላ ተፈረጀች (Ethiopia ranked “Not Free” in freedom house’s 2026 report with a dismal score of 30)",
   "የአፍሪካ ቢዝነስ ቻምበር የኢትዮጵያ የምጣኔ ሀብት እድገት በ2026 9.2 በመቶ ይደርሳል አለ (Ethiopia’s growth outlook strong, but businesses face currency and execution risks)",
@@ -2743,7 +2743,8 @@
   "ሉላ ዳ ሲልቫ በብራዚል የፕሬዚዳንትነት ምርጫ ማሸነፋቸው የ BRICS ስብስብን ያጠናክራል ተባለ (Lula’s victory echoes across BRICS after fears of a Bolsonaro win)",
   "ኢትዮጵያ እና ሩሲያ በኑክሌር ኃይል፣ በበረራ እና በቪዛ አገልግሎቶች ዙሪያ ተወያዩ (Raashiyaafi Itoophiyaan marii Gabbisa Humna Nookilaraa itti fufan; Balaliifi tajaajila viisaa fooyyessuurrattis mariyatan)",
   "በእስራኤል ምርጫ የተሰበሰቡ የመጀመሪያ ደረጃ መረጃዎች ግልጽ አሸናፊ አለመኖሩን አመለከቱ (Exit polls following Israeli elections indicate no clear winner)",
-  "የብራዚሉ ሴናተር Flavio Bolsonaro ከምርጫው ሽንፈት በኋላ ወደ አሜሪካ ኮበለሉ (Flavio Bolsonaro flees Brazil after election loss, US says will grant visa)"
+  "የብራዚሉ ሴናተር Flavio Bolsonaro ከምርጫው ሽንፈት በኋላ ወደ አሜሪካ ኮበለሉ (Flavio Bolsonaro flees Brazil after election loss, US says will grant visa)",
+  "በትግራይ በተፈጸመ የድሮን ጥቃት አባትና አራት ልጆቻቸው መገደላቸው ተገለጸ (Halellaa Diroonii Tigraay Medebay Terer’tti raawwatameen Abbaafi Ijoolleen isaa afur; michuuwwan kiliniika keessaa baqataa turanis ajjeefamuun himame)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2763,6 +2764,7 @@
   1793119112.4173722,
   1793128165.1670518,
   1793133393.4668338,
-  1793139035.818904
+  1793139035.818904,
+  1793144270.837597
  ]
 }
