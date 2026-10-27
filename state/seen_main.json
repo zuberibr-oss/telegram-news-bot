@@ -2707,10 +2707,16 @@
   "89af16199b306cdf": 1793114034.4259408,
   "2cfd5305f6abbe9a": 1793114034.4259408,
   "cf83951218027935": 1793114034.4259408,
-  "a9a34a1ac344d7b1": 1793114034.4259408
+  "a9a34a1ac344d7b1": 1793114034.4259408,
+  "2da3965973a54823": 1793115726.0715363,
+  "0652fea4db839158": 1793115726.0715363,
+  "36755b433e69edf3": 1793115726.0715363,
+  "fc30aa6a9b9d6269": 1793115726.0715363,
+  "21ccf35038c68797": 1793115726.0715363,
+  "e12c34c069c1e421": 1793115726.0715363,
+  "f6d5ab008cffb016": 1793115726.0715363
  },
  "recent_headlines": [
-  "Anthropic ወደ አክሲዮን ገበያ ከመግባቱ በፊት የኤአይ የህልውና ስጋት ሊደቅን እንደሚችል አስጠነቀቀ (Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing)",
   "የግብጽ ምክር ቤት ለሳውዲ አረቢያ የወታደራዊ ድጋፍ ለመስጠት የሚያስችለውን ውሳኔ አጸደቀ (Egyptian parliament authorises military aid for Saudi Arabia)",
   "የተመድ መርማሪዎች እስራኤል በዌስት ባንክ በሰብዓዊነት ላይ የተፈጸሙ ወንጀሎችን ፈጽማለች አሉ (Israel committing crimes against humanity in occupied West Bank: UN)",
   "ሩሲያ በዩክሬን የኃይል መሠረተ ልማቶች ላይ የምታካሂደው ጥቃት የጦር ወንጀል ነው ተባለ (Russian attacks on Ukraine’s energy infrastructure a war crime: UN)",
@@ -2749,7 +2755,8 @@
   "የፊንላንድ እና ኖርዌይ መሪዎች ከ Vladimir Putin ጋር በስልክ ተወያዩ (Norway and Finland leaders hold rare call with Putin)",
   "የኢትዮጵያ ብሔራዊ ባንክ በውጭ ምንዛሬ ጨረታ የዶላር አማካይ ተመን መቀነሱን አስታወቀ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
   "በትግራይ ክልል የንግድ እንቅስቃሴን ለማነቃቃትና ገበያን ለማረጋጋት የተጀመሩ ጥረቶች ተጠናክረው መቀጠላቸው ተገለጸ (Tigray Region Caretaker Administration Intensifying Efforts to Revitalize Trade and Stabilize Markets)",
-  "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)"
+  "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)",
+  "በአፋር፣ አማራና ትግራይ ድርቅና የምግብ እጥረት የሰብዓዊ እርዳታ ፍላጎቱን አባባሱት (Hongeen, hanqinni nyaataa fi hanqinni soorataa daa’immanii Naannoo Affaar, Amaaraa fi Tigraay keessatti fedhii gargaarsa namoomaa hammeessaniiru)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2764,6 +2771,7 @@
   1793108704.5305717,
   1793112402.1012716,
   1793112405.5353453,
-  1793114059.3993208
+  1793114059.3993208,
+  1793115768.2246933
  ]
 }
