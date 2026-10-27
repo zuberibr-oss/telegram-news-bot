@@ -1,10 +1,5 @@
 {
  "seen": {
-  "20ca80fa1c1d05ea": 1791908092.5591772,
-  "cda2f2e8e42d0ae9": 1791908092.5591772,
-  "507a45479a705129": 1791908092.5591772,
-  "f0acfdb90fc2dc89": 1791908092.5591772,
-  "2b8316b444f9c3be": 1791908092.5591772,
   "c92bed9a8b4daf67": 1791909811.0273328,
   "72604f85dba26c7b": 1791909811.0273328,
   "2a72572eabc1e679": 1791909811.0273328,
@@ -2712,10 +2707,12 @@
   "dc3c211e5f10bb0b": 1793117491.4226427,
   "3b14641e302af620": 1793117491.4226427,
   "8e63acf383efa729": 1793117491.4226427,
-  "ce8657a1225b808f": 1793117491.4226427
+  "ce8657a1225b808f": 1793117491.4226427,
+  "0d45a81877ad016f": 1793119076.422783,
+  "3852d7ece03e0287": 1793119076.422783,
+  "6a53ae2da84e9911": 1793119076.422783
  },
  "recent_headlines": [
-  "የግብጽ ምክር ቤት ለሳውዲ አረቢያ የወታደራዊ ድጋፍ ለመስጠት የሚያስችለውን ውሳኔ አጸደቀ (Egyptian parliament authorises military aid for Saudi Arabia)",
   "የተመድ መርማሪዎች እስራኤል በዌስት ባንክ በሰብዓዊነት ላይ የተፈጸሙ ወንጀሎችን ፈጽማለች አሉ (Israel committing crimes against humanity in occupied West Bank: UN)",
   "ሩሲያ በዩክሬን የኃይል መሠረተ ልማቶች ላይ የምታካሂደው ጥቃት የጦር ወንጀል ነው ተባለ (Russian attacks on Ukraine’s energy infrastructure a war crime: UN)",
   "የኢትዮጵያ ባህር ኃይል ከአካባቢው ሀገራት የባህር ኃይል አዛዦች ጋር የምክክር መድረክ ማስተናገድ ጀመረ (#Daily_Brief: #Ethiopian_Navy hosts four-day forum with regional naval commanders)",
@@ -2754,7 +2751,8 @@
   "የኢትዮጵያ ብሔራዊ ባንክ በውጭ ምንዛሬ ጨረታ የዶላር አማካይ ተመን መቀነሱን አስታወቀ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
   "በትግራይ ክልል የንግድ እንቅስቃሴን ለማነቃቃትና ገበያን ለማረጋጋት የተጀመሩ ጥረቶች ተጠናክረው መቀጠላቸው ተገለጸ (Tigray Region Caretaker Administration Intensifying Efforts to Revitalize Trade and Stabilize Markets)",
   "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)",
-  "በአፋር፣ አማራና ትግራይ ድርቅና የምግብ እጥረት የሰብዓዊ እርዳታ ፍላጎቱን አባባሱት (Hongeen, hanqinni nyaataa fi hanqinni soorataa daa’immanii Naannoo Affaar, Amaaraa fi Tigraay keessatti fedhii gargaarsa namoomaa hammeessaniiru)"
+  "በአፋር፣ አማራና ትግራይ ድርቅና የምግብ እጥረት የሰብዓዊ እርዳታ ፍላጎቱን አባባሱት (Hongeen, hanqinni nyaataa fi hanqinni soorataa daa’immanii Naannoo Affaar, Amaaraa fi Tigraay keessatti fedhii gargaarsa namoomaa hammeessaniiru)",
+  "ሉላ ዳ ሲልቫ በብራዚል የፕሬዚዳንትነት ምርጫ ማሸነፋቸው የ BRICS ስብስብን ያጠናክራል ተባለ (Lula’s victory echoes across BRICS after fears of a Bolsonaro win)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2770,6 +2768,7 @@
   1793112402.1012716,
   1793112405.5353453,
   1793114059.3993208,
-  1793115768.2246933
+  1793115768.2246933,
+  1793119112.4173722
  ]
 }
