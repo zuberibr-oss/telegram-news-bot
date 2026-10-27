@@ -1,17 +1,5 @@
 {
  "seen": {
-  "fc3677c6218f2161": 1791877967.6164434,
-  "a9bcf05421622b01": 1791877967.6164434,
-  "470528e6f663e01e": 1791877967.6164434,
-  "ed2838bff2c28f46": 1791877967.6164434,
-  "52266732c84e1e2c": 1791877967.6164434,
-  "90af2f75dedef1d7": 1791877967.6164434,
-  "6d9ab78efbe9780d": 1791877967.6164434,
-  "ead27d2fc91e35f4": 1791877967.6164434,
-  "17f75da32fe88dfd": 1791877967.6164434,
-  "235ced8d67c3948e": 1791877967.6164434,
-  "a4c0649f6a164b29": 1791877967.6164434,
-  "87ae5602932c9d49": 1791877967.6164434,
   "a5718ab829eba0f6": 1791879660.5448878,
   "adf4ff6fde9b4ccd": 1791879660.5448878,
   "c54a76aa374058f2": 1791879660.5448878,
@@ -1367,13 +1355,15 @@
   "e3c84c9823d66159": 1793085668.4856067,
   "5255b5f954ea6465": 1793087146.2284772,
   "1308e99b6f2fbb57": 1793087146.2284772,
-  "0d6167e43aa22ec6": 1793087146.2284772
+  "0d6167e43aa22ec6": 1793087146.2284772,
+  "7dfb2d5491cbf7cf": 1793088957.5642507,
+  "961b231b79425b27": 1793088957.5642507,
+  "e6288b4dc752d782": 1793088957.5642507,
+  "151bb8dc5d662c18": 1793088957.5642507,
+  "a73ad09af3d801d9": 1793088957.5642507,
+  "2874734a02faab91": 1793088957.5642507
  },
  "recent_headlines": [
-  "የ AI ኤጀንቶች የሥራ ቦታዎችን አሰራር ወደ ሦስተኛው ምዕራፍ እያሸጋገሩት ነው (Workplace enters AI’s third wave)",
-  "የ Airtel Money ግማሽ ዓመት ገቢ 34 በመቶ በማደግ 830 ሚሊዮን ዶላር ደረሰ (Airtel Money Revenue Rises 34% to $830 Million in First Half of FY2027)",
-  "VFS Global የቪዛ ማመልከቻ ሂደቶችን ለማፋጠን የ AI ቴክኖሎጂን መጠቀም ጀመረ (AI tools speed up visa admin as demand rises)",
-  "ቶጎ የአካባቢ ቋንቋዎችን በ AI ለማበልጸግ የሚያስችል አዲስ ሀገራዊ ፕሮጀክት ይፋ አደረገች (Togo Launches AI Initiative to Digitise National Languages)",
   "Paratus በዳሬሰላም አዲስ የኔትወርክ ማዕከል በመክፈት ታንዛኒያን ከአፍሪካና ከአለም ጋር አገናኘ (Paratus connects Tanzania to Africa and beyond with new Dar es Salaam POP)",
   "የደቡብ አፍሪካው Pick n Pay የኦንላይን ሽያጭ በ AI ታግዞ አደገ (Pick n Pay Online surges as retailer restructures)",
   "ኢንተርፖል በአፍሪካ ባካሄደው ዘመቻ 1,462 የሳይበር ወንጀል ተጠርጣሪዎችን በቁጥጥር ስር አዋለ (INTERPOL’s Serengeti III nets 1,462 arrests across Africa)",
@@ -1409,6 +1399,10 @@
   "Airtel Africa እና UNICEF በናይጄሪያ ለተማሪዎች የዲጂታል ትምህርት አገልግሎት አቀረቡ (Airtel Africa Foundation and UNICEF Connect 977,670 Students to Digital Learning in Nigeria)",
   "የካፒታል ማርኬት ባለስልጣን የውጭ ባለሀብቶችን የካፒታል ድርሻ የሚወስን ረቂቅ ደንብ አዘጋጀ (Draft Bill Caps Foreign Portfolio Ownership at 15pc in Listed Ethiopian Firms)",
   "የናይጄሪያው NITDA ከኃያላን የቴክኖሎጂ ኩባንያዎች ጋር በዲጂታል ኢኮኖሚ ኢንቨስትመንት ላይ ተመካከረ (NITDA and US Chamber of Commerce Explore Digital Economy Investment in Nigeria)",
-  "ጋቦን እና የአፍሪካ ህብረት በዲጂታል ትብብር እና አይሲቲ ላይ ስምምነት ተፈራረሙ (Gabon and African Union Sign Host Country Agreement on Digital Cooperation)"
+  "ጋቦን እና የአፍሪካ ህብረት በዲጂታል ትብብር እና አይሲቲ ላይ ስምምነት ተፈራረሙ (Gabon and African Union Sign Host Country Agreement on Digital Cooperation)",
+  "በአፍሪካ የገሃዱ ዓለም ሀብቶችን በብሎክቼይን የማስመዝገብ (Tokenisation) ዕድል እና ፈተናዎች ተዳሰሱ (African tokenisation could widen access to property, but ownership rights remain central to investor confidence)",
+  "ታዋቂው ባለሀብት Tim Draper የአፍሪካ መንግሥታት በ Bitcoin ላይ የተመሠረቱ ንግዶችን እንዲፈቅዱ ጥሪ አቀረቡ (Tim Draper wants African governments to allow Bitcoin-based businesses and rethink how money moves)",
+  "በአፍሪካ በስቴብልኮይን ደሞዝ መክፈል ተጨማሪ የህግና የፋይናንስ ፈተናዎች እንዳሉበት ተገለጸ (Stablecoins can move money quickly, but African employers still have to make sure workers receive the right amount)",
+  "የደቡብ አፍሪካው Naked በ AI የተደገፈ የቤት እንስሳት ዋስትና አገልግሎት ይፋ አደረገ (Naked brings AI to pet insurance)"
  ]
 }
