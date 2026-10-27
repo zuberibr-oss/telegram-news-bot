@@ -1,11 +1,5 @@
 {
  "seen": {
-  "5a876cdc5faa6041": 1791893965.8242316,
-  "0201a7a1be499f69": 1791893965.8242316,
-  "302f5b730d88a73d": 1791893965.8242316,
-  "ce9fd88f7587c5a0": 1791893965.8242316,
-  "8835a7bac844feac": 1791893965.8242316,
-  "e2ac80f24790e661": 1791893965.8242316,
   "2347457b22709b4c": 1791896091.1086993,
   "e8127cebc8f25de5": 1791896091.1086993,
   "ee5705d4bc407825": 1791896091.1086993,
@@ -1378,10 +1372,12 @@
   "5a59b97807272005": 1793103452.5267332,
   "9b5520ba6e54fc10": 1793103452.5267332,
   "436d34b2ee04d96b": 1793103452.5267332,
-  "7bb9ca766957df95": 1793103452.5267332
+  "7bb9ca766957df95": 1793103452.5267332,
+  "986b18062d7e11ec": 1793105462.8447938,
+  "3401e47cd535607d": 1793105462.8447938,
+  "ae2365389c8ce8de": 1793105462.8447938
  },
  "recent_headlines": [
-  "ቻይና ሞባይል በኬንያ የዲጂታል ኢኖቬሽን ውድድር እና የማስተካከያ ፕሮግራም ጀመረ (China Mobile International Launches Four-Month Innovation Programme in Kenya)",
   "የናይጄሪያው ፊንቴክ Raenest በስቴብልኮይን እና ቁጠባ የተደገፈ አዲስ የክፍያ አገልግሎት አቀረበ (Raenest expands beyond cross-border payments with stablecoins and savings)",
   "ኢኳቶሪያል ጊኒ አዲሱን TELGESA የተሰኘ የቴሌኮም ኩባንያ ለማቋቋም እንቅስቃሴዋን አፋጠነች (Equatorial Guinea Accelerates TELGESA Formation Ahead of October Deadline)",
   "በኬንያ የ Twiga Foods ውድቀት በምስራቅ አፍሪካ የ B2B ቴክኖሎጂ ሞዴል ፈተናዎችን አሳይቷል (The Next Wave: The high cost of cutting out the middleman)",
@@ -1420,9 +1416,11 @@
   "ካቻ ዲጂታል ፋይናንስ ከ Mastercard ጋር የ5 ዓመት የክፍያ ካርድ ስምምነት ተፈራረመ (Kacha, Mastercard Ink Deal to Expand Card Issuance in Ethiopia)",
   "በኬንያ የናይሮቢ ሰነደ መዋዕለ ንዋይ ገበያ ባለሀብቶች ቁጥር 2.36 ሚሊዮን ደረሰ (More Kenyans turn to stocks as NSE investor numbers hit 2.36 million)",
   "Cassava Technologies የ Anthropic Claude AI ሞዴሎችን በአፍሪካ ለማቅረብ የሚያስችል ፈቃድ አገኘ (Cassava Technologies Becomes Authorised Reseller of Anthropic’s Claude AI in Africa)",
-  "የሜዱሳ የባህር ስር የቴሌኮም ኬብል በሊቢያዋ ቤንጋዚ ከተማ ደረሰ (Libya’s O3 Group Announces Medusa Submarine Cable Arrival in Benghazi)"
+  "የሜዱሳ የባህር ስር የቴሌኮም ኬብል በሊቢያዋ ቤንጋዚ ከተማ ደረሰ (Libya’s O3 Group Announces Medusa Submarine Cable Arrival in Benghazi)",
+  "ኢትዮጵያ በዲጂታል ክፍያዎች 7.8 ቢሊዮን ዶላር የሚያወጡ 387 ሚሊዮን ግብይቶችን ፈጸመች (Ethiopia Processes 387 Million Digital Payment Transactions Worth $7.8 Billion in 2025 26)"
  ],
  "posted_at": [
-  1793099576.2336462
+  1793099576.2336462,
+  1793105532.939465
  ]
 }
