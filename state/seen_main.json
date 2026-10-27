@@ -1,18 +1,5 @@
 {
  "seen": {
-  "cbafa08c90febf54": 1791917175.5920792,
-  "b4c25bb42c826521": 1791917175.5920792,
-  "606f1e8f9f38c012": 1791917175.5920792,
-  "40d7b5e9f3a294f4": 1791917175.5920792,
-  "78a961f079b6482c": 1791917175.5920792,
-  "08093c9034ab476f": 1791917175.5920792,
-  "7655b885d97c838c": 1791917175.5920792,
-  "4585284cfdcfe58c": 1791917175.5920792,
-  "1dc7c01548f1b234": 1791917175.5920792,
-  "409c3c2d4d429480": 1791917175.5920792,
-  "caf746cbef3b8c55": 1791917175.5920792,
-  "c33ad4b5d4f1c7c9": 1791917175.5920792,
-  "de01bd49f0fe23e2": 1791917175.5920792,
   "06bb6a1884d5b58e": 1791918577.4708567,
   "a21bdae27d66c735": 1791918577.4708567,
   "a41211683c771eb7": 1791918577.4708567,
@@ -2706,10 +2693,16 @@
   "31bdf944e12c8bc4": 1793126158.2695124,
   "b81ffe3ed68f0199": 1793126158.2695124,
   "b401bf5278ca5f62": 1793126158.2695124,
-  "8e5c491465dec486": 1793126158.2695124
+  "8e5c491465dec486": 1793126158.2695124,
+  "ca510c39ccfee3a4": 1793128124.4090545,
+  "17b6c298bf88430a": 1793128124.4090545,
+  "cb78d5c0b81f3951": 1793128124.4090545,
+  "0beff385898782ea": 1793128124.4090545,
+  "facd558d582115cf": 1793128124.4090545,
+  "1355081b96906ca5": 1793128124.4090545,
+  "82e6b661b7087b59": 1793128124.4090545
  },
  "recent_headlines": [
-  "የተመድ መርማሪዎች እስራኤል በዌስት ባንክ በሰብዓዊነት ላይ የተፈጸሙ ወንጀሎችን ፈጽማለች አሉ (Israel committing crimes against humanity in occupied West Bank: UN)",
   "ሩሲያ በዩክሬን የኃይል መሠረተ ልማቶች ላይ የምታካሂደው ጥቃት የጦር ወንጀል ነው ተባለ (Russian attacks on Ukraine’s energy infrastructure a war crime: UN)",
   "የኢትዮጵያ ባህር ኃይል ከአካባቢው ሀገራት የባህር ኃይል አዛዦች ጋር የምክክር መድረክ ማስተናገድ ጀመረ (#Daily_Brief: #Ethiopian_Navy hosts four-day forum with regional naval commanders)",
   "ዩናይትድ ኪንግደም በሱዳን ወታደራዊ አዛዦች ላይ የጉዞ እና የሀብት ማዕቀብ ጣለች (Britain sanctions Sudanese commanders over weaponised rape)",
@@ -2748,7 +2741,8 @@
   "በትግራይ ክልል የንግድ እንቅስቃሴን ለማነቃቃትና ገበያን ለማረጋጋት የተጀመሩ ጥረቶች ተጠናክረው መቀጠላቸው ተገለጸ (Tigray Region Caretaker Administration Intensifying Efforts to Revitalize Trade and Stabilize Markets)",
   "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)",
   "በአፋር፣ አማራና ትግራይ ድርቅና የምግብ እጥረት የሰብዓዊ እርዳታ ፍላጎቱን አባባሱት (Hongeen, hanqinni nyaataa fi hanqinni soorataa daa’immanii Naannoo Affaar, Amaaraa fi Tigraay keessatti fedhii gargaarsa namoomaa hammeessaniiru)",
-  "ሉላ ዳ ሲልቫ በብራዚል የፕሬዚዳንትነት ምርጫ ማሸነፋቸው የ BRICS ስብስብን ያጠናክራል ተባለ (Lula’s victory echoes across BRICS after fears of a Bolsonaro win)"
+  "ሉላ ዳ ሲልቫ በብራዚል የፕሬዚዳንትነት ምርጫ ማሸነፋቸው የ BRICS ስብስብን ያጠናክራል ተባለ (Lula’s victory echoes across BRICS after fears of a Bolsonaro win)",
+  "ኢትዮጵያ እና ሩሲያ በኑክሌር ኃይል፣ በበረራ እና በቪዛ አገልግሎቶች ዙሪያ ተወያዩ (Raashiyaafi Itoophiyaan marii Gabbisa Humna Nookilaraa itti fufan; Balaliifi tajaajila viisaa fooyyessuurrattis mariyatan)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2765,6 +2759,7 @@
   1793112405.5353453,
   1793114059.3993208,
   1793115768.2246933,
-  1793119112.4173722
+  1793119112.4173722,
+  1793128165.1670518
  ]
 }
