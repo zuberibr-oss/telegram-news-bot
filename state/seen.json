@@ -1,12 +1,5 @@
 {
  "seen": {
-  "86ad6ad8aefa4a54": 1791902694.120485,
-  "01ec53a9fec9d3ee": 1791902694.120485,
-  "2cf541194f9f7f92": 1791902694.120485,
-  "2ba15b9a94b7f2ae": 1791902694.120485,
-  "cf4f4ec00afc5a82": 1791902694.120485,
-  "f4a1da8952d15b96": 1791902694.120485,
-  "b4227c8b125382a7": 1791902694.120485,
   "97766660481cd2bd": 1791904368.5985196,
   "e5e0b21002d594fa": 1791904368.5985196,
   "14a2e3b76f217b3c": 1791904368.5985196,
@@ -1351,10 +1344,19 @@
   "28435a9f2955dba6": 1793106954.9669347,
   "b7f6983002205992": 1793106954.9669347,
   "75fb23862f234dee": 1793108591.0454934,
-  "32fdda0737685a72": 1793110421.980082
+  "32fdda0737685a72": 1793110421.980082,
+  "c3026c53b0401cb1": 1793112242.695966,
+  "3eda8dbd0d07cb1b": 1793112242.695966,
+  "36059ef8f6005ffd": 1793112242.695966,
+  "ad544002d3431b55": 1793112242.695966,
+  "ea92c3fe08a53fa9": 1793112242.695966,
+  "1b3afe5c1c2c691d": 1793112242.695966,
+  "7361934e5553db51": 1793112242.695966,
+  "ee087e6d27769cf9": 1793112242.695966,
+  "96c2090e05c42dcf": 1793112242.695966,
+  "ef810a6dfaa5f53f": 1793112242.695966
  },
  "recent_headlines": [
-  "ኢኳቶሪያል ጊኒ አዲሱን TELGESA የተሰኘ የቴሌኮም ኩባንያ ለማቋቋም እንቅስቃሴዋን አፋጠነች (Equatorial Guinea Accelerates TELGESA Formation Ahead of October Deadline)",
   "በኬንያ የ Twiga Foods ውድቀት በምስራቅ አፍሪካ የ B2B ቴክኖሎጂ ሞዴል ፈተናዎችን አሳይቷል (The Next Wave: The high cost of cutting out the middleman)",
   "ኬንያ የቴክኖሎጂ ዲፕሎማሲን የውጭ ፖሊሲዋ ዋና አካል አደረገች (Kenya puts tech diplomacy at heart of foreign policy)",
   "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን ዶላር ለንግድ ባንኮች በሐራጅ ሊያቀርብ ነው (National Bank to Inject $140 Million into Banking System in Latest FX Auction)",
@@ -1393,11 +1395,13 @@
   "Cassava Technologies የ Anthropic Claude AI ሞዴሎችን በአፍሪካ ለማቅረብ የሚያስችል ፈቃድ አገኘ (Cassava Technologies Becomes Authorised Reseller of Anthropic’s Claude AI in Africa)",
   "የሜዱሳ የባህር ስር የቴሌኮም ኬብል በሊቢያዋ ቤንጋዚ ከተማ ደረሰ (Libya’s O3 Group Announces Medusa Submarine Cable Arrival in Benghazi)",
   "ኢትዮጵያ በዲጂታል ክፍያዎች 7.8 ቢሊዮን ዶላር የሚያወጡ 387 ሚሊዮን ግብይቶችን ፈጸመች (Ethiopia Processes 387 Million Digital Payment Transactions Worth $7.8 Billion in 2025 26)",
-  "Mastercard በኢትዮጵያ የዲጂታል ክፍያ ደህንነትን ለማጠናከር የ AI እና ቶከናይዜሽን ቴክኖሎጂ አስተዋወቀ (Mastercard Introduces AI and Tokenization to Enhance Digital Payment Security in Ethiopia)"
+  "Mastercard በኢትዮጵያ የዲጂታል ክፍያ ደህንነትን ለማጠናከር የ AI እና ቶከናይዜሽን ቴክኖሎጂ አስተዋወቀ (Mastercard Introduces AI and Tokenization to Enhance Digital Payment Security in Ethiopia)",
+  "የኢትዮጵያ ብሔራዊ ባንክ በ31ኛው የውጭ ምንዛሬ ሐራጅ አማካይ ተመን 159.70 ብር ሆነ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)"
  ],
  "posted_at": [
   1793099576.2336462,
   1793105532.939465,
-  1793110484.8983612
+  1793110484.8983612,
+  1793112339.849424
  ]
 }
