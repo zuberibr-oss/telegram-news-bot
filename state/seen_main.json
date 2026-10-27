@@ -1,13 +1,5 @@
 {
  "seen": {
-  "72c6d9207596829c": 1791904433.4319015,
-  "373a48d4eab980ac": 1791904433.4319015,
-  "7abb49f80ba00574": 1791904433.4319015,
-  "be21b67492a9fb74": 1791904433.4319015,
-  "c9c7d2c7042884b8": 1791904433.4319015,
-  "ffd6ea10bbf6c23a": 1791904433.4319015,
-  "75fde82a3f997965": 1791904433.4319015,
-  "14a2e3b76f217b3c": 1791904433.4319015,
   "43051003b016ffa6": 1791906230.8576765,
   "99f4fd5c5f3ec5a5": 1791906230.8576765,
   "0335ad38100aa777": 1791906230.8576765,
@@ -2711,10 +2703,13 @@
   "621841ca1143d877": 1793112340.0678253,
   "e07289df461e0f4b": 1793112340.0678253,
   "ef810a6dfaa5f53f": 1793112340.0678253,
-  "ea92c3fe08a53fa9": 1793112340.0678253
+  "ea92c3fe08a53fa9": 1793112340.0678253,
+  "89af16199b306cdf": 1793114034.4259408,
+  "2cfd5305f6abbe9a": 1793114034.4259408,
+  "cf83951218027935": 1793114034.4259408,
+  "a9a34a1ac344d7b1": 1793114034.4259408
  },
  "recent_headlines": [
-  "ኢትዮጵያ በጋራ ወንዞች ላይ የውኃ ዲፕሎማሲ እንዲጠናከር ጥሪ አቀረበች (Ethiopia calls for hydro-diplomacy on shared rivers as Egypt’s El-Sisi reiterates water security is a ‘red line’)",
   "Anthropic ወደ አክሲዮን ገበያ ከመግባቱ በፊት የኤአይ የህልውና ስጋት ሊደቅን እንደሚችል አስጠነቀቀ (Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing)",
   "የግብጽ ምክር ቤት ለሳውዲ አረቢያ የወታደራዊ ድጋፍ ለመስጠት የሚያስችለውን ውሳኔ አጸደቀ (Egyptian parliament authorises military aid for Saudi Arabia)",
   "የተመድ መርማሪዎች እስራኤል በዌስት ባንክ በሰብዓዊነት ላይ የተፈጸሙ ወንጀሎችን ፈጽማለች አሉ (Israel committing crimes against humanity in occupied West Bank: UN)",
@@ -2753,7 +2748,8 @@
   "በካርቱም በተፈጸመ የድሮን ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ፤ ጥቃቱ ከኢትዮጵያ መሰንዘሩ ተጠቆመ (Daily_Brief: #Sudan reports power outages across #Khartoum following drone attacks, with reports linking launches to #Ethiopia)",
   "የፊንላንድ እና ኖርዌይ መሪዎች ከ Vladimir Putin ጋር በስልክ ተወያዩ (Norway and Finland leaders hold rare call with Putin)",
   "የኢትዮጵያ ብሔራዊ ባንክ በውጭ ምንዛሬ ጨረታ የዶላር አማካይ ተመን መቀነሱን አስታወቀ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
-  "በትግራይ ክልል የንግድ እንቅስቃሴን ለማነቃቃትና ገበያን ለማረጋጋት የተጀመሩ ጥረቶች ተጠናክረው መቀጠላቸው ተገለጸ (Tigray Region Caretaker Administration Intensifying Efforts to Revitalize Trade and Stabilize Markets)"
+  "በትግራይ ክልል የንግድ እንቅስቃሴን ለማነቃቃትና ገበያን ለማረጋጋት የተጀመሩ ጥረቶች ተጠናክረው መቀጠላቸው ተገለጸ (Tigray Region Caretaker Administration Intensifying Efforts to Revitalize Trade and Stabilize Markets)",
+  "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2767,6 +2763,7 @@
   1793108701.1305292,
   1793108704.5305717,
   1793112402.1012716,
-  1793112405.5353453
+  1793112405.5353453,
+  1793114059.3993208
  ]
 }
