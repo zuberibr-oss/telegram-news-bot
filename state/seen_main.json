@@ -1,11 +1,5 @@
 {
  "seen": {
-  "00d143ba04f2dee2": 1791929411.14716,
-  "ad86d182def3c41e": 1791929411.14716,
-  "196474c8716cd217": 1791929411.14716,
-  "d97bd549261d5cf3": 1791929411.14716,
-  "aac9b53c020c999f": 1791929411.14716,
-  "b14c0ff6c6bf6db2": 1791929411.14716,
   "ce005c06b282aa02": 1791931048.320897,
   "a5e5cb21a0f84563": 1791931048.320897,
   "ee162c5bfc42c956": 1791931048.320897,
@@ -2703,10 +2697,17 @@
   "51e06cb1c629df1e": 1793137000.2014496,
   "24e54e0dd91408d0": 1793137000.2014496,
   "391c8f00ac413089": 1793137000.2014496,
-  "2f6e402a5d4eaed8": 1793137000.2014496
+  "2f6e402a5d4eaed8": 1793137000.2014496,
+  "70937d62e0102c67": 1793138954.394787,
+  "97e1a4546c4a31e4": 1793138954.394787,
+  "dbd5cb431270688f": 1793138954.394787,
+  "c437e0d7eeba36d9": 1793138954.394787,
+  "c11ce204d0b3d64a": 1793138954.394787,
+  "766e8fdfe9500d0d": 1793138954.394787,
+  "5a6328ee06383b9b": 1793138954.394787,
+  "9246d1b4b53bd187": 1793138954.394787
  },
  "recent_headlines": [
-  "የኢትዮጵያ ባህር ኃይል ከአካባቢው ሀገራት የባህር ኃይል አዛዦች ጋር የምክክር መድረክ ማስተናገድ ጀመረ (#Daily_Brief: #Ethiopian_Navy hosts four-day forum with regional naval commanders)",
   "ዩናይትድ ኪንግደም በሱዳን ወታደራዊ አዛዦች ላይ የጉዞ እና የሀብት ማዕቀብ ጣለች (Britain sanctions Sudanese commanders over weaponised rape)",
   "ኢትዮጵያ የ2027ቱን ዓለም አቀፍ የሎጅስቲክስ ጉባዔ ለማስተናገድ የዘርፉን አፈጻጸም ለማሻሻል እየሠራች ነው (Ethiopia seeks better logistics ranking ahead of 2027 FIATA Congress)",
   "በፍሪደም ሀውስ የኢንተርኔት ነጻነት ሪፖርት ኢትዮጵያ \"ነጻ ያልሆነች\" ተብላ ተፈረጀች (Ethiopia ranked “Not Free” in freedom house’s 2026 report with a dismal score of 30)",
@@ -2745,7 +2746,8 @@
   "በአፋር፣ አማራና ትግራይ ድርቅና የምግብ እጥረት የሰብዓዊ እርዳታ ፍላጎቱን አባባሱት (Hongeen, hanqinni nyaataa fi hanqinni soorataa daa’immanii Naannoo Affaar, Amaaraa fi Tigraay keessatti fedhii gargaarsa namoomaa hammeessaniiru)",
   "ሉላ ዳ ሲልቫ በብራዚል የፕሬዚዳንትነት ምርጫ ማሸነፋቸው የ BRICS ስብስብን ያጠናክራል ተባለ (Lula’s victory echoes across BRICS after fears of a Bolsonaro win)",
   "ኢትዮጵያ እና ሩሲያ በኑክሌር ኃይል፣ በበረራ እና በቪዛ አገልግሎቶች ዙሪያ ተወያዩ (Raashiyaafi Itoophiyaan marii Gabbisa Humna Nookilaraa itti fufan; Balaliifi tajaajila viisaa fooyyessuurrattis mariyatan)",
-  "በእስራኤል ምርጫ የተሰበሰቡ የመጀመሪያ ደረጃ መረጃዎች ግልጽ አሸናፊ አለመኖሩን አመለከቱ (Exit polls following Israeli elections indicate no clear winner)"
+  "በእስራኤል ምርጫ የተሰበሰቡ የመጀመሪያ ደረጃ መረጃዎች ግልጽ አሸናፊ አለመኖሩን አመለከቱ (Exit polls following Israeli elections indicate no clear winner)",
+  "የብራዚሉ ሴናተር Flavio Bolsonaro ከምርጫው ሽንፈት በኋላ ወደ አሜሪካ ኮበለሉ (Flavio Bolsonaro flees Brazil after election loss, US says will grant visa)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2764,6 +2766,7 @@
   1793115768.2246933,
   1793119112.4173722,
   1793128165.1670518,
-  1793133393.4668338
+  1793133393.4668338,
+  1793139035.818904
  ]
 }
