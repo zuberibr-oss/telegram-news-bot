@@ -1,14 +1,5 @@
 {
  "seen": {
-  "f94142216d2b28bb": 1791881532.767323,
-  "877074cf1ec237e1": 1791881532.767323,
-  "96eff6240fbf30a1": 1791881532.767323,
-  "4e987bfead8a4ff2": 1791881532.767323,
-  "f691d3ebee46e26a": 1791881532.767323,
-  "579936cf26dfeb77": 1791881532.767323,
-  "1d06c855d4dc63bc": 1791881532.767323,
-  "977a8205022b8dcc": 1791881532.767323,
-  "4ed61a3b2101e556": 1791881532.767323,
   "e685c155f5eac13a": 1791884724.5207431,
   "66078658e8394b8a": 1791884724.5207431,
   "b65c42bc37a9c7c6": 1791884724.5207431,
@@ -1358,13 +1349,16 @@
   "cf477a29c33bf84b": 1793090779.3071673,
   "e678a3dab26c7e96": 1793090779.3071673,
   "79ed130702a577f3": 1793090779.3071673,
-  "8db210ce9ee0c478": 1793090779.3071673
+  "8db210ce9ee0c478": 1793090779.3071673,
+  "78771d65d34fe96a": 1793092406.47648,
+  "5d44482c4770b6a2": 1793092406.47648,
+  "778737d9ca561ed1": 1793092406.47648,
+  "76646c36adf8b6eb": 1793092406.47648,
+  "54aefe9c8a53ff42": 1793092406.47648,
+  "45e2a04170132c52": 1793092406.47648,
+  "7e900cb9ba07aed2": 1793092406.47648
  },
  "recent_headlines": [
-  "የ Maroc Telecom የዘጠኝ ወራት ገቢ 28.68 ቢሊዮን ዲርሃም ደረሰ (Maroc Telecom Group Revenue Rises 5.1% to MAD 28.68 Billion in Q3 2026)",
-  "የኢኖቬሽን እና ቴክኖሎጂ ሚኒስቴር ከአምስት ዓመት ስትራቴጂክ ዕቅዱ በፊት የተቋማት አቅምን ገመገመ (Ethiopia’s Innovation Ministry Reviews Institutional Capacity Ahead of Five-Year Strategic Plan)",
-  "EBANX በናይጄሪያ ለሚገኙ ዓለም አቀፍ የደንበኝነት ክፍያዎች የ OPay አገልግሎትን አስተዋወቀ (EBANX Integrates OPay Direct Debit for Global Subscription Payments in Nigeria)",
-  "ኢትዮ ቴሌኮም የ LTE ኔትወርክ አገልግሎቱን ወደ ተጨማሪ 80 ከተሞች አሰፋ (Ethio Telecom extends LTE to 80 more towns)",
   "የ Apple የመጀመሪያው ተጣጣፊ ስልክ iPhone Duo በደቡብ አፍሪካ ተሸጦ አለቀ (Foldable iPhone sells out across iStores in SA on launch day)",
   "የሩዋንዳ የሳይበር ደህንነት ባለስልጣን ከ Airtel እና MTN ጋር አብሮ ለመስራት ተስማማ (Rwanda cyber authority boosts security with Airtel, MTN)",
   "ሳፋሪኮም በኬንያ የቤት ውስጥ ፋይበር እና የሞባይል አገልግሎቶችን ያቀናጀ አዲስ ጥቅል ይፋ አደረገ (Safaricom lets fibre users share data with up to family members)",
@@ -1400,6 +1394,10 @@
   "ኢትዮጵያ በ Safaricom የዲጂታል ማስፋፋት እንቅስቃሴ የተባበሩት መንግሥታት የኢንቨስትመንት ሽልማት አሸነፈች (Ethiopia Earns UN Investment Award With Focus On Safaricom's Digital Expansion)",
   "ኢትዮጵያ በዓለም ባንክ ድጋፍ ያለ ኢንተርኔት የሚሠራ የ AI መምህራን ረዳት ይፋ አደረገች (Ethiopia Launches Offline AI Teacher Assistant in National Push, Backed by World Bank)",
   "Paratus Kenya በኪሱሙ ለሚገኙ 160 የጤና ተቋማት የኢንተርኔት ፍላጎት ጥናት አደረገ (Paratus Kenya Assesses Connectivity Needs at 160 Healthcare Facilities in Kisumu)",
-  "የደቡብ አፍሪካው የክፍያ ተቋም CrissCross ከ Circle Ventures ኢንቨስትመንት አገኘ (South Africa’s CrissCross raises undisclosed Circle Ventures investment in stablecoin push)"
+  "የደቡብ አፍሪካው የክፍያ ተቋም CrissCross ከ Circle Ventures ኢንቨስትመንት አገኘ (South Africa’s CrissCross raises undisclosed Circle Ventures investment in stablecoin push)",
+  "Datacentrix እና Utimaco በአፍሪካ የሳይበር ደህንነትን ለማጠናከር ተጣመሩ (Datacentrix, Utimaco join forces to boost data security and digital trust across Africa)",
+  "የናይሮቢ ኢንተርናሽናል ፋይናንስ ሴንተር ለቴክኖሎጂና AI 250 ሚሊዮን ዶላር ፈንድ ሊያቋቁም ነው (NIFCA plans $250 million fund as Kenya confronts the question of who finances African innovation)",
+  "በአፍሪካ ሀገር አቀፍ የክፍያ ስርዓቶች ቢጎለብቱም ድንበር ተሻጋሪ ዝውውር አሁንም ፈታኝ ነው (Africa has built sophisticated domestic payment systems, but businesses still struggle to move money across borders)",
+  "በደቡብ አፍሪካ የፋይበር ኢንተርኔት መሠረተ ልማት ያላቸው መኖሪያ ቤቶች ግንባታ ሙከራ ተጀመረ (Fibre-ready housing trial kicks-off in KZN)"
  ]
 }
