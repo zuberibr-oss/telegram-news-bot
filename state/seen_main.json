@@ -1,11 +1,5 @@
 {
  "seen": {
-  "2bc889477fe27349": 1791922346.8371844,
-  "c5a659e32e9b865b": 1791922346.8371844,
-  "3e79393fcc977b02": 1791922346.8371844,
-  "0dbc677399b8b3fc": 1791922346.8371844,
-  "a464026204b7615b": 1791922346.8371844,
-  "c2a245ef84f93c49": 1791922346.8371844,
   "cd3dcd441211f505": 1791924118.0550554,
   "fa4fe05c3f48d66c": 1791924118.0550554,
   "7a8eb5a0c19b25c9": 1791924118.0550554,
@@ -2706,10 +2700,13 @@
   "0d1a358e238a361c": 1793131839.8617816,
   "e6b8623fc4d614f7": 1793131839.8617816,
   "48b75e43800b471a": 1793131839.8617816,
-  "3f5ed90befa7104e": 1793131839.8617816
+  "3f5ed90befa7104e": 1793131839.8617816,
+  "624e93575a0202f2": 1793133337.8216803,
+  "317b547b505f543b": 1793133337.8216803,
+  "333e52874acf6dac": 1793133337.8216803,
+  "031b6844022c6c2f": 1793133337.8216803
  },
  "recent_headlines": [
-  "ሩሲያ በዩክሬን የኃይል መሠረተ ልማቶች ላይ የምታካሂደው ጥቃት የጦር ወንጀል ነው ተባለ (Russian attacks on Ukraine’s energy infrastructure a war crime: UN)",
   "የኢትዮጵያ ባህር ኃይል ከአካባቢው ሀገራት የባህር ኃይል አዛዦች ጋር የምክክር መድረክ ማስተናገድ ጀመረ (#Daily_Brief: #Ethiopian_Navy hosts four-day forum with regional naval commanders)",
   "ዩናይትድ ኪንግደም በሱዳን ወታደራዊ አዛዦች ላይ የጉዞ እና የሀብት ማዕቀብ ጣለች (Britain sanctions Sudanese commanders over weaponised rape)",
   "ኢትዮጵያ የ2027ቱን ዓለም አቀፍ የሎጅስቲክስ ጉባዔ ለማስተናገድ የዘርፉን አፈጻጸም ለማሻሻል እየሠራች ነው (Ethiopia seeks better logistics ranking ahead of 2027 FIATA Congress)",
@@ -2748,7 +2745,8 @@
   "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)",
   "በአፋር፣ አማራና ትግራይ ድርቅና የምግብ እጥረት የሰብዓዊ እርዳታ ፍላጎቱን አባባሱት (Hongeen, hanqinni nyaataa fi hanqinni soorataa daa’immanii Naannoo Affaar, Amaaraa fi Tigraay keessatti fedhii gargaarsa namoomaa hammeessaniiru)",
   "ሉላ ዳ ሲልቫ በብራዚል የፕሬዚዳንትነት ምርጫ ማሸነፋቸው የ BRICS ስብስብን ያጠናክራል ተባለ (Lula’s victory echoes across BRICS after fears of a Bolsonaro win)",
-  "ኢትዮጵያ እና ሩሲያ በኑክሌር ኃይል፣ በበረራ እና በቪዛ አገልግሎቶች ዙሪያ ተወያዩ (Raashiyaafi Itoophiyaan marii Gabbisa Humna Nookilaraa itti fufan; Balaliifi tajaajila viisaa fooyyessuurrattis mariyatan)"
+  "ኢትዮጵያ እና ሩሲያ በኑክሌር ኃይል፣ በበረራ እና በቪዛ አገልግሎቶች ዙሪያ ተወያዩ (Raashiyaafi Itoophiyaan marii Gabbisa Humna Nookilaraa itti fufan; Balaliifi tajaajila viisaa fooyyessuurrattis mariyatan)",
+  "በእስራኤል ምርጫ የተሰበሰቡ የመጀመሪያ ደረጃ መረጃዎች ግልጽ አሸናፊ አለመኖሩን አመለከቱ (Exit polls following Israeli elections indicate no clear winner)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2766,6 +2764,7 @@
   1793114059.3993208,
   1793115768.2246933,
   1793119112.4173722,
-  1793128165.1670518
+  1793128165.1670518,
+  1793133393.4668338
  ]
 }
