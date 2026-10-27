@@ -1,7 +1,5 @@
 {
  "seen": {
-  "b01af13f3e9d0ce9": 1791920239.5421464,
-  "7f55838c5b739306": 1791920239.5421464,
   "a1a63771e9d6c7e3": 1791922314.598467,
   "4ffdf03759249d81": 1791927380.1250722,
   "ce1348404b634ba1": 1791940037.9439812,
@@ -1346,10 +1344,10 @@
   "65803cba6c7892fc": 1793119000.6197414,
   "bc2a27a1db05699d": 1793122522.3757267,
   "649d6e467fc00e73": 1793124612.82056,
-  "a3dc38b9b35204f2": 1793126100.0358613
+  "a3dc38b9b35204f2": 1793126100.0358613,
+  "de4783d0d70e8fcf": 1793131777.0160477
  },
  "recent_headlines": [
-  "በኬንያ የ Twiga Foods ውድቀት በምስራቅ አፍሪካ የ B2B ቴክኖሎጂ ሞዴል ፈተናዎችን አሳይቷል (The Next Wave: The high cost of cutting out the middleman)",
   "ኬንያ የቴክኖሎጂ ዲፕሎማሲን የውጭ ፖሊሲዋ ዋና አካል አደረገች (Kenya puts tech diplomacy at heart of foreign policy)",
   "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን ዶላር ለንግድ ባንኮች በሐራጅ ሊያቀርብ ነው (National Bank to Inject $140 Million into Banking System in Latest FX Auction)",
   "Moniepoint መዋቅራዊ ለውጥ በማድረግ በኢንጂነሪንግ ክፍሎቹ ላይ የሰራተኞች ቅነሳ አደረገ (Just In: Moniepoint to cut some Engineering, Product roles in major restructuring)",
@@ -1388,12 +1386,14 @@
   "የሜዱሳ የባህር ስር የቴሌኮም ኬብል በሊቢያዋ ቤንጋዚ ከተማ ደረሰ (Libya’s O3 Group Announces Medusa Submarine Cable Arrival in Benghazi)",
   "ኢትዮጵያ በዲጂታል ክፍያዎች 7.8 ቢሊዮን ዶላር የሚያወጡ 387 ሚሊዮን ግብይቶችን ፈጸመች (Ethiopia Processes 387 Million Digital Payment Transactions Worth $7.8 Billion in 2025 26)",
   "Mastercard በኢትዮጵያ የዲጂታል ክፍያ ደህንነትን ለማጠናከር የ AI እና ቶከናይዜሽን ቴክኖሎጂ አስተዋወቀ (Mastercard Introduces AI and Tokenization to Enhance Digital Payment Security in Ethiopia)",
-  "የኢትዮጵያ ብሔራዊ ባንክ በ31ኛው የውጭ ምንዛሬ ሐራጅ አማካይ ተመን 159.70 ብር ሆነ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)"
+  "የኢትዮጵያ ብሔራዊ ባንክ በ31ኛው የውጭ ምንዛሬ ሐራጅ አማካይ ተመን 159.70 ብር ሆነ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
+  "M-Pesa በቀን 114 ቢሊዮን የኬንያ ሽልንግ የሚያወጡ ግብይቶችን እያከናወነ ነው (M-Pesa Processes Ksh114 Billion in Transactions Per Day, Safaricom Report Shows)"
  ],
  "posted_at": [
   1793099576.2336462,
   1793105532.939465,
   1793110484.8983612,
-  1793112339.849424
+  1793112339.849424,
+  1793131839.6063943
  ]
 }
