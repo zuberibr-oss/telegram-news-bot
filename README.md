@@ -8,7 +8,7 @@ One bot runs two channels, each with its own feed list, editorial brief and seen
 
 | Profile | Channel | Covers | Feeds | State |
 |---|---|---|---|---|
-| `tech` | `TELEGRAM_CHANNEL` secret | African/Ethiopian tech, startups, fintech, telecom | `feeds.txt` | `state/seen.json` |
+| `tech` | `TELEGRAM_CHANNEL` secret | Major African/Ethiopian tech, startups, fintech, telecom stories only (1-5 a day) | `feeds.txt` | `state/seen.json` |
 | `main` | `@enxmain` | Ethiopian news + major world news | `feeds_main.txt` | `state/seen_main.json` |
 
 ## Setup (about 15 minutes)
@@ -35,7 +35,8 @@ To use Claude instead, create a key at console.anthropic.com and set `ANTHROPIC_
 3. Optional, same page under **Variables**:
    - `MODEL` (comma-separated fallback list; default `gemini-3.5-flash,gemini-2.5-flash,gemini-3.6-flash,gemini-3.7-flash,gemini-3.8-flash`,
      or `claude-sonnet-5-5` when using Claude)
-   - `MAX_POSTS_PER_RUN` (default `4`)
+   - `MAX_POSTS_PER_RUN` (tech channel; default `1`)
+   - `MAX_POSTS_PER_DAY` (tech channel; default `5`, counted per calendar day in Addis Ababa time)
    - `CHANNEL_SIGNATURE` (e.g. `@yourchannel`, added to the bottom of each post)
    - For the main channel: `TELEGRAM_CHANNEL_MAIN` (default `@enxmain`), `MAX_POSTS_PER_RUN_MAIN`
      (default `4`) and `CHANNEL_SIGNATURE_MAIN`. To give it its own Gemini quota, add a
@@ -58,6 +59,7 @@ seen, so the channel doesn't get flooded.
 | Change the writing style (both channels) | `WRITING_RULES` in `news_bot.py` |
 | Post more or less often | the `cron` line in `.github/workflows/news.yml` |
 | Fewer/more posts per run | `MAX_POSTS_PER_RUN` / `MAX_POSTS_PER_RUN_MAIN` variable |
+| Change the tech channel's daily limit | `MAX_POSTS_PER_DAY` variable (`0` = no limit) |
 | Test a feed list | `python news_bot.py --check-feeds` |
 | Preview posts without sending | `python news_bot.py --dry-run` (needs only `GEMINI_API_KEY`) |
 | Add another channel | a `PROFILES` entry, an `EDITORIAL` brief and a feed list in `news_bot.py`, plus a step in `news.yml` |

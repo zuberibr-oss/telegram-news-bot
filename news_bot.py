@@ -21,7 +21,8 @@ Environment variables:
   ANTHROPIC_API_KEY    optional  use Claude instead (only when GEMINI_API_KEY is unset)
   MODEL                optional  comma-separated fallback list; see DEFAULT_MODELS
   MAX_POSTS_PER_RUN    optional  default 4
-  MAX_LLM_CALLS        optional  default 20 (cap on items evaluated per run)
+  MAX_POSTS_PER_DAY    optional  default 0 (no limit); counted per calendar day in Addis Ababa time
+  MAX_LLM_CALLS       optional  default 20 (cap on items evaluated per run)
   MAX_AGE_HOURS        optional  default 36 (ignore older items)
   CHANNEL_SIGNATURE    optional  e.g. "@yourchannel" appended to each post
 
@@ -74,6 +75,8 @@ DEFAULT_MODELS = {"gemini": "gemini-3.5-flash,gemini-2.5-flash,gemini-3.6-flash,
 MODELS = [m.strip() for m in (os.getenv("MODEL") or DEFAULT_MODELS[PROVIDER]).split(",") if m.strip()]
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 MAX_POSTS_PER_RUN = int(os.getenv("MAX_POSTS_PER_RUN", "4"))
+MAX_POSTS_PER_DAY = int(os.getenv("MAX_POSTS_PER_DAY", "0"))  # 0 = no daily limit
+DAY_UTC_OFFSET = 3 * 3600  # the daily limit resets at midnight Addis Ababa time (UTC+3, no DST)
 MAX_LLM_CALLS = int(os.getenv("MAX_LLM_CALLS", "20"))
 MAX_AGE_HOURS = float(os.getenv("MAX_AGE_HOURS", "36"))
 MIN_ARTICLE_CHARS = 400  # shorter "full text" is really just a teaser
@@ -261,10 +264,16 @@ def save_state(state: dict) -> None:
     cutoff = time.time() - SEEN_RETENTION_DAYS * 86400
     state["seen"] = {k: v for k, v in state["seen"].items() if v >= cutoff}
     state["recent_headlines"] = state["recent_headlines"][-RECENT_HEADLINES_KEPT:]
+    state["posted_at"] = [t for t in state.get("posted_at", []) if t >= time.time() - 2 * 86400]
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
     tmp = STATE_FILE.with_suffix(".tmp")
     tmp.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
     tmp.replace(STATE_FILE)
+
+
+def posts_today(state: dict, now: float) -> int:
+    day_start = (now + DAY_UTC_OFFSET) // 86400 * 86400 - DAY_UTC_OFFSET
+    return sum(1 for t in state.get("posted_at", []) if t >= day_start)
 
 
 # --------------------------------------------------------------------------- #
@@ -275,14 +284,24 @@ startups, fintech, telecom and digital policy for Ethiopian readers.
 
 For each story you receive, decide whether to publish it and, if so, write the post.
 
-PUBLISH stories about: Ethiopian tech, startups, fintech, mobile money (Telebirr, M-Pesa, CBE Birr, \
-Chapa etc.), telecom (Ethio Telecom, Safaricom Ethiopia), banking technology, digital ID (Fayda), \
-e-commerce, AI, internet access, tech regulation and investment in Ethiopia or Africa, and major global \
-tech news that matters to African builders or users.
+The channel is deliberately selective: it posts only 1 to 5 stories a day, so most stories you see should \
+be skipped. Publish only major news, the kind a well-informed Ethiopian tech reader would be sorry to have \
+missed that day. When unsure whether a story is major enough, skip it.
 
-DO NOT PUBLISH: sponsored posts, press releases dressed as news, crypto price/token promotion, \
-generic politics, crime, sports, entertainment, or anything without a clear technology/business angle. \
-Also reject any story that covers the same event as one of the recently published headlines provided.
+PUBLISH major stories about: Ethiopian tech, startups, fintech, mobile money (Telebirr, M-Pesa, CBE Birr, \
+Chapa etc.), telecom (Ethio Telecom, Safaricom Ethiopia), banking technology, digital ID (Fayda), \
+e-commerce, AI, internet access, tech regulation and investment in Ethiopia or Africa. Major means things \
+like new laws, directives and licences; market entries and exits; large funding rounds, acquisitions and \
+investments; launches and price changes that affect many users; significant outages or shutdowns; financial \
+results of the big players. Global tech news only when it is a landmark story that matters to African \
+builders or users (a major AI release, a big platform policy change, a deal that reshapes the industry).
+
+DO NOT PUBLISH: minor product updates and feature tweaks, small or seed funding rounds outside Ethiopia, \
+partnerships and MoUs with no concrete outcome, events, conferences, hackathons and accelerator cohorts, \
+listicles, how-tos, opinion and interviews, routine company news from outside Africa, sponsored posts, \
+press releases dressed as news, crypto price/token promotion, generic politics, crime, sports, \
+entertainment, or anything without a clear technology/business angle. Also reject any story that covers \
+the same event as one of the recently published headlines provided.
 
 OFFICIAL SOURCES: items from the National Bank of Ethiopia, Ethio Telecom or Safaricom are first-party \
 announcements, not disguised press releases. Publish them when they are real news for the sector: new \
@@ -532,6 +551,16 @@ def run(dry_run: bool) -> int:
             state["seen"][it.uid] = now
         queue = keep
 
+    post_limit = MAX_POSTS_PER_RUN
+    if MAX_POSTS_PER_DAY:
+        done_today = posts_today(state, now)
+        post_limit = min(post_limit, MAX_POSTS_PER_DAY - done_today)
+        log(f"[run] {done_today}/{MAX_POSTS_PER_DAY} posted today")
+        if post_limit <= 0:
+            # Leave the queue unseen: anything still fresh enough gets a chance tomorrow.
+            log("[run] daily limit reached; not evaluating until tomorrow")
+            queue = []
+
     if not queue:
         if not dry_run:
             save_state(state)
@@ -547,7 +576,7 @@ def run(dry_run: bool) -> int:
     llm_calls = 0
 
     for it in queue:
-        if len(approved) >= MAX_POSTS_PER_RUN or llm_calls >= MAX_LLM_CALLS:
+        if len(approved) >= post_limit or llm_calls >= MAX_LLM_CALLS:
             break  # leave the rest unseen for the next run
         llm_calls += 1
         if not it.article:
@@ -589,6 +618,7 @@ def run(dry_run: bool) -> int:
             time.sleep(3)
         posted += 1
         state["seen"][it.uid] = now
+        state.setdefault("posted_at", []).append(time.time())
         state["recent_headlines"].append(f"{decision['headline_am']} ({it.title})")
         if not dry_run:
             save_state(state)  # save after every post so a crash can't double-post
