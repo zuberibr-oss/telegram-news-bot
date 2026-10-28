@@ -1,19 +1,5 @@
 {
  "seen": {
-  "80afd83560c716f6": 1792012263.5432003,
-  "8f32e6d48de05ad8": 1792012263.5432003,
-  "2830cb0f85d5e285": 1792012263.5432003,
-  "841fe74e08a7736c": 1792012263.5432003,
-  "365175afee09ffd4": 1792012263.5432003,
-  "17257d203a6c05f3": 1792012263.5432003,
-  "217c6e6258b2b9c4": 1792012263.5432003,
-  "a54a7272e182c65f": 1792012263.5432003,
-  "0923787c5d28e4f7": 1792012263.5432003,
-  "7b14694a2d20947c": 1792013842.613731,
-  "f1c520c613d002af": 1792013842.613731,
-  "a9b3b74e99bdb2ff": 1792013842.613731,
-  "b32f62bfff099811": 1792013842.613731,
-  "8111adf25ea68103": 1792013842.613731,
   "5f719bb5765150b2": 1792015842.2893019,
   "99c0454708705559": 1792015842.2893019,
   "c7bd87927c9ec886": 1792015842.2893019,
@@ -2612,12 +2598,19 @@
   "63e376cd14e34658": 1793221751.8075674,
   "5c9414c31f611405": 1793221751.8075674,
   "e72a42e20ed5d17a": 1793221751.8075674,
-  "41f776ca89b2fd4d": 1793221751.8075674
+  "41f776ca89b2fd4d": 1793221751.8075674,
+  "fd401c546c4da0e5": 1793223445.0807161,
+  "b5675e2fe72e1f63": 1793223445.0807161,
+  "0d89ad351c0575fe": 1793223445.0807161,
+  "576a95a24005b080": 1793223445.0807161,
+  "5df2c0dc7bf31458": 1793223445.0807161,
+  "c56cff9e74d38ff9": 1793223445.0807161,
+  "4ea45cb1c161b028": 1793223445.0807161,
+  "f368210c2aaeea51": 1793223445.0807161,
+  "29ce1475dbf4b522": 1793223445.0807161,
+  "d32174ce77aa4fc8": 1793223445.0807161
  },
  "recent_headlines": [
-  "ኢትዮጵያ የብሔራዊ ኤሌክትሪክ አቅርቦት ፕሮግራም ሦስተኛ ምዕራፍን (NEP 3.0) ይፋ አደረገች (Ethiopia Unveils NEP 3.0 to Link Electricity Access with Productivity and Economic Growth)",
-  "በሱማሊያ የሦስት አሥርታት የተመድ ተልዕኮ ሥራውን ሊያጠናቅቅ ነው (After three decades, UN mission in Somalia prepares to close operations)",
-  "ደቡብ ሱዳን ውስጥ በተፈጸመ የከብት ዘረፋ ጥቃት ቢያንስ 72 ሰዎች ተገደሉ (Co-ordinated cattle raids kill at least 72 people in South Sudan)",
   "በዲሞክራቲክ ሪፐብሊክ ኮንጎ በኤቦላ የተያዙ ሰዎች ቁጥር ከ10 ሺህ አለፈ (Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak)",
   "በካርቱም በተፈጸመ የድሮን ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ፤ ጥቃቱ ከኢትዮጵያ መሰንዘሩ ተጠቆመ (Daily_Brief: #Sudan reports power outages across #Khartoum following drone attacks, with reports linking launches to #Ethiopia)",
   "የፊንላንድ እና ኖርዌይ መሪዎች ከ Vladimir Putin ጋር በስልክ ተወያዩ (Norway and Finland leaders hold rare call with Putin)",
@@ -2654,7 +2647,10 @@
   "የተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ማዘጋጀቱ ተገለጸ (የተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ዝግጅት መጠናቀቁ ተገለጸ)",
   "የኢትዮጵያ ቀይ መስቀል ማኅበር በትግራይ ለሚገኙ የጤና ተቋማት የ68 ሚሊዮን ብር ድጋፍ አደረገ (በትግራይ ጉዳት ለደረሰባቸው የጤና ተቋማት 68 ሚሊዮን ብር የሚገመት የቁሳቁስና የገንዘብ ድጋፍ ተደረገ)",
   "ለግብርና ማሽነሪዎች የሚሰጥ የብድር ወለድና የመመለሻ ጊዜ እንዲሻሻል ጥያቄ ቀረበ (የግብርና ማሽነሪዎች የብድር ወለድ ምጣኔና የመመለሻ ጊዜ ማጠሩ የፖሊሲ ማሻሻያ እንዲደረግባቸው ተጠየቀ)",
-  "በሽርካ አካባቢ ሟቾችን ሲቀብሩና ቁስለኞችን ሲረዱ የነበሩ ከ50 በላይ ነዋሪዎች ታሰሩ (Naannawa Shirkaatti jiraattonni 50 ol warra ajjeefaman awwaalaniifi madaa’an yaalchisaa turan poolisiin qabamuu jiraattotni Addis Standard’tti himan)"
+  "በሽርካ አካባቢ ሟቾችን ሲቀብሩና ቁስለኞችን ሲረዱ የነበሩ ከ50 በላይ ነዋሪዎች ታሰሩ (Naannawa Shirkaatti jiraattonni 50 ol warra ajjeefaman awwaalaniifi madaa’an yaalchisaa turan poolisiin qabamuu jiraattotni Addis Standard’tti himan)",
+  "ኢትዮጵያ እስከ 2035 የሐረንጓዴ ጋዝ ልቀቷን በ70.3 በመቶ ለመቀነስ አቀደች (#Daily_Brief: #Ethiopia targets 70.3% reduction in greenhouse gas emissions by 2035)",
+  "ሶማሊላንድ ዶናልድ ትራምፕ ለሉአላዊነቷ ዕውቅና መስጠታቸውን መደገፏን ገለጸች (Daily_Brief: #Somaliland welcomes what it describes as Trump’s acknowledgement of its sovereignty)",
+  "በደቡብ ኢትዮጵያ በነበረ ግጭት ምክንያት 50 ሺህ ገደማ ሰዎች ወደ ኬንያ ተሰደዱ (50,000 Ethiopian refugees flood Kenyan border town as intercommunal violence flares)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2700,6 +2696,9 @@
   1793221813.844096,
   1793221817.3606706,
   1793221821.0342202,
-  1793221824.5675266
+  1793221824.5675266,
+  1793223515.0387588,
+  1793223518.527388,
+  1793223522.0131526
  ]
 }

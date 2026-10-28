@@ -1,6 +1,5 @@
 {
  "seen": {
-  "94280c736a9dbed3": 1792013814.6845915,
   "e9b44fddb859d133": 1792024088.416564,
   "0db03b5d70872276": 1792041089.6869466,
   "4f9a43e1eca11e6e": 1792041089.6869466,
@@ -1299,10 +1298,25 @@
   "054f0c54cd8fcef5": 1793221656.1375568,
   "5f3bef08d76037d4": 1793221656.1375568,
   "559b58408f6c6bcc": 1793221656.1375568,
-  "5a9d93e52c656738": 1793221656.1375568
+  "5a9d93e52c656738": 1793221656.1375568,
+  "d32174ce77aa4fc8": 1793223302.3024814,
+  "f2ea2cb3972a44ee": 1793223302.3024814,
+  "bb8f264ea9932e52": 1793223302.3024814,
+  "1af36d0e7f16456e": 1793223302.3024814,
+  "dd4940d6059353eb": 1793223302.3024814,
+  "3fd42ad4e36d4cd4": 1793223302.3024814,
+  "513495f7f63239a2": 1793223302.3024814,
+  "3e8ee2d6b25da88b": 1793223302.3024814,
+  "42befe8fe0ea7cb8": 1793223302.3024814,
+  "1aa49f0088744862": 1793223302.3024814,
+  "b29329241d76eff5": 1793223302.3024814,
+  "a340739fc80dfc05": 1793223302.3024814,
+  "5048022fe5634d81": 1793223302.3024814,
+  "899af35d7ed0b35a": 1793223302.3024814,
+  "be2637a19ebc30a6": 1793223302.3024814,
+  "4259b5921be1d6ae": 1793223302.3024814
  },
  "recent_headlines": [
-  "MultiChoice በኬንያ የ DStv ፓኬጆች ዋጋን እስከ 38 በመቶ ቀነሰ (DStv slashes Kenya prices as Canal+ tries to revive subscriber growth)",
   "DPI Venture Capital 112 ሚሊዮን ዶላር የያዘውን Nclude Fund አጠናቀቀ (DPI closes $112 million Nclude fund with 93% of capital from Africa)",
   "የደቡብ አፍሪካዋ ስራ ፈጣሪ TPC Africa Mobile የተሰኘ አዲስ የ MVNO አገልግሎት ይፋ አደረገች (Another player enters SA’s MVNO fray)",
   "ዚምባብዌ በገጠር አካባቢዎች የመጀመሪያውን የ AI እና ዲጂታል ቴክኖሎጂ ማዕከል ከፈተች (Zimbabwe's first rural AI hub set to reduce digital divide)",
@@ -1341,7 +1355,8 @@
   "Mastercard እና Interswitch የ Google Pay አገልግሎትን በናይጄሪያ አስተዋወቁ (Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria)",
   "አዲስ አበባ ዓመታዊ የግብር ማስታወቂያ በኦንላይን ማቅረብ የሚያስችል አሰራር ዘረጋች (Addis Ababa Moves Annual Tax Filing Online, Revises Audit Rules on Bank Deposits)",
   "ECA የአገልግሎት ጥራትንና ተመጣጣኝ ዋጋን ቅድሚያ እንዲሰጥ መመሪያ ተሰጠው (Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability)",
-  "ሳፋሪኮም በኬንያ የዲጂታል ሀብት ማኔጅመንት ንብረቱን 21.1 ቢሊዮን ሺሊንግ አደረሰ (Safaricom records KSh21.1 billion in wealth management assets as digital finance expands)"
+  "ሳፋሪኮም በኬንያ የዲጂታል ሀብት ማኔጅመንት ንብረቱን 21.1 ቢሊዮን ሺሊንግ አደረሰ (Safaricom records KSh21.1 billion in wealth management assets as digital finance expands)",
+  "የሳፋሪኮም የ M-Pesa ፉሊዛ የብድር አገልግሎት ተጠቃሚዎች ቁጥር 18.1 ሚሊዮን ደረሰ (Fuliza borrowers rise to 18.1m as merchant loans sour)"
  ],
  "posted_at": [
   1793099576.2336462,
@@ -1353,6 +1368,7 @@
   1793216193.6974344,
   1793218281.7223942,
   1793219775.951836,
-  1793221751.5926924
+  1793221751.5926924,
+  1793223444.8255577
  ]
 }
