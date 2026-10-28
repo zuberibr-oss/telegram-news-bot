@@ -1,15 +1,5 @@
 {
  "seen": {
-  "dd045c26fcf1a25e": 1792008726.644657,
-  "a5dbec3fee0539c4": 1792008726.644657,
-  "b2753df69709f0fa": 1792008726.644657,
-  "004d2c191b6a7121": 1792008726.644657,
-  "62f47bab15ac6c21": 1792008726.644657,
-  "39316626e9951e45": 1792008726.644657,
-  "60cf0150556855b5": 1792008726.644657,
-  "9ebc6e5a32ec14ad": 1792008726.644657,
-  "c1d508e6af02d581": 1792008726.644657,
-  "2a9620b91cb3cee0": 1792008726.644657,
   "ae5ab2fc5b8e6494": 1792010347.1667056,
   "58bad0715c5dd707": 1792010347.1667056,
   "0094abea22717ef2": 1792010347.1667056,
@@ -2596,11 +2586,29 @@
   "8287152ca6301e57": 1793216193.9582157,
   "4b8873bd5309e427": 1793216193.9582157,
   "ed6668a8a8270049": 1793216193.9582157,
-  "6489681088a27bba": 1793216193.9582157
+  "6489681088a27bba": 1793216193.9582157,
+  "16986b5b143e8dae": 1793218281.9301875,
+  "f26e4f8921858885": 1793218281.9301875,
+  "33612afd9b12a184": 1793218281.9301875,
+  "3e8ee2d6b25da88b": 1793218281.9301875,
+  "54d4d1c3a0852e6d": 1793218281.9301875,
+  "a340739fc80dfc05": 1793218281.9301875,
+  "31e54da21b60e50c": 1793218281.9301875,
+  "49f3e8bfc245ab60": 1793218281.9301875,
+  "763e3f7c81098f32": 1793218281.9301875,
+  "7dddbf7c95331f64": 1793218281.9301875,
+  "94a3931943e998fc": 1793218281.9301875,
+  "0ee5c6ef12383bff": 1793218281.9301875,
+  "92d0d10f5445e288": 1793218281.9301875,
+  "4b023e08c6595397": 1793218281.9301875,
+  "84bf7307e40fc391": 1793218281.9301875,
+  "8411b2758ec29a06": 1793218281.9301875,
+  "7a385e1d693984bf": 1793218281.9301875,
+  "e8707c8cbd1fad29": 1793218281.9301875,
+  "3c2cd32476e099b0": 1793218281.9301875,
+  "b82c996c2682f35c": 1793218281.9301875
  },
  "recent_headlines": [
-  "በሕንድ \"አርናብ\" የተባለውን ከባድ አውሎ ነፋስ በመሸሽ በአስር ሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears)",
-  "የኢትዮጵያ አየር መንገድ ወደ ሞዛምቢኳ ናካላ አዲስ የበረራ መስመር ጀመረ (Africa’s Largest Airline Continues to Bring the Continent Closer with New Route to Mozambique’s Nacala)",
   "በሱዳን ኒያላ ከተማ በተፈጸመ የድሮን ጥቃት የ21 ሰዎች ሕይወት አለፈ (Drone strike kills at least 21 and injures 40 in Sudan’s Nyala)",
   "በሞያሌ በተከሰተ ግጭት በሰውና ንብረት ላይ ጉዳት መድረሱ ተገለጸ (News Analysis: Moyale clashes leave trail of death, destruction across seven districts; tens of thousands flee to Kenya)",
   "በኢትዮጵያ የኤሌክትሪክ ተሽከርካሪዎች እና የታዳሽ ኃይል አጠቃቀም ከፖሊሲና መሠረተ ልማት ዝግጁነት ቀድሟል ተባለ (Ethiopia’s Electrification Progress Outpaces Its Enabling Conditions)",
@@ -2638,7 +2646,9 @@
   "በስፔን ሁለት ባለከፍተኛ ፍጥነት ባቡሮች ተጋጭተው የሰው ሕይወት አለፈ (Watch: At the scene of Spain's deadly train crash)",
   "በኢትዮጵያ ዘርፍ ማኅበራት ምክር ቤት አመራሮች ምርጫ ላይ ተመስርቶ የነበረው ክስ ተነሳ (Belayneh Kinde, Jamal Ahmed lawsuit withdrawn as sector associations council prepares for re-election)",
   "ፑቲን በሩሲያ-አፍሪካ ጉባኤ ላይ ምዕራባውያን አፍሪካን በብድርና ብዝበዛ እያደከሙ ነው ሲሉ ወነጀሉ (Putin tells African leaders Moscow will not pursue ‘neo-colonialism’)",
-  "የአሜሪካ ፌደራል ሪዘርቭ የዋጋ ንረት ቢኖርም የብድር ወለድ ተመኑን ሳይለውጥ አቆየ (Fed leaves interest rates unchanged despite inflation in the US)"
+  "የአሜሪካ ፌደራል ሪዘርቭ የዋጋ ንረት ቢኖርም የብድር ወለድ ተመኑን ሳይለውጥ አቆየ (Fed leaves interest rates unchanged despite inflation in the US)",
+  "የኢትዮጵያ ሴኩሪቲስ ኤክስቼንጅ 8 ሰነዶችን በኦቲሲ ገበያ ለማስተናገድ እያዘጋጀ ነው (Ethiopia’s OTC market targets 8 securities outside main listing requirements)",
+  "የአፍሪካ ኅብረት ኮሚሽን የ100 ቢሊዮን USD የምግብ ገቢ ምርትን ለመቀነስ የግብርና ትራንስፎርሜሽን እንዲፋጠን ጥሪ አቀረበ (AU Commission Chairperson Calls for Agricultural Transformation to Reduce Africa’s $100 Billion Food Import Bill)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2674,6 +2684,8 @@
   1793214662.503597,
   1793216316.7577643,
   1793216320.2391298,
-  1793216323.742364
+  1793216323.742364,
+  1793218387.4918182,
+  1793218390.9965212
  ]
 }
