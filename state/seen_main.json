@@ -1,6 +1,5 @@
 {
  "seen": {
-  "c97ca5d22423b3aa": 1791956482.0403447,
   "6efa82d3534493f5": 1791958817.0019386,
   "c4f9e84f3557c4dc": 1791958817.0019386,
   "fe81cd6393b7b823": 1791958817.0019386,
@@ -2704,13 +2703,17 @@
   "27da0cd4c2243ae6": 1793164201.55453,
   "ee3b54efc1e1d387": 1793164201.55453,
   "7e56d0fd6d709ab4": 1793165739.8420248,
-  "3bdc1c5707677bf5": 1793165739.8420248
+  "3bdc1c5707677bf5": 1793165739.8420248,
+  "00356e2ced123b2a": 1793168152.21549,
+  "c32bf2870bb9795a": 1793168152.21549,
+  "87b3ecc4194d53da": 1793168152.21549,
+  "7c813b1955cefab4": 1793168152.21549,
+  "e008a989ea9c88c8": 1793168152.21549,
+  "208a477a170893cb": 1793168152.21549,
+  "395c71f2a5773f5f": 1793168152.21549,
+  "eca9b5bc14f5e0c0": 1793168152.21549
  },
  "recent_headlines": [
-  "ዮርዳኖስ በቤተክርስቲያን ላይ ለተፈጸመው ጥቃት ምላሽ በሶሪያ የአየር ጥቃት ፈጸመች (Jordan launches air strikes in Syria in response to a fatal church shooting)",
-  "ሩሲያ በዩክሬኗ ኬርሶን ግዛት የነበረውን ጥቃት በጊዜያዊነት ማቋረጧን አስታወቀች (Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect)",
-  "ኢራን፣ ሳውዲ አረቢያ፣ ቱርክ እና ፓኪስታን በክልላዊ ደኅንነት ላይ ውይይታቸውን ለመቀጠል ተስማሙ (Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks)",
-  "ኦፕንኤአይ የኤአይ ሞዴሎቹ በሒሳብ፣ በኮምፒውተር ሳይንስና በፊዚክስ አዳዲስ ግኝቶችን ማድረጋቸውን ገለጸ (AI makes discoveries in mathematics, computer science, physics, OpenAI says)",
   "በእስራኤል አጠቃላይ የፓርላማ ምርጫ ድምፅ መስጠት ተጀመረ (Israel election 2026 live: Polls open as Netanyahu faces tough test)",
   "ዩናይትድ ስቴትስ፣ የአውሮፓ ህብረት እና 30 ሀገራት በሱዳን የረሃብ ስጋት ማያንዣበቡን አስጠነቀቁ (US, EU and 30 countries warn of famine risk in Sudan, call for aid)",
   "3ኛው የሩሲያ-አፍሪካ ጉባዔ በ48 የአፍሪካ ሀገራት ተሳትፎ በሞስኮ ሊካሄድ ነው (Russia–Africa Summit to Set New Cooperation Priorities as 48 African Countries Confirm Participation)",
@@ -2746,7 +2749,11 @@
   "በኢትዮጵያ ለአንድ ዓመት ታስረው የተፈቱት ካናዳዊ በእስር ላይ ድብደባ እንደደረሰባቸው ገለጹ (Lammiin Kaanaadaa Itoophiyaa keessatti shakkiin waggaa tokkoof hidhamee lakkifame, hidhaa keessatti reebichifi sarbiinsi mirga namoomaairra dhaqqabuu himate)",
   "ሶሪያ እና ዮርዳኖስ ድንበራቸውን በመክፈት በጋራ የደኅንነት ኮሚቴ ለማቋቋም ተስማሙ (Syria-Jordan border reopens amid probe into deadly air strikes)",
   "ባለፈው ሳምንት በተለያዩ የኢትዮጵያ አካባቢዎች በተፈጸሙ ጥቃቶች ቢያንስ 85 ሰዎች ተገደሉ (ባለፈው ሳምንት በተለያዩ ክልሎች በተፈጸሙ ጥቃቶች እና ግጭቶች ቢያንስ 85 ሰዎች መገደላቸውን ቢቢሲ ያሰባሰበው መረጃ አሳየ)",
-  "ሩሲያ በኢትዮጵያ እና ኤርትራ መካከል ለማደራደር ዝግጁ መሆኗን ገለጸች (ሩሲያ ዛሬ ከሚጀመረው ጉባኤ ጎን ኢትዮጵያ እና ኤርትራን ለማደራደር ዝግጁ መሆኗን የውጭ ጉዳይ ሚኒስትሯ ተናገሩ)"
+  "ሩሲያ በኢትዮጵያ እና ኤርትራ መካከል ለማደራደር ዝግጁ መሆኗን ገለጸች (ሩሲያ ዛሬ ከሚጀመረው ጉባኤ ጎን ኢትዮጵያ እና ኤርትራን ለማደራደር ዝግጁ መሆኗን የውጭ ጉዳይ ሚኒስትሯ ተናገሩ)",
+  "የግብፅ ፓርላማ ለሳውዲ አረቢያ የሚደረገውን ወታደራዊ ድጋፍ አጸደቀ (Paarlaamaan Masrii deeggarsa Waraanaa Saa’udii Arabiyaaf taasifamu raggaasise; haleellaan Huutiis hammaate)",
+  "በሱዳን ብሉ ናይል ግዛት በተፈጸመ የድሮን ጥቃት ቢያንስ 30 ሰዎች ተገደሉ (Daily_Brief: Drone strike kills at least 30, mostly women and children, near displacement camp in #Sudan’s #Blue_Nile)",
+  "በሱዳን ዳርፉር በተፈጸመ የድሮን ጥቃት ከ100 በላይ ሰዎች መገደላቸው ተገለጸ (Daily_Brief: #Sudan rights group says army drone strike kills more than 100 in #Darfur market)",
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ3ኛው የሩሲያ-አፍሪካ ጉባዔ ለመሳተፍ ሞስኮ ገቡ (PM Abiy Ahmed Arrives in Moscow for Third Russia–Africa Summit)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2771,6 +2778,10 @@
   1793147060.202795,
   1793160744.4536715,
   1793160747.9366093,
-  1793165779.5153263
+  1793165779.5153263,
+  1793168219.1345272,
+  1793168222.4716918,
+  1793168225.8308442,
+  1793168229.186987
  ]
 }
