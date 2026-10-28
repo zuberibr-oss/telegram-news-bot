@@ -1,6 +1,5 @@
 {
  "seen": {
-  "1d8c8f112b357c84": 1792010312.1458323,
   "94280c736a9dbed3": 1792013814.6845915,
   "e9b44fddb859d133": 1792024088.416564,
   "0db03b5d70872276": 1792041089.6869466,
@@ -1292,10 +1291,17 @@
   "45bf33d086aee721": 1793218172.818075,
   "3472b314fe48d8ce": 1793219688.3632205,
   "808755c36d714d29": 1793219688.3632205,
-  "afc43a0624e9194a": 1793219688.3632205
+  "afc43a0624e9194a": 1793219688.3632205,
+  "2a20c54ac5c20b6d": 1793221656.1375568,
+  "12155105c86f44d0": 1793221656.1375568,
+  "27885c2f7f271d37": 1793221656.1375568,
+  "8287152ca6301e57": 1793221656.1375568,
+  "054f0c54cd8fcef5": 1793221656.1375568,
+  "5f3bef08d76037d4": 1793221656.1375568,
+  "559b58408f6c6bcc": 1793221656.1375568,
+  "5a9d93e52c656738": 1793221656.1375568
  },
  "recent_headlines": [
-  "ምዕራብ አፍሪካ የሞባይል ገንዘብ ዝውውርን የሚያቀናጅ አዲስ ህግ ተግባራዊ አደረገ (The End of Closed Mobile Money Networks in West Africa)",
   "MultiChoice በኬንያ የ DStv ፓኬጆች ዋጋን እስከ 38 በመቶ ቀነሰ (DStv slashes Kenya prices as Canal+ tries to revive subscriber growth)",
   "DPI Venture Capital 112 ሚሊዮን ዶላር የያዘውን Nclude Fund አጠናቀቀ (DPI closes $112 million Nclude fund with 93% of capital from Africa)",
   "የደቡብ አፍሪካዋ ስራ ፈጣሪ TPC Africa Mobile የተሰኘ አዲስ የ MVNO አገልግሎት ይፋ አደረገች (Another player enters SA’s MVNO fray)",
@@ -1334,7 +1340,8 @@
   "ሳፋሪኮም ከወኪሎች ኮሚሽን ማጭበርበር ጋር በተያያዘ 118 ሰራተኞችን አሰናበተ (Safaricom dismisses 118 staff, recovers $7.34m in agent commission fraud)",
   "Mastercard እና Interswitch የ Google Pay አገልግሎትን በናይጄሪያ አስተዋወቁ (Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria)",
   "አዲስ አበባ ዓመታዊ የግብር ማስታወቂያ በኦንላይን ማቅረብ የሚያስችል አሰራር ዘረጋች (Addis Ababa Moves Annual Tax Filing Online, Revises Audit Rules on Bank Deposits)",
-  "ECA የአገልግሎት ጥራትንና ተመጣጣኝ ዋጋን ቅድሚያ እንዲሰጥ መመሪያ ተሰጠው (Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability)"
+  "ECA የአገልግሎት ጥራትንና ተመጣጣኝ ዋጋን ቅድሚያ እንዲሰጥ መመሪያ ተሰጠው (Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability)",
+  "ሳፋሪኮም በኬንያ የዲጂታል ሀብት ማኔጅመንት ንብረቱን 21.1 ቢሊዮን ሺሊንግ አደረሰ (Safaricom records KSh21.1 billion in wealth management assets as digital finance expands)"
  ],
  "posted_at": [
   1793099576.2336462,
@@ -1345,6 +1352,7 @@
   1793214534.5523067,
   1793216193.6974344,
   1793218281.7223942,
-  1793219775.951836
+  1793219775.951836,
+  1793221751.5926924
  ]
 }
