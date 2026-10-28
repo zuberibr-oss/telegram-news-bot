@@ -1,8 +1,5 @@
 {
  "seen": {
-  "4eb1b9eef8cea414": 1792005008.8539276,
-  "e6b4ce8aa73ba14c": 1792005008.8539276,
-  "ba32d498ea966b56": 1792005008.8539276,
   "215eb3cd96430725": 1792006708.761381,
   "dd045c26fcf1a25e": 1792008726.644657,
   "a5dbec3fee0539c4": 1792008726.644657,
@@ -2560,12 +2557,29 @@
   "4f89e44150406dd5": 1793171667.9332669,
   "806674357c059b52": 1793187713.1966336,
   "8e6a8f4be8383b27": 1793207688.0653465,
-  "978beed8bdda4cd6": 1793213028.7665904
+  "978beed8bdda4cd6": 1793213028.7665904,
+  "081b308befccfa7d": 1793214534.780678,
+  "b1679daa79b2ef5e": 1793214534.780678,
+  "97a5deb713293985": 1793214534.780678,
+  "b5df9684589dc257": 1793214534.780678,
+  "978f7b24e1ac1878": 1793214534.780678,
+  "27ab278fa40aeb94": 1793214534.780678,
+  "e97e300b610e94ae": 1793214534.780678,
+  "16845ff4328d50c8": 1793214534.780678,
+  "a3847149f0b72bd7": 1793214534.780678,
+  "34be68e1a564a06c": 1793214534.780678,
+  "bc0f892200b2ee72": 1793214534.780678,
+  "48572a3bcdc4c402": 1793214534.780678,
+  "ff248e5e32c8f8e1": 1793214534.780678,
+  "05250812aec4a934": 1793214534.780678,
+  "8bc9eeb1381bfe7e": 1793214534.780678,
+  "5133aaeecd31d3cf": 1793214534.780678,
+  "e15c7c86c01917ba": 1793214534.780678,
+  "d09d28de39eba8f4": 1793214534.780678,
+  "63a9194a0f663f08": 1793214534.780678,
+  "5aa6cbe387b9788f": 1793214534.780678
  },
  "recent_headlines": [
-  "ዩናይትድ ስቴትስ፣ የአውሮፓ ህብረት እና 30 ሀገራት በሱዳን የረሃብ ስጋት ማያንዣበቡን አስጠነቀቁ (US, EU and 30 countries warn of famine risk in Sudan, call for aid)",
-  "3ኛው የሩሲያ-አፍሪካ ጉባዔ በ48 የአፍሪካ ሀገራት ተሳትፎ በሞስኮ ሊካሄድ ነው (Russia–Africa Summit to Set New Cooperation Priorities as 48 African Countries Confirm Participation)",
-  "በኢትዮጵያ በውጭ ሀገር ፖርትፎሊዮ ኢንቨስትመንት ባለቤትነት ላይ የገደብ ረቂቅ መመሪያ ተዘጋጀ (Draft Bill Caps Foreign Portfolio Ownership at 15pc in Listed Ethiopian Firms)",
   "የሳውዲ መሪነት ጦር በሀገሪቱ ላይ የተቃጡ የሁቲ ሚሳይሎችንና ድሮኖችን ማክሸፉን ገለጸ (Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom)",
   "በሱዳን የRSF ድሮን ጥቃት በአራት ግዛቶች የኤሌክትሪክ ኃይል አቋረጠ (Daily_Brief: #RSF drone strikes cause widespread blackouts across four #Sudanese states, damage five power facilities)",
   "የኢትዮጵያ ኢንቨስትመንት ኮሚሽን የተባበሩት መንግሥታት ድርጅት የኢንቨስትመንት ሽልማት አሸነፈ (Ethiopia Earns UN Investment Award with Focus on Safaricom’s Digital Expansion)",
@@ -2602,7 +2616,10 @@
   "በሱዳን ብሉ ናይል ግዛት በተፈጸመ የድሮን ጥቃት ቢያንስ 30 ሰዎች ተገደሉ (Daily_Brief: Drone strike kills at least 30, mostly women and children, near displacement camp in #Sudan’s #Blue_Nile)",
   "በሱዳን ዳርፉር በተፈጸመ የድሮን ጥቃት ከ100 በላይ ሰዎች መገደላቸው ተገለጸ (Daily_Brief: #Sudan rights group says army drone strike kills more than 100 in #Darfur market)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ3ኛው የሩሲያ-አፍሪካ ጉባዔ ለመሳተፍ ሞስኮ ገቡ (PM Abiy Ahmed Arrives in Moscow for Third Russia–Africa Summit)",
-  "ዶናልድ ትራምፕ በኢራን ላይ በሚፈጸም ጥቃት ዙሪያ ማንኛውም ነገር ሊከሰት እንደሚችል ገለጹ (Iran war live: Trump says ‘anything possible’ on Iran attack after midterms)"
+  "ዶናልድ ትራምፕ በኢራን ላይ በሚፈጸም ጥቃት ዙሪያ ማንኛውም ነገር ሊከሰት እንደሚችል ገለጹ (Iran war live: Trump says ‘anything possible’ on Iran attack after midterms)",
+  "በአቡ ዳቢ በሚካሄደው የዩክሬን እና ሩሲያ ድርድር አውሮፓውያን አይሳተፉም ተባለ (Kremlin says European countries not included in next Ukraine talks)",
+  "ኢትዮጵያ 12 የሩሲያ ሱ-35 የጦር ጄቶችን መረከቧን አስታወቀች (Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition)",
+  "በስፔን ሁለት ባለከፍተኛ ፍጥነት ባቡሮች ተጋጭተው የሰው ሕይወት አለፈ (Watch: At the scene of Spain's deadly train crash)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2632,6 +2649,9 @@
   1793168222.4716918,
   1793168225.8308442,
   1793168229.186987,
-  1793169816.6118422
+  1793169816.6118422,
+  1793214655.487433,
+  1793214658.994323,
+  1793214662.503597
  ]
 }

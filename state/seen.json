@@ -1,8 +1,5 @@
 {
  "seen": {
-  "215eb3cd96430725": 1792003446.9772937,
-  "8f1540cf70a0c326": 1792003446.9772937,
-  "a9da39c7ec3a2552": 1792003446.9772937,
   "9ebc6e5a32ec14ad": 1792008692.8930092,
   "30a723aee77b1c5d": 1792008692.8930092,
   "1d8c8f112b357c84": 1792010312.1458323,
@@ -1278,10 +1275,13 @@
   "8f4af0fdf6129006": 1793198089.2525845,
   "811f8bc5dd3031de": 1793198089.2525845,
   "f4f41e46e8ee0e2b": 1793200142.112361,
-  "854144e25484ceb1": 1793205310.3973033
+  "854144e25484ceb1": 1793205310.3973033,
+  "adb1ecc82a26e87d": 1793214447.9478312,
+  "e7be65a75dfabcf3": 1793214447.9478312,
+  "373c364eb22a3928": 1793214447.9478312,
+  "f4379750afcdc9ad": 1793214447.9478312
  },
  "recent_headlines": [
-  "ኬንያ የቴክኖሎጂ ዲፕሎማሲን የውጭ ፖሊሲዋ ዋና አካል አደረገች (Kenya puts tech diplomacy at heart of foreign policy)",
   "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን ዶላር ለንግድ ባንኮች በሐራጅ ሊያቀርብ ነው (National Bank to Inject $140 Million into Banking System in Latest FX Auction)",
   "Moniepoint መዋቅራዊ ለውጥ በማድረግ በኢንጂነሪንግ ክፍሎቹ ላይ የሰራተኞች ቅነሳ አደረገ (Just In: Moniepoint to cut some Engineering, Product roles in major restructuring)",
   "የደቡብ አፍሪካ ማዕከላዊ ባንክ ለፊንቴክ ኩባንያዎች ቀጥታ የክፍያ ስነ-ምህዳር መዳረሻ ሊፈቅድ ነው (South African banks could lose their grip on fintech payments)",
@@ -1320,13 +1320,15 @@
   "ኢትዮጵያ በዲጂታል ክፍያዎች 7.8 ቢሊዮን ዶላር የሚያወጡ 387 ሚሊዮን ግብይቶችን ፈጸመች (Ethiopia Processes 387 Million Digital Payment Transactions Worth $7.8 Billion in 2025 26)",
   "Mastercard በኢትዮጵያ የዲጂታል ክፍያ ደህንነትን ለማጠናከር የ AI እና ቶከናይዜሽን ቴክኖሎጂ አስተዋወቀ (Mastercard Introduces AI and Tokenization to Enhance Digital Payment Security in Ethiopia)",
   "የኢትዮጵያ ብሔራዊ ባንክ በ31ኛው የውጭ ምንዛሬ ሐራጅ አማካይ ተመን 159.70 ብር ሆነ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
-  "M-Pesa በቀን 114 ቢሊዮን የኬንያ ሽልንግ የሚያወጡ ግብይቶችን እያከናወነ ነው (M-Pesa Processes Ksh114 Billion in Transactions Per Day, Safaricom Report Shows)"
+  "M-Pesa በቀን 114 ቢሊዮን የኬንያ ሽልንግ የሚያወጡ ግብይቶችን እያከናወነ ነው (M-Pesa Processes Ksh114 Billion in Transactions Per Day, Safaricom Report Shows)",
+  "ሳፋሪኮም ከወኪሎች ኮሚሽን ማጭበርበር ጋር በተያያዘ 118 ሰራተኞችን አሰናበተ (Safaricom dismisses 118 staff, recovers $7.34m in agent commission fraud)"
  ],
  "posted_at": [
   1793099576.2336462,
   1793105532.939465,
   1793110484.8983612,
   1793112339.849424,
-  1793131839.6063943
+  1793131839.6063943,
+  1793214534.5523067
  ]
 }
