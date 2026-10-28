@@ -1,8 +1,5 @@
 {
  "seen": {
-  "6efa82d3534493f5": 1791958817.0019386,
-  "c4f9e84f3557c4dc": 1791958817.0019386,
-  "fe81cd6393b7b823": 1791958817.0019386,
   "f2c175974649c815": 1791960909.7064524,
   "228895ad8569822a": 1791960909.7064524,
   "3140d07f54f91d26": 1791960909.7064524,
@@ -2711,10 +2708,15 @@
   "e008a989ea9c88c8": 1793168152.21549,
   "208a477a170893cb": 1793168152.21549,
   "395c71f2a5773f5f": 1793168152.21549,
-  "eca9b5bc14f5e0c0": 1793168152.21549
+  "eca9b5bc14f5e0c0": 1793168152.21549,
+  "4c6c9bab50547fe0": 1793169775.7562757,
+  "76069a8ed5f600a7": 1793169775.7562757,
+  "963f74bdbbae6f12": 1793169775.7562757,
+  "6981a60dad96c688": 1793169775.7562757,
+  "04bbdab862dd4f32": 1793169775.7562757,
+  "948d0f764e9026ca": 1793169775.7562757
  },
  "recent_headlines": [
-  "በእስራኤል አጠቃላይ የፓርላማ ምርጫ ድምፅ መስጠት ተጀመረ (Israel election 2026 live: Polls open as Netanyahu faces tough test)",
   "ዩናይትድ ስቴትስ፣ የአውሮፓ ህብረት እና 30 ሀገራት በሱዳን የረሃብ ስጋት ማያንዣበቡን አስጠነቀቁ (US, EU and 30 countries warn of famine risk in Sudan, call for aid)",
   "3ኛው የሩሲያ-አፍሪካ ጉባዔ በ48 የአፍሪካ ሀገራት ተሳትፎ በሞስኮ ሊካሄድ ነው (Russia–Africa Summit to Set New Cooperation Priorities as 48 African Countries Confirm Participation)",
   "በኢትዮጵያ በውጭ ሀገር ፖርትፎሊዮ ኢንቨስትመንት ባለቤትነት ላይ የገደብ ረቂቅ መመሪያ ተዘጋጀ (Draft Bill Caps Foreign Portfolio Ownership at 15pc in Listed Ethiopian Firms)",
@@ -2753,7 +2755,8 @@
   "የግብፅ ፓርላማ ለሳውዲ አረቢያ የሚደረገውን ወታደራዊ ድጋፍ አጸደቀ (Paarlaamaan Masrii deeggarsa Waraanaa Saa’udii Arabiyaaf taasifamu raggaasise; haleellaan Huutiis hammaate)",
   "በሱዳን ብሉ ናይል ግዛት በተፈጸመ የድሮን ጥቃት ቢያንስ 30 ሰዎች ተገደሉ (Daily_Brief: Drone strike kills at least 30, mostly women and children, near displacement camp in #Sudan’s #Blue_Nile)",
   "በሱዳን ዳርፉር በተፈጸመ የድሮን ጥቃት ከ100 በላይ ሰዎች መገደላቸው ተገለጸ (Daily_Brief: #Sudan rights group says army drone strike kills more than 100 in #Darfur market)",
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ3ኛው የሩሲያ-አፍሪካ ጉባዔ ለመሳተፍ ሞስኮ ገቡ (PM Abiy Ahmed Arrives in Moscow for Third Russia–Africa Summit)"
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ3ኛው የሩሲያ-አፍሪካ ጉባዔ ለመሳተፍ ሞስኮ ገቡ (PM Abiy Ahmed Arrives in Moscow for Third Russia–Africa Summit)",
+  "ዶናልድ ትራምፕ በኢራን ላይ በሚፈጸም ጥቃት ዙሪያ ማንኛውም ነገር ሊከሰት እንደሚችል ገለጹ (Iran war live: Trump says ‘anything possible’ on Iran attack after midterms)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2782,6 +2785,7 @@
   1793168219.1345272,
   1793168222.4716918,
   1793168225.8308442,
-  1793168229.186987
+  1793168229.186987,
+  1793169816.6118422
  ]
 }
