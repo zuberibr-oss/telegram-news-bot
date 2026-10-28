@@ -1,8 +1,5 @@
 {
  "seen": {
-  "7ccc7120219c0a76": 1791954729.5027854,
-  "753d0d9823059dba": 1791954729.5027854,
-  "cded2ec1846e924e": 1791954729.5027854,
   "c97ca5d22423b3aa": 1791956482.0403447,
   "6efa82d3534493f5": 1791958817.0019386,
   "c4f9e84f3557c4dc": 1791958817.0019386,
@@ -2705,10 +2702,11 @@
   "0b976f48e16bfb06": 1793162235.377206,
   "732fab35c557d3f1": 1793162235.377206,
   "27da0cd4c2243ae6": 1793164201.55453,
-  "ee3b54efc1e1d387": 1793164201.55453
+  "ee3b54efc1e1d387": 1793164201.55453,
+  "7e56d0fd6d709ab4": 1793165739.8420248,
+  "3bdc1c5707677bf5": 1793165739.8420248
  },
  "recent_headlines": [
-  "ዘሌንስኪ ከሩሲያ እና አሜሪካ ጋር የሚደረገው የሰላም ድርድር እንደሚጀምር ገለጹ (Zelenskyy says peace talks with Russia, US to restart)",
   "ዮርዳኖስ በቤተክርስቲያን ላይ ለተፈጸመው ጥቃት ምላሽ በሶሪያ የአየር ጥቃት ፈጸመች (Jordan launches air strikes in Syria in response to a fatal church shooting)",
   "ሩሲያ በዩክሬኗ ኬርሶን ግዛት የነበረውን ጥቃት በጊዜያዊነት ማቋረጧን አስታወቀች (Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect)",
   "ኢራን፣ ሳውዲ አረቢያ፣ ቱርክ እና ፓኪስታን በክልላዊ ደኅንነት ላይ ውይይታቸውን ለመቀጠል ተስማሙ (Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks)",
@@ -2747,7 +2745,8 @@
   "በትግራይ በተፈጸመ የድሮን ጥቃት አባትና አራት ልጆቻቸው መገደላቸው ተገለጸ (Halellaa Diroonii Tigraay Medebay Terer’tti raawwatameen Abbaafi Ijoolleen isaa afur; michuuwwan kiliniika keessaa baqataa turanis ajjeefamuun himame)",
   "በኢትዮጵያ ለአንድ ዓመት ታስረው የተፈቱት ካናዳዊ በእስር ላይ ድብደባ እንደደረሰባቸው ገለጹ (Lammiin Kaanaadaa Itoophiyaa keessatti shakkiin waggaa tokkoof hidhamee lakkifame, hidhaa keessatti reebichifi sarbiinsi mirga namoomaairra dhaqqabuu himate)",
   "ሶሪያ እና ዮርዳኖስ ድንበራቸውን በመክፈት በጋራ የደኅንነት ኮሚቴ ለማቋቋም ተስማሙ (Syria-Jordan border reopens amid probe into deadly air strikes)",
-  "ባለፈው ሳምንት በተለያዩ የኢትዮጵያ አካባቢዎች በተፈጸሙ ጥቃቶች ቢያንስ 85 ሰዎች ተገደሉ (ባለፈው ሳምንት በተለያዩ ክልሎች በተፈጸሙ ጥቃቶች እና ግጭቶች ቢያንስ 85 ሰዎች መገደላቸውን ቢቢሲ ያሰባሰበው መረጃ አሳየ)"
+  "ባለፈው ሳምንት በተለያዩ የኢትዮጵያ አካባቢዎች በተፈጸሙ ጥቃቶች ቢያንስ 85 ሰዎች ተገደሉ (ባለፈው ሳምንት በተለያዩ ክልሎች በተፈጸሙ ጥቃቶች እና ግጭቶች ቢያንስ 85 ሰዎች መገደላቸውን ቢቢሲ ያሰባሰበው መረጃ አሳየ)",
+  "ሩሲያ በኢትዮጵያ እና ኤርትራ መካከል ለማደራደር ዝግጁ መሆኗን ገለጸች (ሩሲያ ዛሬ ከሚጀመረው ጉባኤ ጎን ኢትዮጵያ እና ኤርትራን ለማደራደር ዝግጁ መሆኗን የውጭ ጉዳይ ሚኒስትሯ ተናገሩ)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2771,6 +2770,7 @@
   1793144270.837597,
   1793147060.202795,
   1793160744.4536715,
-  1793160747.9366093
+  1793160747.9366093,
+  1793165779.5153263
  ]
 }
