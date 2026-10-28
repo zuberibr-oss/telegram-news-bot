@@ -1335,10 +1335,16 @@
   "a2e1324454333ef3": 1793225302.6724474,
   "f0288553a3770ada": 1793225302.6724474,
   "65cb5cf7e58c1327": 1793225302.6724474,
-  "3c2cd32476e099b0": 1793226883.8406632
+  "3c2cd32476e099b0": 1793226883.8406632,
+  "7f41a7559d6c72e3": 1793228876.3914332,
+  "ce0b26ff22053bdf": 1793228876.3914332,
+  "7761f65a8f949948": 1793228876.3914332,
+  "4b023e08c6595397": 1793228876.3914332,
+  "d5e0e27a28198cd8": 1793228876.3914332,
+  "ecd6cd7a19c4511b": 1793228876.3914332,
+  "84bf7307e40fc391": 1793228876.3914332
  },
  "recent_headlines": [
-  "የደቡብ አፍሪካዋ ስራ ፈጣሪ TPC Africa Mobile የተሰኘ አዲስ የ MVNO አገልግሎት ይፋ አደረገች (Another player enters SA’s MVNO fray)",
   "ዚምባብዌ በገጠር አካባቢዎች የመጀመሪያውን የ AI እና ዲጂታል ቴክኖሎጂ ማዕከል ከፈተች (Zimbabwe's first rural AI hub set to reduce digital divide)",
   "የኬንያ ከፍተኛ ፍርድ ቤት የ Uber Kenya የክስ ውድቅነት ጥያቄን ሳይቀበለው ቀረ (Uber Kenya must face court case over rider account deactivations)",
   "በአፍሪካ የ AI ስታርት አፖች ከመንግሥታት ጋር ለመሥራት የገንዘብ እና የጨረታ ፈተና ገጠማቸው (The brutal financial reality behind government AI adoption in Africa)",
@@ -1377,7 +1383,8 @@
   "ECA የአገልግሎት ጥራትንና ተመጣጣኝ ዋጋን ቅድሚያ እንዲሰጥ መመሪያ ተሰጠው (Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability)",
   "ሳፋሪኮም በኬንያ የዲጂታል ሀብት ማኔጅመንት ንብረቱን 21.1 ቢሊዮን ሺሊንግ አደረሰ (Safaricom records KSh21.1 billion in wealth management assets as digital finance expands)",
   "የሳፋሪኮም የ M-Pesa ፉሊዛ የብድር አገልግሎት ተጠቃሚዎች ቁጥር 18.1 ሚሊዮን ደረሰ (Fuliza borrowers rise to 18.1m as merchant loans sour)",
-  "የኢትዮጵያ ሰነደ መዋዕለ ንዋይ ገበያ ለ8 ዋስትናዎች የ OTC የንግድ መድረክ ሊጀምር ነው (Ethiopia’s OTC market targets 8 securities outside main listing requirements)"
+  "የኢትዮጵያ ሰነደ መዋዕለ ንዋይ ገበያ ለ8 ዋስትናዎች የ OTC የንግድ መድረክ ሊጀምር ነው (Ethiopia’s OTC market targets 8 securities outside main listing requirements)",
+  "ዳሸን ባንክ Dashen Air Pay የተሰኘ የክፍያ አገልግሎት በይፋ አስጀመረ (Dashen Air Pay service officially goes operational to bridge the gap between businesses and customers)"
  ],
  "posted_at": [
   1793099576.2336462,
@@ -1391,6 +1398,7 @@
   1793219775.951836,
   1793221751.5926924,
   1793223444.8255577,
-  1793226952.0958877
+  1793226952.0958877,
+  1793228964.2581527
  ]
 }
