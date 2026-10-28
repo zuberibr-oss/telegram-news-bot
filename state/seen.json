@@ -1279,10 +1279,10 @@
   "adb1ecc82a26e87d": 1793214447.9478312,
   "e7be65a75dfabcf3": 1793214447.9478312,
   "373c364eb22a3928": 1793214447.9478312,
-  "f4379750afcdc9ad": 1793214447.9478312
+  "f4379750afcdc9ad": 1793214447.9478312,
+  "6c2dd8a96558ea01": 1793216111.7488723
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን ዶላር ለንግድ ባንኮች በሐራጅ ሊያቀርብ ነው (National Bank to Inject $140 Million into Banking System in Latest FX Auction)",
   "Moniepoint መዋቅራዊ ለውጥ በማድረግ በኢንጂነሪንግ ክፍሎቹ ላይ የሰራተኞች ቅነሳ አደረገ (Just In: Moniepoint to cut some Engineering, Product roles in major restructuring)",
   "የደቡብ አፍሪካ ማዕከላዊ ባንክ ለፊንቴክ ኩባንያዎች ቀጥታ የክፍያ ስነ-ምህዳር መዳረሻ ሊፈቅድ ነው (South African banks could lose their grip on fintech payments)",
   "ምዕራብ አፍሪካ የሞባይል ገንዘብ ዝውውርን የሚያቀናጅ አዲስ ህግ ተግባራዊ አደረገ (The End of Closed Mobile Money Networks in West Africa)",
@@ -1321,7 +1321,8 @@
   "Mastercard በኢትዮጵያ የዲጂታል ክፍያ ደህንነትን ለማጠናከር የ AI እና ቶከናይዜሽን ቴክኖሎጂ አስተዋወቀ (Mastercard Introduces AI and Tokenization to Enhance Digital Payment Security in Ethiopia)",
   "የኢትዮጵያ ብሔራዊ ባንክ በ31ኛው የውጭ ምንዛሬ ሐራጅ አማካይ ተመን 159.70 ብር ሆነ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
   "M-Pesa በቀን 114 ቢሊዮን የኬንያ ሽልንግ የሚያወጡ ግብይቶችን እያከናወነ ነው (M-Pesa Processes Ksh114 Billion in Transactions Per Day, Safaricom Report Shows)",
-  "ሳፋሪኮም ከወኪሎች ኮሚሽን ማጭበርበር ጋር በተያያዘ 118 ሰራተኞችን አሰናበተ (Safaricom dismisses 118 staff, recovers $7.34m in agent commission fraud)"
+  "ሳፋሪኮም ከወኪሎች ኮሚሽን ማጭበርበር ጋር በተያያዘ 118 ሰራተኞችን አሰናበተ (Safaricom dismisses 118 staff, recovers $7.34m in agent commission fraud)",
+  "Mastercard እና Interswitch የ Google Pay አገልግሎትን በናይጄሪያ አስተዋወቁ (Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria)"
  ],
  "posted_at": [
   1793099576.2336462,
@@ -1329,6 +1330,7 @@
   1793110484.8983612,
   1793112339.849424,
   1793131839.6063943,
-  1793214534.5523067
+  1793214534.5523067,
+  1793216193.6974344
  ]
 }

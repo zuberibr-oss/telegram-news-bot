@@ -1,6 +1,5 @@
 {
  "seen": {
-  "215eb3cd96430725": 1792006708.761381,
   "dd045c26fcf1a25e": 1792008726.644657,
   "a5dbec3fee0539c4": 1792008726.644657,
   "b2753df69709f0fa": 1792008726.644657,
@@ -2577,12 +2576,29 @@
   "e15c7c86c01917ba": 1793214534.780678,
   "d09d28de39eba8f4": 1793214534.780678,
   "63a9194a0f663f08": 1793214534.780678,
-  "5aa6cbe387b9788f": 1793214534.780678
+  "5aa6cbe387b9788f": 1793214534.780678,
+  "587c93b14b757705": 1793216193.9582157,
+  "1bf357d737ff6552": 1793216193.9582157,
+  "40af807777d9b8ea": 1793216193.9582157,
+  "08501d766f3379f6": 1793216193.9582157,
+  "b2b7a06b913e3b19": 1793216193.9582157,
+  "c3840df0fd862dc5": 1793216193.9582157,
+  "0b1078072f58c0a1": 1793216193.9582157,
+  "fd79feff98abfa9a": 1793216193.9582157,
+  "7de010645beb5320": 1793216193.9582157,
+  "501b6c9de464e3fe": 1793216193.9582157,
+  "bb272e5c8cd29d7d": 1793216193.9582157,
+  "c35036e2497fda77": 1793216193.9582157,
+  "3b9d5548d21aff26": 1793216193.9582157,
+  "571297686efced95": 1793216193.9582157,
+  "3472b314fe48d8ce": 1793216193.9582157,
+  "b22c75e052e83dbd": 1793216193.9582157,
+  "8287152ca6301e57": 1793216193.9582157,
+  "4b8873bd5309e427": 1793216193.9582157,
+  "ed6668a8a8270049": 1793216193.9582157,
+  "6489681088a27bba": 1793216193.9582157
  },
  "recent_headlines": [
-  "የሳውዲ መሪነት ጦር በሀገሪቱ ላይ የተቃጡ የሁቲ ሚሳይሎችንና ድሮኖችን ማክሸፉን ገለጸ (Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom)",
-  "በሱዳን የRSF ድሮን ጥቃት በአራት ግዛቶች የኤሌክትሪክ ኃይል አቋረጠ (Daily_Brief: #RSF drone strikes cause widespread blackouts across four #Sudanese states, damage five power facilities)",
-  "የኢትዮጵያ ኢንቨስትመንት ኮሚሽን የተባበሩት መንግሥታት ድርጅት የኢንቨስትመንት ሽልማት አሸነፈ (Ethiopia Earns UN Investment Award with Focus on Safaricom’s Digital Expansion)",
   "በሕንድ \"አርናብ\" የተባለውን ከባድ አውሎ ነፋስ በመሸሽ በአስር ሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears)",
   "የኢትዮጵያ አየር መንገድ ወደ ሞዛምቢኳ ናካላ አዲስ የበረራ መስመር ጀመረ (Africa’s Largest Airline Continues to Bring the Continent Closer with New Route to Mozambique’s Nacala)",
   "በሱዳን ኒያላ ከተማ በተፈጸመ የድሮን ጥቃት የ21 ሰዎች ሕይወት አለፈ (Drone strike kills at least 21 and injures 40 in Sudan’s Nyala)",
@@ -2619,7 +2635,10 @@
   "ዶናልድ ትራምፕ በኢራን ላይ በሚፈጸም ጥቃት ዙሪያ ማንኛውም ነገር ሊከሰት እንደሚችል ገለጹ (Iran war live: Trump says ‘anything possible’ on Iran attack after midterms)",
   "በአቡ ዳቢ በሚካሄደው የዩክሬን እና ሩሲያ ድርድር አውሮፓውያን አይሳተፉም ተባለ (Kremlin says European countries not included in next Ukraine talks)",
   "ኢትዮጵያ 12 የሩሲያ ሱ-35 የጦር ጄቶችን መረከቧን አስታወቀች (Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition)",
-  "በስፔን ሁለት ባለከፍተኛ ፍጥነት ባቡሮች ተጋጭተው የሰው ሕይወት አለፈ (Watch: At the scene of Spain's deadly train crash)"
+  "በስፔን ሁለት ባለከፍተኛ ፍጥነት ባቡሮች ተጋጭተው የሰው ሕይወት አለፈ (Watch: At the scene of Spain's deadly train crash)",
+  "በኢትዮጵያ ዘርፍ ማኅበራት ምክር ቤት አመራሮች ምርጫ ላይ ተመስርቶ የነበረው ክስ ተነሳ (Belayneh Kinde, Jamal Ahmed lawsuit withdrawn as sector associations council prepares for re-election)",
+  "ፑቲን በሩሲያ-አፍሪካ ጉባኤ ላይ ምዕራባውያን አፍሪካን በብድርና ብዝበዛ እያደከሙ ነው ሲሉ ወነጀሉ (Putin tells African leaders Moscow will not pursue ‘neo-colonialism’)",
+  "የአሜሪካ ፌደራል ሪዘርቭ የዋጋ ንረት ቢኖርም የብድር ወለድ ተመኑን ሳይለውጥ አቆየ (Fed leaves interest rates unchanged despite inflation in the US)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2652,6 +2671,9 @@
   1793169816.6118422,
   1793214655.487433,
   1793214658.994323,
-  1793214662.503597
+  1793214662.503597,
+  1793216316.7577643,
+  1793216320.2391298,
+  1793216323.742364
  ]
 }
