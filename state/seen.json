@@ -1,7 +1,5 @@
 {
  "seen": {
-  "9ebc6e5a32ec14ad": 1792008692.8930092,
-  "30a723aee77b1c5d": 1792008692.8930092,
   "1d8c8f112b357c84": 1792010312.1458323,
   "94280c736a9dbed3": 1792013814.6845915,
   "e9b44fddb859d133": 1792024088.416564,
@@ -1291,10 +1289,12 @@
   "6da2389b7205d5f0": 1793218172.818075,
   "4b8873bd5309e427": 1793218172.818075,
   "9225fac0d6907e2d": 1793218172.818075,
-  "45bf33d086aee721": 1793218172.818075
+  "45bf33d086aee721": 1793218172.818075,
+  "3472b314fe48d8ce": 1793219688.3632205,
+  "808755c36d714d29": 1793219688.3632205,
+  "afc43a0624e9194a": 1793219688.3632205
  },
  "recent_headlines": [
-  "የደቡብ አፍሪካ ማዕከላዊ ባንክ ለፊንቴክ ኩባንያዎች ቀጥታ የክፍያ ስነ-ምህዳር መዳረሻ ሊፈቅድ ነው (South African banks could lose their grip on fintech payments)",
   "ምዕራብ አፍሪካ የሞባይል ገንዘብ ዝውውርን የሚያቀናጅ አዲስ ህግ ተግባራዊ አደረገ (The End of Closed Mobile Money Networks in West Africa)",
   "MultiChoice በኬንያ የ DStv ፓኬጆች ዋጋን እስከ 38 በመቶ ቀነሰ (DStv slashes Kenya prices as Canal+ tries to revive subscriber growth)",
   "DPI Venture Capital 112 ሚሊዮን ዶላር የያዘውን Nclude Fund አጠናቀቀ (DPI closes $112 million Nclude fund with 93% of capital from Africa)",
@@ -1333,7 +1333,8 @@
   "M-Pesa በቀን 114 ቢሊዮን የኬንያ ሽልንግ የሚያወጡ ግብይቶችን እያከናወነ ነው (M-Pesa Processes Ksh114 Billion in Transactions Per Day, Safaricom Report Shows)",
   "ሳፋሪኮም ከወኪሎች ኮሚሽን ማጭበርበር ጋር በተያያዘ 118 ሰራተኞችን አሰናበተ (Safaricom dismisses 118 staff, recovers $7.34m in agent commission fraud)",
   "Mastercard እና Interswitch የ Google Pay አገልግሎትን በናይጄሪያ አስተዋወቁ (Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria)",
-  "አዲስ አበባ ዓመታዊ የግብር ማስታወቂያ በኦንላይን ማቅረብ የሚያስችል አሰራር ዘረጋች (Addis Ababa Moves Annual Tax Filing Online, Revises Audit Rules on Bank Deposits)"
+  "አዲስ አበባ ዓመታዊ የግብር ማስታወቂያ በኦንላይን ማቅረብ የሚያስችል አሰራር ዘረጋች (Addis Ababa Moves Annual Tax Filing Online, Revises Audit Rules on Bank Deposits)",
+  "ECA የአገልግሎት ጥራትንና ተመጣጣኝ ዋጋን ቅድሚያ እንዲሰጥ መመሪያ ተሰጠው (Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability)"
  ],
  "posted_at": [
   1793099576.2336462,
@@ -1343,6 +1344,7 @@
   1793131839.6063943,
   1793214534.5523067,
   1793216193.6974344,
-  1793218281.7223942
+  1793218281.7223942,
+  1793219775.951836
  ]
 }
