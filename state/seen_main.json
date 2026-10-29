@@ -1,11 +1,5 @@
 {
  "seen": {
-  "255bee0390c5706d": 1792071741.2575064,
-  "39a58598b8d3d33d": 1792071741.2575064,
-  "87ea08d6b597c30c": 1792071741.2575064,
-  "090b271bb6f18f77": 1792071741.2575064,
-  "bba44cd8934f79c7": 1792071741.2575064,
-  "5c5fa5c401dffae8": 1792071741.2575064,
   "24ff6f5f929d0ba0": 1792073678.6840074,
   "dc91f32bf593f846": 1792073678.6840074,
   "3b9c45f1d31fd5b3": 1792073678.6840074,
@@ -2626,10 +2620,18 @@
   "f2d0032777824fa1": 1793280945.0119426,
   "e123aa9c490bc170": 1793280945.0119426,
   "cb8037818bd9e6c3": 1793280945.0119426,
-  "edb26796b85541f2": 1793280945.0119426
+  "edb26796b85541f2": 1793280945.0119426,
+  "64d588a687974fd1": 1793283038.790274,
+  "cd13d46fbe9c529a": 1793283038.790274,
+  "9b8903080d9e1375": 1793283038.790274,
+  "dfc94878cd6a14f0": 1793283038.790274,
+  "89a5736e91a5543f": 1793283038.790274,
+  "0beefe88c775462b": 1793283038.790274,
+  "e5e43d826da93bee": 1793283038.790274,
+  "274f585aa9a2eeb0": 1793283038.790274,
+  "ddb2d5b72ad6c58f": 1793283038.790274
  },
  "recent_headlines": [
-  "በስፔን ሁለት ባለከፍተኛ ፍጥነት ባቡሮች ተጋጭተው የሰው ሕይወት አለፈ (Watch: At the scene of Spain's deadly train crash)",
   "በኢትዮጵያ ዘርፍ ማኅበራት ምክር ቤት አመራሮች ምርጫ ላይ ተመስርቶ የነበረው ክስ ተነሳ (Belayneh Kinde, Jamal Ahmed lawsuit withdrawn as sector associations council prepares for re-election)",
   "ፑቲን በሩሲያ-አፍሪካ ጉባኤ ላይ ምዕራባውያን አፍሪካን በብድርና ብዝበዛ እያደከሙ ነው ሲሉ ወነጀሉ (Putin tells African leaders Moscow will not pursue ‘neo-colonialism’)",
   "የአሜሪካ ፌደራል ሪዘርቭ የዋጋ ንረት ቢኖርም የብድር ወለድ ተመኑን ሳይለውጥ አቆየ (Fed leaves interest rates unchanged despite inflation in the US)",
@@ -2668,11 +2670,10 @@
   "እስራኤል በዌስት ባንኳ ኬብሮን ከተማ ላይ የጣለችውን ሙሉ ከበባ ቀጥላለች (A week of Israel’s lockdown in Hebron: What’s happened, when will it end?)",
   "በየመኗ ታኢዝ አቅራቢያ ውጊያው በመካረሩ ከ281 ሺህ በላይ ሰዎች ተፈናቀሉ (Fighting rages near Yemen’s Taiz as UN urges humanitarian access)",
   "ጠቅላይ ሚኒስትር ዐቢይ በሩሲያ-አፍሪካ ጉባኤ የኢትዮጵያን የምግብ፣ የኃይልና የቴክኖሎጂ አጀንዳዎች አቀረቡ (PM Abiy Puts Ethiopia’s Food Security, Energy and Knowledge Priorities at Center of Russia–Africa Summit)",
-  "የአፍሪካ የጡረታ ተቋማት ለየአህጉሩ መሠረተ ልማት ግንባታ በጋራ እንዲሠሩ ጥሪ ቀረበ (Ethiopia Champions Continental Pension Fund Cooperation to Finance African Infrastructure)"
+  "የአፍሪካ የጡረታ ተቋማት ለየአህጉሩ መሠረተ ልማት ግንባታ በጋራ እንዲሠሩ ጥሪ ቀረበ (Ethiopia Champions Continental Pension Fund Cooperation to Finance African Infrastructure)",
+  "በዩክሬን ድኒፕሮ ባቡር ጣቢያ ላይ በተፈጸመ የድሮን ጥቃት የ13 ሰዎች ሕይወት አለፈ (Russian drone attack on Ukrainian train station kills at least 13, officials say)"
  ],
  "posted_at": [
-  1793108701.1305292,
-  1793108704.5305717,
   1793112402.1012716,
   1793112405.5353453,
   1793114059.3993208,
@@ -2732,6 +2733,7 @@
   1793279498.0297923,
   1793279501.6268976,
   1793281011.638555,
-  1793281015.1396081
+  1793281015.1396081,
+  1793283160.388447
  ]
 }
