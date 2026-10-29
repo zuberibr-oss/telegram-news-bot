@@ -1,9 +1,5 @@
 {
  "seen": {
-  "0fea4c9b18ed87c9": 1792057340.7355788,
-  "ed8816589272a19d": 1792057340.7355788,
-  "bff09307547c2cb1": 1792057340.7355788,
-  "13c0383c9220f501": 1792057340.7355788,
   "a9925b0826998d04": 1792059199.6630816,
   "27e0dbd2488cc90d": 1792059199.6630816,
   "d1f64b37a5a70cc4": 1792059199.6630816,
@@ -2625,10 +2621,13 @@
   "c756f3b1ccd6f7bf": 1793266531.9337542,
   "7d1624d990006fe8": 1793266531.9337542,
   "81c5fb820a57d0f0": 1793266531.9337542,
-  "46dca6836d53e28c": 1793266531.9337542
+  "46dca6836d53e28c": 1793266531.9337542,
+  "c89f7b582ace0116": 1793268578.8229985,
+  "a0eba44a3d4913da": 1793268578.8229985,
+  "fda58100ebc24e87": 1793268578.8229985,
+  "5b21eed710c01ffb": 1793268578.8229985
  },
  "recent_headlines": [
-  "በትግራይ በተፈጸመ የድሮን ጥቃት አባትና አራት ልጆቻቸው መገደላቸው ተገለጸ (Halellaa Diroonii Tigraay Medebay Terer’tti raawwatameen Abbaafi Ijoolleen isaa afur; michuuwwan kiliniika keessaa baqataa turanis ajjeefamuun himame)",
   "በኢትዮጵያ ለአንድ ዓመት ታስረው የተፈቱት ካናዳዊ በእስር ላይ ድብደባ እንደደረሰባቸው ገለጹ (Lammiin Kaanaadaa Itoophiyaa keessatti shakkiin waggaa tokkoof hidhamee lakkifame, hidhaa keessatti reebichifi sarbiinsi mirga namoomaairra dhaqqabuu himate)",
   "ሶሪያ እና ዮርዳኖስ ድንበራቸውን በመክፈት በጋራ የደኅንነት ኮሚቴ ለማቋቋም ተስማሙ (Syria-Jordan border reopens amid probe into deadly air strikes)",
   "ባለፈው ሳምንት በተለያዩ የኢትዮጵያ አካባቢዎች በተፈጸሙ ጥቃቶች ቢያንስ 85 ሰዎች ተገደሉ (ባለፈው ሳምንት በተለያዩ ክልሎች በተፈጸሙ ጥቃቶች እና ግጭቶች ቢያንስ 85 ሰዎች መገደላቸውን ቢቢሲ ያሰባሰበው መረጃ አሳየ)",
@@ -2667,7 +2666,8 @@
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ እና ፕሬዚዳንት ፑቲን በኑክሌር ኃይልና ንግድ ትብብር ዙሪያ ተወያዩ (PM Abiy Ahmed and President Putin Discuss Nuclear Energy, Health and Trade Cooperation)",
   "በምዕራብ ኦሮሚያ በተፈጸመ የድሮን ጥቃት ሁለት የመንግሥት ሠራተኞች ተገደሉ (News: Two government civil servants killed in drone strike in western Oromia, say resident, relative)",
   "አሜሪካ በኮንጎው ግጭት ምክንያት በሩዋንዳ የመከላከያ ሚኒስቴር ላይ ማዕቀብ ጣለች (US sanctions Rwanda's defence ministry over DR Congo conflict)",
-  "ዳሽን ባንክ እና EIB Global የ20 ሚሊዮን ዩሮ የብድር ስምምነት ተፈራረሙ (Dashen Bank, EIB sign €20 million financing deal to unlock long-term credit for SMEs)"
+  "ዳሽን ባንክ እና EIB Global የ20 ሚሊዮን ዩሮ የብድር ስምምነት ተፈራረሙ (Dashen Bank, EIB sign €20 million financing deal to unlock long-term credit for SMEs)",
+  "ቱርክ እና ፓኪስታን ከሳውዲ አረቢያ ጋር የገቡትን የመከላከያ ስምምነት ተግባራዊ አደረጉ (Daily_Brief: #Türkiye, #Pakistan activate mutual defense pact with #Saudi_Arabia after #Houthi attacks)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2727,6 +2727,7 @@
   1793254615.5984197,
   1793257897.3886428,
   1793259359.9518785,
-  1793265071.7125385
+  1793265071.7125385,
+  1793268610.1870577
  ]
 }
