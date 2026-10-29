@@ -1,9 +1,5 @@
 {
  "seen": {
-  "494a171fb4bbdd19": 1792053888.983065,
-  "a4254c7da32a0fd5": 1792053888.983065,
-  "b2046e3ffe0445d9": 1792053888.983065,
-  "41e7dcd52086c2e9": 1792053888.983065,
   "b35d79d529e02688": 1792055614.8286927,
   "f52bae1b9952d680": 1792055614.8286927,
   "fefbc0496c0ce706": 1792055614.8286927,
@@ -2621,10 +2617,12 @@
   "93f7bba921a7ab77": 1793263077.1094446,
   "4a3fd37dbe1da277": 1793263077.1094446,
   "32c5d37b05fb7bf0": 1793263077.1094446,
-  "20ab220323303925": 1793263077.1094446
+  "20ab220323303925": 1793263077.1094446,
+  "42244703d0a622d0": 1793265037.7808533,
+  "ea7c4d3615e18206": 1793265037.7808533,
+  "4c165b0fe029d99d": 1793265037.7808533
  },
  "recent_headlines": [
-  "የብራዚሉ ሴናተር Flavio Bolsonaro ከምርጫው ሽንፈት በኋላ ወደ አሜሪካ ኮበለሉ (Flavio Bolsonaro flees Brazil after election loss, US says will grant visa)",
   "በትግራይ በተፈጸመ የድሮን ጥቃት አባትና አራት ልጆቻቸው መገደላቸው ተገለጸ (Halellaa Diroonii Tigraay Medebay Terer’tti raawwatameen Abbaafi Ijoolleen isaa afur; michuuwwan kiliniika keessaa baqataa turanis ajjeefamuun himame)",
   "በኢትዮጵያ ለአንድ ዓመት ታስረው የተፈቱት ካናዳዊ በእስር ላይ ድብደባ እንደደረሰባቸው ገለጹ (Lammiin Kaanaadaa Itoophiyaa keessatti shakkiin waggaa tokkoof hidhamee lakkifame, hidhaa keessatti reebichifi sarbiinsi mirga namoomaairra dhaqqabuu himate)",
   "ሶሪያ እና ዮርዳኖስ ድንበራቸውን በመክፈት በጋራ የደኅንነት ኮሚቴ ለማቋቋም ተስማሙ (Syria-Jordan border reopens amid probe into deadly air strikes)",
@@ -2663,7 +2661,8 @@
   "በሩሲያ መዲና ሞስኮ ላይ የተቃጣ ከ600 በላይ የድሮን ጥቃት መክሸፉ ተገለጸ (Russia says more than 600 drones launched towards Moscow overnight)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ እና ፕሬዚዳንት ፑቲን በኑክሌር ኃይልና ንግድ ትብብር ዙሪያ ተወያዩ (PM Abiy Ahmed and President Putin Discuss Nuclear Energy, Health and Trade Cooperation)",
   "በምዕራብ ኦሮሚያ በተፈጸመ የድሮን ጥቃት ሁለት የመንግሥት ሠራተኞች ተገደሉ (News: Two government civil servants killed in drone strike in western Oromia, say resident, relative)",
-  "አሜሪካ በኮንጎው ግጭት ምክንያት በሩዋንዳ የመከላከያ ሚኒስቴር ላይ ማዕቀብ ጣለች (US sanctions Rwanda's defence ministry over DR Congo conflict)"
+  "አሜሪካ በኮንጎው ግጭት ምክንያት በሩዋንዳ የመከላከያ ሚኒስቴር ላይ ማዕቀብ ጣለች (US sanctions Rwanda's defence ministry over DR Congo conflict)",
+  "ዳሽን ባንክ እና EIB Global የ20 ሚሊዮን ዩሮ የብድር ስምምነት ተፈራረሙ (Dashen Bank, EIB sign €20 million financing deal to unlock long-term credit for SMEs)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2722,6 +2721,7 @@
   1793254612.244293,
   1793254615.5984197,
   1793257897.3886428,
-  1793259359.9518785
+  1793259359.9518785,
+  1793265071.7125385
  ]
 }
