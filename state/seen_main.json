@@ -1,7 +1,5 @@
 {
  "seen": {
-  "86885611bb48aac6": 1792047235.77409,
-  "2667b4366aa2873b": 1792047235.77409,
   "b9ad17059fe36279": 1792048646.746984,
   "6ef1efc404a25825": 1792048646.746984,
   "cf3d7a04a825f8e8": 1792052198.3532946,
@@ -2595,10 +2593,20 @@
   "59b53e533d84f18e": 1793256167.0857818,
   "e62ad8e1adaf68cc": 1793256167.0857818,
   "540d6eb692807c04": 1793256167.0857818,
-  "2578a3240b96eebe": 1793256167.0857818
+  "2578a3240b96eebe": 1793256167.0857818,
+  "4d8231c2fc5a0866": 1793257859.9743905,
+  "d3fdadf1f0c3e366": 1793257859.9743905,
+  "e047c89ab44ebfbf": 1793257859.9743905,
+  "aee3d73522a0d34d": 1793257859.9743905,
+  "71d7e5bcb697c87d": 1793257859.9743905,
+  "0c63f86d4862cab3": 1793257859.9743905,
+  "741052f9a5a270a0": 1793257859.9743905,
+  "e112993495cbd683": 1793257859.9743905,
+  "e5d054fce31e4321": 1793257859.9743905,
+  "ae9096c9202eb8ff": 1793257859.9743905,
+  "ea73a2b06be74859": 1793257859.9743905
  },
  "recent_headlines": [
-  "ኢትዮጵያ እና ሩሲያ በኑክሌር ኃይል፣ በበረራ እና በቪዛ አገልግሎቶች ዙሪያ ተወያዩ (Raashiyaafi Itoophiyaan marii Gabbisa Humna Nookilaraa itti fufan; Balaliifi tajaajila viisaa fooyyessuurrattis mariyatan)",
   "በእስራኤል ምርጫ የተሰበሰቡ የመጀመሪያ ደረጃ መረጃዎች ግልጽ አሸናፊ አለመኖሩን አመለከቱ (Exit polls following Israeli elections indicate no clear winner)",
   "የብራዚሉ ሴናተር Flavio Bolsonaro ከምርጫው ሽንፈት በኋላ ወደ አሜሪካ ኮበለሉ (Flavio Bolsonaro flees Brazil after election loss, US says will grant visa)",
   "በትግራይ በተፈጸመ የድሮን ጥቃት አባትና አራት ልጆቻቸው መገደላቸው ተገለጸ (Halellaa Diroonii Tigraay Medebay Terer’tti raawwatameen Abbaafi Ijoolleen isaa afur; michuuwwan kiliniika keessaa baqataa turanis ajjeefamuun himame)",
@@ -2637,7 +2645,8 @@
   "በሱዳን የRSF እና የSPLM-N ህብረት በብሉ ናይል አቅራቢያ መግፋቱን ገለጸ (Daily_Brief: RSF-SPLM-N alliance claims advance near Blue Nile capital as Sudan army says attack repelled)",
   "ኢትዮጵያ ወታደሮቿን ከሶማሊያ ለማስወጣት ማቀዷ ተገለጸ (News: #Ethiopia reportedly plans troop withdrawal from #Somalia as fighting intensifies at home)",
   "በሩሲያ መዲና ሞስኮ ላይ የተቃጣ ከ600 በላይ የድሮን ጥቃት መክሸፉ ተገለጸ (Russia says more than 600 drones launched towards Moscow overnight)",
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ እና ፕሬዚዳንት ፑቲን በኑክሌር ኃይልና ንግድ ትብብር ዙሪያ ተወያዩ (PM Abiy Ahmed and President Putin Discuss Nuclear Energy, Health and Trade Cooperation)"
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ እና ፕሬዚዳንት ፑቲን በኑክሌር ኃይልና ንግድ ትብብር ዙሪያ ተወያዩ (PM Abiy Ahmed and President Putin Discuss Nuclear Energy, Health and Trade Cooperation)",
+  "በምዕራብ ኦሮሚያ በተፈጸመ የድሮን ጥቃት ሁለት የመንግሥት ሠራተኞች ተገደሉ (News: Two government civil servants killed in drone strike in western Oromia, say resident, relative)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2694,6 +2703,7 @@
   1793247105.1474216,
   1793254608.8684866,
   1793254612.244293,
-  1793254615.5984197
+  1793254615.5984197,
+  1793257897.3886428
  ]
 }

@@ -1,6 +1,5 @@
 {
  "seen": {
-  "2667b4366aa2873b": 1792047211.1447613,
   "ebc36d16f58c6eb9": 1792048557.3704855,
   "b8b7b07e456b31c2": 1792048557.3704855,
   "6ef1efc404a25825": 1792048557.3704855,
@@ -1345,10 +1344,11 @@
   "d24d892c8039a161": 1793237824.9494464,
   "f3660ecd60290ca1": 1793254489.166053,
   "435dcedc0ffbf914": 1793256105.131844,
-  "a8b15b5da11f272c": 1793256105.131844
+  "a8b15b5da11f272c": 1793256105.131844,
+  "0c63f86d4862cab3": 1793257781.706367,
+  "c12d8b481c2e5422": 1793257781.706367
  },
  "recent_headlines": [
-  "ዚምባብዌ በገጠር አካባቢዎች የመጀመሪያውን የ AI እና ዲጂታል ቴክኖሎጂ ማዕከል ከፈተች (Zimbabwe's first rural AI hub set to reduce digital divide)",
   "የኬንያ ከፍተኛ ፍርድ ቤት የ Uber Kenya የክስ ውድቅነት ጥያቄን ሳይቀበለው ቀረ (Uber Kenya must face court case over rider account deactivations)",
   "በአፍሪካ የ AI ስታርት አፖች ከመንግሥታት ጋር ለመሥራት የገንዘብ እና የጨረታ ፈተና ገጠማቸው (The brutal financial reality behind government AI adoption in Africa)",
   "በአፍሪካ የወደብ እና የጉምሩክ አሰራር መዘግየት የሎጂስቲክስ ወጪን እያጠናቀረው ነው (179 ports on paper, seven days at the gate: Inside Africa’s cargo bottleneck)",
@@ -1387,7 +1387,8 @@
   "ሳፋሪኮም በኬንያ የዲጂታል ሀብት ማኔጅመንት ንብረቱን 21.1 ቢሊዮን ሺሊንግ አደረሰ (Safaricom records KSh21.1 billion in wealth management assets as digital finance expands)",
   "የሳፋሪኮም የ M-Pesa ፉሊዛ የብድር አገልግሎት ተጠቃሚዎች ቁጥር 18.1 ሚሊዮን ደረሰ (Fuliza borrowers rise to 18.1m as merchant loans sour)",
   "የኢትዮጵያ ሰነደ መዋዕለ ንዋይ ገበያ ለ8 ዋስትናዎች የ OTC የንግድ መድረክ ሊጀምር ነው (Ethiopia’s OTC market targets 8 securities outside main listing requirements)",
-  "ዳሸን ባንክ Dashen Air Pay የተሰኘ የክፍያ አገልግሎት በይፋ አስጀመረ (Dashen Air Pay service officially goes operational to bridge the gap between businesses and customers)"
+  "ዳሸን ባንክ Dashen Air Pay የተሰኘ የክፍያ አገልግሎት በይፋ አስጀመረ (Dashen Air Pay service officially goes operational to bridge the gap between businesses and customers)",
+  "ዳሸን ባንክ የ15.2 ቢሊዮን ብር የትርፍ እና የ309 ቢሊዮን ብር ዲጂታል ግብይት ማስመዝገቡን ገለጸ (Dashen Bank Profit More Than Doubles to 15.2 Billion Birr as Assets Hit 350 Billion)"
  ],
  "posted_at": [
   1793099576.2336462,
@@ -1402,6 +1403,7 @@
   1793221751.5926924,
   1793223444.8255577,
   1793226952.0958877,
-  1793228964.2581527
+  1793228964.2581527,
+  1793257859.7376647
  ]
 }
