@@ -1,10 +1,5 @@
 {
  "seen": {
-  "bfa555f7d720d420": 1792064491.1247582,
-  "ddfc8fe1ee89c972": 1792064491.1247582,
-  "153f2a4e86affef3": 1792064491.1247582,
-  "f26ac56c7adb9258": 1792064491.1247582,
-  "3acc5137f02a46ef": 1792064491.1247582,
   "a0b8108bd6835a0f": 1792066758.117402,
   "be9a06953138d541": 1792066758.117402,
   "1850fa40cd7a10ce": 1792066758.117402,
@@ -2613,11 +2608,13 @@
   "58cb0c4e0db77356": 1793273743.2830963,
   "aefd74d4fb8b37f3": 1793273743.2830963,
   "79ff2cdc897d54ee": 1793273743.2830963,
-  "4e93d8323f62f2d7": 1793273743.2830963
+  "4e93d8323f62f2d7": 1793273743.2830963,
+  "b86a37d2e6808039": 1793276075.0542858,
+  "82f7ea41b9e63e74": 1793276075.0542858,
+  "0842c72aa9d8deef": 1793276075.0542858,
+  "c0b62d0fe0d67857": 1793276075.0542858
  },
  "recent_headlines": [
-  "ሩሲያ በኢትዮጵያ እና ኤርትራ መካከል ለማደራደር ዝግጁ መሆኗን ገለጸች (ሩሲያ ዛሬ ከሚጀመረው ጉባኤ ጎን ኢትዮጵያ እና ኤርትራን ለማደራደር ዝግጁ መሆኗን የውጭ ጉዳይ ሚኒስትሯ ተናገሩ)",
-  "የግብፅ ፓርላማ ለሳውዲ አረቢያ የሚደረገውን ወታደራዊ ድጋፍ አጸደቀ (Paarlaamaan Masrii deeggarsa Waraanaa Saa’udii Arabiyaaf taasifamu raggaasise; haleellaan Huutiis hammaate)",
   "በሱዳን ብሉ ናይል ግዛት በተፈጸመ የድሮን ጥቃት ቢያንስ 30 ሰዎች ተገደሉ (Daily_Brief: Drone strike kills at least 30, mostly women and children, near displacement camp in #Sudan’s #Blue_Nile)",
   "በሱዳን ዳርፉር በተፈጸመ የድሮን ጥቃት ከ100 በላይ ሰዎች መገደላቸው ተገለጸ (Daily_Brief: #Sudan rights group says army drone strike kills more than 100 in #Darfur market)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ3ኛው የሩሲያ-አፍሪካ ጉባዔ ለመሳተፍ ሞስኮ ገቡ (PM Abiy Ahmed Arrives in Moscow for Third Russia–Africa Summit)",
@@ -2655,11 +2652,11 @@
   "ቱርክ እና ፓኪስታን ከሳውዲ አረቢያ ጋር የገቡትን የመከላከያ ስምምነት ተግባራዊ አደረጉ (Daily_Brief: #Türkiye, #Pakistan activate mutual defense pact with #Saudi_Arabia after #Houthi attacks)",
   "ኢትዮጵያ በዓለም አቀፉ የሲቪል አቪዬሽን ድርጅት ምክር ቤት ብቸኛዋ የአፍሪካ ዕጩ ሆነች (Ethiopia Stands as Africa’s Sole Candidate for ICAO Council Membership)",
   "የአሜሪካ መከላከያ ሚኒስቴር በኢራን ላይ የሚካሄደው ጦርነት 47.1 ቢሊዮን ዶላር ወጪ መጠየቁን አስታወቀ (Pentagon says Iran war has cost US taxpayers $47bn: What that means)",
-  "በእስራኤል የተካሄደው የፓርላማ ምርጫ ያለ አሸናፊ በግንባር ቀደምትነት መጠናቀቁ ተገለጸ (Israel’s election rhetoric: What candidates said, and how they performed)"
+  "በእስራኤል የተካሄደው የፓርላማ ምርጫ ያለ አሸናፊ በግንባር ቀደምትነት መጠናቀቁ ተገለጸ (Israel’s election rhetoric: What candidates said, and how they performed)",
+  "በቻይና ኮሙኒስት ፓርቲ ጉባኤ ከፍተኛ ቁጥር ያላቸው አመራሮች ከፓርቲው ተባረሩ (Record number of purges as Xi emphasises 'party discipline' at China political gathering)",
+  "ኢትዮጵያ የድሮን ቴክኖሎጂ ምርምር እና ማኑፋክቸሪንግ ለማስፋፋት የሚያስችል ስምምነት ተፈራረመች (Ethiopia’s Domestic Partnership Targets Expanded Drone Research, Development and Manufacturing)"
  ],
  "posted_at": [
-  1793101379.285894,
-  1793101382.7404537,
   1793103600.3631396,
   1793103603.7780793,
   1793103607.2429821,
@@ -2719,6 +2716,8 @@
   1793268610.1870577,
   1793272189.209548,
   1793273871.549549,
-  1793273874.9895823
+  1793273874.9895823,
+  1793276191.2756612,
+  1793276194.7428632
  ]
 }
