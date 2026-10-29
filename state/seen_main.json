@@ -1,10 +1,5 @@
 {
  "seen": {
-  "d2d1f8124e0f6e3d": 1792075220.9391418,
-  "f0429b44fa4546c9": 1792075220.9391418,
-  "414b29f3a6fa66b8": 1792075220.9391418,
-  "ecff8e6c007af6be": 1792075220.9391418,
-  "cb283542b16ca7a3": 1792075220.9391418,
   "34e86b6db24ca3e0": 1792077188.437423,
   "d07f2f8ace56d8d6": 1792077188.437423,
   "a0ddfe1e403e361a": 1792077188.437423,
@@ -2626,12 +2621,18 @@
   "298edd653e4ed888": 1793284592.3279905,
   "a64032b854946c79": 1793284592.3279905,
   "83bf480303110b33": 1793284592.3279905,
-  "7a48e4b8e4c47d9f": 1793284592.3279905
+  "7a48e4b8e4c47d9f": 1793284592.3279905,
+  "85b64816ea4305a7": 1793286641.7776315,
+  "6472b680b7a2ce96": 1793286641.7776315,
+  "4b096dec86508ecb": 1793286641.7776315,
+  "f560985bb6f2f3ca": 1793286641.7776315,
+  "469ee8c7c9851afc": 1793286641.7776315,
+  "1670c0839507adbe": 1793286641.7776315,
+  "f81c0a165d0249b5": 1793286641.7776315,
+  "13d7ee2c0b0bbff5": 1793286641.7776315,
+  "18d90aa5fa56f877": 1793286641.7776315
  },
  "recent_headlines": [
-  "በኢትዮጵያ ዘርፍ ማኅበራት ምክር ቤት አመራሮች ምርጫ ላይ ተመስርቶ የነበረው ክስ ተነሳ (Belayneh Kinde, Jamal Ahmed lawsuit withdrawn as sector associations council prepares for re-election)",
-  "ፑቲን በሩሲያ-አፍሪካ ጉባኤ ላይ ምዕራባውያን አፍሪካን በብድርና ብዝበዛ እያደከሙ ነው ሲሉ ወነጀሉ (Putin tells African leaders Moscow will not pursue ‘neo-colonialism’)",
-  "የአሜሪካ ፌደራል ሪዘርቭ የዋጋ ንረት ቢኖርም የብድር ወለድ ተመኑን ሳይለውጥ አቆየ (Fed leaves interest rates unchanged despite inflation in the US)",
   "የኢትዮጵያ ሴኩሪቲስ ኤክስቼንጅ 8 ሰነዶችን በኦቲሲ ገበያ ለማስተናገድ እያዘጋጀ ነው (Ethiopia’s OTC market targets 8 securities outside main listing requirements)",
   "የአፍሪካ ኅብረት ኮሚሽን የ100 ቢሊዮን USD የምግብ ገቢ ምርትን ለመቀነስ የግብርና ትራንስፎርሜሽን እንዲፋጠን ጥሪ አቀረበ (AU Commission Chairperson Calls for Agricultural Transformation to Reduce Africa’s $100 Billion Food Import Bill)",
   "የአዕምሯዊ ንብረት ሰርተፊኬት በማስያዝ ከባንክ ብድር የሚገኝበት አሠራር ተጀመረ (የአዕምሯዊ ንብረት ሰርተፊኬት በማስያዝ ከባንክ ብድር የሚገኝበት አሠራር መጀመሩ ተገለጸ)",
@@ -2668,11 +2669,12 @@
   "በየመኗ ታኢዝ አቅራቢያ ውጊያው በመካረሩ ከ281 ሺህ በላይ ሰዎች ተፈናቀሉ (Fighting rages near Yemen’s Taiz as UN urges humanitarian access)",
   "ጠቅላይ ሚኒስትር ዐቢይ በሩሲያ-አፍሪካ ጉባኤ የኢትዮጵያን የምግብ፣ የኃይልና የቴክኖሎጂ አጀንዳዎች አቀረቡ (PM Abiy Puts Ethiopia’s Food Security, Energy and Knowledge Priorities at Center of Russia–Africa Summit)",
   "የአፍሪካ የጡረታ ተቋማት ለየአህጉሩ መሠረተ ልማት ግንባታ በጋራ እንዲሠሩ ጥሪ ቀረበ (Ethiopia Champions Continental Pension Fund Cooperation to Finance African Infrastructure)",
-  "በዩክሬን ድኒፕሮ ባቡር ጣቢያ ላይ በተፈጸመ የድሮን ጥቃት የ13 ሰዎች ሕይወት አለፈ (Russian drone attack on Ukrainian train station kills at least 13, officials say)"
+  "በዩክሬን ድኒፕሮ ባቡር ጣቢያ ላይ በተፈጸመ የድሮን ጥቃት የ13 ሰዎች ሕይወት አለፈ (Russian drone attack on Ukrainian train station kills at least 13, officials say)",
+  "ኤርትራ እና አሜሪካ ማዕቀብ ከተነሳ በኋላ ዲፕሎማሲያዊ ግንኙነታቸውን እያጠናከሩ ነው (#Daily_Brief: #Eritrea, #US advance bilateral relations following sanctions removal)",
+  "ኢትዮጵያ የሚቀጥለውን የሩሲያ-አፍሪካ ጉባኤ ለማስተናገድ ዝግጁ መሆኗን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (PM Abiy Says Ethiopia Ready to Host Russia–Africa Summit When It Next Comes to Africa)",
+  "የኢትዮጵያ ሚዲያ ባለሥልጣን ለድምፂ ወያነ በማዕዶት ብሮድካስቲንግ ስም አዲስ ፈቃድ ሰጠ (Former Dimtsi Woyane Tigray Broadcaster Rebranded as Maedot Broadcasting Service Under New Licence)"
  ],
  "posted_at": [
-  1793112402.1012716,
-  1793112405.5353453,
   1793114059.3993208,
   1793115768.2246933,
   1793119112.4173722,
@@ -2731,6 +2733,9 @@
   1793279501.6268976,
   1793281011.638555,
   1793281015.1396081,
-  1793283160.388447
+  1793283160.388447,
+  1793286722.500325,
+  1793286725.991993,
+  1793286729.435765
  ]
 }
