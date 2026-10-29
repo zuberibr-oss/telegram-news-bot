@@ -1,9 +1,5 @@
 {
  "seen": {
-  "9173870c659e034a": 1792024122.9682379,
-  "8cd07173e7bda9ca": 1792024122.9682379,
-  "f257b0e8b36abb10": 1792024122.9682379,
-  "4f32fafb1f14ff5a": 1792024122.9682379,
   "6cf752f52f1fe6fa": 1792026391.5101857,
   "cea1d148d5d4f0ba": 1792026391.5101857,
   "5f113c56dc6cc4b6": 1792026391.5101857,
@@ -2602,11 +2598,15 @@
   "0134af7636038f6d": 1793230585.242596,
   "7ae183f27d635080": 1793233421.5306258,
   "616e5a4139454dbd": 1793233421.5306258,
-  "e1a12671755ce14e": 1793233421.5306258
+  "e1a12671755ce14e": 1793233421.5306258,
+  "81bcc62221287531": 1793235240.252233,
+  "11e5e4cbc97c8728": 1793235240.252233,
+  "bb90ee4a2bf2a78a": 1793235240.252233,
+  "170aa21cb07a4362": 1793235240.252233,
+  "8ceb50b931ec68e9": 1793235240.252233,
+  "c33ad4b5d4f1c7c9": 1793235240.252233
  },
  "recent_headlines": [
-  "በካርቱም በተፈጸመ የድሮን ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ፤ ጥቃቱ ከኢትዮጵያ መሰንዘሩ ተጠቆመ (Daily_Brief: #Sudan reports power outages across #Khartoum following drone attacks, with reports linking launches to #Ethiopia)",
-  "የፊንላንድ እና ኖርዌይ መሪዎች ከ Vladimir Putin ጋር በስልክ ተወያዩ (Norway and Finland leaders hold rare call with Putin)",
   "የኢትዮጵያ ብሔራዊ ባንክ በውጭ ምንዛሬ ጨረታ የዶላር አማካይ ተመን መቀነሱን አስታወቀ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
   "በትግራይ ክልል የንግድ እንቅስቃሴን ለማነቃቃትና ገበያን ለማረጋጋት የተጀመሩ ጥረቶች ተጠናክረው መቀጠላቸው ተገለጸ (Tigray Region Caretaker Administration Intensifying Efforts to Revitalize Trade and Stabilize Markets)",
   "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)",
@@ -2644,7 +2644,9 @@
   "ኢትዮጵያ እስከ 2035 የሐረንጓዴ ጋዝ ልቀቷን በ70.3 በመቶ ለመቀነስ አቀደች (#Daily_Brief: #Ethiopia targets 70.3% reduction in greenhouse gas emissions by 2035)",
   "ሶማሊላንድ ዶናልድ ትራምፕ ለሉአላዊነቷ ዕውቅና መስጠታቸውን መደገፏን ገለጸች (Daily_Brief: #Somaliland welcomes what it describes as Trump’s acknowledgement of its sovereignty)",
   "በደቡብ ኢትዮጵያ በነበረ ግጭት ምክንያት 50 ሺህ ገደማ ሰዎች ወደ ኬንያ ተሰደዱ (50,000 Ethiopian refugees flood Kenyan border town as intercommunal violence flares)",
-  "ኢራን የሆርሙዝን የባሕር ወለል ለመክፈት የሚያስችላትን ዕቅድ እያቀረበች ነው (Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks)"
+  "ኢራን የሆርሙዝን የባሕር ወለል ለመክፈት የሚያስችላትን ዕቅድ እያቀረበች ነው (Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks)",
+  "እስራኤል የኢንዶኔዥያ አብራሪ በመያዙ የኢትዮጵያ አየር መንገድ የጭነት አውሮፕላንን መልሳ ላከች (Daily_Brief: #Israel turns back Ethiopian Airlines cargo flight after identifying #Indonesian pilot)",
+  "በኢትዮጵያ የገንዘብ እጥረት ያጋጠመው UNHCR የሺዎችን ስደተኞች ምዝገባ አገደ (Daily_Brief: #UNHCR funding shortfall suspends refugee registration for tens of thousands in #Ethiopia)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2694,6 +2696,8 @@
   1793223515.0387588,
   1793223518.527388,
   1793223522.0131526,
-  1793233449.132496
+  1793233449.132496,
+  1793235282.640139,
+  1793235285.993898
  ]
 }
