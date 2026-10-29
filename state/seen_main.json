@@ -2585,12 +2585,19 @@
   "a30fe7fa4c7948e5": 1793250606.621299,
   "55cca2d0c103e9cf": 1793252149.2763188,
   "0d6bf06f69f97d44": 1793252149.2763188,
-  "6c35e163da980d8f": 1793252149.2763188
+  "6c35e163da980d8f": 1793252149.2763188,
+  "43051003b016ffa6": 1793254542.7778435,
+  "e9603e14ef4778dc": 1793254542.7778435,
+  "35a53b5ff733e456": 1793254542.7778435,
+  "e555beb271f36fbe": 1793254542.7778435,
+  "9d5ed80f21ad323c": 1793254542.7778435,
+  "c53818d72edafbe4": 1793254542.7778435,
+  "8a856191dbf684b9": 1793254542.7778435,
+  "7577df9b86147f9b": 1793254542.7778435,
+  "58b51b80b40f71f8": 1793254542.7778435,
+  "f3660ecd60290ca1": 1793254542.7778435
  },
  "recent_headlines": [
-  "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)",
-  "በአፋር፣ አማራና ትግራይ ድርቅና የምግብ እጥረት የሰብዓዊ እርዳታ ፍላጎቱን አባባሱት (Hongeen, hanqinni nyaataa fi hanqinni soorataa daa’immanii Naannoo Affaar, Amaaraa fi Tigraay keessatti fedhii gargaarsa namoomaa hammeessaniiru)",
-  "ሉላ ዳ ሲልቫ በብራዚል የፕሬዚዳንትነት ምርጫ ማሸነፋቸው የ BRICS ስብስብን ያጠናክራል ተባለ (Lula’s victory echoes across BRICS after fears of a Bolsonaro win)",
   "ኢትዮጵያ እና ሩሲያ በኑክሌር ኃይል፣ በበረራ እና በቪዛ አገልግሎቶች ዙሪያ ተወያዩ (Raashiyaafi Itoophiyaan marii Gabbisa Humna Nookilaraa itti fufan; Balaliifi tajaajila viisaa fooyyessuurrattis mariyatan)",
   "በእስራኤል ምርጫ የተሰበሰቡ የመጀመሪያ ደረጃ መረጃዎች ግልጽ አሸናፊ አለመኖሩን አመለከቱ (Exit polls following Israeli elections indicate no clear winner)",
   "የብራዚሉ ሴናተር Flavio Bolsonaro ከምርጫው ሽንፈት በኋላ ወደ አሜሪካ ኮበለሉ (Flavio Bolsonaro flees Brazil after election loss, US says will grant visa)",
@@ -2627,7 +2634,10 @@
   "እስራኤል የኢንዶኔዥያ አብራሪ በመያዙ የኢትዮጵያ አየር መንገድ የጭነት አውሮፕላንን መልሳ ላከች (Daily_Brief: #Israel turns back Ethiopian Airlines cargo flight after identifying #Indonesian pilot)",
   "በኢትዮጵያ የገንዘብ እጥረት ያጋጠመው UNHCR የሺዎችን ስደተኞች ምዝገባ አገደ (Daily_Brief: #UNHCR funding shortfall suspends refugee registration for tens of thousands in #Ethiopia)",
   "አሕመድ ሽዴ የሕዝብ ተወካዮች፣ ሙፈሪያት ካሚል የፌዴሬሽን ምክር ቤት አፈ ጉባኤ ሆኑ (Breaking_News: #Ahmed_Shide elected House of Peoples’ Representatives Speaker, #Muferihat_Kamil to lead House of Federation)",
-  "በሱዳን የRSF እና የSPLM-N ህብረት በብሉ ናይል አቅራቢያ መግፋቱን ገለጸ (Daily_Brief: RSF-SPLM-N alliance claims advance near Blue Nile capital as Sudan army says attack repelled)"
+  "በሱዳን የRSF እና የSPLM-N ህብረት በብሉ ናይል አቅራቢያ መግፋቱን ገለጸ (Daily_Brief: RSF-SPLM-N alliance claims advance near Blue Nile capital as Sudan army says attack repelled)",
+  "ኢትዮጵያ ወታደሮቿን ከሶማሊያ ለማስወጣት ማቀዷ ተገለጸ (News: #Ethiopia reportedly plans troop withdrawal from #Somalia as fighting intensifies at home)",
+  "በሩሲያ መዲና ሞስኮ ላይ የተቃጣ ከ600 በላይ የድሮን ጥቃት መክሸፉ ተገለጸ (Russia says more than 600 drones launched towards Moscow overnight)",
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ እና ፕሬዚዳንት ፑቲን በኑክሌር ኃይልና ንግድ ትብብር ዙሪያ ተወያዩ (PM Abiy Ahmed and President Putin Discuss Nuclear Energy, Health and Trade Cooperation)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2681,6 +2691,9 @@
   1793235282.640139,
   1793235285.993898,
   1793245065.0712872,
-  1793247105.1474216
+  1793247105.1474216,
+  1793254608.8684866,
+  1793254612.244293,
+  1793254615.5984197
  ]
 }
