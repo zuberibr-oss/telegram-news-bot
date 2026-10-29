@@ -1,7 +1,5 @@
 {
  "seen": {
-  "3e4c0b9368158e9e": 1792068593.3640316,
-  "aa4e9123e5b91264": 1792068593.3640316,
   "217426d7d059138d": 1792069960.264,
   "255bee0390c5706d": 1792071741.2575064,
   "39a58598b8d3d33d": 1792071741.2575064,
@@ -2610,11 +2608,21 @@
   "a2c2c18e924d76f9": 1793277665.623206,
   "d78258fe1d3e3d7c": 1793277665.623206,
   "5f0bee12774f9976": 1793277665.623206,
-  "ac3494442edbca2d": 1793277665.623206
+  "ac3494442edbca2d": 1793277665.623206,
+  "d466fa9eacebd9fd": 1793279411.5510192,
+  "503cb0f0aaa13bf6": 1793279411.5510192,
+  "318a3d3da219146b": 1793279411.5510192,
+  "ef9caca8b474b3ca": 1793279411.5510192,
+  "b5f88b99c74af36d": 1793279411.5510192,
+  "050f357f7101aa0c": 1793279411.5510192,
+  "0aaef927e395f461": 1793279411.5510192,
+  "a64d388bcd1c34af": 1793279411.5510192,
+  "2503850534a541d2": 1793279411.5510192,
+  "8cbc4445855ad316": 1793279411.5510192,
+  "e995048434be0835": 1793279411.5510192,
+  "86bd9c91b0bed0d7": 1793279411.5510192
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ3ኛው የሩሲያ-አፍሪካ ጉባዔ ለመሳተፍ ሞስኮ ገቡ (PM Abiy Ahmed Arrives in Moscow for Third Russia–Africa Summit)",
-  "ዶናልድ ትራምፕ በኢራን ላይ በሚፈጸም ጥቃት ዙሪያ ማንኛውም ነገር ሊከሰት እንደሚችል ገለጹ (Iran war live: Trump says ‘anything possible’ on Iran attack after midterms)",
   "በአቡ ዳቢ በሚካሄደው የዩክሬን እና ሩሲያ ድርድር አውሮፓውያን አይሳተፉም ተባለ (Kremlin says European countries not included in next Ukraine talks)",
   "ኢትዮጵያ 12 የሩሲያ ሱ-35 የጦር ጄቶችን መረከቧን አስታወቀች (Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition)",
   "በስፔን ሁለት ባለከፍተኛ ፍጥነት ባቡሮች ተጋጭተው የሰው ሕይወት አለፈ (Watch: At the scene of Spain's deadly train crash)",
@@ -2652,12 +2660,11 @@
   "በቻይና ኮሙኒስት ፓርቲ ጉባኤ ከፍተኛ ቁጥር ያላቸው አመራሮች ከፓርቲው ተባረሩ (Record number of purges as Xi emphasises 'party discipline' at China political gathering)",
   "ኢትዮጵያ የድሮን ቴክኖሎጂ ምርምር እና ማኑፋክቸሪንግ ለማስፋፋት የሚያስችል ስምምነት ተፈራረመች (Ethiopia’s Domestic Partnership Targets Expanded Drone Research, Development and Manufacturing)",
   "አሜሪካ ከኢራን ጋር የሰላም ንግግር ለመጀመር ጥሪ አቀረበች (What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’)",
-  "ደቡብ አፍሪካ የኦሊምፒክ ውድድርን ለመጀመሪያ ጊዜ ወደ አፍሪካ ለማምጣት ደርባንን ዕጩ አደረገች (Olympic Games: South Africa bids to make Durban host city for 2036 or 2040)"
+  "ደቡብ አፍሪካ የኦሊምፒክ ውድድርን ለመጀመሪያ ጊዜ ወደ አፍሪካ ለማምጣት ደርባንን ዕጩ አደረገች (Olympic Games: South Africa bids to make Durban host city for 2036 or 2040)",
+  "እስራኤል በዌስት ባንኳ ኬብሮን ከተማ ላይ የጣለችውን ሙሉ ከበባ ቀጥላለች (A week of Israel’s lockdown in Hebron: What’s happened, when will it end?)",
+  "በየመኗ ታኢዝ አቅራቢያ ውጊያው በመካረሩ ከ281 ሺህ በላይ ሰዎች ተፈናቀሉ (Fighting rages near Yemen’s Taiz as UN urges humanitarian access)"
  ],
  "posted_at": [
-  1793105593.4745233,
-  1793105596.8391159,
-  1793105600.3099678,
   1793108701.1305292,
   1793108704.5305717,
   1793112402.1012716,
@@ -2715,6 +2722,8 @@
   1793276191.2756612,
   1793276194.7428632,
   1793277724.6604147,
-  1793277728.1215699
+  1793277728.1215699,
+  1793279498.0297923,
+  1793279501.6268976
  ]
 }
