@@ -1,8 +1,5 @@
 {
  "seen": {
-  "72d00a2b26e1cbab": 1792085924.6369443,
-  "89a556006ed2b15e": 1792085924.6369443,
-  "ca63d9e419f83712": 1792085924.6369443,
   "360af16bc4ab7420": 1792088112.177992,
   "554d72e6b2601040": 1792088112.177992,
   "dbf504c81e4e4966": 1792088112.177992,
@@ -2630,10 +2627,12 @@
   "0797319444732c8a": 1793295390.8814905,
   "68bd381dc0997a4c": 1793295390.8814905,
   "a32d96803a3834de": 1793295390.8814905,
-  "0da55346a559ab4e": 1793295390.8814905
+  "0da55346a559ab4e": 1793295390.8814905,
+  "57cf5db4bacfab0b": 1793297522.5647,
+  "9602a5f105e69e6c": 1793297522.5647,
+  "5f0381faba49acd2": 1793297522.5647
  },
  "recent_headlines": [
-  "የተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ማዘጋጀቱ ተገለጸ (የተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ዝግጅት መጠናቀቁ ተገለጸ)",
   "የኢትዮጵያ ቀይ መስቀል ማኅበር በትግራይ ለሚገኙ የጤና ተቋማት የ68 ሚሊዮን ብር ድጋፍ አደረገ (በትግራይ ጉዳት ለደረሰባቸው የጤና ተቋማት 68 ሚሊዮን ብር የሚገመት የቁሳቁስና የገንዘብ ድጋፍ ተደረገ)",
   "ለግብርና ማሽነሪዎች የሚሰጥ የብድር ወለድና የመመለሻ ጊዜ እንዲሻሻል ጥያቄ ቀረበ (የግብርና ማሽነሪዎች የብድር ወለድ ምጣኔና የመመለሻ ጊዜ ማጠሩ የፖሊሲ ማሻሻያ እንዲደረግባቸው ተጠየቀ)",
   "በሽርካ አካባቢ ሟቾችን ሲቀብሩና ቁስለኞችን ሲረዱ የነበሩ ከ50 በላይ ነዋሪዎች ታሰሩ (Naannawa Shirkaatti jiraattonni 50 ol warra ajjeefaman awwaalaniifi madaa’an yaalchisaa turan poolisiin qabamuu jiraattotni Addis Standard’tti himan)",
@@ -2672,7 +2671,8 @@
   "ህብረት ኢንሹራንስ የዓመታዊ አረቦን ገቢውን ወደ 3.42 ቢሊዮን ብር ማሳደጉን አስታወቀ (​Hibret insurance premiums surge 24% to 3.42 Billion birr)",
   "አዲስ አበባ ባለፉት አምስት ዓመታት ወደ ግማሽ ሚሊዮን የሚጠጉ ቤቶችን አስተላለፈች (Addis Ababa Delivers Nearly Half a Million Homes in Five Years, Expands Inclusive Housing Development)",
   "የአውሮፓ ማዕከላዊ ባንክ ፕሬዚዳንት ክርስቲን ላጋርድ ከሥልጣናቸው ሊለቁ ነው (European Central Bank President Lagarde to step down early)",
-  "በኤምሬትስ ለሱዳን ሠራዊት መሣሪያ በማሻገር ስምንት ሰዎች የዕድሜ ልክ እስራት ተፈረደባቸው (UAE sentences eight people to life over arms supplies to Sudan’s army)"
+  "በኤምሬትስ ለሱዳን ሠራዊት መሣሪያ በማሻገር ስምንት ሰዎች የዕድሜ ልክ እስራት ተፈረደባቸው (UAE sentences eight people to life over arms supplies to Sudan’s army)",
+  "በእስፓንያ 69 ሰዎችን ለገደለው የባቡር አደጋ መንስኤ የሚጠቁም የድምፅ ቅጂ ይፋ ሆነ (Audio reveals exchanges between Spain train operators and drivers moments before deadly crash)"
  ],
  "posted_at": [
   1793128165.1670518,
@@ -2739,6 +2739,7 @@
   1793290320.5983012,
   1793290324.2339804,
   1793293791.3938353,
-  1793295453.4735754
+  1793295453.4735754,
+  1793297558.3129401
  ]
 }
