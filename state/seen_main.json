@@ -1,11 +1,5 @@
 {
  "seen": {
-  "9529252bd59f3d32": 1792078876.4597237,
-  "5d49d9e943c41314": 1792078876.4597237,
-  "43ffe087930d0f0b": 1792078876.4597237,
-  "3ce749a6d1c8d105": 1792078876.4597237,
-  "092901b582552096": 1792078876.4597237,
-  "1313a6aed2c3080c": 1792078876.4597237,
   "4f3f36b257b8c7e5": 1792080777.5748403,
   "c78ed29c5c136079": 1792080777.5748403,
   "a6f5c0a149efd8a9": 1792080777.5748403,
@@ -2629,12 +2623,15 @@
   "14953175fccf5c99": 1793288163.9402122,
   "d05dc8d3139c7082": 1793288163.9402122,
   "69546e2a3fc5a0f5": 1793288163.9402122,
-  "fdc685feeb7bffad": 1793288163.9402122
+  "fdc685feeb7bffad": 1793288163.9402122,
+  "2b06e4a0526a915e": 1793290248.3097653,
+  "bee4919d208d9a9c": 1793290248.3097653,
+  "6abe823edd2c2622": 1793290248.3097653,
+  "2d57161caddc8f6f": 1793290248.3097653,
+  "27c5b61569c20d06": 1793290248.3097653,
+  "0750c366057ea959": 1793290248.3097653
  },
  "recent_headlines": [
-  "የአፍሪካ ኅብረት ኮሚሽን የ100 ቢሊዮን USD የምግብ ገቢ ምርትን ለመቀነስ የግብርና ትራንስፎርሜሽን እንዲፋጠን ጥሪ አቀረበ (AU Commission Chairperson Calls for Agricultural Transformation to Reduce Africa’s $100 Billion Food Import Bill)",
-  "የአዕምሯዊ ንብረት ሰርተፊኬት በማስያዝ ከባንክ ብድር የሚገኝበት አሠራር ተጀመረ (የአዕምሯዊ ንብረት ሰርተፊኬት በማስያዝ ከባንክ ብድር የሚገኝበት አሠራር መጀመሩ ተገለጸ)",
-  "አፍሪካ ለግብርና በጀት ካልመደበች የረሃብተኞች ቁጥር በከፍተኛ ሁኔታ ይጨምራል ተባለ (ለግብርና ከፍተኛ ርብርብ ካልተደረገ ከአራት ዓመታት በኋላ አፍሪካውያን ለፅኑ ረሃብ እንደሚጋለጡ ተነገረ)",
   "በኢትዮጵያ የአቪዬሽን ደኅንነት ቁጥጥር ከ22 በመቶ በላይ ዕድገት ማሳየቱ በኦዲት ተመላከተ (የኢትዮጵያ የአቪዬሽን ደኅንነት ቁጥጥር ከ22 በመቶ በላይ ዕድገት ማስመዝገቡ በኦዲት ተመላከተ)",
   "አይኤምኤፍ በግምጃ ቤት ሰነዶች አወጣጥ መመርያ ላይ ከኢትዮጵያ ጋር ሊወያይ ነው (አይኤምኤፍ በግምጃ ቤት ሰነዶች አወጣጥ መመርያ ላይ ከመንግሥት ጋር በኅዳር ወር ሊወያይ ነው)",
   "የተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ማዘጋጀቱ ተገለጸ (የተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ዝግጅት መጠናቀቁ ተገለጸ)",
@@ -2671,10 +2668,12 @@
   "ኤርትራ እና አሜሪካ ማዕቀብ ከተነሳ በኋላ ዲፕሎማሲያዊ ግንኙነታቸውን እያጠናከሩ ነው (#Daily_Brief: #Eritrea, #US advance bilateral relations following sanctions removal)",
   "ኢትዮጵያ የሚቀጥለውን የሩሲያ-አፍሪካ ጉባኤ ለማስተናገድ ዝግጁ መሆኗን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (PM Abiy Says Ethiopia Ready to Host Russia–Africa Summit When It Next Comes to Africa)",
   "የኢትዮጵያ ሚዲያ ባለሥልጣን ለድምፂ ወያነ በማዕዶት ብሮድካስቲንግ ስም አዲስ ፈቃድ ሰጠ (Former Dimtsi Woyane Tigray Broadcaster Rebranded as Maedot Broadcasting Service Under New Licence)",
-  "የኢትዮጵያ ሚዲያ ባለሥልጣን ለትግራይ ብሮድካስቲንግ ኮርፖሬሽን አዲስ የብሮድካስት ፈቃድ ሰጠ (Ethiopian Media Authority Grants New Licence to Suspended Tigray Media Agency, Renamed Tigray Broadcasting Corporation)"
+  "የኢትዮጵያ ሚዲያ ባለሥልጣን ለትግራይ ብሮድካስቲንግ ኮርፖሬሽን አዲስ የብሮድካስት ፈቃድ ሰጠ (Ethiopian Media Authority Grants New Licence to Suspended Tigray Media Agency, Renamed Tigray Broadcasting Corporation)",
+  "በብራዚል ምርጫ የተሸነፉት ፍላቪዮ ቦልሶናሮ ከአገር ለቀው ወደ አሜሪካ ተሰደዱ (Flávio Bolsonaro calls himself 'leader of Brazil' after election loss)",
+  "ህብረት ኢንሹራንስ የዓመታዊ አረቦን ገቢውን ወደ 3.42 ቢሊዮን ብር ማሳደጉን አስታወቀ (​Hibret insurance premiums surge 24% to 3.42 Billion birr)",
+  "አዲስ አበባ ባለፉት አምስት ዓመታት ወደ ግማሽ ሚሊዮን የሚጠጉ ቤቶችን አስተላለፈች (Addis Ababa Delivers Nearly Half a Million Homes in Five Years, Expands Inclusive Housing Development)"
  ],
  "posted_at": [
-  1793115768.2246933,
   1793119112.4173722,
   1793128165.1670518,
   1793133393.4668338,
@@ -2735,6 +2734,9 @@
   1793286722.500325,
   1793286725.991993,
   1793286729.435765,
-  1793288212.1391573
+  1793288212.1391573,
+  1793290315.8562295,
+  1793290320.5983012,
+  1793290324.2339804
  ]
 }
