@@ -1,13 +1,5 @@
 {
  "seen": {
-  "a0b8108bd6835a0f": 1792066758.117402,
-  "be9a06953138d541": 1792066758.117402,
-  "1850fa40cd7a10ce": 1792066758.117402,
-  "ddfd3ea401ec4778": 1792066758.117402,
-  "07d2845750b98a42": 1792066758.117402,
-  "54b764d6a1fb83f0": 1792066758.117402,
-  "c5bd3134eb32eca0": 1792066758.117402,
-  "dc80dc8155fa0477": 1792066758.117402,
   "3e4c0b9368158e9e": 1792068593.3640316,
   "aa4e9123e5b91264": 1792068593.3640316,
   "217426d7d059138d": 1792069960.264,
@@ -2612,11 +2604,15 @@
   "b86a37d2e6808039": 1793276075.0542858,
   "82f7ea41b9e63e74": 1793276075.0542858,
   "0842c72aa9d8deef": 1793276075.0542858,
-  "c0b62d0fe0d67857": 1793276075.0542858
+  "c0b62d0fe0d67857": 1793276075.0542858,
+  "a3eb5cb5b85d4124": 1793277665.623206,
+  "aef984b27ced9ea7": 1793277665.623206,
+  "a2c2c18e924d76f9": 1793277665.623206,
+  "d78258fe1d3e3d7c": 1793277665.623206,
+  "5f0bee12774f9976": 1793277665.623206,
+  "ac3494442edbca2d": 1793277665.623206
  },
  "recent_headlines": [
-  "በሱዳን ብሉ ናይል ግዛት በተፈጸመ የድሮን ጥቃት ቢያንስ 30 ሰዎች ተገደሉ (Daily_Brief: Drone strike kills at least 30, mostly women and children, near displacement camp in #Sudan’s #Blue_Nile)",
-  "በሱዳን ዳርፉር በተፈጸመ የድሮን ጥቃት ከ100 በላይ ሰዎች መገደላቸው ተገለጸ (Daily_Brief: #Sudan rights group says army drone strike kills more than 100 in #Darfur market)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ3ኛው የሩሲያ-አፍሪካ ጉባዔ ለመሳተፍ ሞስኮ ገቡ (PM Abiy Ahmed Arrives in Moscow for Third Russia–Africa Summit)",
   "ዶናልድ ትራምፕ በኢራን ላይ በሚፈጸም ጥቃት ዙሪያ ማንኛውም ነገር ሊከሰት እንደሚችል ገለጹ (Iran war live: Trump says ‘anything possible’ on Iran attack after midterms)",
   "በአቡ ዳቢ በሚካሄደው የዩክሬን እና ሩሲያ ድርድር አውሮፓውያን አይሳተፉም ተባለ (Kremlin says European countries not included in next Ukraine talks)",
@@ -2654,12 +2650,11 @@
   "የአሜሪካ መከላከያ ሚኒስቴር በኢራን ላይ የሚካሄደው ጦርነት 47.1 ቢሊዮን ዶላር ወጪ መጠየቁን አስታወቀ (Pentagon says Iran war has cost US taxpayers $47bn: What that means)",
   "በእስራኤል የተካሄደው የፓርላማ ምርጫ ያለ አሸናፊ በግንባር ቀደምትነት መጠናቀቁ ተገለጸ (Israel’s election rhetoric: What candidates said, and how they performed)",
   "በቻይና ኮሙኒስት ፓርቲ ጉባኤ ከፍተኛ ቁጥር ያላቸው አመራሮች ከፓርቲው ተባረሩ (Record number of purges as Xi emphasises 'party discipline' at China political gathering)",
-  "ኢትዮጵያ የድሮን ቴክኖሎጂ ምርምር እና ማኑፋክቸሪንግ ለማስፋፋት የሚያስችል ስምምነት ተፈራረመች (Ethiopia’s Domestic Partnership Targets Expanded Drone Research, Development and Manufacturing)"
+  "ኢትዮጵያ የድሮን ቴክኖሎጂ ምርምር እና ማኑፋክቸሪንግ ለማስፋፋት የሚያስችል ስምምነት ተፈራረመች (Ethiopia’s Domestic Partnership Targets Expanded Drone Research, Development and Manufacturing)",
+  "አሜሪካ ከኢራን ጋር የሰላም ንግግር ለመጀመር ጥሪ አቀረበች (What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’)",
+  "ደቡብ አፍሪካ የኦሊምፒክ ውድድርን ለመጀመሪያ ጊዜ ወደ አፍሪካ ለማምጣት ደርባንን ዕጩ አደረገች (Olympic Games: South Africa bids to make Durban host city for 2036 or 2040)"
  ],
  "posted_at": [
-  1793103600.3631396,
-  1793103603.7780793,
-  1793103607.2429821,
   1793105593.4745233,
   1793105596.8391159,
   1793105600.3099678,
@@ -2718,6 +2713,8 @@
   1793273871.549549,
   1793273874.9895823,
   1793276191.2756612,
-  1793276194.7428632
+  1793276194.7428632,
+  1793277724.6604147,
+  1793277728.1215699
  ]
 }
