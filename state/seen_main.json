@@ -1,7 +1,5 @@
 {
  "seen": {
-  "d66ca8ddce465de6": 1792060934.6374764,
-  "2f7a0a24a092d322": 1792060934.6374764,
   "b42d831bb5689de7": 1792062770.1332605,
   "9934491f8fb9ae76": 1792062770.1332605,
   "eadfbd75ac4e53b7": 1792062770.1332605,
@@ -2624,10 +2622,16 @@
   "f4f3c4ca68101b4e": 1793270153.2782645,
   "ff5950df1bd046db": 1793270153.2782645,
   "eb66c840969e2013": 1793270153.2782645,
-  "d4532a1efdb1dc5a": 1793270153.2782645
+  "d4532a1efdb1dc5a": 1793270153.2782645,
+  "3fa40236a7098324": 1793272139.6314201,
+  "d4defed2977a30ee": 1793272139.6314201,
+  "4b70baf7f04354bd": 1793272139.6314201,
+  "64470ffdc2510ab2": 1793272139.6314201,
+  "12372b7efe8e95a4": 1793272139.6314201,
+  "89b8a18630d7cce5": 1793272139.6314201,
+  "40fdfc9083842699": 1793272139.6314201
  },
  "recent_headlines": [
-  "በኢትዮጵያ ለአንድ ዓመት ታስረው የተፈቱት ካናዳዊ በእስር ላይ ድብደባ እንደደረሰባቸው ገለጹ (Lammiin Kaanaadaa Itoophiyaa keessatti shakkiin waggaa tokkoof hidhamee lakkifame, hidhaa keessatti reebichifi sarbiinsi mirga namoomaairra dhaqqabuu himate)",
   "ሶሪያ እና ዮርዳኖስ ድንበራቸውን በመክፈት በጋራ የደኅንነት ኮሚቴ ለማቋቋም ተስማሙ (Syria-Jordan border reopens amid probe into deadly air strikes)",
   "ባለፈው ሳምንት በተለያዩ የኢትዮጵያ አካባቢዎች በተፈጸሙ ጥቃቶች ቢያንስ 85 ሰዎች ተገደሉ (ባለፈው ሳምንት በተለያዩ ክልሎች በተፈጸሙ ጥቃቶች እና ግጭቶች ቢያንስ 85 ሰዎች መገደላቸውን ቢቢሲ ያሰባሰበው መረጃ አሳየ)",
   "ሩሲያ በኢትዮጵያ እና ኤርትራ መካከል ለማደራደር ዝግጁ መሆኗን ገለጸች (ሩሲያ ዛሬ ከሚጀመረው ጉባኤ ጎን ኢትዮጵያ እና ኤርትራን ለማደራደር ዝግጁ መሆኗን የውጭ ጉዳይ ሚኒስትሯ ተናገሩ)",
@@ -2666,7 +2670,8 @@
   "በምዕራብ ኦሮሚያ በተፈጸመ የድሮን ጥቃት ሁለት የመንግሥት ሠራተኞች ተገደሉ (News: Two government civil servants killed in drone strike in western Oromia, say resident, relative)",
   "አሜሪካ በኮንጎው ግጭት ምክንያት በሩዋንዳ የመከላከያ ሚኒስቴር ላይ ማዕቀብ ጣለች (US sanctions Rwanda's defence ministry over DR Congo conflict)",
   "ዳሽን ባንክ እና EIB Global የ20 ሚሊዮን ዩሮ የብድር ስምምነት ተፈራረሙ (Dashen Bank, EIB sign €20 million financing deal to unlock long-term credit for SMEs)",
-  "ቱርክ እና ፓኪስታን ከሳውዲ አረቢያ ጋር የገቡትን የመከላከያ ስምምነት ተግባራዊ አደረጉ (Daily_Brief: #Türkiye, #Pakistan activate mutual defense pact with #Saudi_Arabia after #Houthi attacks)"
+  "ቱርክ እና ፓኪስታን ከሳውዲ አረቢያ ጋር የገቡትን የመከላከያ ስምምነት ተግባራዊ አደረጉ (Daily_Brief: #Türkiye, #Pakistan activate mutual defense pact with #Saudi_Arabia after #Houthi attacks)",
+  "ኢትዮጵያ በዓለም አቀፉ የሲቪል አቪዬሽን ድርጅት ምክር ቤት ብቸኛዋ የአፍሪካ ዕጩ ሆነች (Ethiopia Stands as Africa’s Sole Candidate for ICAO Council Membership)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2727,6 +2732,7 @@
   1793257897.3886428,
   1793259359.9518785,
   1793265071.7125385,
-  1793268610.1870577
+  1793268610.1870577,
+  1793272189.209548
  ]
 }
