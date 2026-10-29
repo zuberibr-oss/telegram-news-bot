@@ -1,10 +1,5 @@
 {
  "seen": {
-  "c8ed7d4f911ae282": 1792035731.6800265,
-  "77f3d0406358b863": 1792035731.6800265,
-  "6628d9ff8fca69ee": 1792035731.6800265,
-  "81f3710550df89ba": 1792035731.6800265,
-  "8ea803ff453776a8": 1792035731.6800265,
   "e5183813d9719e59": 1792037607.9222708,
   "88523aadac514848": 1792037607.9222708,
   "33ff03f80b8c8ab1": 1792037607.9222708,
@@ -2595,10 +2590,13 @@
   "bdb42c765816ca61": 1793245038.7829206,
   "4d3bb6c2f9d618c1": 1793245038.7829206,
   "e914c5ca58eead79": 1793245038.7829206,
-  "04bee1ba6d11c65a": 1793245038.7829206
+  "04bee1ba6d11c65a": 1793245038.7829206,
+  "e62245f635279ebe": 1793247070.206607,
+  "309fd9a5f575a274": 1793247070.206607,
+  "d65cacd6bf3b59ae": 1793247070.206607,
+  "c91a579cf538b8ad": 1793247070.206607
  },
  "recent_headlines": [
-  "በትግራይ ክልል የንግድ እንቅስቃሴን ለማነቃቃትና ገበያን ለማረጋጋት የተጀመሩ ጥረቶች ተጠናክረው መቀጠላቸው ተገለጸ (Tigray Region Caretaker Administration Intensifying Efforts to Revitalize Trade and Stabilize Markets)",
   "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)",
   "በአፋር፣ አማራና ትግራይ ድርቅና የምግብ እጥረት የሰብዓዊ እርዳታ ፍላጎቱን አባባሱት (Hongeen, hanqinni nyaataa fi hanqinni soorataa daa’immanii Naannoo Affaar, Amaaraa fi Tigraay keessatti fedhii gargaarsa namoomaa hammeessaniiru)",
   "ሉላ ዳ ሲልቫ በብራዚል የፕሬዚዳንትነት ምርጫ ማሸነፋቸው የ BRICS ስብስብን ያጠናክራል ተባለ (Lula’s victory echoes across BRICS after fears of a Bolsonaro win)",
@@ -2637,7 +2635,8 @@
   "ኢራን የሆርሙዝን የባሕር ወለል ለመክፈት የሚያስችላትን ዕቅድ እያቀረበች ነው (Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks)",
   "እስራኤል የኢንዶኔዥያ አብራሪ በመያዙ የኢትዮጵያ አየር መንገድ የጭነት አውሮፕላንን መልሳ ላከች (Daily_Brief: #Israel turns back Ethiopian Airlines cargo flight after identifying #Indonesian pilot)",
   "በኢትዮጵያ የገንዘብ እጥረት ያጋጠመው UNHCR የሺዎችን ስደተኞች ምዝገባ አገደ (Daily_Brief: #UNHCR funding shortfall suspends refugee registration for tens of thousands in #Ethiopia)",
-  "አሕመድ ሽዴ የሕዝብ ተወካዮች፣ ሙፈሪያት ካሚል የፌዴሬሽን ምክር ቤት አፈ ጉባኤ ሆኑ (Breaking_News: #Ahmed_Shide elected House of Peoples’ Representatives Speaker, #Muferihat_Kamil to lead House of Federation)"
+  "አሕመድ ሽዴ የሕዝብ ተወካዮች፣ ሙፈሪያት ካሚል የፌዴሬሽን ምክር ቤት አፈ ጉባኤ ሆኑ (Breaking_News: #Ahmed_Shide elected House of Peoples’ Representatives Speaker, #Muferihat_Kamil to lead House of Federation)",
+  "በሱዳን የRSF እና የSPLM-N ህብረት በብሉ ናይል አቅራቢያ መግፋቱን ገለጸ (Daily_Brief: RSF-SPLM-N alliance claims advance near Blue Nile capital as Sudan army says attack repelled)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2690,6 +2689,7 @@
   1793233449.132496,
   1793235282.640139,
   1793235285.993898,
-  1793245065.0712872
+  1793245065.0712872,
+  1793247105.1474216
  ]
 }
