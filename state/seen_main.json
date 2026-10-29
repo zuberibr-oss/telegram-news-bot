@@ -1,6 +1,5 @@
 {
  "seen": {
-  "217426d7d059138d": 1792069960.264,
   "255bee0390c5706d": 1792071741.2575064,
   "39a58598b8d3d33d": 1792071741.2575064,
   "87ea08d6b597c30c": 1792071741.2575064,
@@ -2620,11 +2619,16 @@
   "2503850534a541d2": 1793279411.5510192,
   "8cbc4445855ad316": 1793279411.5510192,
   "e995048434be0835": 1793279411.5510192,
-  "86bd9c91b0bed0d7": 1793279411.5510192
+  "86bd9c91b0bed0d7": 1793279411.5510192,
+  "b510a82fd45b91c5": 1793280945.0119426,
+  "19966450c1bf03ed": 1793280945.0119426,
+  "88b90a706719bcc2": 1793280945.0119426,
+  "f2d0032777824fa1": 1793280945.0119426,
+  "e123aa9c490bc170": 1793280945.0119426,
+  "cb8037818bd9e6c3": 1793280945.0119426,
+  "edb26796b85541f2": 1793280945.0119426
  },
  "recent_headlines": [
-  "በአቡ ዳቢ በሚካሄደው የዩክሬን እና ሩሲያ ድርድር አውሮፓውያን አይሳተፉም ተባለ (Kremlin says European countries not included in next Ukraine talks)",
-  "ኢትዮጵያ 12 የሩሲያ ሱ-35 የጦር ጄቶችን መረከቧን አስታወቀች (Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition)",
   "በስፔን ሁለት ባለከፍተኛ ፍጥነት ባቡሮች ተጋጭተው የሰው ሕይወት አለፈ (Watch: At the scene of Spain's deadly train crash)",
   "በኢትዮጵያ ዘርፍ ማኅበራት ምክር ቤት አመራሮች ምርጫ ላይ ተመስርቶ የነበረው ክስ ተነሳ (Belayneh Kinde, Jamal Ahmed lawsuit withdrawn as sector associations council prepares for re-election)",
   "ፑቲን በሩሲያ-አፍሪካ ጉባኤ ላይ ምዕራባውያን አፍሪካን በብድርና ብዝበዛ እያደከሙ ነው ሲሉ ወነጀሉ (Putin tells African leaders Moscow will not pursue ‘neo-colonialism’)",
@@ -2662,7 +2666,9 @@
   "አሜሪካ ከኢራን ጋር የሰላም ንግግር ለመጀመር ጥሪ አቀረበች (What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’)",
   "ደቡብ አፍሪካ የኦሊምፒክ ውድድርን ለመጀመሪያ ጊዜ ወደ አፍሪካ ለማምጣት ደርባንን ዕጩ አደረገች (Olympic Games: South Africa bids to make Durban host city for 2036 or 2040)",
   "እስራኤል በዌስት ባንኳ ኬብሮን ከተማ ላይ የጣለችውን ሙሉ ከበባ ቀጥላለች (A week of Israel’s lockdown in Hebron: What’s happened, when will it end?)",
-  "በየመኗ ታኢዝ አቅራቢያ ውጊያው በመካረሩ ከ281 ሺህ በላይ ሰዎች ተፈናቀሉ (Fighting rages near Yemen’s Taiz as UN urges humanitarian access)"
+  "በየመኗ ታኢዝ አቅራቢያ ውጊያው በመካረሩ ከ281 ሺህ በላይ ሰዎች ተፈናቀሉ (Fighting rages near Yemen’s Taiz as UN urges humanitarian access)",
+  "ጠቅላይ ሚኒስትር ዐቢይ በሩሲያ-አፍሪካ ጉባኤ የኢትዮጵያን የምግብ፣ የኃይልና የቴክኖሎጂ አጀንዳዎች አቀረቡ (PM Abiy Puts Ethiopia’s Food Security, Energy and Knowledge Priorities at Center of Russia–Africa Summit)",
+  "የአፍሪካ የጡረታ ተቋማት ለየአህጉሩ መሠረተ ልማት ግንባታ በጋራ እንዲሠሩ ጥሪ ቀረበ (Ethiopia Champions Continental Pension Fund Cooperation to Finance African Infrastructure)"
  ],
  "posted_at": [
   1793108701.1305292,
@@ -2724,6 +2730,8 @@
   1793277724.6604147,
   1793277728.1215699,
   1793279498.0297923,
-  1793279501.6268976
+  1793279501.6268976,
+  1793281011.638555,
+  1793281015.1396081
  ]
 }
