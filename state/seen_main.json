@@ -1,9 +1,5 @@
 {
  "seen": {
-  "3b35127060891362": 1792034029.0564725,
-  "10d81f6291c361f6": 1792034029.0564725,
-  "6faf9b8adddde755": 1792034029.0564725,
-  "c5315de7ded6ab4a": 1792034029.0564725,
   "c8ed7d4f911ae282": 1792035731.6800265,
   "77f3d0406358b863": 1792035731.6800265,
   "6628d9ff8fca69ee": 1792035731.6800265,
@@ -2594,10 +2590,14 @@
   "46bb3ab3e89302da": 1793243495.3580678,
   "bf1929f803d657a5": 1793243495.3580678,
   "54ac8de38f7f1c02": 1793243495.3580678,
-  "e5f4253348c8217b": 1793243495.3580678
+  "e5f4253348c8217b": 1793243495.3580678,
+  "1db1897c3fb59440": 1793245038.7829206,
+  "bdb42c765816ca61": 1793245038.7829206,
+  "4d3bb6c2f9d618c1": 1793245038.7829206,
+  "e914c5ca58eead79": 1793245038.7829206,
+  "04bee1ba6d11c65a": 1793245038.7829206
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ በውጭ ምንዛሬ ጨረታ የዶላር አማካይ ተመን መቀነሱን አስታወቀ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
   "በትግራይ ክልል የንግድ እንቅስቃሴን ለማነቃቃትና ገበያን ለማረጋጋት የተጀመሩ ጥረቶች ተጠናክረው መቀጠላቸው ተገለጸ (Tigray Region Caretaker Administration Intensifying Efforts to Revitalize Trade and Stabilize Markets)",
   "ኢትዮጵያ እና ፓኪስታን የንግድ ትስስርን ለማሳደግ በባንክ ዘርፍ በትብብር ለመሥራት ተወያዩ (#Daily_Brief: #Pakistan, #Ethiopia discuss closer banking ties to boost trade and investment)",
   "በአፋር፣ አማራና ትግራይ ድርቅና የምግብ እጥረት የሰብዓዊ እርዳታ ፍላጎቱን አባባሱት (Hongeen, hanqinni nyaataa fi hanqinni soorataa daa’immanii Naannoo Affaar, Amaaraa fi Tigraay keessatti fedhii gargaarsa namoomaa hammeessaniiru)",
@@ -2636,7 +2636,8 @@
   "በደቡብ ኢትዮጵያ በነበረ ግጭት ምክንያት 50 ሺህ ገደማ ሰዎች ወደ ኬንያ ተሰደዱ (50,000 Ethiopian refugees flood Kenyan border town as intercommunal violence flares)",
   "ኢራን የሆርሙዝን የባሕር ወለል ለመክፈት የሚያስችላትን ዕቅድ እያቀረበች ነው (Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks)",
   "እስራኤል የኢንዶኔዥያ አብራሪ በመያዙ የኢትዮጵያ አየር መንገድ የጭነት አውሮፕላንን መልሳ ላከች (Daily_Brief: #Israel turns back Ethiopian Airlines cargo flight after identifying #Indonesian pilot)",
-  "በኢትዮጵያ የገንዘብ እጥረት ያጋጠመው UNHCR የሺዎችን ስደተኞች ምዝገባ አገደ (Daily_Brief: #UNHCR funding shortfall suspends refugee registration for tens of thousands in #Ethiopia)"
+  "በኢትዮጵያ የገንዘብ እጥረት ያጋጠመው UNHCR የሺዎችን ስደተኞች ምዝገባ አገደ (Daily_Brief: #UNHCR funding shortfall suspends refugee registration for tens of thousands in #Ethiopia)",
+  "አሕመድ ሽዴ የሕዝብ ተወካዮች፣ ሙፈሪያት ካሚል የፌዴሬሽን ምክር ቤት አፈ ጉባኤ ሆኑ (Breaking_News: #Ahmed_Shide elected House of Peoples’ Representatives Speaker, #Muferihat_Kamil to lead House of Federation)"
  ],
  "posted_at": [
   1793101379.285894,
@@ -2688,6 +2689,7 @@
   1793223522.0131526,
   1793233449.132496,
   1793235282.640139,
-  1793235285.993898
+  1793235285.993898,
+  1793245065.0712872
  ]
 }
