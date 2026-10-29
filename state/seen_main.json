@@ -1,10 +1,5 @@
 {
  "seen": {
-  "34e86b6db24ca3e0": 1792077188.437423,
-  "d07f2f8ace56d8d6": 1792077188.437423,
-  "a0ddfe1e403e361a": 1792077188.437423,
-  "027501ad829ae9c1": 1792077188.437423,
-  "edacd469f811131b": 1792077188.437423,
   "9529252bd59f3d32": 1792078876.4597237,
   "5d49d9e943c41314": 1792078876.4597237,
   "43ffe087930d0f0b": 1792078876.4597237,
@@ -2630,10 +2625,13 @@
   "1670c0839507adbe": 1793286641.7776315,
   "f81c0a165d0249b5": 1793286641.7776315,
   "13d7ee2c0b0bbff5": 1793286641.7776315,
-  "18d90aa5fa56f877": 1793286641.7776315
+  "18d90aa5fa56f877": 1793286641.7776315,
+  "14953175fccf5c99": 1793288163.9402122,
+  "d05dc8d3139c7082": 1793288163.9402122,
+  "69546e2a3fc5a0f5": 1793288163.9402122,
+  "fdc685feeb7bffad": 1793288163.9402122
  },
  "recent_headlines": [
-  "የኢትዮጵያ ሴኩሪቲስ ኤክስቼንጅ 8 ሰነዶችን በኦቲሲ ገበያ ለማስተናገድ እያዘጋጀ ነው (Ethiopia’s OTC market targets 8 securities outside main listing requirements)",
   "የአፍሪካ ኅብረት ኮሚሽን የ100 ቢሊዮን USD የምግብ ገቢ ምርትን ለመቀነስ የግብርና ትራንስፎርሜሽን እንዲፋጠን ጥሪ አቀረበ (AU Commission Chairperson Calls for Agricultural Transformation to Reduce Africa’s $100 Billion Food Import Bill)",
   "የአዕምሯዊ ንብረት ሰርተፊኬት በማስያዝ ከባንክ ብድር የሚገኝበት አሠራር ተጀመረ (የአዕምሯዊ ንብረት ሰርተፊኬት በማስያዝ ከባንክ ብድር የሚገኝበት አሠራር መጀመሩ ተገለጸ)",
   "አፍሪካ ለግብርና በጀት ካልመደበች የረሃብተኞች ቁጥር በከፍተኛ ሁኔታ ይጨምራል ተባለ (ለግብርና ከፍተኛ ርብርብ ካልተደረገ ከአራት ዓመታት በኋላ አፍሪካውያን ለፅኑ ረሃብ እንደሚጋለጡ ተነገረ)",
@@ -2672,10 +2670,10 @@
   "በዩክሬን ድኒፕሮ ባቡር ጣቢያ ላይ በተፈጸመ የድሮን ጥቃት የ13 ሰዎች ሕይወት አለፈ (Russian drone attack on Ukrainian train station kills at least 13, officials say)",
   "ኤርትራ እና አሜሪካ ማዕቀብ ከተነሳ በኋላ ዲፕሎማሲያዊ ግንኙነታቸውን እያጠናከሩ ነው (#Daily_Brief: #Eritrea, #US advance bilateral relations following sanctions removal)",
   "ኢትዮጵያ የሚቀጥለውን የሩሲያ-አፍሪካ ጉባኤ ለማስተናገድ ዝግጁ መሆኗን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (PM Abiy Says Ethiopia Ready to Host Russia–Africa Summit When It Next Comes to Africa)",
-  "የኢትዮጵያ ሚዲያ ባለሥልጣን ለድምፂ ወያነ በማዕዶት ብሮድካስቲንግ ስም አዲስ ፈቃድ ሰጠ (Former Dimtsi Woyane Tigray Broadcaster Rebranded as Maedot Broadcasting Service Under New Licence)"
+  "የኢትዮጵያ ሚዲያ ባለሥልጣን ለድምፂ ወያነ በማዕዶት ብሮድካስቲንግ ስም አዲስ ፈቃድ ሰጠ (Former Dimtsi Woyane Tigray Broadcaster Rebranded as Maedot Broadcasting Service Under New Licence)",
+  "የኢትዮጵያ ሚዲያ ባለሥልጣን ለትግራይ ብሮድካስቲንግ ኮርፖሬሽን አዲስ የብሮድካስት ፈቃድ ሰጠ (Ethiopian Media Authority Grants New Licence to Suspended Tigray Media Agency, Renamed Tigray Broadcasting Corporation)"
  ],
  "posted_at": [
-  1793114059.3993208,
   1793115768.2246933,
   1793119112.4173722,
   1793128165.1670518,
@@ -2736,6 +2734,7 @@
   1793283160.388447,
   1793286722.500325,
   1793286725.991993,
-  1793286729.435765
+  1793286729.435765,
+  1793288212.1391573
  ]
 }
