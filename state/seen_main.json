@@ -1,7 +1,5 @@
 {
  "seen": {
-  "484f52ec753f7e2e": 1792129266.8542602,
-  "d7fb3c0543f80550": 1792129266.8542602,
   "0311466ab853ef61": 1792131608.252176,
   "526c5d9176a8389f": 1792131608.252176,
   "03ba4586ab20e2a2": 1792131608.252176,
@@ -2618,10 +2616,16 @@
   "176aca27c776d983": 1793336977.3206651,
   "dd1204f649340c1a": 1793336977.3206651,
   "d690eb38a0c4b105": 1793336977.3206651,
-  "5b52034a049ac049": 1793336977.3206651
+  "5b52034a049ac049": 1793336977.3206651,
+  "857afe11e1e787e3": 1793340928.515974,
+  "5a473bb0d934cf36": 1793340928.515974,
+  "d8f7ce5dea2c19af": 1793340928.515974,
+  "0a8eb165589542f6": 1793340928.515974,
+  "377b54f3a648d037": 1793340928.515974,
+  "a57c0e59175a719a": 1793340928.515974,
+  "de40bf71c413d99c": 1793340928.515974
  },
  "recent_headlines": [
-  "ኢትዮጵያ እስከ 2035 የሐረንጓዴ ጋዝ ልቀቷን በ70.3 በመቶ ለመቀነስ አቀደች (#Daily_Brief: #Ethiopia targets 70.3% reduction in greenhouse gas emissions by 2035)",
   "ሶማሊላንድ ዶናልድ ትራምፕ ለሉአላዊነቷ ዕውቅና መስጠታቸውን መደገፏን ገለጸች (Daily_Brief: #Somaliland welcomes what it describes as Trump’s acknowledgement of its sovereignty)",
   "በደቡብ ኢትዮጵያ በነበረ ግጭት ምክንያት 50 ሺህ ገደማ ሰዎች ወደ ኬንያ ተሰደዱ (50,000 Ethiopian refugees flood Kenyan border town as intercommunal violence flares)",
   "ኢራን የሆርሙዝን የባሕር ወለል ለመክፈት የሚያስችላትን ዕቅድ እያቀረበች ነው (Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks)",
@@ -2660,10 +2664,10 @@
   "በእስፓንያ 69 ሰዎችን ለገደለው የባቡር አደጋ መንስኤ የሚጠቁም የድምፅ ቅጂ ይፋ ሆነ (Audio reveals exchanges between Spain train operators and drivers moments before deadly crash)",
   "በሆርሙዝ ሰርጥ አራት የነዳጅ ጫኝ መርከቦች በፈንጂ መመታታቸውን ኢራን ገለጸች (Iran war live: IRGC says four tankers struck mines in Strait of Hormuz)",
   "የሁቲ ታጣቂዎች በሳውዲ አረቢያ የነዳጅ ተቋማትና አውሮፕላን ማረፊያዎች ላይ ጥቃት ማድረሳቸውን ገለጹ (Houthi forces claim six attacks on Saudi airports, oil facilities)",
-  "ባይናንስ ከደኅንነት ሥጋት ጋር ተያይዞ 2.54 ቢሊዮን ዶላር አገደ (Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’)"
+  "ባይናንስ ከደኅንነት ሥጋት ጋር ተያይዞ 2.54 ቢሊዮን ዶላር አገደ (Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’)",
+  "የዓለማችን ግዙፉ የክሪፕቶ ኤክስቼንጅ ባይናንስ የ6.3 ቢሊዮን ዶላር የሳይበር ጥቃት አስተናገደ (Crypto giant Binance hit by hack suspected to be largest in history)"
  ],
  "posted_at": [
-  1793165779.5153263,
   1793168219.1345272,
   1793168222.4716918,
   1793168225.8308442,
@@ -2724,6 +2728,7 @@
   1793297558.3129401,
   1793321746.404859,
   1793321749.7638757,
-  1793321753.1492848
+  1793321753.1492848,
+  1793340988.0672097
  ]
 }
