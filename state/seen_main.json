@@ -1,11 +1,5 @@
 {
  "seen": {
-  "d293386893e88734": 1792142048.3484654,
-  "2a5ba0100de96268": 1792142048.3484654,
-  "1e1c33e381c1400e": 1792142048.3484654,
-  "50ecef4930c1428a": 1792142048.3484654,
-  "7217d72ef89358a7": 1792142048.3484654,
-  "ebe32aace041f282": 1792142048.3484654,
   "affb6c969bf88941": 1792143658.0504835,
   "31210b63d49c0b92": 1792145615.5087216,
   "ddaa73450798ad08": 1792145615.5087216,
@@ -2636,11 +2630,13 @@
   "e6bc8ee6cfc48171": 1793349452.7059975,
   "d1d729e739e20755": 1793349452.7059975,
   "4f2ac4c310e8c53e": 1793351416.5254939,
-  "71cb2c0208812f65": 1793351416.5254939
+  "71cb2c0208812f65": 1793351416.5254939,
+  "668c2a6431f7d957": 1793352932.202089,
+  "0eef936656dc00fd": 1793352932.202089,
+  "b5bf11a35a3df8cd": 1793352932.202089,
+  "4c1fd51976bc8724": 1793352932.202089
  },
  "recent_headlines": [
-  "እስራኤል የኢንዶኔዥያ አብራሪ በመያዙ የኢትዮጵያ አየር መንገድ የጭነት አውሮፕላንን መልሳ ላከች (Daily_Brief: #Israel turns back Ethiopian Airlines cargo flight after identifying #Indonesian pilot)",
-  "በኢትዮጵያ የገንዘብ እጥረት ያጋጠመው UNHCR የሺዎችን ስደተኞች ምዝገባ አገደ (Daily_Brief: #UNHCR funding shortfall suspends refugee registration for tens of thousands in #Ethiopia)",
   "አሕመድ ሽዴ የሕዝብ ተወካዮች፣ ሙፈሪያት ካሚል የፌዴሬሽን ምክር ቤት አፈ ጉባኤ ሆኑ (Breaking_News: #Ahmed_Shide elected House of Peoples’ Representatives Speaker, #Muferihat_Kamil to lead House of Federation)",
   "በሱዳን የRSF እና የSPLM-N ህብረት በብሉ ናይል አቅራቢያ መግፋቱን ገለጸ (Daily_Brief: RSF-SPLM-N alliance claims advance near Blue Nile capital as Sudan army says attack repelled)",
   "ኢትዮጵያ ወታደሮቿን ከሶማሊያ ለማስወጣት ማቀዷ ተገለጸ (News: #Ethiopia reportedly plans troop withdrawal from #Somalia as fighting intensifies at home)",
@@ -2678,7 +2674,9 @@
   "የዓለማችን ግዙፉ የክሪፕቶ ኤክስቼንጅ ባይናንስ የ6.3 ቢሊዮን ዶላር የሳይበር ጥቃት አስተናገደ (Crypto giant Binance hit by hack suspected to be largest in history)",
   "የቬኔዙዌላ የተቃዋሚ መሪ María Machado ከስደት ተመልሰው ምርጫ እንዲካሄድ ጥሪ አቀረቡ (Venezuela opposition leader María Machado calls for elections upon return)",
   "ካፍ የአፍሪካ ዋንጫ ውድድር በየሁለት ዓመቱ እንዲካሄድ መወሰኑን አስታወቀ (OFFICIAL: CAF Restores Africa Cup of Nations to Two-Year Cycle, Confirms Next Four Editions)",
-  "ኬንያ ከመጀመሪያው ታካሚ ጋር የተያያዘ ሁለተኛ የኤቦላ ግኝት አረጋገጠች (#Daily_Brief: #Kenya reports second #Ebola case linked to first patient)"
+  "ኬንያ ከመጀመሪያው ታካሚ ጋር የተያያዘ ሁለተኛ የኤቦላ ግኝት አረጋገጠች (#Daily_Brief: #Kenya reports second #Ebola case linked to first patient)",
+  "ዩክሬን ባካሄደችው የድሮን ጥቃት በሩሲያ የነዳጅ ማጣሪያ መመታቱ ተገለጸ (Russian oil refinery struck as Ukraine renews drone attacks)",
+  "በተፈጥሮ ጋዝ የሚሠሩ የመጀመሪያዎቹ የከተማ አውቶቡሶች ሥራ መጀመራቸው ተገለጸ (PM Abiy Ahmed Announces Launch of Ethiopia’s First Natural Gas-Powered City Buses, 50% Fare Cut)"
  ],
  "posted_at": [
   1793214655.487433,
@@ -2740,6 +2738,8 @@
   1793340988.0672097,
   1793344275.1482785,
   1793344278.56646,
-  1793345805.8857636
+  1793345805.8857636,
+  1793352971.30845,
+  1793352974.7536776
  ]
 }
