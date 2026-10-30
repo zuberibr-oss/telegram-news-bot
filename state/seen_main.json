@@ -1,15 +1,5 @@
 {
  "seen": {
-  "cb663717078262f9": 1792161716.6804156,
-  "ae7dc564b6bf327d": 1792161716.6804156,
-  "cd8afd2a2f892d60": 1792161716.6804156,
-  "06c1492a5e78cd08": 1792161716.6804156,
-  "c7fb6d1d696c9b9b": 1792161716.6804156,
-  "73fc234fa0119787": 1792161716.6804156,
-  "5a69a35b764febfb": 1792161716.6804156,
-  "96bd434ab1b1d727": 1792161716.6804156,
-  "e56ccdd21d30bbc4": 1792161716.6804156,
-  "33be4c183845258f": 1792161716.6804156,
   "67e7655d730fa00c": 1792163472.7252042,
   "92673537a8a37183": 1792163472.7252042,
   "b95d213e6513d807": 1792163472.7252042,
@@ -2641,10 +2631,12 @@
   "5d5091b31da1a2ce": 1793370947.6203632,
   "906ce354720821e6": 1793370947.6203632,
   "f1beee9bbbe91413": 1793370947.6203632,
-  "ac84e8c9c2dca0c9": 1793370947.6203632
+  "ac84e8c9c2dca0c9": 1793370947.6203632,
+  "49718f3207dae72c": 1793372947.8972278,
+  "1a63d9f8466ccbe7": 1793372947.8972278,
+  "17194ff1fc6f63a6": 1793372947.8972278
  },
  "recent_headlines": [
-  "በቻይና ኮሙኒስት ፓርቲ ጉባኤ ከፍተኛ ቁጥር ያላቸው አመራሮች ከፓርቲው ተባረሩ (Record number of purges as Xi emphasises 'party discipline' at China political gathering)",
   "ኢትዮጵያ የድሮን ቴክኖሎጂ ምርምር እና ማኑፋክቸሪንግ ለማስፋፋት የሚያስችል ስምምነት ተፈራረመች (Ethiopia’s Domestic Partnership Targets Expanded Drone Research, Development and Manufacturing)",
   "አሜሪካ ከኢራን ጋር የሰላም ንግግር ለመጀመር ጥሪ አቀረበች (What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’)",
   "ደቡብ አፍሪካ የኦሊምፒክ ውድድርን ለመጀመሪያ ጊዜ ወደ አፍሪካ ለማምጣት ደርባንን ዕጩ አደረገች (Olympic Games: South Africa bids to make Durban host city for 2036 or 2040)",
@@ -2683,7 +2675,8 @@
   "ኢትዮጵያ የወደብ ባለቤት መሆኗ አይቀሬ ነው ሲሉ የባሕር ኃይል አዛዡ ገለጹ (“Itoophiyaan deebitee buufata galaanaa qabaachuun ishii hin oolu”: Ajajaan Humna Galaanaa tumsa galaanaa naannawaa cimsuuf waamicha dhiyeessan)",
   "የተባበሩት መንግሥታት ድርጅት በጋዛ የዘር ማጽዳት ሥጋት ማንሰራራቱን አስጠነቀቀ (Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN)",
   "የሩሲያ እና ዩክሬን የእርዳታ ቡድን ወደ ተከበበችው ኦሌሽኪ ከተማ ገባ (Russian, Ukrainian humanitarian officials enter Oleshky)",
-  "ኢትዮጵያ በተፈጥሮ ሀብት እንክብካቤ የምታደርገው ጥረት ለናይል ተፋሰስ አገራት ጠቃሚ መሆኑ ተገለጸ (Ethiopia’s Natural Resource Conservation Efforts Advance Shared Prosperity Across Nile Basin)"
+  "ኢትዮጵያ በተፈጥሮ ሀብት እንክብካቤ የምታደርገው ጥረት ለናይል ተፋሰስ አገራት ጠቃሚ መሆኑ ተገለጸ (Ethiopia’s Natural Resource Conservation Efforts Advance Shared Prosperity Across Nile Basin)",
+  "ኢትዮጵያ የተፈጥሮ ጋዝ አጠቃቀምን ወደ ታክሲዎች ማሰፋፋቷን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Expands Natural Gas Conversion Initiative to Taxis to Cut Transport Costs – PM Abiy)"
  ],
  "posted_at": [
   1793214655.487433,
@@ -2759,6 +2752,7 @@
   1793371024.1549478,
   1793371027.7900245,
   1793371031.2873375,
-  1793371034.7914217
+  1793371034.7914217,
+  1793372989.1648777
  ]
 }
