@@ -1,10 +1,5 @@
 {
  "seen": {
-  "8138814601519cf0": 1792110467.8255267,
-  "8f86d6b578d1a1c9": 1792110467.8255267,
-  "4f1ab50f763a6dba": 1792110467.8255267,
-  "4c67c1bc558fefc6": 1792110467.8255267,
-  "456af8e71338009a": 1792110467.8255267,
   "c02e11b6664616cf": 1792112698.9834447,
   "3049dd3df4aedeed": 1792115090.593691,
   "2784bc87a2cbc1c0": 1792115090.593691,
@@ -2619,12 +2614,14 @@
   "9943f04592c88ac5": 1793315360.6818552,
   "88273be3f15ddafe": 1793315360.6818552,
   "5c1f4559eed887a2": 1793317016.5897863,
-  "f973ac8b195c266c": 1793319834.9796264
+  "f973ac8b195c266c": 1793319834.9796264,
+  "a3f9180ccf2a59f8": 1793321698.4262366,
+  "f582647bc0cca653": 1793321698.4262366,
+  "b16443e77254372b": 1793321698.4262366,
+  "358950b722497a57": 1793321698.4262366,
+  "e6c5878fd72496bb": 1793321698.4262366
  },
  "recent_headlines": [
-  "የኢትዮጵያ ቀይ መስቀል ማኅበር በትግራይ ለሚገኙ የጤና ተቋማት የ68 ሚሊዮን ብር ድጋፍ አደረገ (በትግራይ ጉዳት ለደረሰባቸው የጤና ተቋማት 68 ሚሊዮን ብር የሚገመት የቁሳቁስና የገንዘብ ድጋፍ ተደረገ)",
-  "ለግብርና ማሽነሪዎች የሚሰጥ የብድር ወለድና የመመለሻ ጊዜ እንዲሻሻል ጥያቄ ቀረበ (የግብርና ማሽነሪዎች የብድር ወለድ ምጣኔና የመመለሻ ጊዜ ማጠሩ የፖሊሲ ማሻሻያ እንዲደረግባቸው ተጠየቀ)",
-  "በሽርካ አካባቢ ሟቾችን ሲቀብሩና ቁስለኞችን ሲረዱ የነበሩ ከ50 በላይ ነዋሪዎች ታሰሩ (Naannawa Shirkaatti jiraattonni 50 ol warra ajjeefaman awwaalaniifi madaa’an yaalchisaa turan poolisiin qabamuu jiraattotni Addis Standard’tti himan)",
   "ኢትዮጵያ እስከ 2035 የሐረንጓዴ ጋዝ ልቀቷን በ70.3 በመቶ ለመቀነስ አቀደች (#Daily_Brief: #Ethiopia targets 70.3% reduction in greenhouse gas emissions by 2035)",
   "ሶማሊላንድ ዶናልድ ትራምፕ ለሉአላዊነቷ ዕውቅና መስጠታቸውን መደገፏን ገለጸች (Daily_Brief: #Somaliland welcomes what it describes as Trump’s acknowledgement of its sovereignty)",
   "በደቡብ ኢትዮጵያ በነበረ ግጭት ምክንያት 50 ሺህ ገደማ ሰዎች ወደ ኬንያ ተሰደዱ (50,000 Ethiopian refugees flood Kenyan border town as intercommunal violence flares)",
@@ -2661,10 +2658,12 @@
   "አዲስ አበባ ባለፉት አምስት ዓመታት ወደ ግማሽ ሚሊዮን የሚጠጉ ቤቶችን አስተላለፈች (Addis Ababa Delivers Nearly Half a Million Homes in Five Years, Expands Inclusive Housing Development)",
   "የአውሮፓ ማዕከላዊ ባንክ ፕሬዚዳንት ክርስቲን ላጋርድ ከሥልጣናቸው ሊለቁ ነው (European Central Bank President Lagarde to step down early)",
   "በኤምሬትስ ለሱዳን ሠራዊት መሣሪያ በማሻገር ስምንት ሰዎች የዕድሜ ልክ እስራት ተፈረደባቸው (UAE sentences eight people to life over arms supplies to Sudan’s army)",
-  "በእስፓንያ 69 ሰዎችን ለገደለው የባቡር አደጋ መንስኤ የሚጠቁም የድምፅ ቅጂ ይፋ ሆነ (Audio reveals exchanges between Spain train operators and drivers moments before deadly crash)"
+  "በእስፓንያ 69 ሰዎችን ለገደለው የባቡር አደጋ መንስኤ የሚጠቁም የድምፅ ቅጂ ይፋ ሆነ (Audio reveals exchanges between Spain train operators and drivers moments before deadly crash)",
+  "በሆርሙዝ ሰርጥ አራት የነዳጅ ጫኝ መርከቦች በፈንጂ መመታታቸውን ኢራን ገለጸች (Iran war live: IRGC says four tankers struck mines in Strait of Hormuz)",
+  "የሁቲ ታጣቂዎች በሳውዲ አረቢያ የነዳጅ ተቋማትና አውሮፕላን ማረፊያዎች ላይ ጥቃት ማድረሳቸውን ገለጹ (Houthi forces claim six attacks on Saudi airports, oil facilities)",
+  "ባይናንስ ከደኅንነት ሥጋት ጋር ተያይዞ 2.54 ቢሊዮን ዶላር አገደ (Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’)"
  ],
  "posted_at": [
-  1793147060.202795,
   1793160744.4536715,
   1793160747.9366093,
   1793165779.5153263,
@@ -2725,6 +2724,9 @@
   1793290324.2339804,
   1793293791.3938353,
   1793295453.4735754,
-  1793297558.3129401
+  1793297558.3129401,
+  1793321746.404859,
+  1793321749.7638757,
+  1793321753.1492848
  ]
 }
