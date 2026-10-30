@@ -1,8 +1,5 @@
 {
  "seen": {
-  "ec07bbeabc6bc8bd": 1792147307.857583,
-  "d5be0d97e686deeb": 1792147307.857583,
-  "92fe0b7b87eb787d": 1792147307.857583,
   "83619938a571f054": 1792149129.480284,
   "c0e5d2484147e35e": 1792149129.480284,
   "9cdcb3cce26ce376": 1792149129.480284,
@@ -2637,11 +2634,20 @@
   "588b38b07a8e58e2": 1793356569.4259322,
   "dd01570dd4ee6ca9": 1793356569.4259322,
   "f32ca2c4c6d613c6": 1793356569.4259322,
-  "77dab61b6d948b18": 1793356569.4259322
+  "77dab61b6d948b18": 1793356569.4259322,
+  "d3308739db576330": 1793358485.3257768,
+  "11288b3e34bab91f": 1793358485.3257768,
+  "ce16e54aee0c0aec": 1793358485.3257768,
+  "78b9b89a3088274e": 1793358485.3257768,
+  "82ae5bb5685a614c": 1793358485.3257768,
+  "d3249e9c9274abd1": 1793358485.3257768,
+  "d02bb3870232b957": 1793358485.3257768,
+  "19067e99f0d006cc": 1793358485.3257768,
+  "44fab12a4ed806b6": 1793358485.3257768,
+  "bf2d62d33e85455a": 1793358485.3257768,
+  "48f1baa722ce703b": 1793358485.3257768
  },
  "recent_headlines": [
-  "ኢትዮጵያ ወታደሮቿን ከሶማሊያ ለማስወጣት ማቀዷ ተገለጸ (News: #Ethiopia reportedly plans troop withdrawal from #Somalia as fighting intensifies at home)",
-  "በሩሲያ መዲና ሞስኮ ላይ የተቃጣ ከ600 በላይ የድሮን ጥቃት መክሸፉ ተገለጸ (Russia says more than 600 drones launched towards Moscow overnight)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ እና ፕሬዚዳንት ፑቲን በኑክሌር ኃይልና ንግድ ትብብር ዙሪያ ተወያዩ (PM Abiy Ahmed and President Putin Discuss Nuclear Energy, Health and Trade Cooperation)",
   "በምዕራብ ኦሮሚያ በተፈጸመ የድሮን ጥቃት ሁለት የመንግሥት ሠራተኞች ተገደሉ (News: Two government civil servants killed in drone strike in western Oromia, say resident, relative)",
   "አሜሪካ በኮንጎው ግጭት ምክንያት በሩዋንዳ የመከላከያ ሚኒስቴር ላይ ማዕቀብ ጣለች (US sanctions Rwanda's defence ministry over DR Congo conflict)",
@@ -2679,7 +2685,9 @@
   "ዩክሬን ባካሄደችው የድሮን ጥቃት በሩሲያ የነዳጅ ማጣሪያ መመታቱ ተገለጸ (Russian oil refinery struck as Ukraine renews drone attacks)",
   "በተፈጥሮ ጋዝ የሚሠሩ የመጀመሪያዎቹ የከተማ አውቶቡሶች ሥራ መጀመራቸው ተገለጸ (PM Abiy Ahmed Announces Launch of Ethiopia’s First Natural Gas-Powered City Buses, 50% Fare Cut)",
   "ሳውዲ አረቢያ በመካ ክልል ላይ የተቃጣ የሁቲ ታጣቂዎች የድሮን ጥቃት ማክሸፏን አስታወቀች (Saudi Arabia reports interception of Houthi drone targeting Mecca)",
-  "ሩሲያ እና የአፍሪካ አገራት እስከ 2029 የሚዘልቅ የጋራ የትብብር ዕቅድ አጸደቁ (Russia and Africa Adopt Action Plan Through 2029 to Advance Trade, Investment and Strategic Cooperation)"
+  "ሩሲያ እና የአፍሪካ አገራት እስከ 2029 የሚዘልቅ የጋራ የትብብር ዕቅድ አጸደቁ (Russia and Africa Adopt Action Plan Through 2029 to Advance Trade, Investment and Strategic Cooperation)",
+  "በኢትዮጵያ በተፈጸመ ጥቃት ከ60 በላይ ሰዎች መገደላቸውን የኦርቶዶክስ ቤተክርስቲያን አስታወቀች (At least 60 Christians killed in Ethiopia amid rising religious violence)",
+  "በአማራ ክልል በተፈጸመ የድሮን ጥቃት 18 ተፈናቃዮች መገደላቸው ተገለጸ (በአማራ ክልል የተፈናቃይ መጠለያ ላይ በተፈጸመ የድሮን ጥቃት 18 ሰዎች ሲገደሉ ከ30 በላይ ሰዎች ቆሰሉ)"
  ],
  "posted_at": [
   1793214655.487433,
@@ -2745,6 +2753,8 @@
   1793352971.30845,
   1793352974.7536776,
   1793355040.9064722,
-  1793356629.2533238
+  1793356629.2533238,
+  1793358567.7686586,
+  1793358571.1651807
  ]
 }
