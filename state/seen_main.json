@@ -1,12 +1,5 @@
 {
  "seen": {
-  "d67814be6c89ea86": 1792134993.777977,
-  "2a961124578e0990": 1792134993.777977,
-  "75a714537efae134": 1792134993.777977,
-  "68768cc58b57454d": 1792134993.777977,
-  "e80f36aa8733e3a7": 1792134993.777977,
-  "1bdbfc5f1a11eb4c": 1792134993.777977,
-  "4ce0e848edcfe6f8": 1792134993.777977,
   "a704d2667de055ff": 1792136528.3774097,
   "4d5cb88c0e1dc752": 1792136528.3774097,
   "84f2bd5708a4cd55": 1792136528.3774097,
@@ -2634,10 +2627,16 @@
   "e1f07b5ab047f431": 1793344193.6442366,
   "2c25bf8119edc8b3": 1793344193.6442366,
   "1ef1f6f6b081340b": 1793344193.6442366,
-  "46192c7b233c8ad4": 1793344193.6442366
+  "46192c7b233c8ad4": 1793344193.6442366,
+  "dd62f30b5a0a97d0": 1793345757.8425705,
+  "3e55eeed23f33c66": 1793345757.8425705,
+  "b83566f652370ac1": 1793345757.8425705,
+  "c87e6bb121febf56": 1793345757.8425705,
+  "c0e6fbe6fc0a01b8": 1793345757.8425705,
+  "c1f264b2e8560709": 1793345757.8425705,
+  "b2046e3ffe0445d9": 1793345757.8425705
  },
  "recent_headlines": [
-  "ኢራን የሆርሙዝን የባሕር ወለል ለመክፈት የሚያስችላትን ዕቅድ እያቀረበች ነው (Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks)",
   "እስራኤል የኢንዶኔዥያ አብራሪ በመያዙ የኢትዮጵያ አየር መንገድ የጭነት አውሮፕላንን መልሳ ላከች (Daily_Brief: #Israel turns back Ethiopian Airlines cargo flight after identifying #Indonesian pilot)",
   "በኢትዮጵያ የገንዘብ እጥረት ያጋጠመው UNHCR የሺዎችን ስደተኞች ምዝገባ አገደ (Daily_Brief: #UNHCR funding shortfall suspends refugee registration for tens of thousands in #Ethiopia)",
   "አሕመድ ሽዴ የሕዝብ ተወካዮች፣ ሙፈሪያት ካሚል የፌዴሬሽን ምክር ቤት አፈ ጉባኤ ሆኑ (Breaking_News: #Ahmed_Shide elected House of Peoples’ Representatives Speaker, #Muferihat_Kamil to lead House of Federation)",
@@ -2676,7 +2675,8 @@
   "ባይናንስ ከደኅንነት ሥጋት ጋር ተያይዞ 2.54 ቢሊዮን ዶላር አገደ (Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’)",
   "የዓለማችን ግዙፉ የክሪፕቶ ኤክስቼንጅ ባይናንስ የ6.3 ቢሊዮን ዶላር የሳይበር ጥቃት አስተናገደ (Crypto giant Binance hit by hack suspected to be largest in history)",
   "የቬኔዙዌላ የተቃዋሚ መሪ María Machado ከስደት ተመልሰው ምርጫ እንዲካሄድ ጥሪ አቀረቡ (Venezuela opposition leader María Machado calls for elections upon return)",
-  "ካፍ የአፍሪካ ዋንጫ ውድድር በየሁለት ዓመቱ እንዲካሄድ መወሰኑን አስታወቀ (OFFICIAL: CAF Restores Africa Cup of Nations to Two-Year Cycle, Confirms Next Four Editions)"
+  "ካፍ የአፍሪካ ዋንጫ ውድድር በየሁለት ዓመቱ እንዲካሄድ መወሰኑን አስታወቀ (OFFICIAL: CAF Restores Africa Cup of Nations to Two-Year Cycle, Confirms Next Four Editions)",
+  "ኬንያ ከመጀመሪያው ታካሚ ጋር የተያያዘ ሁለተኛ የኤቦላ ግኝት አረጋገጠች (#Daily_Brief: #Kenya reports second #Ebola case linked to first patient)"
  ],
  "posted_at": [
   1793214655.487433,
@@ -2737,6 +2737,7 @@
   1793321753.1492848,
   1793340988.0672097,
   1793344275.1482785,
-  1793344278.56646
+  1793344278.56646,
+  1793345805.8857636
  ]
 }
