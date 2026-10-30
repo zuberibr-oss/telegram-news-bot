@@ -1,8 +1,5 @@
 {
  "seen": {
-  "8621d34ee2d9bb0a": 1792177768.3064983,
-  "4569f0d8bbb85747": 1792177768.3064983,
-  "da46afc4c3e7df22": 1792177768.3064983,
   "96f0c30b2e7225db": 1792179399.8833644,
   "e29472a95dc2de65": 1792179399.8833644,
   "8df933514ed3789d": 1792181457.4698842,
@@ -2633,10 +2630,13 @@
   "f6171bf9ae5e3ccd": 1793383781.6043766,
   "a54c61b37323e1d4": 1793383781.6043766,
   "88539348acbf2759": 1793385293.4753797,
-  "be5bf5b044329a3d": 1793387253.2962303
+  "be5bf5b044329a3d": 1793387253.2962303,
+  "76665b3c0b72c289": 1793388928.5766008,
+  "d8e52c6596672f8b": 1793388928.5766008,
+  "e0e7b88d1343c127": 1793388928.5766008,
+  "fcee04953833ce5b": 1793388928.5766008
  },
  "recent_headlines": [
-  "እስራኤል በዌስት ባንኳ ኬብሮን ከተማ ላይ የጣለችውን ሙሉ ከበባ ቀጥላለች (A week of Israel’s lockdown in Hebron: What’s happened, when will it end?)",
   "በየመኗ ታኢዝ አቅራቢያ ውጊያው በመካረሩ ከ281 ሺህ በላይ ሰዎች ተፈናቀሉ (Fighting rages near Yemen’s Taiz as UN urges humanitarian access)",
   "ጠቅላይ ሚኒስትር ዐቢይ በሩሲያ-አፍሪካ ጉባኤ የኢትዮጵያን የምግብ፣ የኃይልና የቴክኖሎጂ አጀንዳዎች አቀረቡ (PM Abiy Puts Ethiopia’s Food Security, Energy and Knowledge Priorities at Center of Russia–Africa Summit)",
   "የአፍሪካ የጡረታ ተቋማት ለየአህጉሩ መሠረተ ልማት ግንባታ በጋራ እንዲሠሩ ጥሪ ቀረበ (Ethiopia Champions Continental Pension Fund Cooperation to Finance African Infrastructure)",
@@ -2675,12 +2675,10 @@
   "ኢትዮጵያ የተፈጥሮ ጋዝ አጠቃቀምን ወደ ታክሲዎች ማሰፋፋቷን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Expands Natural Gas Conversion Initiative to Taxis to Cut Transport Costs – PM Abiy)",
   "የኢትዮጵያ መንግሥት በድርቅ ለተጎዱ የአፋር አካባቢዎች የአስቸኳይ ጊዜ እርዳታ ላከ (#Daily_Brief: Government dispatches emergency aid to drought-hit #Afar communities)",
   "በሩሲያ የተያዘችው የኦሌሽኪ ከተማ ነዋሪዎች በተኩስ አቁም ስምምነቱ መውጣት ጀመሩ (Ceasefire allows evacuation from devastated Russian-occupied Oleshky)",
-  "ሶማሊያ የፕሬዚዳንት ምርጫዋን በግንቦት ወር ለማካሄድ ቀጠሮ ያዘች (#Daily_Brief: #Somalia sets presidential election for May amid deepening political divisions)"
+  "ሶማሊያ የፕሬዚዳንት ምርጫዋን በግንቦት ወር ለማካሄድ ቀጠሮ ያዘች (#Daily_Brief: #Somalia sets presidential election for May amid deepening political divisions)",
+  "ኦማን በሆርሙዝ ሰርጥ ከተቃጠለ የነዳጅ ጫኝ መርከብ 25 ሰራተኞችን አተረፈች (Oman rescues 25 from burning oil tanker in Strait of Hormuz)"
  ],
  "posted_at": [
-  1793214655.487433,
-  1793214658.994323,
-  1793214662.503597,
   1793216316.7577643,
   1793216320.2391298,
   1793216323.742364,
@@ -2755,6 +2753,7 @@
   1793372989.1648777,
   1793378174.0515785,
   1793378177.4256265,
-  1793383831.3106256
+  1793383831.3106256,
+  1793388982.6542854
  ]
 }
