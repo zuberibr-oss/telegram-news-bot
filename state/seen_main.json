@@ -1,8 +1,5 @@
 {
  "seen": {
-  "94494ddda3d2ac72": 1792150803.2520397,
-  "222ef7ee60ed23c1": 1792150803.2520397,
-  "16c51563556b3e9b": 1792150803.2520397,
   "79778cb5564c6b12": 1792153105.9893837,
   "a5a5bc348ffe4707": 1792153105.9893837,
   "d8aef6c2f9e885de": 1792153105.9893837,
@@ -2642,11 +2639,14 @@
   "48f1baa722ce703b": 1793358485.3257768,
   "c4f142fcd25942d1": 1793360194.6290264,
   "e86806608d116b81": 1793360194.6290264,
-  "185ad6b6c24a17ff": 1793360194.6290264
+  "185ad6b6c24a17ff": 1793360194.6290264,
+  "83619938a571f054": 1793362459.4582314,
+  "147b621df5930751": 1793362459.4582314,
+  "7607fed5cf88c250": 1793362459.4582314,
+  "226edaf6e7febba1": 1793362459.4582314,
+  "aad7b4d6bc6e9e9b": 1793362459.4582314
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ እና ፕሬዚዳንት ፑቲን በኑክሌር ኃይልና ንግድ ትብብር ዙሪያ ተወያዩ (PM Abiy Ahmed and President Putin Discuss Nuclear Energy, Health and Trade Cooperation)",
-  "በምዕራብ ኦሮሚያ በተፈጸመ የድሮን ጥቃት ሁለት የመንግሥት ሠራተኞች ተገደሉ (News: Two government civil servants killed in drone strike in western Oromia, say resident, relative)",
   "አሜሪካ በኮንጎው ግጭት ምክንያት በሩዋንዳ የመከላከያ ሚኒስቴር ላይ ማዕቀብ ጣለች (US sanctions Rwanda's defence ministry over DR Congo conflict)",
   "ዳሽን ባንክ እና EIB Global የ20 ሚሊዮን ዩሮ የብድር ስምምነት ተፈራረሙ (Dashen Bank, EIB sign €20 million financing deal to unlock long-term credit for SMEs)",
   "ቱርክ እና ፓኪስታን ከሳውዲ አረቢያ ጋር የገቡትን የመከላከያ ስምምነት ተግባራዊ አደረጉ (Daily_Brief: #Türkiye, #Pakistan activate mutual defense pact with #Saudi_Arabia after #Houthi attacks)",
@@ -2684,7 +2684,9 @@
   "ሳውዲ አረቢያ በመካ ክልል ላይ የተቃጣ የሁቲ ታጣቂዎች የድሮን ጥቃት ማክሸፏን አስታወቀች (Saudi Arabia reports interception of Houthi drone targeting Mecca)",
   "ሩሲያ እና የአፍሪካ አገራት እስከ 2029 የሚዘልቅ የጋራ የትብብር ዕቅድ አጸደቁ (Russia and Africa Adopt Action Plan Through 2029 to Advance Trade, Investment and Strategic Cooperation)",
   "በኢትዮጵያ በተፈጸመ ጥቃት ከ60 በላይ ሰዎች መገደላቸውን የኦርቶዶክስ ቤተክርስቲያን አስታወቀች (At least 60 Christians killed in Ethiopia amid rising religious violence)",
-  "በአማራ ክልል በተፈጸመ የድሮን ጥቃት 18 ተፈናቃዮች መገደላቸው ተገለጸ (በአማራ ክልል የተፈናቃይ መጠለያ ላይ በተፈጸመ የድሮን ጥቃት 18 ሰዎች ሲገደሉ ከ30 በላይ ሰዎች ቆሰሉ)"
+  "በአማራ ክልል በተፈጸመ የድሮን ጥቃት 18 ተፈናቃዮች መገደላቸው ተገለጸ (በአማራ ክልል የተፈናቃይ መጠለያ ላይ በተፈጸመ የድሮን ጥቃት 18 ሰዎች ሲገደሉ ከ30 በላይ ሰዎች ቆሰሉ)",
+  "ኢትዮጵያ ተጨማሪ 400 በተፈጥሮ ጋዝ የሚሠሩ አውቶቡሶችን ማዘዟን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Orders 400 Natural Gas Buses, Nearly 100 Gas-Powered Trucks to Expand Transport Transition – PM Abiy)",
+  "የደብረ ብርሃን እና ሞጆ ሴራሚክ ፋብሪካዎች ወደ ተፈጥሮ ጋዝ ኃይል ተሸጋገሩ (PM Abiy Says Debre Berhan, Modjo Ceramic Factories Shift to Natural Gas with Capacity Exceeding National Demand)"
  ],
  "posted_at": [
   1793214655.487433,
@@ -2752,6 +2754,8 @@
   1793355040.9064722,
   1793356629.2533238,
   1793358567.7686586,
-  1793358571.1651807
+  1793358571.1651807,
+  1793362516.734472,
+  1793362520.293597
  ]
 }
