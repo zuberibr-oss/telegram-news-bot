@@ -1297,10 +1297,12 @@
   "185ad6b6c24a17ff": 1793399639.3454494,
   "3bbbfe2a22dd5560": 1793399639.3454494,
   "77dab61b6d948b18": 1793399639.3454494,
-  "3ea404e49cd36674": 1793399639.3454494
+  "3ea404e49cd36674": 1793399639.3454494,
+  "463ae186224569e1": 1793401595.7998924,
+  "44b1b48d9c25ee3c": 1793401595.7998924,
+  "fab5be516a6a65b3": 1793401595.7998924
  },
  "recent_headlines": [
-  "ጋቦን እና የአፍሪካ ህብረት በዲጂታል ትብብር እና አይሲቲ ላይ ስምምነት ተፈራረሙ (Gabon and African Union Sign Host Country Agreement on Digital Cooperation)",
   "በአፍሪካ የገሃዱ ዓለም ሀብቶችን በብሎክቼይን የማስመዝገብ (Tokenisation) ዕድል እና ፈተናዎች ተዳሰሱ (African tokenisation could widen access to property, but ownership rights remain central to investor confidence)",
   "ታዋቂው ባለሀብት Tim Draper የአፍሪካ መንግሥታት በ Bitcoin ላይ የተመሠረቱ ንግዶችን እንዲፈቅዱ ጥሪ አቀረቡ (Tim Draper wants African governments to allow Bitcoin-based businesses and rethink how money moves)",
   "በአፍሪካ በስቴብልኮይን ደሞዝ መክፈል ተጨማሪ የህግና የፋይናንስ ፈተናዎች እንዳሉበት ተገለጸ (Stablecoins can move money quickly, but African employers still have to make sure workers receive the right amount)",
@@ -1339,10 +1341,10 @@
   "ኬንያ ከ2022 ወዲህ ከ30 ሺህ ኪሎሜትር በላይ የፋይበር መሠረተ ልማት ዘረጋች (Kenya Rolls Out 30,000 Kilometres of Fibre Infrastructure Since 2022)",
   "ዳሸን ባንክ ከኢትዮጵያ አየር መንገድ እና Mastercard ጋር በመተባበር የፕላቲነም ካርድ አስተዋወቀ (Dashen Bank, Ethiopian Airlines and Mastercard Launch Travel-Linked Platinum Card)",
   "ባይናንስ የ6.3 ቢሊዮን ዶላር የክሪፕቶፕረንሲ ሳይበር ጥቃት አስተናገደ (Binance hit by $6.3bn crypto-currency hack)",
-  "የAirtel Africa የግማሽ ዓመት የተጣራ ትርፍ በ20 በመቶ አድጎ 452 ሚሊዮን ዶላር ደረሰ (Airtel Africa half-year profit rises 20% to $452m)"
+  "የAirtel Africa የግማሽ ዓመት የተጣራ ትርፍ በ20 በመቶ አድጎ 452 ሚሊዮን ዶላር ደረሰ (Airtel Africa half-year profit rises 20% to $452m)",
+  "ኢትዮጵያ 1.4 ሚሊዮን አምራቾችን የሚያቅፍ የዲጂታል ቡና ፍለጋ ሥርዓት ዘረጋች (Ethiopia Rolls Out Digital Coffee Traceability System Covering 1.4 Million Producers Ahead of EU Deforestation Rules)"
  ],
  "posted_at": [
-  1793226952.0958877,
   1793228964.2581527,
   1793257859.7376647,
   1793309812.7228167,
@@ -1353,6 +1355,7 @@
   1793394545.1726882,
   1793396175.702558,
   1793398193.8513114,
-  1793399746.6670475
+  1793399746.6670475,
+  1793401668.0228467
  ]
 }
