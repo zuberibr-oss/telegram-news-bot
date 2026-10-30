@@ -1,9 +1,5 @@
 {
  "seen": {
-  "ec7dfaa0cea84c28": 1792167240.1156642,
-  "446500fb5adc74e9": 1792167240.1156642,
-  "3654b8aaf8473f04": 1792167240.1156642,
-  "297eb52e1d6da8f0": 1792167240.1156642,
   "563111b28bb6f058": 1792168780.333557,
   "79aaa21e777f5d7c": 1792168780.333557,
   "06abcf237d934788": 1792168780.333557,
@@ -2638,11 +2634,12 @@
   "ce190297d43fb741": 1793376609.8670504,
   "2c1dc99343a330d9": 1793376609.8670504,
   "6f5b4a92d93a7f56": 1793376609.8670504,
-  "0d968561f34ce9f1": 1793376609.8670504
+  "0d968561f34ce9f1": 1793376609.8670504,
+  "3f49805187ecc459": 1793378134.0234246,
+  "090b271bb6f18f77": 1793378134.0234246,
+  "3e7279fd5a81d496": 1793378134.0234246
  },
  "recent_headlines": [
-  "ኢትዮጵያ የድሮን ቴክኖሎጂ ምርምር እና ማኑፋክቸሪንግ ለማስፋፋት የሚያስችል ስምምነት ተፈራረመች (Ethiopia’s Domestic Partnership Targets Expanded Drone Research, Development and Manufacturing)",
-  "አሜሪካ ከኢራን ጋር የሰላም ንግግር ለመጀመር ጥሪ አቀረበች (What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’)",
   "ደቡብ አፍሪካ የኦሊምፒክ ውድድርን ለመጀመሪያ ጊዜ ወደ አፍሪካ ለማምጣት ደርባንን ዕጩ አደረገች (Olympic Games: South Africa bids to make Durban host city for 2036 or 2040)",
   "እስራኤል በዌስት ባንኳ ኬብሮን ከተማ ላይ የጣለችውን ሙሉ ከበባ ቀጥላለች (A week of Israel’s lockdown in Hebron: What’s happened, when will it end?)",
   "በየመኗ ታኢዝ አቅራቢያ ውጊያው በመካረሩ ከ281 ሺህ በላይ ሰዎች ተፈናቀሉ (Fighting rages near Yemen’s Taiz as UN urges humanitarian access)",
@@ -2680,7 +2677,9 @@
   "የተባበሩት መንግሥታት ድርጅት በጋዛ የዘር ማጽዳት ሥጋት ማንሰራራቱን አስጠነቀቀ (Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN)",
   "የሩሲያ እና ዩክሬን የእርዳታ ቡድን ወደ ተከበበችው ኦሌሽኪ ከተማ ገባ (Russian, Ukrainian humanitarian officials enter Oleshky)",
   "ኢትዮጵያ በተፈጥሮ ሀብት እንክብካቤ የምታደርገው ጥረት ለናይል ተፋሰስ አገራት ጠቃሚ መሆኑ ተገለጸ (Ethiopia’s Natural Resource Conservation Efforts Advance Shared Prosperity Across Nile Basin)",
-  "ኢትዮጵያ የተፈጥሮ ጋዝ አጠቃቀምን ወደ ታክሲዎች ማሰፋፋቷን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Expands Natural Gas Conversion Initiative to Taxis to Cut Transport Costs – PM Abiy)"
+  "ኢትዮጵያ የተፈጥሮ ጋዝ አጠቃቀምን ወደ ታክሲዎች ማሰፋፋቷን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Expands Natural Gas Conversion Initiative to Taxis to Cut Transport Costs – PM Abiy)",
+  "የኢትዮጵያ መንግሥት በድርቅ ለተጎዱ የአፋር አካባቢዎች የአስቸኳይ ጊዜ እርዳታ ላከ (#Daily_Brief: Government dispatches emergency aid to drought-hit #Afar communities)",
+  "በሩሲያ የተያዘችው የኦሌሽኪ ከተማ ነዋሪዎች በተኩስ አቁም ስምምነቱ መውጣት ጀመሩ (Ceasefire allows evacuation from devastated Russian-occupied Oleshky)"
  ],
  "posted_at": [
   1793214655.487433,
@@ -2757,6 +2756,8 @@
   1793371027.7900245,
   1793371031.2873375,
   1793371034.7914217,
-  1793372989.1648777
+  1793372989.1648777,
+  1793378174.0515785,
+  1793378177.4256265
  ]
 }
