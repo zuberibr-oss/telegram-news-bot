@@ -1,12 +1,5 @@
 {
  "seen": {
-  "e0689af692bd1279": 1792159978.6947823,
-  "a4764cc05d47a8ed": 1792159978.6947823,
-  "c9691e5c9f61c187": 1792159978.6947823,
-  "d1f1dcebf5f4f1eb": 1792159978.6947823,
-  "950e51c550b0db2d": 1792159978.6947823,
-  "f0defe73ca1cd85f": 1792159978.6947823,
-  "3c4060877390149d": 1792159978.6947823,
   "cb663717078262f9": 1792161716.6804156,
   "ae7dc564b6bf327d": 1792161716.6804156,
   "cd8afd2a2f892d60": 1792161716.6804156,
@@ -2638,13 +2631,19 @@
   "e70493988346a6f6": 1793367407.9433305,
   "72dd6443cbc26f6d": 1793369408.5270405,
   "b9c54f39713e4258": 1793369408.5270405,
-  "049c5791146fdc12": 1793369408.5270405
+  "049c5791146fdc12": 1793369408.5270405,
+  "e91414c1f7a11139": 1793370947.6203632,
+  "594580bd882d716a": 1793370947.6203632,
+  "9514e3ace59ed700": 1793370947.6203632,
+  "7738cccfb768c46d": 1793370947.6203632,
+  "68ca1110422c3154": 1793370947.6203632,
+  "85459de99471ef42": 1793370947.6203632,
+  "5d5091b31da1a2ce": 1793370947.6203632,
+  "906ce354720821e6": 1793370947.6203632,
+  "f1beee9bbbe91413": 1793370947.6203632,
+  "ac84e8c9c2dca0c9": 1793370947.6203632
  },
  "recent_headlines": [
-  "ቱርክ እና ፓኪስታን ከሳውዲ አረቢያ ጋር የገቡትን የመከላከያ ስምምነት ተግባራዊ አደረጉ (Daily_Brief: #Türkiye, #Pakistan activate mutual defense pact with #Saudi_Arabia after #Houthi attacks)",
-  "ኢትዮጵያ በዓለም አቀፉ የሲቪል አቪዬሽን ድርጅት ምክር ቤት ብቸኛዋ የአፍሪካ ዕጩ ሆነች (Ethiopia Stands as Africa’s Sole Candidate for ICAO Council Membership)",
-  "የአሜሪካ መከላከያ ሚኒስቴር በኢራን ላይ የሚካሄደው ጦርነት 47.1 ቢሊዮን ዶላር ወጪ መጠየቁን አስታወቀ (Pentagon says Iran war has cost US taxpayers $47bn: What that means)",
-  "በእስራኤል የተካሄደው የፓርላማ ምርጫ ያለ አሸናፊ በግንባር ቀደምትነት መጠናቀቁ ተገለጸ (Israel’s election rhetoric: What candidates said, and how they performed)",
   "በቻይና ኮሙኒስት ፓርቲ ጉባኤ ከፍተኛ ቁጥር ያላቸው አመራሮች ከፓርቲው ተባረሩ (Record number of purges as Xi emphasises 'party discipline' at China political gathering)",
   "ኢትዮጵያ የድሮን ቴክኖሎጂ ምርምር እና ማኑፋክቸሪንግ ለማስፋፋት የሚያስችል ስምምነት ተፈራረመች (Ethiopia’s Domestic Partnership Targets Expanded Drone Research, Development and Manufacturing)",
   "አሜሪካ ከኢራን ጋር የሰላም ንግግር ለመጀመር ጥሪ አቀረበች (What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’)",
@@ -2680,7 +2679,11 @@
   "ኢትዮጵያ ተጨማሪ 400 በተፈጥሮ ጋዝ የሚሠሩ አውቶቡሶችን ማዘዟን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Orders 400 Natural Gas Buses, Nearly 100 Gas-Powered Trucks to Expand Transport Transition – PM Abiy)",
   "የደብረ ብርሃን እና ሞጆ ሴራሚክ ፋብሪካዎች ወደ ተፈጥሮ ጋዝ ኃይል ተሸጋገሩ (PM Abiy Says Debre Berhan, Modjo Ceramic Factories Shift to Natural Gas with Capacity Exceeding National Demand)",
   "የካታር ልዑክ ከአሜሪካ ጋር የተቋረጠውን የተኩስ አቁም ለማደስ ቴህራን ገባ (Qatari officials in Iran in bid to revive ceasefire deal with US)",
-  "የሱዳን ፈጣን ደጋፊ ኃይሎች (RSF) ከፍተኛ አዛዥ ከቡድኑ መክዳታቸውን አስታወቁ (Sudan RSF commander defects from Hemedti’s forces)"
+  "የሱዳን ፈጣን ደጋፊ ኃይሎች (RSF) ከፍተኛ አዛዥ ከቡድኑ መክዳታቸውን አስታወቁ (Sudan RSF commander defects from Hemedti’s forces)",
+  "ኢትዮጵያ የወደብ ባለቤት መሆኗ አይቀሬ ነው ሲሉ የባሕር ኃይል አዛዡ ገለጹ (“Itoophiyaan deebitee buufata galaanaa qabaachuun ishii hin oolu”: Ajajaan Humna Galaanaa tumsa galaanaa naannawaa cimsuuf waamicha dhiyeessan)",
+  "የተባበሩት መንግሥታት ድርጅት በጋዛ የዘር ማጽዳት ሥጋት ማንሰራራቱን አስጠነቀቀ (Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN)",
+  "የሩሲያ እና ዩክሬን የእርዳታ ቡድን ወደ ተከበበችው ኦሌሽኪ ከተማ ገባ (Russian, Ukrainian humanitarian officials enter Oleshky)",
+  "ኢትዮጵያ በተፈጥሮ ሀብት እንክብካቤ የምታደርገው ጥረት ለናይል ተፋሰስ አገራት ጠቃሚ መሆኑ ተገለጸ (Ethiopia’s Natural Resource Conservation Efforts Advance Shared Prosperity Across Nile Basin)"
  ],
  "posted_at": [
   1793214655.487433,
@@ -2752,6 +2755,10 @@
   1793362516.734472,
   1793362520.293597,
   1793364125.4534972,
-  1793365841.4208078
+  1793365841.4208078,
+  1793371024.1549478,
+  1793371027.7900245,
+  1793371031.2873375,
+  1793371034.7914217
  ]
 }
