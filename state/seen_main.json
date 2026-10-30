@@ -1,8 +1,5 @@
 {
  "seen": {
-  "f7a14dee47d3e3ab": 1792172196.6896942,
-  "1753be049c4c427c": 1792172196.6896942,
-  "b38c5040cd719181": 1792172196.6896942,
   "413696333e31e84c": 1792174449.1275804,
   "92ad5cfe140bf67c": 1792174449.1275804,
   "775d615f74d2b263": 1792174449.1275804,
@@ -2633,10 +2630,17 @@
   "de3a74805439bdb6": 1793381726.5025938,
   "e5a6e5d8e744e9ac": 1793381726.5025938,
   "160db7d20cbf8f62": 1793381726.5025938,
-  "d57dc9bc9ae67bc0": 1793381726.5025938
+  "d57dc9bc9ae67bc0": 1793381726.5025938,
+  "66e94d30503b7c53": 1793383781.6043766,
+  "514f9949419f8be8": 1793383781.6043766,
+  "d4999cf1049ab3e9": 1793383781.6043766,
+  "f8931c88a6a06d71": 1793383781.6043766,
+  "115285ab686a90e2": 1793383781.6043766,
+  "93c6b62bc77ba60a": 1793383781.6043766,
+  "f6171bf9ae5e3ccd": 1793383781.6043766,
+  "a54c61b37323e1d4": 1793383781.6043766
  },
  "recent_headlines": [
-  "ደቡብ አፍሪካ የኦሊምፒክ ውድድርን ለመጀመሪያ ጊዜ ወደ አፍሪካ ለማምጣት ደርባንን ዕጩ አደረገች (Olympic Games: South Africa bids to make Durban host city for 2036 or 2040)",
   "እስራኤል በዌስት ባንኳ ኬብሮን ከተማ ላይ የጣለችውን ሙሉ ከበባ ቀጥላለች (A week of Israel’s lockdown in Hebron: What’s happened, when will it end?)",
   "በየመኗ ታኢዝ አቅራቢያ ውጊያው በመካረሩ ከ281 ሺህ በላይ ሰዎች ተፈናቀሉ (Fighting rages near Yemen’s Taiz as UN urges humanitarian access)",
   "ጠቅላይ ሚኒስትር ዐቢይ በሩሲያ-አፍሪካ ጉባኤ የኢትዮጵያን የምግብ፣ የኃይልና የቴክኖሎጂ አጀንዳዎች አቀረቡ (PM Abiy Puts Ethiopia’s Food Security, Energy and Knowledge Priorities at Center of Russia–Africa Summit)",
@@ -2675,7 +2679,8 @@
   "ኢትዮጵያ በተፈጥሮ ሀብት እንክብካቤ የምታደርገው ጥረት ለናይል ተፋሰስ አገራት ጠቃሚ መሆኑ ተገለጸ (Ethiopia’s Natural Resource Conservation Efforts Advance Shared Prosperity Across Nile Basin)",
   "ኢትዮጵያ የተፈጥሮ ጋዝ አጠቃቀምን ወደ ታክሲዎች ማሰፋፋቷን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Expands Natural Gas Conversion Initiative to Taxis to Cut Transport Costs – PM Abiy)",
   "የኢትዮጵያ መንግሥት በድርቅ ለተጎዱ የአፋር አካባቢዎች የአስቸኳይ ጊዜ እርዳታ ላከ (#Daily_Brief: Government dispatches emergency aid to drought-hit #Afar communities)",
-  "በሩሲያ የተያዘችው የኦሌሽኪ ከተማ ነዋሪዎች በተኩስ አቁም ስምምነቱ መውጣት ጀመሩ (Ceasefire allows evacuation from devastated Russian-occupied Oleshky)"
+  "በሩሲያ የተያዘችው የኦሌሽኪ ከተማ ነዋሪዎች በተኩስ አቁም ስምምነቱ መውጣት ጀመሩ (Ceasefire allows evacuation from devastated Russian-occupied Oleshky)",
+  "ሶማሊያ የፕሬዚዳንት ምርጫዋን በግንቦት ወር ለማካሄድ ቀጠሮ ያዘች (#Daily_Brief: #Somalia sets presidential election for May amid deepening political divisions)"
  ],
  "posted_at": [
   1793214655.487433,
@@ -2754,6 +2759,7 @@
   1793371034.7914217,
   1793372989.1648777,
   1793378174.0515785,
-  1793378177.4256265
+  1793378177.4256265,
+  1793383831.3106256
  ]
 }
