@@ -1,9 +1,5 @@
 {
  "seen": {
-  "0c140354224ec93a": 1792186660.6377568,
-  "0385957454de7635": 1792186660.6377568,
-  "b9c83adbb539303d": 1792186660.6377568,
-  "f65920481f4e57ee": 1792186660.6377568,
   "94c96690c684430b": 1792188640.2747386,
   "a528ae9a865920e5": 1792190232.5087578,
   "92008bbcb230d3f8": 1792192191.8416963,
@@ -2630,10 +2626,12 @@
   "3b935aea849c49a6": 1793394545.432054,
   "90284a18ca9572e1": 1793394545.432054,
   "f4dab90aa05a8ea1": 1793396175.8782027,
-  "f309fda9c05ed76a": 1793396175.8782027
+  "f309fda9c05ed76a": 1793396175.8782027,
+  "78b7b51ec69bc5c0": 1793398194.0165095,
+  "a63cd79e976aba32": 1793398194.0165095,
+  "c1d508e6af02d581": 1793398194.0165095
  },
  "recent_headlines": [
-  "በየመኗ ታኢዝ አቅራቢያ ውጊያው በመካረሩ ከ281 ሺህ በላይ ሰዎች ተፈናቀሉ (Fighting rages near Yemen’s Taiz as UN urges humanitarian access)",
   "ጠቅላይ ሚኒስትር ዐቢይ በሩሲያ-አፍሪካ ጉባኤ የኢትዮጵያን የምግብ፣ የኃይልና የቴክኖሎጂ አጀንዳዎች አቀረቡ (PM Abiy Puts Ethiopia’s Food Security, Energy and Knowledge Priorities at Center of Russia–Africa Summit)",
   "የአፍሪካ የጡረታ ተቋማት ለየአህጉሩ መሠረተ ልማት ግንባታ በጋራ እንዲሠሩ ጥሪ ቀረበ (Ethiopia Champions Continental Pension Fund Cooperation to Finance African Infrastructure)",
   "በዩክሬን ድኒፕሮ ባቡር ጣቢያ ላይ በተፈጸመ የድሮን ጥቃት የ13 ሰዎች ሕይወት አለፈ (Russian drone attack on Ukrainian train station kills at least 13, officials say)",
@@ -2672,12 +2670,10 @@
   "የኢትዮጵያ መንግሥት በድርቅ ለተጎዱ የአፋር አካባቢዎች የአስቸኳይ ጊዜ እርዳታ ላከ (#Daily_Brief: Government dispatches emergency aid to drought-hit #Afar communities)",
   "በሩሲያ የተያዘችው የኦሌሽኪ ከተማ ነዋሪዎች በተኩስ አቁም ስምምነቱ መውጣት ጀመሩ (Ceasefire allows evacuation from devastated Russian-occupied Oleshky)",
   "ሶማሊያ የፕሬዚዳንት ምርጫዋን በግንቦት ወር ለማካሄድ ቀጠሮ ያዘች (#Daily_Brief: #Somalia sets presidential election for May amid deepening political divisions)",
-  "ኦማን በሆርሙዝ ሰርጥ ከተቃጠለ የነዳጅ ጫኝ መርከብ 25 ሰራተኞችን አተረፈች (Oman rescues 25 from burning oil tanker in Strait of Hormuz)"
+  "ኦማን በሆርሙዝ ሰርጥ ከተቃጠለ የነዳጅ ጫኝ መርከብ 25 ሰራተኞችን አተረፈች (Oman rescues 25 from burning oil tanker in Strait of Hormuz)",
+  "የሱዳን ሠራዊት በሰማያዊ ናይል ክልል በሚንቀሳቀሱ አማፂያን ላይ ጥቃት ለማሰነዘር ተዘጋጀ (#Daily_Brief: #Sudanese army orders troops to prepare offensive against rebels in Blue Nile)"
  ],
  "posted_at": [
-  1793223515.0387588,
-  1793223518.527388,
-  1793223522.0131526,
   1793233449.132496,
   1793235282.640139,
   1793235285.993898,
@@ -2737,6 +2733,7 @@
   1793378174.0515785,
   1793378177.4256265,
   1793383831.3106256,
-  1793388982.6542854
+  1793388982.6542854,
+  1793398221.5312984
  ]
 }
