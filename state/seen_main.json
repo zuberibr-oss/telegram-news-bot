@@ -1,6 +1,5 @@
 {
  "seen": {
-  "94c96690c684430b": 1792188640.2747386,
   "a528ae9a865920e5": 1792190232.5087578,
   "92008bbcb230d3f8": 1792192191.8416963,
   "1543c4183ba995cb": 1792192191.8416963,
@@ -2629,11 +2628,11 @@
   "f309fda9c05ed76a": 1793396175.8782027,
   "78b7b51ec69bc5c0": 1793398194.0165095,
   "a63cd79e976aba32": 1793398194.0165095,
-  "c1d508e6af02d581": 1793398194.0165095
+  "c1d508e6af02d581": 1793398194.0165095,
+  "ee652298e95f73e2": 1793399746.8425295,
+  "c39ffa51f0735737": 1793399746.8425295
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ በሩሲያ-አፍሪካ ጉባኤ የኢትዮጵያን የምግብ፣ የኃይልና የቴክኖሎጂ አጀንዳዎች አቀረቡ (PM Abiy Puts Ethiopia’s Food Security, Energy and Knowledge Priorities at Center of Russia–Africa Summit)",
-  "የአፍሪካ የጡረታ ተቋማት ለየአህጉሩ መሠረተ ልማት ግንባታ በጋራ እንዲሠሩ ጥሪ ቀረበ (Ethiopia Champions Continental Pension Fund Cooperation to Finance African Infrastructure)",
   "በዩክሬን ድኒፕሮ ባቡር ጣቢያ ላይ በተፈጸመ የድሮን ጥቃት የ13 ሰዎች ሕይወት አለፈ (Russian drone attack on Ukrainian train station kills at least 13, officials say)",
   "ኤርትራ እና አሜሪካ ማዕቀብ ከተነሳ በኋላ ዲፕሎማሲያዊ ግንኙነታቸውን እያጠናከሩ ነው (#Daily_Brief: #Eritrea, #US advance bilateral relations following sanctions removal)",
   "ኢትዮጵያ የሚቀጥለውን የሩሲያ-አፍሪካ ጉባኤ ለማስተናገድ ዝግጁ መሆኗን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (PM Abiy Says Ethiopia Ready to Host Russia–Africa Summit When It Next Comes to Africa)",
@@ -2671,7 +2670,9 @@
   "በሩሲያ የተያዘችው የኦሌሽኪ ከተማ ነዋሪዎች በተኩስ አቁም ስምምነቱ መውጣት ጀመሩ (Ceasefire allows evacuation from devastated Russian-occupied Oleshky)",
   "ሶማሊያ የፕሬዚዳንት ምርጫዋን በግንቦት ወር ለማካሄድ ቀጠሮ ያዘች (#Daily_Brief: #Somalia sets presidential election for May amid deepening political divisions)",
   "ኦማን በሆርሙዝ ሰርጥ ከተቃጠለ የነዳጅ ጫኝ መርከብ 25 ሰራተኞችን አተረፈች (Oman rescues 25 from burning oil tanker in Strait of Hormuz)",
-  "የሱዳን ሠራዊት በሰማያዊ ናይል ክልል በሚንቀሳቀሱ አማፂያን ላይ ጥቃት ለማሰነዘር ተዘጋጀ (#Daily_Brief: #Sudanese army orders troops to prepare offensive against rebels in Blue Nile)"
+  "የሱዳን ሠራዊት በሰማያዊ ናይል ክልል በሚንቀሳቀሱ አማፂያን ላይ ጥቃት ለማሰነዘር ተዘጋጀ (#Daily_Brief: #Sudanese army orders troops to prepare offensive against rebels in Blue Nile)",
+  "ኢትዮጵያ ከአረንጓዴ አየር ንብረት ፈንድ የ30 ሚሊዮን ዶላር ድጋፍ አገኘች (Itoophiyaan dandamannaa jijjiirama qilleensaa cimsachuuf Fandii Haala Qilleensaa Magariisaa irraa tumsa doolaara miiliyoona 30 argatte)",
+  "አሜሪካ ለዩክሬን የ500 ፓትሪዮት ሚሳይሎች ሽያጭን አጸደቀች (US approves sale of 500 Patriot missiles to Ukraine)"
  ],
  "posted_at": [
   1793233449.132496,
@@ -2734,6 +2735,8 @@
   1793378177.4256265,
   1793383831.3106256,
   1793388982.6542854,
-  1793398221.5312984
+  1793398221.5312984,
+  1793399789.813029,
+  1793399793.2440872
  ]
 }
