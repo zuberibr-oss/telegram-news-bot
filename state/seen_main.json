@@ -1,15 +1,5 @@
 {
  "seen": {
-  "31210b63d49c0b92": 1792145615.5087216,
-  "ddaa73450798ad08": 1792145615.5087216,
-  "d1ca3ef010183243": 1792145615.5087216,
-  "4a9c198164b5bb15": 1792145615.5087216,
-  "6ceba1e637a7c70b": 1792145615.5087216,
-  "13d005e196184a7e": 1792145615.5087216,
-  "65ffcbd9770fc097": 1792145615.5087216,
-  "cbd3c17e6a27e469": 1792145615.5087216,
-  "ac7d9d8127095359": 1792145615.5087216,
-  "4936653437c88aa5": 1792145615.5087216,
   "ec07bbeabc6bc8bd": 1792147307.857583,
   "d5be0d97e686deeb": 1792147307.857583,
   "92fe0b7b87eb787d": 1792147307.857583,
@@ -2638,10 +2628,18 @@
   "7e243c5c6cc9f13a": 1793354997.9868693,
   "bf024f23a51fb093": 1793354997.9868693,
   "16cd3ea92a8683c2": 1793354997.9868693,
-  "2c7f48a6c65f887c": 1793354997.9868693
+  "2c7f48a6c65f887c": 1793354997.9868693,
+  "3bbbfe2a22dd5560": 1793356569.4259322,
+  "e68c32942e1fcfed": 1793356569.4259322,
+  "0b1ce1e3b3b17f46": 1793356569.4259322,
+  "76d257ccc87e06c9": 1793356569.4259322,
+  "c0a05ea83b09511c": 1793356569.4259322,
+  "588b38b07a8e58e2": 1793356569.4259322,
+  "dd01570dd4ee6ca9": 1793356569.4259322,
+  "f32ca2c4c6d613c6": 1793356569.4259322,
+  "77dab61b6d948b18": 1793356569.4259322
  },
  "recent_headlines": [
-  "በሱዳን የRSF እና የSPLM-N ህብረት በብሉ ናይል አቅራቢያ መግፋቱን ገለጸ (Daily_Brief: RSF-SPLM-N alliance claims advance near Blue Nile capital as Sudan army says attack repelled)",
   "ኢትዮጵያ ወታደሮቿን ከሶማሊያ ለማስወጣት ማቀዷ ተገለጸ (News: #Ethiopia reportedly plans troop withdrawal from #Somalia as fighting intensifies at home)",
   "በሩሲያ መዲና ሞስኮ ላይ የተቃጣ ከ600 በላይ የድሮን ጥቃት መክሸፉ ተገለጸ (Russia says more than 600 drones launched towards Moscow overnight)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ እና ፕሬዚዳንት ፑቲን በኑክሌር ኃይልና ንግድ ትብብር ዙሪያ ተወያዩ (PM Abiy Ahmed and President Putin Discuss Nuclear Energy, Health and Trade Cooperation)",
@@ -2680,7 +2678,8 @@
   "ኬንያ ከመጀመሪያው ታካሚ ጋር የተያያዘ ሁለተኛ የኤቦላ ግኝት አረጋገጠች (#Daily_Brief: #Kenya reports second #Ebola case linked to first patient)",
   "ዩክሬን ባካሄደችው የድሮን ጥቃት በሩሲያ የነዳጅ ማጣሪያ መመታቱ ተገለጸ (Russian oil refinery struck as Ukraine renews drone attacks)",
   "በተፈጥሮ ጋዝ የሚሠሩ የመጀመሪያዎቹ የከተማ አውቶቡሶች ሥራ መጀመራቸው ተገለጸ (PM Abiy Ahmed Announces Launch of Ethiopia’s First Natural Gas-Powered City Buses, 50% Fare Cut)",
-  "ሳውዲ አረቢያ በመካ ክልል ላይ የተቃጣ የሁቲ ታጣቂዎች የድሮን ጥቃት ማክሸፏን አስታወቀች (Saudi Arabia reports interception of Houthi drone targeting Mecca)"
+  "ሳውዲ አረቢያ በመካ ክልል ላይ የተቃጣ የሁቲ ታጣቂዎች የድሮን ጥቃት ማክሸፏን አስታወቀች (Saudi Arabia reports interception of Houthi drone targeting Mecca)",
+  "ሩሲያ እና የአፍሪካ አገራት እስከ 2029 የሚዘልቅ የጋራ የትብብር ዕቅድ አጸደቁ (Russia and Africa Adopt Action Plan Through 2029 to Advance Trade, Investment and Strategic Cooperation)"
  ],
  "posted_at": [
   1793214655.487433,
@@ -2745,6 +2744,7 @@
   1793345805.8857636,
   1793352971.30845,
   1793352974.7536776,
-  1793355040.9064722
+  1793355040.9064722,
+  1793356629.2533238
  ]
 }
