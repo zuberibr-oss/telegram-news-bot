@@ -1,6 +1,5 @@
 {
  "seen": {
-  "533c9b735a6fcc86": 1792229887.7743845,
   "00e0280f0b0f72cc": 1792231863.2237363,
   "1233fc54a5a7c627": 1792231863.2237363,
   "b5019ab5656a376b": 1792231863.2237363,
@@ -2636,11 +2635,16 @@
   "045d69e936e00ff9": 1793437790.1647873,
   "1b34defb590bfc7f": 1793439336.945883,
   "50cd1cbcd78010b3": 1793439336.945883,
-  "4cb414f13b621830": 1793439336.945883
+  "4cb414f13b621830": 1793439336.945883,
+  "ed41fda8d7789124": 1793441253.1930847,
+  "d67814be6c89ea86": 1793441253.1930847,
+  "693946161e183d97": 1793441253.1930847,
+  "25321ee10790b103": 1793441253.1930847,
+  "8fac5dfa67c3ef8a": 1793441253.1930847,
+  "8fb52ff616b0a4af": 1793441253.1930847,
+  "29f5172d45aa6bfe": 1793441253.1930847
  },
  "recent_headlines": [
-  "ዩክሬን ባካሄደችው የድሮን ጥቃት በሩሲያ የነዳጅ ማጣሪያ መመታቱ ተገለጸ (Russian oil refinery struck as Ukraine renews drone attacks)",
-  "በተፈጥሮ ጋዝ የሚሠሩ የመጀመሪያዎቹ የከተማ አውቶቡሶች ሥራ መጀመራቸው ተገለጸ (PM Abiy Ahmed Announces Launch of Ethiopia’s First Natural Gas-Powered City Buses, 50% Fare Cut)",
   "ሳውዲ አረቢያ በመካ ክልል ላይ የተቃጣ የሁቲ ታጣቂዎች የድሮን ጥቃት ማክሸፏን አስታወቀች (Saudi Arabia reports interception of Houthi drone targeting Mecca)",
   "ሩሲያ እና የአፍሪካ አገራት እስከ 2029 የሚዘልቅ የጋራ የትብብር ዕቅድ አጸደቁ (Russia and Africa Adopt Action Plan Through 2029 to Advance Trade, Investment and Strategic Cooperation)",
   "በኢትዮጵያ በተፈጸመ ጥቃት ከ60 በላይ ሰዎች መገደላቸውን የኦርቶዶክስ ቤተክርስቲያን አስታወቀች (At least 60 Christians killed in Ethiopia amid rising religious violence)",
@@ -2678,7 +2682,9 @@
   "ኢቲዮ ቴሌኮም በበጀት ዓመቱ 295 ቢሊዮን ብር ገቢ ለማግኘት ማቀዱን ገለጸ (Ethio Telecom Anticipates ETB127Bln Operating Profit, ETB43Bln in Dividends)",
   "የኢትዮጵያ የተቀማጭ ገንዘብ ዋስትና ፈንድ በሩብ ዓመቱ 2.6 ቢሊዮን ብር ሰበሰበ (Ethiopian Deposit Insurance Fund Records ETB2.6Bln in Q1 Premiums)",
   "የግብር ስወራን እና ያልተገለጸ ገቢን የሚቆጣጠር አዲስ መመሪያ ተዘረጋ (New Tax Rule Cracks Down on Undeclared Income, False Accounting)",
-  "ኢትዮጵያ 12 ሱ-35 የጦር ጄቶችን ከሩሲያ መረከቧን ጠቅላይ ሚኒስትር ዐቢይ አስታወቁ (Moscow Summit demands Compensation for Colonial-Era Damages on African Countries)"
+  "ኢትዮጵያ 12 ሱ-35 የጦር ጄቶችን ከሩሲያ መረከቧን ጠቅላይ ሚኒስትር ዐቢይ አስታወቁ (Moscow Summit demands Compensation for Colonial-Era Damages on African Countries)",
+  "የተባበሩት መንግሥታት ድርጅት በምዕራባዊ ሰሃራ ጉዳይ የቀረቡ የውሳኔ ሃሳቦችን ውድቅ አደረገ (Rival US and Russian resolutions on Western Sahara fail at UN)",
+  "ሴኔጋል የአፍሪካ የመጀመሪያውን የወጣቶች ኦሊምፒክ ውድድር ማስተናገድ ጀመረች (Senegal hosts Africa’s first ever Youth Olympic Games)"
  ],
  "posted_at": [
   1793268610.1870577,
@@ -2750,6 +2756,8 @@
   1793437900.065131,
   1793437903.525982,
   1793437906.9817061,
-  1793439377.2156794
+  1793439377.2156794,
+  1793441322.3602755,
+  1793441325.7901027
  ]
 }
