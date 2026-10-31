@@ -1,12 +1,5 @@
 {
  "seen": {
-  "408416fc06632f69": 1792240957.0070717,
-  "635d19442317ce00": 1792240957.0070717,
-  "d5d21c9ec725d0e4": 1792240957.0070717,
-  "ab6d1b744efb8c59": 1792240957.0070717,
-  "ee71dc93e96b6715": 1792240957.0070717,
-  "a52d5be28ef3a98d": 1792240957.0070717,
-  "dc08810ff4537097": 1792240957.0070717,
   "79d5d6000a2b66eb": 1792242610.732524,
   "b9e22f2aac712ffd": 1792242610.732524,
   "0594e259c1b74126": 1792244140.6151316,
@@ -2641,13 +2634,19 @@
   "76d3375ac6555eb0": 1793448648.7894351,
   "f0a02d47f15bfc79": 1793448648.7894351,
   "500c5da5b980eb13": 1793450090.7232955,
-  "20d791258375559c": 1793450090.7232955
+  "20d791258375559c": 1793450090.7232955,
+  "02898ca324b54d33": 1793452038.8296387,
+  "8a57b429214d2249": 1793452038.8296387,
+  "1cd8f413f5d716f9": 1793452038.8296387,
+  "b8d2375e6b01352c": 1793452038.8296387,
+  "a9bcde4b33829060": 1793452038.8296387,
+  "145d4460981128b8": 1793452038.8296387,
+  "83399f4a0458aa7f": 1793452038.8296387,
+  "08765cd932fe3d90": 1793452038.8296387,
+  "3a4e1c1d3525dc4c": 1793452038.8296387,
+  "737d73bd4e7e4a9d": 1793452038.8296387
  },
  "recent_headlines": [
-  "በኢትዮጵያ በተፈጸመ ጥቃት ከ60 በላይ ሰዎች መገደላቸውን የኦርቶዶክስ ቤተክርስቲያን አስታወቀች (At least 60 Christians killed in Ethiopia amid rising religious violence)",
-  "በአማራ ክልል በተፈጸመ የድሮን ጥቃት 18 ተፈናቃዮች መገደላቸው ተገለጸ (በአማራ ክልል የተፈናቃይ መጠለያ ላይ በተፈጸመ የድሮን ጥቃት 18 ሰዎች ሲገደሉ ከ30 በላይ ሰዎች ቆሰሉ)",
-  "ኢትዮጵያ ተጨማሪ 400 በተፈጥሮ ጋዝ የሚሠሩ አውቶቡሶችን ማዘዟን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Orders 400 Natural Gas Buses, Nearly 100 Gas-Powered Trucks to Expand Transport Transition – PM Abiy)",
-  "የደብረ ብርሃን እና ሞጆ ሴራሚክ ፋብሪካዎች ወደ ተፈጥሮ ጋዝ ኃይል ተሸጋገሩ (PM Abiy Says Debre Berhan, Modjo Ceramic Factories Shift to Natural Gas with Capacity Exceeding National Demand)",
   "የካታር ልዑክ ከአሜሪካ ጋር የተቋረጠውን የተኩስ አቁም ለማደስ ቴህራን ገባ (Qatari officials in Iran in bid to revive ceasefire deal with US)",
   "የሱዳን ፈጣን ደጋፊ ኃይሎች (RSF) ከፍተኛ አዛዥ ከቡድኑ መክዳታቸውን አስታወቁ (Sudan RSF commander defects from Hemedti’s forces)",
   "ኢትዮጵያ የወደብ ባለቤት መሆኗ አይቀሬ ነው ሲሉ የባሕር ኃይል አዛዡ ገለጹ (“Itoophiyaan deebitee buufata galaanaa qabaachuun ishii hin oolu”: Ajajaan Humna Galaanaa tumsa galaanaa naannawaa cimsuuf waamicha dhiyeessan)",
@@ -2683,11 +2682,13 @@
   "የተባበሩት መንግሥታት ድርጅት በምዕራባዊ ሰሃራ ጉዳይ የቀረቡ የውሳኔ ሃሳቦችን ውድቅ አደረገ (Rival US and Russian resolutions on Western Sahara fail at UN)",
   "ሴኔጋል የአፍሪካ የመጀመሪያውን የወጣቶች ኦሊምፒክ ውድድር ማስተናገድ ጀመረች (Senegal hosts Africa’s first ever Youth Olympic Games)",
   "የኢትዮጵያ ኤሌክትሪክ አገልግሎት የጂቡቲ የንግድ መስመርን በኤሌክትሪክ ለማንቀሳቀስ አቀደ (Ethiopia to electrify strategic Djibouti Trade Corridor with Multi-Million-Dollar EV Infrastructure Plan)",
-  "የተባበሩት መንግሥታት ድርጅት በሶማሊያ የነበረውን የፖለቲካ ተልዕኮ አጠናቀቀ (UN closes Somalia mission, ending three decades of political engagement)"
+  "የተባበሩት መንግሥታት ድርጅት በሶማሊያ የነበረውን የፖለቲካ ተልዕኮ አጠናቀቀ (UN closes Somalia mission, ending three decades of political engagement)",
+  "በሱዳን ደቡብ ኮርዶፋን በተፈጸመ የአየር ጥቃት የዓለም የምግብ ፕሮግራም አሽከርካሪ ተገደለ (Daily_Brief: WFP driver killed in air strike on aid trucks in #Sudan’s South Kordofan)",
+  "የኢራን የፓርላማ አባላት አገራቸው ከዓለም አቀፉ የኑክሌር ስምምነት እንድትወጣ ጥሪ አቀረቡ (Iran lawmakers call for withdrawal from NPT: Will we have war or peace?)",
+  "በየመን ዳግም በተቀሰቀሰ ውጊያ ምክንያት ከ290 ሺህ በላይ ሰዎች መፈናቀላቸው ተገለጸ (New Yemen fighting displaces 290,000, says UN, with pregnant women at risk)",
+  "አዲስ አበባ የ2026 የሻንጋይ ዘላቂ የከተሞች ልማት ዓለም አቀፍ ሽልማትን አሸነፈች (Addis Ababa Wins 2026 Shanghai Award for Sustainable Urban Development)"
  ],
  "posted_at": [
-  1793277724.6604147,
-  1793277728.1215699,
   1793279498.0297923,
   1793279501.6268976,
   1793281011.638555,
@@ -2753,6 +2754,10 @@
   1793441322.3602755,
   1793441325.7901027,
   1793442941.2587898,
-  1793448705.4338558
+  1793448705.4338558,
+  1793452126.7967982,
+  1793452130.2720072,
+  1793452133.6748805,
+  1793452138.169997
  ]
 }
