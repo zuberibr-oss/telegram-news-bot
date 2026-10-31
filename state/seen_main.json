@@ -1,7 +1,5 @@
 {
  "seen": {
-  "d2786063c2e35a50": 1792222710.4114172,
-  "c81aff846551be68": 1792222710.4114172,
   "726c7cee6e15b4c9": 1792224873.04673,
   "11169dff82646540": 1792224873.04673,
   "9ff1d3a2f1f8dc43": 1792224873.04673,
@@ -2636,10 +2634,16 @@
   "e2f917a0812780f9": 1793432088.1888154,
   "a5b4fb1a79a6fdd5": 1793432088.1888154,
   "c3f664c603bea2dc": 1793432088.1888154,
-  "261599d0dafa03a0": 1793432088.1888154
+  "261599d0dafa03a0": 1793432088.1888154,
+  "b174a47c2f29ce74": 1793434187.3165615,
+  "85b1be2737d690cd": 1793434187.3165615,
+  "1701180ccc3530ea": 1793434187.3165615,
+  "cffa8d51ff0e07f1": 1793434187.3165615,
+  "f9c0292e4ba4651f": 1793434187.3165615,
+  "1dd6ad0b782b0c00": 1793434187.3165615,
+  "595a66fb71843bc1": 1793434187.3165615
  },
  "recent_headlines": [
-  "የአውሮፓ ማዕከላዊ ባንክ ፕሬዚዳንት ክርስቲን ላጋርድ ከሥልጣናቸው ሊለቁ ነው (European Central Bank President Lagarde to step down early)",
   "በኤምሬትስ ለሱዳን ሠራዊት መሣሪያ በማሻገር ስምንት ሰዎች የዕድሜ ልክ እስራት ተፈረደባቸው (UAE sentences eight people to life over arms supplies to Sudan’s army)",
   "በእስፓንያ 69 ሰዎችን ለገደለው የባቡር አደጋ መንስኤ የሚጠቁም የድምፅ ቅጂ ይፋ ሆነ (Audio reveals exchanges between Spain train operators and drivers moments before deadly crash)",
   "በሆርሙዝ ሰርጥ አራት የነዳጅ ጫኝ መርከቦች በፈንጂ መመታታቸውን ኢራን ገለጸች (Iran war live: IRGC says four tankers struck mines in Strait of Hormuz)",
@@ -2678,7 +2682,8 @@
   "ሩሲያ የኬንያ ዜጎችን ወደ ጦር ኃይሏ መመልመሏን ለማቆም መስማማቷን ኬንያ አስታወቀች (Daily_Brief: #Kenya says #Putin agrees to halt recruitment of its nationals into #Russian military)",
   "ጠቅላይ ሚኒስትር ዐቢይ እና ከፍተኛ የሥራ ኃላፊዎች በሁርሶ ወታደራዊ ሥልጠና ወሰዱ (PM Abiy Ahmed Underscores Military Training’s Role in Building Capable, Disciplined National Leadership)",
   "የኢትዮጵያ ፖሊስ ዩኒቨርሲቲ የዓለም አቀፉ ፖሊስ (INTERPOL) ግሎባል አካዳሚ መረብን ተቀላቀለ (Ethiopian Police University Joins INTERPOL Global Academy Network)",
-  "ኢትዮጵያውያኑ ጂራታ ዲንኪ እና ዘይነባ ይመር የፍራንክፈርት ማራቶን አሸናፊ ሆኑ (Ethiopians Dinki, Yimer win Frankfurt Marathon; Germany’s Dörfel runs 2:20:46 in debut)"
+  "ኢትዮጵያውያኑ ጂራታ ዲንኪ እና ዘይነባ ይመር የፍራንክፈርት ማራቶን አሸናፊ ሆኑ (Ethiopians Dinki, Yimer win Frankfurt Marathon; Germany’s Dörfel runs 2:20:46 in debut)",
+  "አዲስ አበባ 7ኛውን የዓለም ጤና ድርጅት የድንገተኛ ሕክምና ቡድኖች ስብሰባ ልታስተናግድ ነው (Addis Ababa to Host 7th WHO Emergency Medical Teams Global Meeting, First in Africa)"
  ],
  "posted_at": [
   1793265071.7125385,
@@ -2741,6 +2746,7 @@
   1793428579.9000654,
   1793430530.6515894,
   1793432166.9604912,
-  1793432170.4989762
+  1793432170.4989762,
+  1793434248.2801192
  ]
 }
