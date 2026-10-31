@@ -1,12 +1,5 @@
 {
  "seen": {
-  "65ee07b6e5907efb": 1792246210.8554523,
-  "ad25270b69cf0895": 1792246210.8554523,
-  "b919238aafb878ea": 1792246210.8554523,
-  "45012b2932267f52": 1792246210.8554523,
-  "3056fde09183ba20": 1792246210.8554523,
-  "b2fd55aa0a3ffe8c": 1792246210.8554523,
-  "69321236de0c9e41": 1792247742.969639,
   "131111db2fe6a022": 1792249771.3420823,
   "e2ce0047ede3ceeb": 1792249771.3420823,
   "ccd0841d742048e2": 1792249771.3420823,
@@ -2646,10 +2639,12 @@
   "dd2fb319a3ad7f3a": 1793453716.9169693,
   "3b4c578ea1b2cb50": 1793453716.9169693,
   "a0a96d0b7807fba6": 1793455633.3416421,
-  "e17621abaaf00784": 1793455633.3416421
+  "e17621abaaf00784": 1793455633.3416421,
+  "98d5c11943d26681": 1793457323.7912865,
+  "abb805c6e143249e": 1793457323.7912865,
+  "9520d32b94a0ed8c": 1793457323.7912865
  },
  "recent_headlines": [
-  "የካታር ልዑክ ከአሜሪካ ጋር የተቋረጠውን የተኩስ አቁም ለማደስ ቴህራን ገባ (Qatari officials in Iran in bid to revive ceasefire deal with US)",
   "የሱዳን ፈጣን ደጋፊ ኃይሎች (RSF) ከፍተኛ አዛዥ ከቡድኑ መክዳታቸውን አስታወቁ (Sudan RSF commander defects from Hemedti’s forces)",
   "ኢትዮጵያ የወደብ ባለቤት መሆኗ አይቀሬ ነው ሲሉ የባሕር ኃይል አዛዡ ገለጹ (“Itoophiyaan deebitee buufata galaanaa qabaachuun ishii hin oolu”: Ajajaan Humna Galaanaa tumsa galaanaa naannawaa cimsuuf waamicha dhiyeessan)",
   "የተባበሩት መንግሥታት ድርጅት በጋዛ የዘር ማጽዳት ሥጋት ማንሰራራቱን አስጠነቀቀ (Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN)",
@@ -2688,10 +2683,10 @@
   "በሱዳን ደቡብ ኮርዶፋን በተፈጸመ የአየር ጥቃት የዓለም የምግብ ፕሮግራም አሽከርካሪ ተገደለ (Daily_Brief: WFP driver killed in air strike on aid trucks in #Sudan’s South Kordofan)",
   "የኢራን የፓርላማ አባላት አገራቸው ከዓለም አቀፉ የኑክሌር ስምምነት እንድትወጣ ጥሪ አቀረቡ (Iran lawmakers call for withdrawal from NPT: Will we have war or peace?)",
   "በየመን ዳግም በተቀሰቀሰ ውጊያ ምክንያት ከ290 ሺህ በላይ ሰዎች መፈናቀላቸው ተገለጸ (New Yemen fighting displaces 290,000, says UN, with pregnant women at risk)",
-  "አዲስ አበባ የ2026 የሻንጋይ ዘላቂ የከተሞች ልማት ዓለም አቀፍ ሽልማትን አሸነፈች (Addis Ababa Wins 2026 Shanghai Award for Sustainable Urban Development)"
+  "አዲስ አበባ የ2026 የሻንጋይ ዘላቂ የከተሞች ልማት ዓለም አቀፍ ሽልማትን አሸነፈች (Addis Ababa Wins 2026 Shanghai Award for Sustainable Urban Development)",
+  "ሶሪያ የሳውዲ አረቢያ፣ Turkiye እና ፓኪስታን የጋራ መከላከያ ስምምነትን ለመቀላቀል እያሰበች ነው (Syria considering entry into Mecca defence pact, says foreign minister)"
  ],
  "posted_at": [
-  1793283160.388447,
   1793286722.500325,
   1793286725.991993,
   1793286729.435765,
@@ -2756,6 +2751,7 @@
   1793452126.7967982,
   1793452130.2720072,
   1793452133.6748805,
-  1793452138.169997
+  1793452138.169997,
+  1793457361.2694926
  ]
 }
