@@ -1,12 +1,5 @@
 {
  "seen": {
-  "9c25c594fa2ca070": 1792219757.34214,
-  "1964d419f1be1c6f": 1792219757.34214,
-  "78c8835272dc44e1": 1792219757.34214,
-  "5cb80c3386c0f61f": 1792219757.34214,
-  "0222ac20b6c18f10": 1792219757.34214,
-  "97263e9276405af9": 1792219757.34214,
-  "a20a03a8010bdac4": 1792219757.34214,
   "be54129947192cf6": 1792221069.593639,
   "8904ddea2d9df420": 1792221069.593639,
   "a2ee999ad4383bae": 1792221069.593639,
@@ -2634,10 +2627,11 @@
   "0cf3873d91a9a84a": 1793428539.2710848,
   "0a83244dea5fd58a": 1793428539.2710848,
   "cee90aa24377ef93": 1793428539.2710848,
-  "c1f96003eb361606": 1793428539.2710848
+  "c1f96003eb361606": 1793428539.2710848,
+  "cd031fd8f150669a": 1793430494.776081,
+  "a5fb31693b8a4e20": 1793430494.776081
  },
  "recent_headlines": [
-  "በብራዚል ምርጫ የተሸነፉት ፍላቪዮ ቦልሶናሮ ከአገር ለቀው ወደ አሜሪካ ተሰደዱ (Flávio Bolsonaro calls himself 'leader of Brazil' after election loss)",
   "ህብረት ኢንሹራንስ የዓመታዊ አረቦን ገቢውን ወደ 3.42 ቢሊዮን ብር ማሳደጉን አስታወቀ (​Hibret insurance premiums surge 24% to 3.42 Billion birr)",
   "አዲስ አበባ ባለፉት አምስት ዓመታት ወደ ግማሽ ሚሊዮን የሚጠጉ ቤቶችን አስተላለፈች (Addis Ababa Delivers Nearly Half a Million Homes in Five Years, Expands Inclusive Housing Development)",
   "የአውሮፓ ማዕከላዊ ባንክ ፕሬዚዳንት ክርስቲን ላጋርድ ከሥልጣናቸው ሊለቁ ነው (European Central Bank President Lagarde to step down early)",
@@ -2676,7 +2670,8 @@
   "የዲሞክራቲክ ሪፐብሊክ ኮንጎ የቀድሞ ፕሬዚዳንት Joseph Kabila አዲስ የአማፂያን ጥረት መሪ ሆኑ (Suited and booted: How Joseph Kabila went from president to rebel leader)",
   "በትግራይ ራማ ከተማ በተፈጸመ የድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተገለጸ (በትግራይ ክልል ራማ ከተማ በድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተነገረ)",
   "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግጃለሁ መባሉን አስተባበለች (Saawudi_Arabiyaan hojjettoota mana keessaa #Itoophiyaa irraa qacaruu dhaabuu ishee waakkatte)",
-  "ሩሲያ የኬንያ ዜጎችን ወደ ጦር ኃይሏ መመልመሏን ለማቆም መስማማቷን ኬንያ አስታወቀች (Daily_Brief: #Kenya says #Putin agrees to halt recruitment of its nationals into #Russian military)"
+  "ሩሲያ የኬንያ ዜጎችን ወደ ጦር ኃይሏ መመልመሏን ለማቆም መስማማቷን ኬንያ አስታወቀች (Daily_Brief: #Kenya says #Putin agrees to halt recruitment of its nationals into #Russian military)",
+  "ጠቅላይ ሚኒስትር ዐቢይ እና ከፍተኛ የሥራ ኃላፊዎች በሁርሶ ወታደራዊ ሥልጠና ወሰዱ (PM Abiy Ahmed Underscores Military Training’s Role in Building Capable, Disciplined National Leadership)"
  ],
  "posted_at": [
   1793257897.3886428,
@@ -2738,6 +2733,7 @@
   1793421345.5473776,
   1793423308.736677,
   1793424925.5872116,
-  1793428579.9000654
+  1793428579.9000654,
+  1793430530.6515894
  ]
 }
