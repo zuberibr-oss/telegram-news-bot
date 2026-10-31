@@ -1,7 +1,5 @@
 {
  "seen": {
-  "652ca81e53e9340a": 1792264104.9970396,
-  "d7382afc42c35361": 1792264104.9970396,
   "2e65db090f7ff317": 1792265786.685975,
   "4445259358b0944a": 1792265786.685975,
   "ad9e78179b8deb92": 1792265786.685975,
@@ -2631,10 +2629,14 @@
   "53078cc75c2bd216": 1793471710.4539142,
   "793dff4885043137": 1793471710.4539142,
   "6deee4c9709df8e0": 1793473591.9697495,
-  "f2f1f12e17720049": 1793473591.9697495
+  "f2f1f12e17720049": 1793473591.9697495,
+  "f39a153f06aa3f62": 1793475326.2689366,
+  "fa82da348d4a8348": 1793475326.2689366,
+  "569112d0e315dc63": 1793475326.2689366,
+  "fc2ab3263819321f": 1793475326.2689366,
+  "7e1281aeb2a18a5e": 1793475326.2689366
  },
  "recent_headlines": [
-  "የተባበሩት መንግሥታት ድርጅት በጋዛ የዘር ማጽዳት ሥጋት ማንሰራራቱን አስጠነቀቀ (Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN)",
   "የሩሲያ እና ዩክሬን የእርዳታ ቡድን ወደ ተከበበችው ኦሌሽኪ ከተማ ገባ (Russian, Ukrainian humanitarian officials enter Oleshky)",
   "ኢትዮጵያ በተፈጥሮ ሀብት እንክብካቤ የምታደርገው ጥረት ለናይል ተፋሰስ አገራት ጠቃሚ መሆኑ ተገለጸ (Ethiopia’s Natural Resource Conservation Efforts Advance Shared Prosperity Across Nile Basin)",
   "ኢትዮጵያ የተፈጥሮ ጋዝ አጠቃቀምን ወደ ታክሲዎች ማሰፋፋቷን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Expands Natural Gas Conversion Initiative to Taxis to Cut Transport Costs – PM Abiy)",
@@ -2673,7 +2675,8 @@
   "አዲስ አበባ የ2026 የሻንጋይ ዘላቂ የከተሞች ልማት ዓለም አቀፍ ሽልማትን አሸነፈች (Addis Ababa Wins 2026 Shanghai Award for Sustainable Urban Development)",
   "ሶሪያ የሳውዲ አረቢያ፣ Turkiye እና ፓኪስታን የጋራ መከላከያ ስምምነትን ለመቀላቀል እያሰበች ነው (Syria considering entry into Mecca defence pact, says foreign minister)",
   "ኢራን ከአሜሪካ የቀረበላትን የውይይት ጥሪ እንደ አዎንታዊ እርምጃ እንደምትመለከተው ገለጸች (Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks)",
-  "ኢትዮጵያ ድንበር ተሻጋሪ ወንጀሎችን ለመግታት የኢንተርፖልን የበረራ መረጃ ቴክኖሎጂ ልትተገብር ነው (Ethiopia to Introduce INTERPOL Traveller Connectivity Technology to Combat Cross-Border Crime)"
+  "ኢትዮጵያ ድንበር ተሻጋሪ ወንጀሎችን ለመግታት የኢንተርፖልን የበረራ መረጃ ቴክኖሎጂ ልትተገብር ነው (Ethiopia to Introduce INTERPOL Traveller Connectivity Technology to Combat Cross-Border Crime)",
+  "በቢናንስ የክሪፕቶረንሲ ልውውጥ መድረክ ላይ የ6.3 ቢሊዮን ዶላር የሳይበር ጥቃት ተፈጸመ (How vulnerable are cryptocurrency platforms?)"
  ],
  "posted_at": [
   1793321746.404859,
@@ -2733,6 +2736,7 @@
   1793452138.169997,
   1793457361.2694926,
   1793459304.9318693,
-  1793459308.4623542
+  1793459308.4623542,
+  1793475373.9111416
  ]
 }
