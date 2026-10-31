@@ -1,9 +1,5 @@
 {
  "seen": {
-  "be54129947192cf6": 1792221069.593639,
-  "8904ddea2d9df420": 1792221069.593639,
-  "a2ee999ad4383bae": 1792221069.593639,
-  "0eb511e183efcfaa": 1792221069.593639,
   "d2786063c2e35a50": 1792222710.4114172,
   "c81aff846551be68": 1792222710.4114172,
   "726c7cee6e15b4c9": 1792224873.04673,
@@ -2629,11 +2625,20 @@
   "cee90aa24377ef93": 1793428539.2710848,
   "c1f96003eb361606": 1793428539.2710848,
   "cd031fd8f150669a": 1793430494.776081,
-  "a5fb31693b8a4e20": 1793430494.776081
+  "a5fb31693b8a4e20": 1793430494.776081,
+  "a484a601e37f52e0": 1793432088.1888154,
+  "99e84462cc07659b": 1793432088.1888154,
+  "f52d13d0b90d9790": 1793432088.1888154,
+  "93df2de6df5c6c53": 1793432088.1888154,
+  "371657f44651a152": 1793432088.1888154,
+  "91309be81e971250": 1793432088.1888154,
+  "aa771d95896a536d": 1793432088.1888154,
+  "e2f917a0812780f9": 1793432088.1888154,
+  "a5b4fb1a79a6fdd5": 1793432088.1888154,
+  "c3f664c603bea2dc": 1793432088.1888154,
+  "261599d0dafa03a0": 1793432088.1888154
  },
  "recent_headlines": [
-  "ህብረት ኢንሹራንስ የዓመታዊ አረቦን ገቢውን ወደ 3.42 ቢሊዮን ብር ማሳደጉን አስታወቀ (​Hibret insurance premiums surge 24% to 3.42 Billion birr)",
-  "አዲስ አበባ ባለፉት አምስት ዓመታት ወደ ግማሽ ሚሊዮን የሚጠጉ ቤቶችን አስተላለፈች (Addis Ababa Delivers Nearly Half a Million Homes in Five Years, Expands Inclusive Housing Development)",
   "የአውሮፓ ማዕከላዊ ባንክ ፕሬዚዳንት ክርስቲን ላጋርድ ከሥልጣናቸው ሊለቁ ነው (European Central Bank President Lagarde to step down early)",
   "በኤምሬትስ ለሱዳን ሠራዊት መሣሪያ በማሻገር ስምንት ሰዎች የዕድሜ ልክ እስራት ተፈረደባቸው (UAE sentences eight people to life over arms supplies to Sudan’s army)",
   "በእስፓንያ 69 ሰዎችን ለገደለው የባቡር አደጋ መንስኤ የሚጠቁም የድምፅ ቅጂ ይፋ ሆነ (Audio reveals exchanges between Spain train operators and drivers moments before deadly crash)",
@@ -2671,11 +2676,11 @@
   "በትግራይ ራማ ከተማ በተፈጸመ የድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተገለጸ (በትግራይ ክልል ራማ ከተማ በድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተነገረ)",
   "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግጃለሁ መባሉን አስተባበለች (Saawudi_Arabiyaan hojjettoota mana keessaa #Itoophiyaa irraa qacaruu dhaabuu ishee waakkatte)",
   "ሩሲያ የኬንያ ዜጎችን ወደ ጦር ኃይሏ መመልመሏን ለማቆም መስማማቷን ኬንያ አስታወቀች (Daily_Brief: #Kenya says #Putin agrees to halt recruitment of its nationals into #Russian military)",
-  "ጠቅላይ ሚኒስትር ዐቢይ እና ከፍተኛ የሥራ ኃላፊዎች በሁርሶ ወታደራዊ ሥልጠና ወሰዱ (PM Abiy Ahmed Underscores Military Training’s Role in Building Capable, Disciplined National Leadership)"
+  "ጠቅላይ ሚኒስትር ዐቢይ እና ከፍተኛ የሥራ ኃላፊዎች በሁርሶ ወታደራዊ ሥልጠና ወሰዱ (PM Abiy Ahmed Underscores Military Training’s Role in Building Capable, Disciplined National Leadership)",
+  "የኢትዮጵያ ፖሊስ ዩኒቨርሲቲ የዓለም አቀፉ ፖሊስ (INTERPOL) ግሎባል አካዳሚ መረብን ተቀላቀለ (Ethiopian Police University Joins INTERPOL Global Academy Network)",
+  "ኢትዮጵያውያኑ ጂራታ ዲንኪ እና ዘይነባ ይመር የፍራንክፈርት ማራቶን አሸናፊ ሆኑ (Ethiopians Dinki, Yimer win Frankfurt Marathon; Germany’s Dörfel runs 2:20:46 in debut)"
  ],
  "posted_at": [
-  1793257897.3886428,
-  1793259359.9518785,
   1793265071.7125385,
   1793268610.1870577,
   1793272189.209548,
@@ -2734,6 +2739,8 @@
   1793423308.736677,
   1793424925.5872116,
   1793428579.9000654,
-  1793430530.6515894
+  1793430530.6515894,
+  1793432166.9604912,
+  1793432170.4989762
  ]
 }
