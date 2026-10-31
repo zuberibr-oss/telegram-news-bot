@@ -1,11 +1,5 @@
 {
  "seen": {
-  "c3e1bc177e4a3867": 1792267857.9251294,
-  "11e00b206f88ef6f": 1792267857.9251294,
-  "e71aeca09dc64858": 1792267857.9251294,
-  "93c59b6ad8bc644b": 1792267857.9251294,
-  "d11f6a9c6c9dd4ba": 1792267857.9251294,
-  "15b4f5713b982245": 1792267857.9251294,
   "8348fc829e13aaf1": 1792269451.843091,
   "1d08fa6b422c7ca4": 1792269451.843091,
   "f894db2512cd57e1": 1792271361.7655625,
@@ -2633,10 +2627,12 @@
   "7e1281aeb2a18a5e": 1793475326.2689366,
   "fd8400aa209f9126": 1793477291.4060616,
   "99084150c23ba614": 1793477291.4060616,
-  "e081afbb0da7b175": 1793477291.4060616
+  "e081afbb0da7b175": 1793477291.4060616,
+  "1211252b79b8e1d8": 1793478900.1223476,
+  "e07d0577dc8ba61b": 1793478900.1223476,
+  "c3ed9363f395cfb4": 1793478900.1223476
  },
  "recent_headlines": [
-  "የሩሲያ እና ዩክሬን የእርዳታ ቡድን ወደ ተከበበችው ኦሌሽኪ ከተማ ገባ (Russian, Ukrainian humanitarian officials enter Oleshky)",
   "ኢትዮጵያ በተፈጥሮ ሀብት እንክብካቤ የምታደርገው ጥረት ለናይል ተፋሰስ አገራት ጠቃሚ መሆኑ ተገለጸ (Ethiopia’s Natural Resource Conservation Efforts Advance Shared Prosperity Across Nile Basin)",
   "ኢትዮጵያ የተፈጥሮ ጋዝ አጠቃቀምን ወደ ታክሲዎች ማሰፋፋቷን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia Expands Natural Gas Conversion Initiative to Taxis to Cut Transport Costs – PM Abiy)",
   "የኢትዮጵያ መንግሥት በድርቅ ለተጎዱ የአፋር አካባቢዎች የአስቸኳይ ጊዜ እርዳታ ላከ (#Daily_Brief: Government dispatches emergency aid to drought-hit #Afar communities)",
@@ -2675,7 +2671,8 @@
   "ሶሪያ የሳውዲ አረቢያ፣ Turkiye እና ፓኪስታን የጋራ መከላከያ ስምምነትን ለመቀላቀል እያሰበች ነው (Syria considering entry into Mecca defence pact, says foreign minister)",
   "ኢራን ከአሜሪካ የቀረበላትን የውይይት ጥሪ እንደ አዎንታዊ እርምጃ እንደምትመለከተው ገለጸች (Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks)",
   "ኢትዮጵያ ድንበር ተሻጋሪ ወንጀሎችን ለመግታት የኢንተርፖልን የበረራ መረጃ ቴክኖሎጂ ልትተገብር ነው (Ethiopia to Introduce INTERPOL Traveller Connectivity Technology to Combat Cross-Border Crime)",
-  "በቢናንስ የክሪፕቶረንሲ ልውውጥ መድረክ ላይ የ6.3 ቢሊዮን ዶላር የሳይበር ጥቃት ተፈጸመ (How vulnerable are cryptocurrency platforms?)"
+  "በቢናንስ የክሪፕቶረንሲ ልውውጥ መድረክ ላይ የ6.3 ቢሊዮን ዶላር የሳይበር ጥቃት ተፈጸመ (How vulnerable are cryptocurrency platforms?)",
+  "የቱርክ እና የዩክሬን መሪዎች በጥቁር ባህር አዲስ የእህል ኮሪደር ለመዘርጋት ተስማሙ (Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks)"
  ],
  "posted_at": [
   1793321746.404859,
@@ -2736,6 +2733,7 @@
   1793457361.2694926,
   1793459304.9318693,
   1793459308.4623542,
-  1793475373.9111416
+  1793475373.9111416,
+  1793478937.2530112
  ]
 }
