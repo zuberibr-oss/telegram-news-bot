@@ -1,12 +1,5 @@
 {
  "seen": {
-  "00e0280f0b0f72cc": 1792231863.2237363,
-  "1233fc54a5a7c627": 1792231863.2237363,
-  "b5019ab5656a376b": 1792231863.2237363,
-  "9cf549f4a1645b78": 1792231863.2237363,
-  "24836eab5d766a34": 1792231863.2237363,
-  "6b426a8ed18646f8": 1792231863.2237363,
-  "87985e2ea013e4ba": 1792231863.2237363,
   "314597d9427d2b34": 1792233387.950848,
   "adf0625910fae85a": 1792233387.950848,
   "592d753b8cf8176e": 1792233387.950848,
@@ -2642,10 +2635,14 @@
   "25321ee10790b103": 1793441253.1930847,
   "8fac5dfa67c3ef8a": 1793441253.1930847,
   "8fb52ff616b0a4af": 1793441253.1930847,
-  "29f5172d45aa6bfe": 1793441253.1930847
+  "29f5172d45aa6bfe": 1793441253.1930847,
+  "ed4e676f3659e5f2": 1793442908.4005542,
+  "2e4a8fe87b380a36": 1793442908.4005542,
+  "b4f3d9698f56929d": 1793442908.4005542,
+  "897899df1cc1b3db": 1793442908.4005542,
+  "30fb54e554279cf9": 1793442908.4005542
  },
  "recent_headlines": [
-  "ሳውዲ አረቢያ በመካ ክልል ላይ የተቃጣ የሁቲ ታጣቂዎች የድሮን ጥቃት ማክሸፏን አስታወቀች (Saudi Arabia reports interception of Houthi drone targeting Mecca)",
   "ሩሲያ እና የአፍሪካ አገራት እስከ 2029 የሚዘልቅ የጋራ የትብብር ዕቅድ አጸደቁ (Russia and Africa Adopt Action Plan Through 2029 to Advance Trade, Investment and Strategic Cooperation)",
   "በኢትዮጵያ በተፈጸመ ጥቃት ከ60 በላይ ሰዎች መገደላቸውን የኦርቶዶክስ ቤተክርስቲያን አስታወቀች (At least 60 Christians killed in Ethiopia amid rising religious violence)",
   "በአማራ ክልል በተፈጸመ የድሮን ጥቃት 18 ተፈናቃዮች መገደላቸው ተገለጸ (በአማራ ክልል የተፈናቃይ መጠለያ ላይ በተፈጸመ የድሮን ጥቃት 18 ሰዎች ሲገደሉ ከ30 በላይ ሰዎች ቆሰሉ)",
@@ -2684,10 +2681,10 @@
   "የግብር ስወራን እና ያልተገለጸ ገቢን የሚቆጣጠር አዲስ መመሪያ ተዘረጋ (New Tax Rule Cracks Down on Undeclared Income, False Accounting)",
   "ኢትዮጵያ 12 ሱ-35 የጦር ጄቶችን ከሩሲያ መረከቧን ጠቅላይ ሚኒስትር ዐቢይ አስታወቁ (Moscow Summit demands Compensation for Colonial-Era Damages on African Countries)",
   "የተባበሩት መንግሥታት ድርጅት በምዕራባዊ ሰሃራ ጉዳይ የቀረቡ የውሳኔ ሃሳቦችን ውድቅ አደረገ (Rival US and Russian resolutions on Western Sahara fail at UN)",
-  "ሴኔጋል የአፍሪካ የመጀመሪያውን የወጣቶች ኦሊምፒክ ውድድር ማስተናገድ ጀመረች (Senegal hosts Africa’s first ever Youth Olympic Games)"
+  "ሴኔጋል የአፍሪካ የመጀመሪያውን የወጣቶች ኦሊምፒክ ውድድር ማስተናገድ ጀመረች (Senegal hosts Africa’s first ever Youth Olympic Games)",
+  "የኢትዮጵያ ኤሌክትሪክ አገልግሎት የጂቡቲ የንግድ መስመርን በኤሌክትሪክ ለማንቀሳቀስ አቀደ (Ethiopia to electrify strategic Djibouti Trade Corridor with Multi-Million-Dollar EV Infrastructure Plan)"
  ],
  "posted_at": [
-  1793268610.1870577,
   1793272189.209548,
   1793273871.549549,
   1793273874.9895823,
@@ -2758,6 +2755,7 @@
   1793437906.9817061,
   1793439377.2156794,
   1793441322.3602755,
-  1793441325.7901027
+  1793441325.7901027,
+  1793442941.2587898
  ]
 }
