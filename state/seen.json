@@ -1,6 +1,5 @@
 {
  "seen": {
-  "7e8601ff7a7795c1": 1792272894.4533262,
   "fe1d26e30978f089": 1792280093.5107083,
   "d92376a5dd4c79aa": 1792280093.5107083,
   "e90dd5f1502ed223": 1792280093.5107083,
@@ -1274,10 +1273,20 @@
   "0c6c895875d8cfa1": 1793480779.5913136,
   "065af17ac9670efd": 1793480779.5913136,
   "c0e8a90568669d36": 1793480779.5913136,
-  "948078e153099b8a": 1793480779.5913136
+  "948078e153099b8a": 1793480779.5913136,
+  "844958dfd7de4328": 1793482440.9545293,
+  "57aa36e82fc67007": 1793482440.9545293,
+  "2b7f4118c42e9570": 1793482440.9545293,
+  "11eca7ba8093e0aa": 1793482440.9545293,
+  "3bfd854b6b588809": 1793482440.9545293,
+  "557a94e11d78933b": 1793482440.9545293,
+  "c7fb8874c773b554": 1793482440.9545293,
+  "a00bbc9f90fbcd0f": 1793482440.9545293,
+  "d5607095c58fdad3": 1793482440.9545293,
+  "737d73bd4e7e4a9d": 1793482440.9545293,
+  "33608d5f67f6a6b3": 1793482440.9545293
  },
  "recent_headlines": [
-  "ታዋቂው ባለሀብት Tim Draper የአፍሪካ መንግሥታት በ Bitcoin ላይ የተመሠረቱ ንግዶችን እንዲፈቅዱ ጥሪ አቀረቡ (Tim Draper wants African governments to allow Bitcoin-based businesses and rethink how money moves)",
   "በአፍሪካ በስቴብልኮይን ደሞዝ መክፈል ተጨማሪ የህግና የፋይናንስ ፈተናዎች እንዳሉበት ተገለጸ (Stablecoins can move money quickly, but African employers still have to make sure workers receive the right amount)",
   "የደቡብ አፍሪካው Naked በ AI የተደገፈ የቤት እንስሳት ዋስትና አገልግሎት ይፋ አደረገ (Naked brings AI to pet insurance)",
   "ኢትዮጵያ በ Safaricom የዲጂታል ማስፋፋት እንቅስቃሴ የተባበሩት መንግሥታት የኢንቨስትመንት ሽልማት አሸነፈች (Ethiopia Earns UN Investment Award With Focus On Safaricom's Digital Expansion)",
@@ -1316,7 +1325,8 @@
   "ባይናንስ የ6.3 ቢሊዮን ዶላር የክሪፕቶፕረንሲ ሳይበር ጥቃት አስተናገደ (Binance hit by $6.3bn crypto-currency hack)",
   "የAirtel Africa የግማሽ ዓመት የተጣራ ትርፍ በ20 በመቶ አድጎ 452 ሚሊዮን ዶላር ደረሰ (Airtel Africa half-year profit rises 20% to $452m)",
   "ኢትዮጵያ 1.4 ሚሊዮን አምራቾችን የሚያቅፍ የዲጂታል ቡና ፍለጋ ሥርዓት ዘረጋች (Ethiopia Rolls Out Digital Coffee Traceability System Covering 1.4 Million Producers Ahead of EU Deforestation Rules)",
-  "የኢትዮጵያ ኤሌክትሪክ አገልግሎት 11 አዳዲስ የኤሌክትሪክ ተሽከርካሪ ማቻረጃ ጣቢያዎችን አስመረቀ (Ethiopian Electric Utility Opens 11 EV Charging Stations, Expanding Network to 14)"
+  "የኢትዮጵያ ኤሌክትሪክ አገልግሎት 11 አዳዲስ የኤሌክትሪክ ተሽከርካሪ ማቻረጃ ጣቢያዎችን አስመረቀ (Ethiopian Electric Utility Opens 11 EV Charging Stations, Expanding Network to 14)",
+  "Cooperative Bank of Oromia እና Kifiya «Michu Mizan» የተሰኘ ከወለድ ነፃ የዲጂታል ብድር አቀረቡ (Cooperative Bank of Oromia, Kifiya Launch Sharia-Compliant Digital Financing Product)"
  ],
  "posted_at": [
   1793309812.7228167,
@@ -1329,6 +1339,7 @@
   1793398193.8513114,
   1793399746.6670475,
   1793401668.0228467,
-  1793480879.8592176
+  1793480879.8592176,
+  1793482535.0577393
  ]
 }
