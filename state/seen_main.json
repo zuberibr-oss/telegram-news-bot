@@ -1,20 +1,5 @@
 {
  "seen": {
-  "726c7cee6e15b4c9": 1792224873.04673,
-  "11169dff82646540": 1792224873.04673,
-  "9ff1d3a2f1f8dc43": 1792224873.04673,
-  "0c7bbca44f58451f": 1792224873.04673,
-  "8a1b7ded615c341e": 1792224873.04673,
-  "728c1d42c4c7a3dc": 1792224873.04673,
-  "950f96e1dfe700b9": 1792224873.04673,
-  "c4bb59af8720282a": 1792224873.04673,
-  "df59a7c00597690d": 1792224873.04673,
-  "793b7f1ff7c6838f": 1792224873.04673,
-  "17a98141dae0b66e": 1792224873.04673,
-  "390ac43f89111194": 1792224873.04673,
-  "231ff2859d0da8b8": 1792224873.04673,
-  "1e643ce9204f7aae": 1792224873.04673,
-  "39e17697d2e0cedf": 1792224873.04673,
   "9aeafb41bcb1c74e": 1792226486.7408557,
   "f355c126bb78ed7c": 1792226486.7408557,
   "aac5c7b0685e0477": 1792226486.7408557,
@@ -2641,13 +2626,14 @@
   "cffa8d51ff0e07f1": 1793434187.3165615,
   "f9c0292e4ba4651f": 1793434187.3165615,
   "1dd6ad0b782b0c00": 1793434187.3165615,
-  "595a66fb71843bc1": 1793434187.3165615
+  "595a66fb71843bc1": 1793434187.3165615,
+  "887cf92b2dca7d0e": 1793435708.7330494,
+  "a7bd70017053f9bc": 1793435708.7330494,
+  "a37037eb6f214215": 1793435708.7330494,
+  "552760853d6122a2": 1793435708.7330494,
+  "28153f076417f5be": 1793435708.7330494
  },
  "recent_headlines": [
-  "በኤምሬትስ ለሱዳን ሠራዊት መሣሪያ በማሻገር ስምንት ሰዎች የዕድሜ ልክ እስራት ተፈረደባቸው (UAE sentences eight people to life over arms supplies to Sudan’s army)",
-  "በእስፓንያ 69 ሰዎችን ለገደለው የባቡር አደጋ መንስኤ የሚጠቁም የድምፅ ቅጂ ይፋ ሆነ (Audio reveals exchanges between Spain train operators and drivers moments before deadly crash)",
-  "በሆርሙዝ ሰርጥ አራት የነዳጅ ጫኝ መርከቦች በፈንጂ መመታታቸውን ኢራን ገለጸች (Iran war live: IRGC says four tankers struck mines in Strait of Hormuz)",
-  "የሁቲ ታጣቂዎች በሳውዲ አረቢያ የነዳጅ ተቋማትና አውሮፕላን ማረፊያዎች ላይ ጥቃት ማድረሳቸውን ገለጹ (Houthi forces claim six attacks on Saudi airports, oil facilities)",
   "ባይናንስ ከደኅንነት ሥጋት ጋር ተያይዞ 2.54 ቢሊዮን ዶላር አገደ (Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’)",
   "የዓለማችን ግዙፉ የክሪፕቶ ኤክስቼንጅ ባይናንስ የ6.3 ቢሊዮን ዶላር የሳይበር ጥቃት አስተናገደ (Crypto giant Binance hit by hack suspected to be largest in history)",
   "የቬኔዙዌላ የተቃዋሚ መሪ María Machado ከስደት ተመልሰው ምርጫ እንዲካሄድ ጥሪ አቀረቡ (Venezuela opposition leader María Machado calls for elections upon return)",
@@ -2683,7 +2669,11 @@
   "ጠቅላይ ሚኒስትር ዐቢይ እና ከፍተኛ የሥራ ኃላፊዎች በሁርሶ ወታደራዊ ሥልጠና ወሰዱ (PM Abiy Ahmed Underscores Military Training’s Role in Building Capable, Disciplined National Leadership)",
   "የኢትዮጵያ ፖሊስ ዩኒቨርሲቲ የዓለም አቀፉ ፖሊስ (INTERPOL) ግሎባል አካዳሚ መረብን ተቀላቀለ (Ethiopian Police University Joins INTERPOL Global Academy Network)",
   "ኢትዮጵያውያኑ ጂራታ ዲንኪ እና ዘይነባ ይመር የፍራንክፈርት ማራቶን አሸናፊ ሆኑ (Ethiopians Dinki, Yimer win Frankfurt Marathon; Germany’s Dörfel runs 2:20:46 in debut)",
-  "አዲስ አበባ 7ኛውን የዓለም ጤና ድርጅት የድንገተኛ ሕክምና ቡድኖች ስብሰባ ልታስተናግድ ነው (Addis Ababa to Host 7th WHO Emergency Medical Teams Global Meeting, First in Africa)"
+  "አዲስ አበባ 7ኛውን የዓለም ጤና ድርጅት የድንገተኛ ሕክምና ቡድኖች ስብሰባ ልታስተናግድ ነው (Addis Ababa to Host 7th WHO Emergency Medical Teams Global Meeting, First in Africa)",
+  "የአየር ሙቀት መጨመር ለኢትዮጵያ የ33.3 ቢሊዮን ዶላር የኢኮኖሚ ኪሳራ ሊያስከትል እንደሚችል ተገለጸ (Heat Stress Could Cost Ethiopia USD33.3bn in Annual GDP by 2040: ILO Warns)",
+  "IMF ከኢትዮጵያ አዲስ የማክሮ ኢኮኖሚ ትንበያ ሞዴል ትግበራ ጋር በተያያዘ ሊወያይ ነው (IMF to Review Implementation Schedule for Ethiopia’s New Economic Forecasting Model)",
+  "ኢትዮጵያ ከአነስተኛ በለፀጉ አገራት ከፍተኛዋ የአገልግሎት ኤክስፖርት ላኪ በመሆን ታንዛንያን በለጣች (Ethiopia Overtakes Tanzania to Become Top LDC Services Exporter: WTO-OECD Report)",
+  "ተቃዋሚ ፓርቲዎችና የብሔረሰቦች ድርጅት በኢትዮጵያ የሰላማዊ ሰዎች ደኅንነት አሳሳቢ መሆኑን ገለጹ (Opposition Parties, UN Agencies Sound Alarm Over Security Incidents, Civilian Safety in Ethiopia)"
  ],
  "posted_at": [
   1793265071.7125385,
@@ -2747,6 +2737,10 @@
   1793430530.6515894,
   1793432166.9604912,
   1793432170.4989762,
-  1793434248.2801192
+  1793434248.2801192,
+  1793435788.3580277,
+  1793435791.729719,
+  1793435795.0991063,
+  1793435798.4653618
  ]
 }
