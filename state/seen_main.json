@@ -1,7 +1,5 @@
 {
  "seen": {
-  "8b147e813c25f5fd": 1792213850.0518382,
-  "1869ffcb323b7dc4": 1792213850.0518382,
   "9ff35c2a74923192": 1792215496.4257143,
   "1dd6ad0b782b0c00": 1792215496.4257143,
   "fbe72a30a6666409": 1792215496.4257143,
@@ -2630,10 +2628,13 @@
   "669a55fd100e0a16": 1793421314.4504926,
   "cc79ab41537cb2cc": 1793421314.4504926,
   "4b48108cdd50fc27": 1793423277.184325,
-  "1a691c22363e8f3f": 1793423277.184325
+  "1a691c22363e8f3f": 1793423277.184325,
+  "ea2c945b7a7b9083": 1793424894.306849,
+  "3872e6092ab3b49e": 1793424894.306849,
+  "87837e3103e31f5e": 1793424894.306849,
+  "d95f888192d72213": 1793424894.306849
  },
  "recent_headlines": [
-  "የኢትዮጵያ ሚዲያ ባለሥልጣን ለድምፂ ወያነ በማዕዶት ብሮድካስቲንግ ስም አዲስ ፈቃድ ሰጠ (Former Dimtsi Woyane Tigray Broadcaster Rebranded as Maedot Broadcasting Service Under New Licence)",
   "የኢትዮጵያ ሚዲያ ባለሥልጣን ለትግራይ ብሮድካስቲንግ ኮርፖሬሽን አዲስ የብሮድካስት ፈቃድ ሰጠ (Ethiopian Media Authority Grants New Licence to Suspended Tigray Media Agency, Renamed Tigray Broadcasting Corporation)",
   "በብራዚል ምርጫ የተሸነፉት ፍላቪዮ ቦልሶናሮ ከአገር ለቀው ወደ አሜሪካ ተሰደዱ (Flávio Bolsonaro calls himself 'leader of Brazil' after election loss)",
   "ህብረት ኢንሹራንስ የዓመታዊ አረቦን ገቢውን ወደ 3.42 ቢሊዮን ብር ማሳደጉን አስታወቀ (​Hibret insurance premiums surge 24% to 3.42 Billion birr)",
@@ -2672,7 +2673,8 @@
   "አሜሪካ ለዩክሬን የ500 ፓትሪዮት ሚሳይሎች ሽያጭን አጸደቀች (US approves sale of 500 Patriot missiles to Ukraine)",
   "በኮንጎ ዲሞክራቲክ ሪፐብሊክ በኤቦላ ወረርሽኝ የሞቱት ሰዎች ቁጥር ከ5000 በላይ አለፈ (Ebola death toll in DR Congo passes 5,000)",
   "የዲሞክራቲክ ሪፐብሊክ ኮንጎ የቀድሞ ፕሬዚዳንት Joseph Kabila አዲስ የአማፂያን ጥረት መሪ ሆኑ (Suited and booted: How Joseph Kabila went from president to rebel leader)",
-  "በትግራይ ራማ ከተማ በተፈጸመ የድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተገለጸ (በትግራይ ክልል ራማ ከተማ በድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተነገረ)"
+  "በትግራይ ራማ ከተማ በተፈጸመ የድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተገለጸ (በትግራይ ክልል ራማ ከተማ በድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተነገረ)",
+  "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግጃለሁ መባሉን አስተባበለች (Saawudi_Arabiyaan hojjettoota mana keessaa #Itoophiyaa irraa qacaruu dhaabuu ishee waakkatte)"
  ],
  "posted_at": [
   1793254608.8684866,
@@ -2735,6 +2737,7 @@
   1793399793.2440872,
   1793417761.202389,
   1793421345.5473776,
-  1793423308.736677
+  1793423308.736677,
+  1793424925.5872116
  ]
 }
