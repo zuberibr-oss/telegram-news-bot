@@ -1,7 +1,5 @@
 {
  "seen": {
-  "289507e729021a99": 1792348780.2186852,
-  "43d958d918877741": 1792348780.2186852,
   "1c6b267ce96c4eac": 1792350542.071618,
   "bbaa1372b565199a": 1792350542.071618,
   "01c14e9920130423": 1792350542.071618,
@@ -2635,10 +2633,14 @@
   "0163e80d79f59714": 1793558112.121282,
   "db63005dc94fa74a": 1793558112.121282,
   "aebc021e78bf83ae": 1793558112.121282,
-  "aa97aa2be30266c0": 1793558112.121282
+  "aa97aa2be30266c0": 1793558112.121282,
+  "925acabbe43b048d": 1793560030.970566,
+  "789b736b5fd1d72b": 1793560030.970566,
+  "68e248fbec1857c3": 1793560030.970566,
+  "625c960c9fbc4316": 1793560030.970566,
+  "45243e53188abb34": 1793560030.970566
  },
  "recent_headlines": [
-  "ኢቲዮ ቴሌኮም በበጀት ዓመቱ 295 ቢሊዮን ብር ገቢ ለማግኘት ማቀዱን ገለጸ (Ethio Telecom Anticipates ETB127Bln Operating Profit, ETB43Bln in Dividends)",
   "የኢትዮጵያ የተቀማጭ ገንዘብ ዋስትና ፈንድ በሩብ ዓመቱ 2.6 ቢሊዮን ብር ሰበሰበ (Ethiopian Deposit Insurance Fund Records ETB2.6Bln in Q1 Premiums)",
   "የግብር ስወራን እና ያልተገለጸ ገቢን የሚቆጣጠር አዲስ መመሪያ ተዘረጋ (New Tax Rule Cracks Down on Undeclared Income, False Accounting)",
   "ኢትዮጵያ 12 ሱ-35 የጦር ጄቶችን ከሩሲያ መረከቧን ጠቅላይ ሚኒስትር ዐቢይ አስታወቁ (Moscow Summit demands Compensation for Colonial-Era Damages on African Countries)",
@@ -2677,7 +2679,8 @@
   "ኡጋንዳ ከሁለት አስርት ዓመታት በኋላ ወታደሮቿን ከሶማሊያ ማስወጣት ጀመረች (#Daily_Brief: #Uganda begins withdrawing troops from #Somalia after nearly two decades)",
   "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግዳለች መባሉን አስተባበለች (#Daily_Brief: #Saudi_Arabia denies suspending domestic worker recruitment from #Ethiopia)",
   "ኢትዮጵያ ከአረንጓዴ የአየር ንብረት ፈንድ የ30 ሚሊዮን ዶላር ፋይናንስ አገኘች (Daily_Brief: #Ethiopia secures $30 million in Green Climate Fund financing for climate resilience)",
-  "ሱዳን ለሩሲያ የወርቅ እና የመዳብ ማዕድን ኢንቨስትመንት ቦታዎችን አቀረበች (#Daily_Brief: #Sudan offers #Russia investment sites for gold, copper mining)"
+  "ሱዳን ለሩሲያ የወርቅ እና የመዳብ ማዕድን ኢንቨስትመንት ቦታዎችን አቀረበች (#Daily_Brief: #Sudan offers #Russia investment sites for gold, copper mining)",
+  "የእስራኤል የመጀመሪያው አምባሳደር በሶማሊላንድ የማረጋገጫ ደብዳቤያቸውን አቀረቡ (Israel’s first ambassador to Somaliland presents credentials in Hargeisa)"
  ],
  "posted_at": [
   1793388982.6542854,
@@ -2737,6 +2740,7 @@
   1793556688.9486547,
   1793556692.5044272,
   1793558152.6417542,
-  1793558156.1886594
+  1793558156.1886594,
+  1793560077.1274574
  ]
 }
