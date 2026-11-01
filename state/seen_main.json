@@ -1,7 +1,5 @@
 {
  "seen": {
-  "b89e1a6182c54637": 1792294914.9986415,
-  "5defed31141c8416": 1792294914.9986415,
   "dea0490acee5cdb9": 1792296773.4034564,
   "49cc352b20a32145": 1792298442.4416223,
   "1556b7f4ea2b95b3": 1792298442.4416223,
@@ -2635,10 +2633,13 @@
   "aba1ae1d77cb6255": 1793504130.4142904,
   "cbb315cd347f4140": 1793504130.4142904,
   "dd95b537a46b7bae": 1793504130.4142904,
-  "c943d0b11bcd551e": 1793504130.4142904
+  "c943d0b11bcd551e": 1793504130.4142904,
+  "29f4843a61b237ff": 1793506186.8073115,
+  "a415957515c0d68e": 1793506186.8073115,
+  "026ef2e413c22f8f": 1793506186.8073115,
+  "12c9bcb17c6d651f": 1793506186.8073115
  },
  "recent_headlines": [
-  "ሩሲያ የኬንያ ዜጎችን ወደ ጦር ኃይሏ መመልመሏን ለማቆም መስማማቷን ኬንያ አስታወቀች (Daily_Brief: #Kenya says #Putin agrees to halt recruitment of its nationals into #Russian military)",
   "ጠቅላይ ሚኒስትር ዐቢይ እና ከፍተኛ የሥራ ኃላፊዎች በሁርሶ ወታደራዊ ሥልጠና ወሰዱ (PM Abiy Ahmed Underscores Military Training’s Role in Building Capable, Disciplined National Leadership)",
   "የኢትዮጵያ ፖሊስ ዩኒቨርሲቲ የዓለም አቀፉ ፖሊስ (INTERPOL) ግሎባል አካዳሚ መረብን ተቀላቀለ (Ethiopian Police University Joins INTERPOL Global Academy Network)",
   "ኢትዮጵያውያኑ ጂራታ ዲንኪ እና ዘይነባ ይመር የፍራንክፈርት ማራቶን አሸናፊ ሆኑ (Ethiopians Dinki, Yimer win Frankfurt Marathon; Germany’s Dörfel runs 2:20:46 in debut)",
@@ -2677,7 +2678,8 @@
   "ኢራን እና ቃጣር የሆርሙዝ ወሽመጥን በሁለት ቀናት ውስጥ ለመክፈት ተወያዩ (Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz)",
   "መንግሥት የረጅም ጊዜ ቦንዶችን ለማቅረብ እየተዘጋጀ መሆኑ ተገለጸ (Gov’t Readies Long-term Bonds as Its Bills Pay Half the Inflation Rate)",
   "ናሚቢያ ከ Ethiopian Airlines ጋር የተያያዘው ሰነድ ያለፈቃድ የወጣ ነው አለች (Namibia Calls Leaked Memo on Ethiopian Airlines Running Its Planned Carrier Unauthorised)",
-  "Awash Bank ባለፈው የበጀት ዓመት 38.3 ቢሊዮን ብር አጠቃላይ ትርፍ ማግኘቱን አስታወቀ (AWASH WITH DEPOSITS, SPARING WITH LOANS)"
+  "Awash Bank ባለፈው የበጀት ዓመት 38.3 ቢሊዮን ብር አጠቃላይ ትርፍ ማግኘቱን አስታወቀ (AWASH WITH DEPOSITS, SPARING WITH LOANS)",
+  "በሩሲያ ቁጥጥር ሥር ከነበረችው ኦሌሽኪ ከተማ የዩክሬን ዜጎች ተለቀቁ (Ukrainian evacuees from Russian-occupied Oleshky reunite with family)"
  ],
  "posted_at": [
   1793340988.0672097,
@@ -2749,6 +2751,7 @@
   1793494405.5621026,
   1793502732.894316,
   1793502736.2527497,
-  1793502739.6577065
+  1793502739.6577065,
+  1793506224.194332
  ]
 }
