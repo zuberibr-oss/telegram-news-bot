@@ -1,9 +1,5 @@
 {
  "seen": {
-  "30d55c00e37424ea": 1792283546.1486332,
-  "ff5bc34795fd00f2": 1792283546.1486332,
-  "464816ce00367a95": 1792283546.1486332,
-  "4d10e6ba54d4584d": 1792283546.1486332,
   "f4d7a3f349789972": 1792286594.2136497,
   "f2342e30e412f245": 1792286594.2136497,
   "4e8d5072cbe8bf3a": 1792288036.2077296,
@@ -2630,10 +2626,12 @@
   "97467a11e9210008": 1793492679.3534496,
   "c0f2fc9cd392f4b6": 1793492679.3534496,
   "17cf5bab2c8f195a": 1793492679.3534496,
-  "44a89dfaeebf1555": 1793492679.3534496
+  "44a89dfaeebf1555": 1793492679.3534496,
+  "709e1e1d8f5c7f7f": 1793494380.206867,
+  "56222e88342d046d": 1793494380.206867,
+  "9081054f4d82d8d3": 1793494380.206867
  },
  "recent_headlines": [
-  "በኮንጎ ዲሞክራቲክ ሪፐብሊክ በኤቦላ ወረርሽኝ የሞቱት ሰዎች ቁጥር ከ5000 በላይ አለፈ (Ebola death toll in DR Congo passes 5,000)",
   "የዲሞክራቲክ ሪፐብሊክ ኮንጎ የቀድሞ ፕሬዚዳንት Joseph Kabila አዲስ የአማፂያን ጥረት መሪ ሆኑ (Suited and booted: How Joseph Kabila went from president to rebel leader)",
   "በትግራይ ራማ ከተማ በተፈጸመ የድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተገለጸ (በትግራይ ክልል ራማ ከተማ በድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተነገረ)",
   "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግጃለሁ መባሉን አስተባበለች (Saawudi_Arabiyaan hojjettoota mana keessaa #Itoophiyaa irraa qacaruu dhaabuu ishee waakkatte)",
@@ -2672,7 +2670,8 @@
   "ኮሜሳ የፕሪቶሪያ የሰላም ስምምነት ሙሉ በሙሉ እንዲተገበር የአፍሪካ ኅብረት አባላት እንዲደግፉ ጠየቀ (ኮሜሳ የፕሪቶሪያ የሰላም ስምምነት ሙሉ በሙሉ ተግባራዊ እንዲደረግ የአፍሪካ ኅብረት አባል አገሮች እንዲደግፉ ጠየቀ)",
   "የብሔራዊ ዲጂታል መታወቂያ ፕሮግራም ስሙን ወደ FaydaVerse በመቀየር አገልግሎቱን አሰፋ (FaydaVerse Expands Beyond National ID Registration)",
   "ICAO ኢትዮጵያ የአቪዬሽን ቁጥጥር ባለሙያዎቿን ማበረታቻ እንድታሻሽል አሰሰበ (ICAO urges Ethiopia to strengthen incentives to retain aviation inspectors)",
-  "ሕብረት ኢንሹራንስ 965.3 ሚሊዮን ብር የተጣራ ትርፍ ማኘቱን ገለጸ (Hibret Insurance targets market expansion and revenue diversification)"
+  "ሕብረት ኢንሹራንስ 965.3 ሚሊዮን ብር የተጣራ ትርፍ ማኘቱን ገለጸ (Hibret Insurance targets market expansion and revenue diversification)",
+  "ኢራን እና ቃጣር የሆርሙዝ ወሽመጥን በሁለት ቀናት ውስጥ ለመክፈት ተወያዩ (Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz)"
  ],
  "posted_at": [
   1793321746.404859,
@@ -2743,6 +2742,7 @@
   1793486172.8409486,
   1793492751.3563747,
   1793492754.7804565,
-  1793492758.2749214
+  1793492758.2749214,
+  1793494405.5621026
  ]
 }
