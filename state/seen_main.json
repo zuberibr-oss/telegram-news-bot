@@ -1,9 +1,5 @@
 {
  "seen": {
-  "a331489b39cc6620": 1792334194.5303257,
-  "ea8835a2311e560a": 1792334194.5303257,
-  "58862214512119f0": 1792334194.5303257,
-  "3529844a69ec4d8c": 1792334194.5303257,
   "b0f182f304c7fed9": 1792336216.5748794,
   "bf1e01e489341529": 1792336216.5748794,
   "e0e6fec97cc222ed": 1792336216.5748794,
@@ -2633,10 +2629,12 @@
   "d2b571adf1be6a5f": 1793542050.1308277,
   "57c5214bef572337": 1793542050.1308277,
   "040a9d85a8032bea": 1793543704.7496452,
-  "afc48ae8ff4e0b9b": 1793543704.7496452
+  "afc48ae8ff4e0b9b": 1793543704.7496452,
+  "ac2bc9f2c1a7b80d": 1793545633.3123205,
+  "a512b9d50f3915e6": 1793545633.3123205,
+  "39ccbd7fad8e896b": 1793545633.3123205
  },
  "recent_headlines": [
-  "ኢትዮጵያውያኑ ጂራታ ዲንኪ እና ዘይነባ ይመር የፍራንክፈርት ማራቶን አሸናፊ ሆኑ (Ethiopians Dinki, Yimer win Frankfurt Marathon; Germany’s Dörfel runs 2:20:46 in debut)",
   "አዲስ አበባ 7ኛውን የዓለም ጤና ድርጅት የድንገተኛ ሕክምና ቡድኖች ስብሰባ ልታስተናግድ ነው (Addis Ababa to Host 7th WHO Emergency Medical Teams Global Meeting, First in Africa)",
   "የአየር ሙቀት መጨመር ለኢትዮጵያ የ33.3 ቢሊዮን ዶላር የኢኮኖሚ ኪሳራ ሊያስከትል እንደሚችል ተገለጸ (Heat Stress Could Cost Ethiopia USD33.3bn in Annual GDP by 2040: ILO Warns)",
   "IMF ከኢትዮጵያ አዲስ የማክሮ ኢኮኖሚ ትንበያ ሞዴል ትግበራ ጋር በተያያዘ ሊወያይ ነው (IMF to Review Implementation Schedule for Ethiopia’s New Economic Forecasting Model)",
@@ -2675,13 +2673,10 @@
   "Awash Bank ባለፈው የበጀት ዓመት 38.3 ቢሊዮን ብር አጠቃላይ ትርፍ ማግኘቱን አስታወቀ (AWASH WITH DEPOSITS, SPARING WITH LOANS)",
   "በሩሲያ ቁጥጥር ሥር ከነበረችው ኦሌሽኪ ከተማ የዩክሬን ዜጎች ተለቀቁ (Ukrainian evacuees from Russian-occupied Oleshky reunite with family)",
   "አሜሪካ በአርሲ በተፈጸሙት የንጹኃን ግድያዎች ላይ ገለልተኛ ምርመራ እንዲደረግ ጠየቀች (አሜሪካ በአርሲ የተፈጸሙ ግድያዎች በጽኑ እንዳሳሰቧት ገልጻ በአግባቡ እንዲመረመሩ ጠየቀች)",
-  "በፋርስ ባሕረ ሰላጤ የተጓዘ የቃጣር የፈሳሽ ጋዝ ጫኝ መርከብ ጥቃት ተፈጸመበት (Qatar LNG carrier struck by ‘unidentified objects’ in Gulf)"
+  "በፋርስ ባሕረ ሰላጤ የተጓዘ የቃጣር የፈሳሽ ጋዝ ጫኝ መርከብ ጥቃት ተፈጸመበት (Qatar LNG carrier struck by ‘unidentified objects’ in Gulf)",
+  "በአሜሪካ የኮንግረስ አባላትን ለመምረጥ የሚካሄደው የሚድተርም ምርጫ ተጀመረ (US midterms live: Trump, Democrats in last-ditch efforts before polls)"
  ],
  "posted_at": [
-  1793371024.1549478,
-  1793371027.7900245,
-  1793371031.2873375,
-  1793371034.7914217,
   1793372989.1648777,
   1793378174.0515785,
   1793378177.4256265,
@@ -2736,6 +2731,7 @@
   1793502739.6577065,
   1793506224.194332,
   1793509759.8318217,
-  1793529339.7570548
+  1793529339.7570548,
+  1793545659.1814597
  ]
 }
