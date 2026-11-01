@@ -1,9 +1,5 @@
 {
  "seen": {
-  "49cc352b20a32145": 1792298442.4416223,
-  "1556b7f4ea2b95b3": 1792298442.4416223,
-  "600ba05070b97221": 1792298442.4416223,
-  "487c3e377abb8aee": 1792298442.4416223,
   "d9c9aea03b873e67": 1792300226.4214468,
   "6f17b06da61391a2": 1792300226.4214468,
   "cff701a44abc77d4": 1792300226.4214468,
@@ -2636,10 +2632,11 @@
   "29f4843a61b237ff": 1793506186.8073115,
   "a415957515c0d68e": 1793506186.8073115,
   "026ef2e413c22f8f": 1793506186.8073115,
-  "12c9bcb17c6d651f": 1793506186.8073115
+  "12c9bcb17c6d651f": 1793506186.8073115,
+  "f7498233bd2c11e4": 1793509727.1352465,
+  "c91858b93d77fa28": 1793509727.1352465
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ እና ከፍተኛ የሥራ ኃላፊዎች በሁርሶ ወታደራዊ ሥልጠና ወሰዱ (PM Abiy Ahmed Underscores Military Training’s Role in Building Capable, Disciplined National Leadership)",
   "የኢትዮጵያ ፖሊስ ዩኒቨርሲቲ የዓለም አቀፉ ፖሊስ (INTERPOL) ግሎባል አካዳሚ መረብን ተቀላቀለ (Ethiopian Police University Joins INTERPOL Global Academy Network)",
   "ኢትዮጵያውያኑ ጂራታ ዲንኪ እና ዘይነባ ይመር የፍራንክፈርት ማራቶን አሸናፊ ሆኑ (Ethiopians Dinki, Yimer win Frankfurt Marathon; Germany’s Dörfel runs 2:20:46 in debut)",
   "አዲስ አበባ 7ኛውን የዓለም ጤና ድርጅት የድንገተኛ ሕክምና ቡድኖች ስብሰባ ልታስተናግድ ነው (Addis Ababa to Host 7th WHO Emergency Medical Teams Global Meeting, First in Africa)",
@@ -2678,7 +2675,8 @@
   "መንግሥት የረጅም ጊዜ ቦንዶችን ለማቅረብ እየተዘጋጀ መሆኑ ተገለጸ (Gov’t Readies Long-term Bonds as Its Bills Pay Half the Inflation Rate)",
   "ናሚቢያ ከ Ethiopian Airlines ጋር የተያያዘው ሰነድ ያለፈቃድ የወጣ ነው አለች (Namibia Calls Leaked Memo on Ethiopian Airlines Running Its Planned Carrier Unauthorised)",
   "Awash Bank ባለፈው የበጀት ዓመት 38.3 ቢሊዮን ብር አጠቃላይ ትርፍ ማግኘቱን አስታወቀ (AWASH WITH DEPOSITS, SPARING WITH LOANS)",
-  "በሩሲያ ቁጥጥር ሥር ከነበረችው ኦሌሽኪ ከተማ የዩክሬን ዜጎች ተለቀቁ (Ukrainian evacuees from Russian-occupied Oleshky reunite with family)"
+  "በሩሲያ ቁጥጥር ሥር ከነበረችው ኦሌሽኪ ከተማ የዩክሬን ዜጎች ተለቀቁ (Ukrainian evacuees from Russian-occupied Oleshky reunite with family)",
+  "አሜሪካ በአርሲ በተፈጸሙት የንጹኃን ግድያዎች ላይ ገለልተኛ ምርመራ እንዲደረግ ጠየቀች (አሜሪካ በአርሲ የተፈጸሙ ግድያዎች በጽኑ እንዳሳሰቧት ገልጻ በአግባቡ እንዲመረመሩ ጠየቀች)"
  ],
  "posted_at": [
   1793340988.0672097,
@@ -2751,6 +2749,7 @@
   1793502732.894316,
   1793502736.2527497,
   1793502739.6577065,
-  1793506224.194332
+  1793506224.194332,
+  1793509759.8318217
  ]
 }
