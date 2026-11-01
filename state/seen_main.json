@@ -1,11 +1,5 @@
 {
  "seen": {
-  "b2362cc957081d2e": 1792347125.695121,
-  "ed6443a261b531b2": 1792347125.695121,
-  "b7f25ce929d12aaf": 1792347125.695121,
-  "852ac6dd57fd022e": 1792347125.695121,
-  "eb21e5ed858ae63b": 1792347125.695121,
-  "74e5ec99651246b6": 1792347125.695121,
   "289507e729021a99": 1792348780.2186852,
   "43d958d918877741": 1792348780.2186852,
   "1c6b267ce96c4eac": 1792350542.071618,
@@ -2634,11 +2628,16 @@
   "1aad27ea88b62b04": 1793556632.666653,
   "e244e4c90d18bcd7": 1793556632.666653,
   "34ed1545c92f1c66": 1793556632.666653,
-  "3cb70754df533640": 1793556632.666653
+  "3cb70754df533640": 1793556632.666653,
+  "1271b28cd19252fc": 1793558112.121282,
+  "9aec8ac0cea5c697": 1793558112.121282,
+  "bf77d5dd264ac108": 1793558112.121282,
+  "0163e80d79f59714": 1793558112.121282,
+  "db63005dc94fa74a": 1793558112.121282,
+  "aebc021e78bf83ae": 1793558112.121282,
+  "aa97aa2be30266c0": 1793558112.121282
  },
  "recent_headlines": [
-  "ተቃዋሚ ፓርቲዎችና የብሔረሰቦች ድርጅት በኢትዮጵያ የሰላማዊ ሰዎች ደኅንነት አሳሳቢ መሆኑን ገለጹ (Opposition Parties, UN Agencies Sound Alarm Over Security Incidents, Civilian Safety in Ethiopia)",
-  "የኢትዮጵያ ብሔራዊ ባንክ ከአህጉር አቀፉ የክፍያ ሥርዓት PAPSS ጋር ተቀላቀለ (#Daily_Brief: #Ethiopia’s central bank joins pan-African payments system)",
   "ኢቲዮ ቴሌኮም በበጀት ዓመቱ 295 ቢሊዮን ብር ገቢ ለማግኘት ማቀዱን ገለጸ (Ethio Telecom Anticipates ETB127Bln Operating Profit, ETB43Bln in Dividends)",
   "የኢትዮጵያ የተቀማጭ ገንዘብ ዋስትና ፈንድ በሩብ ዓመቱ 2.6 ቢሊዮን ብር ሰበሰበ (Ethiopian Deposit Insurance Fund Records ETB2.6Bln in Q1 Premiums)",
   "የግብር ስወራን እና ያልተገለጸ ገቢን የሚቆጣጠር አዲስ መመሪያ ተዘረጋ (New Tax Rule Cracks Down on Undeclared Income, False Accounting)",
@@ -2676,7 +2675,9 @@
   "የተባበሩት አረብ ኤምሬቶች የሱዳን ጦር ምክትል አዛዥን ጨምሮ 8 ሰዎችን በዕድሜ ልክ ቀጣች (Daily_Brief: #UAE sentences eight #Sudanese men, including army deputy chief, to life over arms deals)",
   "የኢትዮጵያ መገናኛ ብዙኃን ባለሥልጣን ለድምፂ ወያኔ በአዲስ ስም አዲስ የሥራ ፈቃድ ሰጠ (Daily_Brief: Media Authority grants new license to Dimtsi Weyane #Tigray under new name following caretaker administration’s request)",
   "ኡጋንዳ ከሁለት አስርት ዓመታት በኋላ ወታደሮቿን ከሶማሊያ ማስወጣት ጀመረች (#Daily_Brief: #Uganda begins withdrawing troops from #Somalia after nearly two decades)",
-  "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግዳለች መባሉን አስተባበለች (#Daily_Brief: #Saudi_Arabia denies suspending domestic worker recruitment from #Ethiopia)"
+  "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግዳለች መባሉን አስተባበለች (#Daily_Brief: #Saudi_Arabia denies suspending domestic worker recruitment from #Ethiopia)",
+  "ኢትዮጵያ ከአረንጓዴ የአየር ንብረት ፈንድ የ30 ሚሊዮን ዶላር ፋይናንስ አገኘች (Daily_Brief: #Ethiopia secures $30 million in Green Climate Fund financing for climate resilience)",
+  "ሱዳን ለሩሲያ የወርቅ እና የመዳብ ማዕድን ኢንቨስትመንት ቦታዎችን አቀረበች (#Daily_Brief: #Sudan offers #Russia investment sites for gold, copper mining)"
  ],
  "posted_at": [
   1793388982.6542854,
@@ -2734,6 +2735,8 @@
   1793556681.846882,
   1793556685.4197955,
   1793556688.9486547,
-  1793556692.5044272
+  1793556692.5044272,
+  1793558152.6417542,
+  1793558156.1886594
  ]
 }
