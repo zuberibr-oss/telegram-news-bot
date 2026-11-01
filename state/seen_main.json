@@ -1,8 +1,5 @@
 {
  "seen": {
-  "90f493d72d700e8d": 1792291349.7251062,
-  "daab2fc450e80046": 1792291349.7251062,
-  "77df7aac44d650c0": 1792291349.7251062,
   "396863d42f4fa504": 1792293287.68456,
   "29f4843a61b237ff": 1792293287.68456,
   "e536103cec7041b6": 1792293287.68456,
@@ -2631,12 +2628,17 @@
   "753fb345385f6331": 1793499132.2345545,
   "a0965255ceb3ff01": 1793500522.981563,
   "5698d6c7cdb064fc": 1793500522.981563,
-  "cc1f83a51759d09b": 1793500522.981563
+  "cc1f83a51759d09b": 1793500522.981563,
+  "bea8980b07dd4d19": 1793502673.9892101,
+  "5f7836bd9ea831e9": 1793502673.9892101,
+  "9f37a141cfdeeaea": 1793502673.9892101,
+  "5246ca51cdfaabc4": 1793502673.9892101,
+  "612011d80de84f35": 1793502673.9892101,
+  "65a202f8020cee0a": 1793502673.9892101,
+  "7c4925a6c8224a68": 1793502673.9892101,
+  "94c78b4213657445": 1793502673.9892101
  },
  "recent_headlines": [
-  "የዲሞክራቲክ ሪፐብሊክ ኮንጎ የቀድሞ ፕሬዚዳንት Joseph Kabila አዲስ የአማፂያን ጥረት መሪ ሆኑ (Suited and booted: How Joseph Kabila went from president to rebel leader)",
-  "በትግራይ ራማ ከተማ በተፈጸመ የድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተገለጸ (በትግራይ ክልል ራማ ከተማ በድሮን ጥቃት በትንሹ 12 ሰዎች መገደላቸው ተነገረ)",
-  "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግጃለሁ መባሉን አስተባበለች (Saawudi_Arabiyaan hojjettoota mana keessaa #Itoophiyaa irraa qacaruu dhaabuu ishee waakkatte)",
   "ሩሲያ የኬንያ ዜጎችን ወደ ጦር ኃይሏ መመልመሏን ለማቆም መስማማቷን ኬንያ አስታወቀች (Daily_Brief: #Kenya says #Putin agrees to halt recruitment of its nationals into #Russian military)",
   "ጠቅላይ ሚኒስትር ዐቢይ እና ከፍተኛ የሥራ ኃላፊዎች በሁርሶ ወታደራዊ ሥልጠና ወሰዱ (PM Abiy Ahmed Underscores Military Training’s Role in Building Capable, Disciplined National Leadership)",
   "የኢትዮጵያ ፖሊስ ዩኒቨርሲቲ የዓለም አቀፉ ፖሊስ (INTERPOL) ግሎባል አካዳሚ መረብን ተቀላቀለ (Ethiopian Police University Joins INTERPOL Global Academy Network)",
@@ -2673,7 +2675,10 @@
   "የብሔራዊ ዲጂታል መታወቂያ ፕሮግራም ስሙን ወደ FaydaVerse በመቀየር አገልግሎቱን አሰፋ (FaydaVerse Expands Beyond National ID Registration)",
   "ICAO ኢትዮጵያ የአቪዬሽን ቁጥጥር ባለሙያዎቿን ማበረታቻ እንድታሻሽል አሰሰበ (ICAO urges Ethiopia to strengthen incentives to retain aviation inspectors)",
   "ሕብረት ኢንሹራንስ 965.3 ሚሊዮን ብር የተጣራ ትርፍ ማኘቱን ገለጸ (Hibret Insurance targets market expansion and revenue diversification)",
-  "ኢራን እና ቃጣር የሆርሙዝ ወሽመጥን በሁለት ቀናት ውስጥ ለመክፈት ተወያዩ (Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz)"
+  "ኢራን እና ቃጣር የሆርሙዝ ወሽመጥን በሁለት ቀናት ውስጥ ለመክፈት ተወያዩ (Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz)",
+  "መንግሥት የረጅም ጊዜ ቦንዶችን ለማቅረብ እየተዘጋጀ መሆኑ ተገለጸ (Gov’t Readies Long-term Bonds as Its Bills Pay Half the Inflation Rate)",
+  "ናሚቢያ ከ Ethiopian Airlines ጋር የተያያዘው ሰነድ ያለፈቃድ የወጣ ነው አለች (Namibia Calls Leaked Memo on Ethiopian Airlines Running Its Planned Carrier Unauthorised)",
+  "Awash Bank ባለፈው የበጀት ዓመት 38.3 ቢሊዮን ብር አጠቃላይ ትርፍ ማግኘቱን አስታወቀ (AWASH WITH DEPOSITS, SPARING WITH LOANS)"
  ],
  "posted_at": [
   1793340988.0672097,
@@ -2742,6 +2747,9 @@
   1793492751.3563747,
   1793492754.7804565,
   1793492758.2749214,
-  1793494405.5621026
+  1793494405.5621026,
+  1793502732.894316,
+  1793502736.2527497,
+  1793502739.6577065
  ]
 }
