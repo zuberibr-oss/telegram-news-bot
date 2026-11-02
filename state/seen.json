@@ -1,11 +1,5 @@
 {
  "seen": {
-  "a0113a20533fc4ce": 1792415655.1012526,
-  "a911b40816be9ca0": 1792415655.1012526,
-  "24d463223e5ae3be": 1792415655.1012526,
-  "a99b9820be88701b": 1792415655.1012526,
-  "deb61f8d08086858": 1792415655.1012526,
-  "1c6fa7944b7a431a": 1792415655.1012526,
   "ef92a2d08cf5e965": 1792417484.149305,
   "c7cecd928900049c": 1792417484.149305,
   "d8958c060fbfff7d": 1792417484.149305,
@@ -1273,10 +1267,13 @@
   "1647315c2468ab38": 1793622958.2095058,
   "66ff5fb9c8eb0199": 1793622958.2095058,
   "339c09083896ce2f": 1793624985.1785471,
-  "2ead03b24ba780bf": 1793624985.1785471
+  "2ead03b24ba780bf": 1793624985.1785471,
+  "e32ad32aaa9841bb": 1793626467.300489,
+  "2910d25cb79ab813": 1793626467.300489,
+  "547dda235e9e7108": 1793626467.300489,
+  "8a327ece02138ab2": 1793626467.300489
  },
  "recent_headlines": [
-  "የናይሮቢ ኢንተርናሽናል ፋይናንስ ሴንተር ለቴክኖሎጂና AI 250 ሚሊዮን ዶላር ፈንድ ሊያቋቁም ነው (NIFCA plans $250 million fund as Kenya confronts the question of who finances African innovation)",
   "በአፍሪካ ሀገር አቀፍ የክፍያ ስርዓቶች ቢጎለብቱም ድንበር ተሻጋሪ ዝውውር አሁንም ፈታኝ ነው (Africa has built sophisticated domestic payment systems, but businesses still struggle to move money across borders)",
   "በደቡብ አፍሪካ የፋይበር ኢንተርኔት መሠረተ ልማት ያላቸው መኖሪያ ቤቶች ግንባታ ሙከራ ተጀመረ (Fibre-ready housing trial kicks-off in KZN)",
   "ኢትዮጵያ በኤሌክትሪክ ተሽከርካሪዎች ስርጭት ብትመራም የመሠረተ ልማት ማሻሻያ ያስፈልጋታል ተባለ (Ethiopia’s Electrification Progress Outpaces Its Enabling Conditions)",
@@ -1315,7 +1312,8 @@
   "የሜሶብ የአንድ ማዕከል የመንግሥት አገልግሎት ወደ መቀሌ ሊስፋፋ ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
   "Enza Capital ለአፍሪካ የሰው ሰራሽ አስተዋይነት (AI) ስታርታፖች አዲስ ፈንድ ይፋ አደረገ (Enza Capital wants Africa to build its AI with its new fund)",
   "በደቡብ አፍሪካ በራንድ የተደገፈው eZAR የስቴብልኮይን አገልግሎት ለህዝብ ክፍት ሆነ (eZAR opens rand stablecoin to SA public)",
-  "የናይጄሪያው OPay በኒውዮርክ ሊያካሂደው የነበረው የ4 ቢሊዮን ዶላር IPO ተሰረዘ (The Next Wave: The problem with putting an African fintech on Wall Street)"
+  "የናይጄሪያው OPay በኒውዮርክ ሊያካሂደው የነበረው የ4 ቢሊዮን ዶላር IPO ተሰረዘ (The Next Wave: The problem with putting an African fintech on Wall Street)",
+  "የኤምቲኤን ናይጄሪያ የፊንቴክ ገቢ በ26% ቀነሰ፤ MoMo ወደ አዲስ መድረክ ተዛወረ (MTN Nigeria moves MoMo to new platform as fintech revenue falls 26%)"
  ],
  "posted_at": [
   1793480879.8592176,
@@ -1326,6 +1324,7 @@
   1793619412.1111405,
   1793621607.6144295,
   1793623061.0598748,
-  1793625058.3488038
+  1793625058.3488038,
+  1793626553.783668
  ]
 }
