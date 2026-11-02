@@ -1,11 +1,5 @@
 {
  "seen": {
-  "8e1cf3c18a878055": 1792410131.0273635,
-  "5e6e03b02c5d341a": 1792410131.0273635,
-  "8a393fad3ff0d35f": 1792410131.0273635,
-  "39b69acf3af7f636": 1792410131.0273635,
-  "7bb57e9af181b9b5": 1792410131.0273635,
-  "bf1f457d2203d534": 1792410131.0273635,
   "e2ab20857d28be15": 1792412404.8951967,
   "0bab3cf14b6e8ee6": 1792412404.8951967,
   "274301625d97d24f": 1792412404.8951967,
@@ -2594,13 +2588,21 @@
   "33c95ae005c3f393": 1793619412.3608856,
   "1cbbcf9144f3c82b": 1793619412.3608856,
   "c34c3468c6e1f91c": 1793619412.3608856,
-  "0902ddecfcd35c86": 1793619412.3608856
+  "0902ddecfcd35c86": 1793619412.3608856,
+  "84cca30775325126": 1793621607.873399,
+  "970867970d5795e5": 1793621607.873399,
+  "6269efa5c40dcb34": 1793621607.873399,
+  "8235950385a5d024": 1793621607.873399,
+  "7750008b523591bf": 1793621607.873399,
+  "2276ee0cebafc291": 1793621607.873399,
+  "8a559c297e8f0633": 1793621607.873399,
+  "16f33724bf77fdb2": 1793621607.873399,
+  "d1270ecf76d0002d": 1793621607.873399,
+  "1fc256d2e31810e7": 1793621607.873399,
+  "5be025c4da1d2354": 1793621607.873399,
+  "cb61427b31f8f332": 1793621607.873399
  },
  "recent_headlines": [
-  "የኢትዮጵያ ኤሌክትሪክ አገልግሎት የጂቡቲ የንግድ መስመርን በኤሌክትሪክ ለማንቀሳቀስ አቀደ (Ethiopia to electrify strategic Djibouti Trade Corridor with Multi-Million-Dollar EV Infrastructure Plan)",
-  "የተባበሩት መንግሥታት ድርጅት በሶማሊያ የነበረውን የፖለቲካ ተልዕኮ አጠናቀቀ (UN closes Somalia mission, ending three decades of political engagement)",
-  "በሱዳን ደቡብ ኮርዶፋን በተፈጸመ የአየር ጥቃት የዓለም የምግብ ፕሮግራም አሽከርካሪ ተገደለ (Daily_Brief: WFP driver killed in air strike on aid trucks in #Sudan’s South Kordofan)",
-  "የኢራን የፓርላማ አባላት አገራቸው ከዓለም አቀፉ የኑክሌር ስምምነት እንድትወጣ ጥሪ አቀረቡ (Iran lawmakers call for withdrawal from NPT: Will we have war or peace?)",
   "በየመን ዳግም በተቀሰቀሰ ውጊያ ምክንያት ከ290 ሺህ በላይ ሰዎች መፈናቀላቸው ተገለጸ (New Yemen fighting displaces 290,000, says UN, with pregnant women at risk)",
   "አዲስ አበባ የ2026 የሻንጋይ ዘላቂ የከተሞች ልማት ዓለም አቀፍ ሽልማትን አሸነፈች (Addis Ababa Wins 2026 Shanghai Award for Sustainable Urban Development)",
   "ሶሪያ የሳውዲ አረቢያ፣ Turkiye እና ፓኪስታን የጋራ መከላከያ ስምምነትን ለመቀላቀል እያሰበች ነው (Syria considering entry into Mecca defence pact, says foreign minister)",
@@ -2636,10 +2638,13 @@
   "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ለመቀላቀል የምታደርገው ድርድር ጠንከር ያሉ ቅድመ ሁኔታዎች ገጠሙት (Ethiopia’s WTO Terms Harden as Members Ask for More)",
   "ዓዲግራት ዩኒቨርሲቲ ነባር እና አዲስ ተማሪዎችን መቀበል ጀመረ (Adigrat University Welcomes Returning and Newly Admitted Students as Academic Activities Resume Across Tigray Region)",
   "ሱዳን ከኢትዮጵያ ስለሚነሱ የድሮን ጥቃቶች ለአፍሪካ ህብረትና UN አመለከተች (Sudan files complaints against Ethiopia with UN over deadly drone spree)",
-  "የሶማሊያ የባሕር ላይ ወንበዴዎች አንድ የኢራን የዓሣ ማስገሪያ መርከብ ተቆጣጠሩ (Daily_Brief: #Somali pirates seize #Iranian fishing vessel, raising fears of attacks on commercial shipping)"
+  "የሶማሊያ የባሕር ላይ ወንበዴዎች አንድ የኢራን የዓሣ ማስገሪያ መርከብ ተቆጣጠሩ (Daily_Brief: #Somali pirates seize #Iranian fishing vessel, raising fears of attacks on commercial shipping)",
+  "በሳውዲ አረቢያ በችግር ውስጥ የነበሩ 1,364 ኢትዮጵያውያን ወደ አገራቸው ተመለሱ (Ethiopia’s Citizen-Centered Diplomacy Brings 1,364 More Nationals Home from Saudi Arabia)",
+  "የኢትዮጵያ ኤሌክትሪክ አገልግሎት በስድስት ከተሞች 11 የኤሌክትሪክ ተሽከርካሪዎች ቻርጅ ማድረጊያ ጣቢያዎችን አስመረቀ (BEYOND THE PLUG: ETHIOPIA’S DRIVE TO BUILD A COMPLETE GREEN MOBILITY ECOSYSTEM)",
+  "በኢትዮጵያ በግጭት ምክንያት የተፈናቀሉ ሰዎች ቁጥር 1.7 ሚሊዮን መድረሱን UNHCR አስታወቀ (Conflict Uproots 1.7 Million Ethiopians, Disasters Add 173,000: UNHCR)",
+  "የኢትዮጵያ ፀረ-ዶፒንግ ባለሥልጣን በአትሌቶች የሚቀርቡ 89 በመቶ ማስረጃዎች የሐሰት መሆናቸውን ገለጸ (Ethiopian Anti-Doping Authority Flags 89 Percent of Athlete Evidence as Fabricated)"
  ],
  "posted_at": [
-  1793448705.4338558,
   1793452126.7967982,
   1793452130.2720072,
   1793452133.6748805,
@@ -2677,6 +2682,10 @@
   1793618126.701561,
   1793618130.340793,
   1793618133.9403625,
-  1793619496.2963579
+  1793619496.2963579,
+  1793621717.2071376,
+  1793621720.7870352,
+  1793621724.355294,
+  1793621727.9618497
  ]
 }

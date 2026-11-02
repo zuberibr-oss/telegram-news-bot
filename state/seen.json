@@ -1,13 +1,5 @@
 {
  "seen": {
-  "bf1f457d2203d534": 1792409989.779251,
-  "9da6931b16a3a3c6": 1792409989.779251,
-  "c30fa6766b719cc1": 1792409989.779251,
-  "e98f47e18d7f31c9": 1792409989.779251,
-  "b716e1cc93475fdd": 1792409989.779251,
-  "0aa57ed3e0ddd13f": 1792409989.779251,
-  "64aca54e9be423ca": 1792409989.779251,
-  "ad79005f15d34c83": 1792409989.779251,
   "5231a5be5962d8ce": 1792412291.332001,
   "ef9596aed2e2cf6b": 1792412291.332001,
   "4cf23399d2460125": 1792412291.332001,
@@ -1283,10 +1275,10 @@
   "33c49d6b03e076b2": 1793619245.4200928,
   "e39dd79567110939": 1793619245.4200928,
   "bbf0280c23a4ab1b": 1793619245.4200928,
-  "792f09a8867957b7": 1793619245.4200928
+  "792f09a8867957b7": 1793619245.4200928,
+  "a56db301b7709408": 1793621531.0019987
  },
  "recent_headlines": [
-  "Paratus Kenya በኪሱሙ ለሚገኙ 160 የጤና ተቋማት የኢንተርኔት ፍላጎት ጥናት አደረገ (Paratus Kenya Assesses Connectivity Needs at 160 Healthcare Facilities in Kisumu)",
   "የደቡብ አፍሪካው የክፍያ ተቋም CrissCross ከ Circle Ventures ኢንቨስትመንት አገኘ (South Africa’s CrissCross raises undisclosed Circle Ventures investment in stablecoin push)",
   "Datacentrix እና Utimaco በአፍሪካ የሳይበር ደህንነትን ለማጠናከር ተጣመሩ (Datacentrix, Utimaco join forces to boost data security and digital trust across Africa)",
   "የናይሮቢ ኢንተርናሽናል ፋይናንስ ሴንተር ለቴክኖሎጂና AI 250 ሚሊዮን ዶላር ፈንድ ሊያቋቁም ነው (NIFCA plans $250 million fund as Kenya confronts the question of who finances African innovation)",
@@ -1325,7 +1317,8 @@
   "ኤርቴል ኬንያ የ5G ፍሪኩዌንሲ ፈቃድ ለማግኘት 65 ሚሊዮን ዶላር ከፈለ (Airtel Kenya spends Sh8.4 billion to secure 100 MHz of 5G spectrum for 25 years)",
   "የኬንያ ማዕከላዊ ባንክ ተበዳሪዎች ባንክ እንዲቀይሩ የሚያስችል የዲጂታል መያዣ መዝገብ እያዘጋጀ ነው (CBK and bankers develop electronic collateral registry to help borrowers switch lenders)",
   "አዋሽ ባንክ 38.3 ቢሊዮን ብር ትርፍ እና 624 ቢሊዮን ብር ሀብት ማስመዝገቡን ገለጸ (Awash Bank Reports Assets of Over Birr 624 Billion in 2025/26 Fiscal Year)",
-  "የሜሶብ የአንድ ማዕከል የመንግሥት አገልግሎት ወደ መቀሌ ሊስፋፋ ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)"
+  "የሜሶብ የአንድ ማዕከል የመንግሥት አገልግሎት ወደ መቀሌ ሊስፋፋ ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
+  "Enza Capital ለአፍሪካ የሰው ሰራሽ አስተዋይነት (AI) ስታርታፖች አዲስ ፈንድ ይፋ አደረገ (Enza Capital wants Africa to build its AI with its new fund)"
  ],
  "posted_at": [
   1793480879.8592176,
@@ -1333,6 +1326,7 @@
   1793484461.4307175,
   1793486141.9830103,
   1793488120.4164279,
-  1793619412.1111405
+  1793619412.1111405,
+  1793621607.6144295
  ]
 }
