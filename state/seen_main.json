@@ -1,13 +1,5 @@
 {
  "seen": {
-  "addeeb09b1f72534": 1792433733.6523075,
-  "214e82d9cc843bed": 1792433733.6523075,
-  "7bc39fe116f883fe": 1792433733.6523075,
-  "1e12eda490ed0a56": 1792433733.6523075,
-  "85e8a2b6e38d8a61": 1792433733.6523075,
-  "21f050ed8c1e288a": 1792433733.6523075,
-  "0d3dc626b22ed51e": 1792433733.6523075,
-  "83787812b8882668": 1792433733.6523075,
   "a90d50cf94cf39e7": 1792435516.7297812,
   "1d0d45ffac10895e": 1792435516.7297812,
   "85a3c31554f63333": 1792435516.7297812,
@@ -2614,10 +2606,14 @@
   "b6499b4bdcb2affb": 1793643045.304158,
   "6d8e7f0160e68701": 1793643045.304158,
   "60bc53d3629ef4b6": 1793643045.304158,
-  "7e8aee66dd314620": 1793643045.304158
+  "7e8aee66dd314620": 1793643045.304158,
+  "846d7db872b81c12": 1793644520.7689314,
+  "179e150497898068": 1793644520.7689314,
+  "13a9065805959410": 1793644520.7689314,
+  "0fe0d7bd3b5032df": 1793644520.7689314,
+  "c51c87add0ac90dc": 1793644520.7689314
  },
  "recent_headlines": [
-  "ኮሜሳ የፕሪቶሪያ የሰላም ስምምነት ሙሉ በሙሉ እንዲተገበር የአፍሪካ ኅብረት አባላት እንዲደግፉ ጠየቀ (ኮሜሳ የፕሪቶሪያ የሰላም ስምምነት ሙሉ በሙሉ ተግባራዊ እንዲደረግ የአፍሪካ ኅብረት አባል አገሮች እንዲደግፉ ጠየቀ)",
   "የብሔራዊ ዲጂታል መታወቂያ ፕሮግራም ስሙን ወደ FaydaVerse በመቀየር አገልግሎቱን አሰፋ (FaydaVerse Expands Beyond National ID Registration)",
   "ICAO ኢትዮጵያ የአቪዬሽን ቁጥጥር ባለሙያዎቿን ማበረታቻ እንድታሻሽል አሰሰበ (ICAO urges Ethiopia to strengthen incentives to retain aviation inspectors)",
   "ሕብረት ኢንሹራንስ 965.3 ሚሊዮን ብር የተጣራ ትርፍ ማኘቱን ገለጸ (Hibret Insurance targets market expansion and revenue diversification)",
@@ -2656,7 +2652,8 @@
   "የሶማሊላንድ ባለሥልጣናት በቦራማ በኦሮሞ ነዋሪዎች ላይ የተፈጸመውን ጥቃት ኮነኑ (Angawoonni Somaalilaand haleellaa jiraattota Oromoo Booramaa irratti raawwatame balaaleffatan; manneen 150 ol miidhaan irra gahuunis gabaafame)",
   "በሱዳን የኃይል ማዕከላት ላይ ተጨማሪ የድሮን ጥቃቶች መፈጸማቸው ተገለጸ (Drone attacks extend campaign targeting Sudan’s power system)",
   "በዩክሬን Kherson ግዛት ለ6 ቀናት የቆየው የተኩስ ማቆም አብቅቶ ውጊያ ተጀመረ (Fighting returns to Kherson region after longest Ukraine war ceasefire)",
-  "በዩክሬን የእርዳታ ማዕከል ላይ በተፈጸመ የሩሲያ የአየር ጥቃት 18 ሰዎች ተገደሉ (Russian bombing kills 18 people at Ukraine aid centre, Kyiv says)"
+  "በዩክሬን የእርዳታ ማዕከል ላይ በተፈጸመ የሩሲያ የአየር ጥቃት 18 ሰዎች ተገደሉ (Russian bombing kills 18 people at Ukraine aid centre, Kyiv says)",
+  "ኤፍኤኦ ኢትዮጵያ ከተፈጥሮ አደጋ ድንገተኛ እርዳታ ወደ ቅድመ መከላከል እንድትሸጋገር ጠየቀ (FAO urges Ethiopia to shift from emergency aid to anticipatory action against recurring climate disasters)"
  ],
  "posted_at": [
   1793475373.9111416,
@@ -2705,6 +2702,7 @@
   1793632236.3519444,
   1793643124.112419,
   1793643127.661854,
-  1793643131.2142215
+  1793643131.2142215,
+  1793644563.2336574
  ]
 }
