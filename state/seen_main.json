@@ -1,8 +1,5 @@
 {
  "seen": {
-  "a90d50cf94cf39e7": 1792435516.7297812,
-  "1d0d45ffac10895e": 1792435516.7297812,
-  "85a3c31554f63333": 1792435516.7297812,
   "06dec074f65a869d": 1792436946.5190172,
   "d9762038a490b0cc": 1792436946.5190172,
   "fa39d233e3cb4a0e": 1792436946.5190172,
@@ -2611,10 +2608,16 @@
   "179e150497898068": 1793644520.7689314,
   "13a9065805959410": 1793644520.7689314,
   "0fe0d7bd3b5032df": 1793644520.7689314,
-  "c51c87add0ac90dc": 1793644520.7689314
+  "c51c87add0ac90dc": 1793644520.7689314,
+  "e68211329a915a22": 1793646463.5873191,
+  "98fb062687dfd879": 1793646463.5873191,
+  "7358c6c51900b775": 1793646463.5873191,
+  "06e76ce1b443a5ef": 1793646463.5873191,
+  "2cf501c34824d283": 1793646463.5873191,
+  "e46449b1c9e4ba1d": 1793646463.5873191,
+  "d3c953a9c9bce59d": 1793646463.5873191
  },
  "recent_headlines": [
-  "የብሔራዊ ዲጂታል መታወቂያ ፕሮግራም ስሙን ወደ FaydaVerse በመቀየር አገልግሎቱን አሰፋ (FaydaVerse Expands Beyond National ID Registration)",
   "ICAO ኢትዮጵያ የአቪዬሽን ቁጥጥር ባለሙያዎቿን ማበረታቻ እንድታሻሽል አሰሰበ (ICAO urges Ethiopia to strengthen incentives to retain aviation inspectors)",
   "ሕብረት ኢንሹራንስ 965.3 ሚሊዮን ብር የተጣራ ትርፍ ማኘቱን ገለጸ (Hibret Insurance targets market expansion and revenue diversification)",
   "ኢራን እና ቃጣር የሆርሙዝ ወሽመጥን በሁለት ቀናት ውስጥ ለመክፈት ተወያዩ (Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz)",
@@ -2653,7 +2656,8 @@
   "በሱዳን የኃይል ማዕከላት ላይ ተጨማሪ የድሮን ጥቃቶች መፈጸማቸው ተገለጸ (Drone attacks extend campaign targeting Sudan’s power system)",
   "በዩክሬን Kherson ግዛት ለ6 ቀናት የቆየው የተኩስ ማቆም አብቅቶ ውጊያ ተጀመረ (Fighting returns to Kherson region after longest Ukraine war ceasefire)",
   "በዩክሬን የእርዳታ ማዕከል ላይ በተፈጸመ የሩሲያ የአየር ጥቃት 18 ሰዎች ተገደሉ (Russian bombing kills 18 people at Ukraine aid centre, Kyiv says)",
-  "ኤፍኤኦ ኢትዮጵያ ከተፈጥሮ አደጋ ድንገተኛ እርዳታ ወደ ቅድመ መከላከል እንድትሸጋገር ጠየቀ (FAO urges Ethiopia to shift from emergency aid to anticipatory action against recurring climate disasters)"
+  "ኤፍኤኦ ኢትዮጵያ ከተፈጥሮ አደጋ ድንገተኛ እርዳታ ወደ ቅድመ መከላከል እንድትሸጋገር ጠየቀ (FAO urges Ethiopia to shift from emergency aid to anticipatory action against recurring climate disasters)",
+  "በሱዳን ብሉ ናይል ግዛት በተቀሰቀሰው ግጭት ወደ 120 ሺህ የሚጠጉ ሰዎች ተፈናቀሉ (Daily_Brief: Nearly 120,000 displaced from #Sudan’s #Blue_Nile State amid escalating conflict, IOM says)"
  ],
  "posted_at": [
   1793475373.9111416,
@@ -2703,6 +2707,7 @@
   1793643124.112419,
   1793643127.661854,
   1793643131.2142215,
-  1793644563.2336574
+  1793644563.2336574,
+  1793646510.767691
  ]
 }
