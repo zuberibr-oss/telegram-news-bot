@@ -1,9 +1,5 @@
 {
  "seen": {
-  "f51443d552da712b": 1792431526.0140736,
-  "6f43741f273b48f3": 1792431526.0140736,
-  "072a3ae16d3466e0": 1792431526.0140736,
-  "4d6241439904c239": 1792431526.0140736,
   "addeeb09b1f72534": 1792433733.6523075,
   "214e82d9cc843bed": 1792433733.6523075,
   "7bc39fe116f883fe": 1792433733.6523075,
@@ -2611,12 +2607,16 @@
   "aa5ab41b2a9df031": 1793639379.2071395,
   "cb62e14d9b498eb2": 1793640980.8582556,
   "762f12d011caf2f9": 1793640980.8582556,
-  "51d733f94d1391f9": 1793640980.8582556
+  "51d733f94d1391f9": 1793640980.8582556,
+  "14c4cc5ea9ef1597": 1793643045.304158,
+  "c9e32f9a0f7e79a7": 1793643045.304158,
+  "2247079f61b77791": 1793643045.304158,
+  "b6499b4bdcb2affb": 1793643045.304158,
+  "6d8e7f0160e68701": 1793643045.304158,
+  "60bc53d3629ef4b6": 1793643045.304158,
+  "7e8aee66dd314620": 1793643045.304158
  },
  "recent_headlines": [
-  "በኢትዮጵያ የማገዶ እንጨት ለመልቀም በዓመት 20 ቢሊዮን ሰዓታት እንደሚባክኑ ተገለጸ (በኢትዮጵያ የማገዶ እንጨት ለመልቀም በዓመት 20 ቢሊዮን ሰዓታት እንደሚጠፉ ተነገረ)",
-  "በለጋሾች የሚደገፉ የግብርና የመድን ፕሮግራሞች በመንግሥት አሠራር ውስጥ እንዲካተቱ ተጠየቀ (በለጋሾች የሚጀመሩ የግብርና መድን ፕሮግራሞች እንዳይከስሙ በመንግሥት አሠራር ውስጥ እንዲካተቱ ተጠየቀ)",
-  "የደቡብ ሬዲዮና ቴሌቪዥን ድርጅት በበጀትና የአመራር ችግር ምክንያት የመዘጋት አደጋ ተጋረጠበት (የደቡብ ሬዲዮና ቴሌቪዥን ድርጅት የመዘጋት አደጋ እንደተጋረጠበት ተነገረ ‹‹ሕጋዊ የቦርድ ሰብሳቢ ሥልጣን ስለሌለኝ መረጃ መስጠት አልችልም››)",
   "ኮሜሳ የፕሪቶሪያ የሰላም ስምምነት ሙሉ በሙሉ እንዲተገበር የአፍሪካ ኅብረት አባላት እንዲደግፉ ጠየቀ (ኮሜሳ የፕሪቶሪያ የሰላም ስምምነት ሙሉ በሙሉ ተግባራዊ እንዲደረግ የአፍሪካ ኅብረት አባል አገሮች እንዲደግፉ ጠየቀ)",
   "የብሔራዊ ዲጂታል መታወቂያ ፕሮግራም ስሙን ወደ FaydaVerse በመቀየር አገልግሎቱን አሰፋ (FaydaVerse Expands Beyond National ID Registration)",
   "ICAO ኢትዮጵያ የአቪዬሽን ቁጥጥር ባለሙያዎቿን ማበረታቻ እንድታሻሽል አሰሰበ (ICAO urges Ethiopia to strengthen incentives to retain aviation inspectors)",
@@ -2653,7 +2653,10 @@
   "ኢራን ቅድመ ሁኔታዎቿ ከተሟሉ ከአሜሪካ ጋር ውይይት ለመጀመር ዝግጁ መሆኗን ገለጸች (Iran says US talks could resume ‘within a short period’ if demands are met)",
   "በሞያሌ ከኢትዮጵያ ድንበር የተተኮሱ ሮኬቶች ኬንያ መውደቃቸውን የኬንያ ፖሊስ ገለጸ (ግጭት ከተቀሰቀሰባት ሞያሌ ወደ ኬንያ ድንበር \"ሮኬቶች መተኮሳቸውን\" የኬንያ ፖሊስ አስታወቀ)",
   "በትግራይ ክልል የመንግሥት ሠራተኞች ደመወዝ ክፍያ በዚህ ወር እንደሚጀምር ተገለጸ (Tigray Region Accelerates Institutional Recovery as Government Employee Salary Payments Set to Resume This Month)",
-  "የሶማሊላንድ ባለሥልጣናት በቦራማ በኦሮሞ ነዋሪዎች ላይ የተፈጸመውን ጥቃት ኮነኑ (Angawoonni Somaalilaand haleellaa jiraattota Oromoo Booramaa irratti raawwatame balaaleffatan; manneen 150 ol miidhaan irra gahuunis gabaafame)"
+  "የሶማሊላንድ ባለሥልጣናት በቦራማ በኦሮሞ ነዋሪዎች ላይ የተፈጸመውን ጥቃት ኮነኑ (Angawoonni Somaalilaand haleellaa jiraattota Oromoo Booramaa irratti raawwatame balaaleffatan; manneen 150 ol miidhaan irra gahuunis gabaafame)",
+  "በሱዳን የኃይል ማዕከላት ላይ ተጨማሪ የድሮን ጥቃቶች መፈጸማቸው ተገለጸ (Drone attacks extend campaign targeting Sudan’s power system)",
+  "በዩክሬን Kherson ግዛት ለ6 ቀናት የቆየው የተኩስ ማቆም አብቅቶ ውጊያ ተጀመረ (Fighting returns to Kherson region after longest Ukraine war ceasefire)",
+  "በዩክሬን የእርዳታ ማዕከል ላይ በተፈጸመ የሩሲያ የአየር ጥቃት 18 ሰዎች ተገደሉ (Russian bombing kills 18 people at Ukraine aid centre, Kyiv says)"
  ],
  "posted_at": [
   1793475373.9111416,
@@ -2699,6 +2702,9 @@
   1793628718.8737187,
   1793628722.313635,
   1793630187.2618105,
-  1793632236.3519444
+  1793632236.3519444,
+  1793643124.112419,
+  1793643127.661854,
+  1793643131.2142215
  ]
 }
