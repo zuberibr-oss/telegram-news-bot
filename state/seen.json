@@ -1,8 +1,5 @@
 {
  "seen": {
-  "bd7377ef69921d51": 1792414221.4026532,
-  "2c0c9038be7048ea": 1792414221.4026532,
-  "274301625d97d24f": 1792414221.4026532,
   "a0113a20533fc4ce": 1792415655.1012526,
   "a911b40816be9ca0": 1792415655.1012526,
   "24d463223e5ae3be": 1792415655.1012526,
@@ -1274,10 +1271,11 @@
   "05feaefa31190332": 1793622958.2095058,
   "9c6f9b03f9948240": 1793622958.2095058,
   "1647315c2468ab38": 1793622958.2095058,
-  "66ff5fb9c8eb0199": 1793622958.2095058
+  "66ff5fb9c8eb0199": 1793622958.2095058,
+  "339c09083896ce2f": 1793624985.1785471,
+  "2ead03b24ba780bf": 1793624985.1785471
  },
  "recent_headlines": [
-  "Datacentrix እና Utimaco በአፍሪካ የሳይበር ደህንነትን ለማጠናከር ተጣመሩ (Datacentrix, Utimaco join forces to boost data security and digital trust across Africa)",
   "የናይሮቢ ኢንተርናሽናል ፋይናንስ ሴንተር ለቴክኖሎጂና AI 250 ሚሊዮን ዶላር ፈንድ ሊያቋቁም ነው (NIFCA plans $250 million fund as Kenya confronts the question of who finances African innovation)",
   "በአፍሪካ ሀገር አቀፍ የክፍያ ስርዓቶች ቢጎለብቱም ድንበር ተሻጋሪ ዝውውር አሁንም ፈታኝ ነው (Africa has built sophisticated domestic payment systems, but businesses still struggle to move money across borders)",
   "በደቡብ አፍሪካ የፋይበር ኢንተርኔት መሠረተ ልማት ያላቸው መኖሪያ ቤቶች ግንባታ ሙከራ ተጀመረ (Fibre-ready housing trial kicks-off in KZN)",
@@ -1316,7 +1314,8 @@
   "አዋሽ ባንክ 38.3 ቢሊዮን ብር ትርፍ እና 624 ቢሊዮን ብር ሀብት ማስመዝገቡን ገለጸ (Awash Bank Reports Assets of Over Birr 624 Billion in 2025/26 Fiscal Year)",
   "የሜሶብ የአንድ ማዕከል የመንግሥት አገልግሎት ወደ መቀሌ ሊስፋፋ ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
   "Enza Capital ለአፍሪካ የሰው ሰራሽ አስተዋይነት (AI) ስታርታፖች አዲስ ፈንድ ይፋ አደረገ (Enza Capital wants Africa to build its AI with its new fund)",
-  "በደቡብ አፍሪካ በራንድ የተደገፈው eZAR የስቴብልኮይን አገልግሎት ለህዝብ ክፍት ሆነ (eZAR opens rand stablecoin to SA public)"
+  "በደቡብ አፍሪካ በራንድ የተደገፈው eZAR የስቴብልኮይን አገልግሎት ለህዝብ ክፍት ሆነ (eZAR opens rand stablecoin to SA public)",
+  "የናይጄሪያው OPay በኒውዮርክ ሊያካሂደው የነበረው የ4 ቢሊዮን ዶላር IPO ተሰረዘ (The Next Wave: The problem with putting an African fintech on Wall Street)"
  ],
  "posted_at": [
   1793480879.8592176,
@@ -1326,6 +1325,7 @@
   1793488120.4164279,
   1793619412.1111405,
   1793621607.6144295,
-  1793623061.0598748
+  1793623061.0598748,
+  1793625058.3488038
  ]
 }
