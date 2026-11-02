@@ -1277,10 +1277,13 @@
   "027c2592577688cd": 1793653618.829171,
   "db2d5d54b0a9a36d": 1793653618.829171,
   "6c882d87cd2afe89": 1793653618.829171,
-  "67ef59b95afbb37d": 1793653618.829171
+  "67ef59b95afbb37d": 1793653618.829171,
+  "5c9b18962ab70032": 1793655244.5910313,
+  "8f551021af1b1a70": 1793655244.5910313,
+  "ab3af01cd086dc99": 1793655244.5910313,
+  "88fde049c5c18283": 1793655244.5910313
  },
  "recent_headlines": [
-  "በአፍሪካ ሀገር አቀፍ የክፍያ ስርዓቶች ቢጎለብቱም ድንበር ተሻጋሪ ዝውውር አሁንም ፈታኝ ነው (Africa has built sophisticated domestic payment systems, but businesses still struggle to move money across borders)",
   "በደቡብ አፍሪካ የፋይበር ኢንተርኔት መሠረተ ልማት ያላቸው መኖሪያ ቤቶች ግንባታ ሙከራ ተጀመረ (Fibre-ready housing trial kicks-off in KZN)",
   "ኢትዮጵያ በኤሌክትሪክ ተሽከርካሪዎች ስርጭት ብትመራም የመሠረተ ልማት ማሻሻያ ያስፈልጋታል ተባለ (Ethiopia’s Electrification Progress Outpaces Its Enabling Conditions)",
   "ካቻ ዲጂታል ፋይናንስ ከ Mastercard ጋር የ5 ዓመት የክፍያ ካርድ ስምምነት ተፈራረመ (Kacha, Mastercard Ink Deal to Expand Card Issuance in Ethiopia)",
@@ -1319,7 +1322,8 @@
   "Enza Capital ለአፍሪካ የሰው ሰራሽ አስተዋይነት (AI) ስታርታፖች አዲስ ፈንድ ይፋ አደረገ (Enza Capital wants Africa to build its AI with its new fund)",
   "በደቡብ አፍሪካ በራንድ የተደገፈው eZAR የስቴብልኮይን አገልግሎት ለህዝብ ክፍት ሆነ (eZAR opens rand stablecoin to SA public)",
   "የናይጄሪያው OPay በኒውዮርክ ሊያካሂደው የነበረው የ4 ቢሊዮን ዶላር IPO ተሰረዘ (The Next Wave: The problem with putting an African fintech on Wall Street)",
-  "የኤምቲኤን ናይጄሪያ የፊንቴክ ገቢ በ26% ቀነሰ፤ MoMo ወደ አዲስ መድረክ ተዛወረ (MTN Nigeria moves MoMo to new platform as fintech revenue falls 26%)"
+  "የኤምቲኤን ናይጄሪያ የፊንቴክ ገቢ በ26% ቀነሰ፤ MoMo ወደ አዲስ መድረክ ተዛወረ (MTN Nigeria moves MoMo to new platform as fintech revenue falls 26%)",
+  "ስማርት አፍሪካ ሀገራት አቀፍ የዲጂታል መታወቂያዎችን የሚያገናኝ የሙከራ ፕሮጀክት አጠናቀቀ (The Infrastructure Mechanics of Africa’s First Interoperable Digital Identity Framework)"
  ],
  "posted_at": [
   1793482535.0577393,
@@ -1330,6 +1334,7 @@
   1793621607.6144295,
   1793623061.0598748,
   1793625058.3488038,
-  1793626553.783668
+  1793626553.783668,
+  1793655332.777827
  ]
 }
