@@ -1301,10 +1301,12 @@
   "6bd91e5c1a3d1344": 1793657254.6407857,
   "2a141dd9093c3bd1": 1793657254.6407857,
   "919b8330df46832c": 1793657254.6407857,
-  "4cafed74aa326ef7": 1793657254.6407857
+  "4cafed74aa326ef7": 1793657254.6407857,
+  "d8e810ec4765d340": 1793658861.0920486,
+  "ac983621c2945ffc": 1793658861.0920486,
+  "99e9d146285b8be3": 1793658861.0920486
  },
  "recent_headlines": [
-  "በደቡብ አፍሪካ የፋይበር ኢንተርኔት መሠረተ ልማት ያላቸው መኖሪያ ቤቶች ግንባታ ሙከራ ተጀመረ (Fibre-ready housing trial kicks-off in KZN)",
   "ኢትዮጵያ በኤሌክትሪክ ተሽከርካሪዎች ስርጭት ብትመራም የመሠረተ ልማት ማሻሻያ ያስፈልጋታል ተባለ (Ethiopia’s Electrification Progress Outpaces Its Enabling Conditions)",
   "ካቻ ዲጂታል ፋይናንስ ከ Mastercard ጋር የ5 ዓመት የክፍያ ካርድ ስምምነት ተፈራረመ (Kacha, Mastercard Ink Deal to Expand Card Issuance in Ethiopia)",
   "በኬንያ የናይሮቢ ሰነደ መዋዕለ ንዋይ ገበያ ባለሀብቶች ቁጥር 2.36 ሚሊዮን ደረሰ (More Kenyans turn to stocks as NSE investor numbers hit 2.36 million)",
@@ -1343,7 +1345,8 @@
   "በደቡብ አፍሪካ በራንድ የተደገፈው eZAR የስቴብልኮይን አገልግሎት ለህዝብ ክፍት ሆነ (eZAR opens rand stablecoin to SA public)",
   "የናይጄሪያው OPay በኒውዮርክ ሊያካሂደው የነበረው የ4 ቢሊዮን ዶላር IPO ተሰረዘ (The Next Wave: The problem with putting an African fintech on Wall Street)",
   "የኤምቲኤን ናይጄሪያ የፊንቴክ ገቢ በ26% ቀነሰ፤ MoMo ወደ አዲስ መድረክ ተዛወረ (MTN Nigeria moves MoMo to new platform as fintech revenue falls 26%)",
-  "ስማርት አፍሪካ ሀገራት አቀፍ የዲጂታል መታወቂያዎችን የሚያገናኝ የሙከራ ፕሮጀክት አጠናቀቀ (The Infrastructure Mechanics of Africa’s First Interoperable Digital Identity Framework)"
+  "ስማርት አፍሪካ ሀገራት አቀፍ የዲጂታል መታወቂያዎችን የሚያገናኝ የሙከራ ፕሮጀክት አጠናቀቀ (The Infrastructure Mechanics of Africa’s First Interoperable Digital Identity Framework)",
+  "DSRV የኢትዮጵያን ዲጂታል መታወቂያ ከብሎክቼይን ቴክኖሎጂ ጋር ለማያያዝ ከኢትዮጵያ ጋር ተባበረ (DSRV Partners With Ethiopia to Link Digital ID and Blockchain Services)"
  ],
  "posted_at": [
   1793486141.9830103,
@@ -1353,6 +1356,7 @@
   1793623061.0598748,
   1793625058.3488038,
   1793626553.783668,
-  1793655332.777827
+  1793655332.777827,
+  1793658933.9925003
  ]
 }
