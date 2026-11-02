@@ -1,13 +1,5 @@
 {
  "seen": {
-  "42e3fc1c8f558a72": 1792417543.5945747,
-  "ef92a2d08cf5e965": 1792417543.5945747,
-  "5c4073004115d80b": 1792417543.5945747,
-  "f31ca2148342cbce": 1792417543.5945747,
-  "5db3a2a7bcf2bb3f": 1792417543.5945747,
-  "71d702c1aaa05166": 1792417543.5945747,
-  "ce1cdf028a410ce2": 1792417543.5945747,
-  "bc0d60052391f4f8": 1792417543.5945747,
   "cea096ba3e4ec8c0": 1792419184.2514746,
   "e7c4ce712cd90b01": 1792419184.2514746,
   "b2484d25869697ab": 1792419184.2514746,
@@ -2619,12 +2611,17 @@
   "2bb2c79e27e7d2ca": 1793625058.5886874,
   "3d892edee99dd30d": 1793625058.5886874,
   "42ba51301fe23cbe": 1793625058.5886874,
-  "1505c659f2813556": 1793626553.9368918
+  "1505c659f2813556": 1793626553.9368918,
+  "93c10441f38f58cf": 1793628644.0780036,
+  "d5f3318d7cc62b6e": 1793628644.0780036,
+  "63d4f24edae0fe6a": 1793628644.0780036,
+  "64956f21b9162306": 1793628644.0780036,
+  "b83b3c2bb04b2d6e": 1793628644.0780036,
+  "99f81bd3f086f3b0": 1793628644.0780036,
+  "dbb12d71009c2c5d": 1793628644.0780036,
+  "cbced9156e809f23": 1793628644.0780036
  },
  "recent_headlines": [
-  "ኢትዮጵያ ድንበር ተሻጋሪ ወንጀሎችን ለመግታት የኢንተርፖልን የበረራ መረጃ ቴክኖሎጂ ልትተገብር ነው (Ethiopia to Introduce INTERPOL Traveller Connectivity Technology to Combat Cross-Border Crime)",
-  "በቢናንስ የክሪፕቶረንሲ ልውውጥ መድረክ ላይ የ6.3 ቢሊዮን ዶላር የሳይበር ጥቃት ተፈጸመ (How vulnerable are cryptocurrency platforms?)",
-  "የቱርክ እና የዩክሬን መሪዎች በጥቁር ባህር አዲስ የእህል ኮሪደር ለመዘርጋት ተስማሙ (Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks)",
   "በናይጄሪያ ሁለት ሰዎች በኤቦላ ቫይረስ መጠረጠራቸው ተገለጸ (Health authorities probe two suspected Ebola cases in northeast Nigeria)",
   "መንግሥት ከተቀማጭ ገንዘብ መድን ፈንድ 3.86 ቢሊዮን ብር ተበደረ (መንግሥት በበጀት ዓመት ከመድን ፈንድ 3.86 ቢሊዮን ብር መበደሩ ተነገረ)",
   "በኢትዮጵያ የማገዶ እንጨት ለመልቀም በዓመት 20 ቢሊዮን ሰዓታት እንደሚባክኑ ተገለጸ (በኢትዮጵያ የማገዶ እንጨት ለመልቀም በዓመት 20 ቢሊዮን ሰዓታት እንደሚጠፉ ተነገረ)",
@@ -2661,7 +2658,10 @@
   "በምዕራባዊ ሰሐራ ለ35 ዓመታት ሲንቀሳቀስ የቆየው የተባበሩት መንግሥታት የሰላም ማስከበር ተልዕኮ አበቃ (UN’s peacekeeping mission in disputed Western Sahara ends after 35 years)",
   "በትግራይ አበርገለ ወረዳ በፈንጂ ፍንዳታ የአራት ሕፃናትን ሕይወት ጨምሮ የ10 ሰዎች ሕይወት አለፈ (በትግራይ ክልል 10 ሰዎች በፈንጂ ምክንያት ህይወታቸውን አጡ)",
   "Allied Gold በኩርሙክ የወርቅ ማዕድን የቴክኒክ ፍተሻ በመጀመር ወደ ማምረት ሊሸጋገር ነው (Allied gold begins wet commissioning at Kurmuk mine, targets first gold within days)",
-  "አዲስ አበባ በረጅም ጊዜ ብድር መሠረተ ልማት ከሚገነቡ ጥቂት የአፍሪካ ከተሞች አንዷ ተባለች (Addis Ababa among Rare African Pioneers in Long-term Debt Financing Model: World Bank)"
+  "አዲስ አበባ በረጅም ጊዜ ብድር መሠረተ ልማት ከሚገነቡ ጥቂት የአፍሪካ ከተሞች አንዷ ተባለች (Addis Ababa among Rare African Pioneers in Long-term Debt Financing Model: World Bank)",
+  "የዓለም ጤና ድርጅት በአማራና ትግራይ ጥቃቶች የኢትዮጵያ የጤና ሥርዓት ሊፈርስ እንደሚችል አስጠነቀቀ (Hogganaan Dhaabbata Fayyaa Addunyaa itti fufiinsi haleellaa naannoo Amaaraa fi Tigraay sirna fayyaa Itoophiyaa kufaatiif saaxilaa akka jiru akeekkachiisan)",
+  "ኢራን ቅድመ ሁኔታዎቿ ከተሟሉ ከአሜሪካ ጋር ውይይት ለመጀመር ዝግጁ መሆኗን ገለጸች (Iran says US talks could resume ‘within a short period’ if demands are met)",
+  "በሞያሌ ከኢትዮጵያ ድንበር የተተኮሱ ሮኬቶች ኬንያ መውደቃቸውን የኬንያ ፖሊስ ገለጸ (ግጭት ከተቀሰቀሰባት ሞያሌ ወደ ኬንያ ድንበር \"ሮኬቶች መተኮሳቸውን\" የኬንያ ፖሊስ አስታወቀ)"
  ],
  "posted_at": [
   1793457361.2694926,
@@ -2705,6 +2705,9 @@
   1793623186.3654077,
   1793623189.9131532,
   1793623193.4527514,
-  1793625114.708945
+  1793625114.708945,
+  1793628715.4517004,
+  1793628718.8737187,
+  1793628722.313635
  ]
 }
