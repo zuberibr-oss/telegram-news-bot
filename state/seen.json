@@ -1,12 +1,5 @@
 {
  "seen": {
-  "5231a5be5962d8ce": 1792412291.332001,
-  "ef9596aed2e2cf6b": 1792412291.332001,
-  "4cf23399d2460125": 1792412291.332001,
-  "3dc8ea570a1dc59d": 1792412291.332001,
-  "f4055fcca2764b15": 1792412291.332001,
-  "01e9afe8234d4df2": 1792412291.332001,
-  "0ae4c1faeab7a81b": 1792412291.332001,
   "bd7377ef69921d51": 1792414221.4026532,
   "2c0c9038be7048ea": 1792414221.4026532,
   "274301625d97d24f": 1792414221.4026532,
@@ -1276,10 +1269,14 @@
   "e39dd79567110939": 1793619245.4200928,
   "bbf0280c23a4ab1b": 1793619245.4200928,
   "792f09a8867957b7": 1793619245.4200928,
-  "a56db301b7709408": 1793621531.0019987
+  "a56db301b7709408": 1793621531.0019987,
+  "15321acc654ed400": 1793622958.2095058,
+  "05feaefa31190332": 1793622958.2095058,
+  "9c6f9b03f9948240": 1793622958.2095058,
+  "1647315c2468ab38": 1793622958.2095058,
+  "66ff5fb9c8eb0199": 1793622958.2095058
  },
  "recent_headlines": [
-  "የደቡብ አፍሪካው የክፍያ ተቋም CrissCross ከ Circle Ventures ኢንቨስትመንት አገኘ (South Africa’s CrissCross raises undisclosed Circle Ventures investment in stablecoin push)",
   "Datacentrix እና Utimaco በአፍሪካ የሳይበር ደህንነትን ለማጠናከር ተጣመሩ (Datacentrix, Utimaco join forces to boost data security and digital trust across Africa)",
   "የናይሮቢ ኢንተርናሽናል ፋይናንስ ሴንተር ለቴክኖሎጂና AI 250 ሚሊዮን ዶላር ፈንድ ሊያቋቁም ነው (NIFCA plans $250 million fund as Kenya confronts the question of who finances African innovation)",
   "በአፍሪካ ሀገር አቀፍ የክፍያ ስርዓቶች ቢጎለብቱም ድንበር ተሻጋሪ ዝውውር አሁንም ፈታኝ ነው (Africa has built sophisticated domestic payment systems, but businesses still struggle to move money across borders)",
@@ -1318,7 +1315,8 @@
   "የኬንያ ማዕከላዊ ባንክ ተበዳሪዎች ባንክ እንዲቀይሩ የሚያስችል የዲጂታል መያዣ መዝገብ እያዘጋጀ ነው (CBK and bankers develop electronic collateral registry to help borrowers switch lenders)",
   "አዋሽ ባንክ 38.3 ቢሊዮን ብር ትርፍ እና 624 ቢሊዮን ብር ሀብት ማስመዝገቡን ገለጸ (Awash Bank Reports Assets of Over Birr 624 Billion in 2025/26 Fiscal Year)",
   "የሜሶብ የአንድ ማዕከል የመንግሥት አገልግሎት ወደ መቀሌ ሊስፋፋ ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
-  "Enza Capital ለአፍሪካ የሰው ሰራሽ አስተዋይነት (AI) ስታርታፖች አዲስ ፈንድ ይፋ አደረገ (Enza Capital wants Africa to build its AI with its new fund)"
+  "Enza Capital ለአፍሪካ የሰው ሰራሽ አስተዋይነት (AI) ስታርታፖች አዲስ ፈንድ ይፋ አደረገ (Enza Capital wants Africa to build its AI with its new fund)",
+  "በደቡብ አፍሪካ በራንድ የተደገፈው eZAR የስቴብልኮይን አገልግሎት ለህዝብ ክፍት ሆነ (eZAR opens rand stablecoin to SA public)"
  ],
  "posted_at": [
   1793480879.8592176,
@@ -1327,6 +1325,7 @@
   1793486141.9830103,
   1793488120.4164279,
   1793619412.1111405,
-  1793621607.6144295
+  1793621607.6144295,
+  1793623061.0598748
  ]
 }
