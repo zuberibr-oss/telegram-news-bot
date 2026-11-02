@@ -1,11 +1,5 @@
 {
  "seen": {
-  "49177d70e5bb9651": 1792408340.2445514,
-  "4328d37fe0d8edfc": 1792408340.2445514,
-  "ba383047eaed7b34": 1792408340.2445514,
-  "51f468400dd41bc4": 1792408340.2445514,
-  "89992a82cab1f16c": 1792408340.2445514,
-  "e489329e3cb85cdb": 1792408340.2445514,
   "8e1cf3c18a878055": 1792410131.0273635,
   "5e6e03b02c5d341a": 1792410131.0273635,
   "8a393fad3ff0d35f": 1792410131.0273635,
@@ -2567,13 +2561,22 @@
   "bf3e224e09ac0d7b": 1793592958.347141,
   "15630e439432b72e": 1793594509.4270837,
   "dbb4ea64365f3162": 1793594509.4270837,
-  "c57c9713ec3ca07f": 1793608892.5570774
+  "c57c9713ec3ca07f": 1793608892.5570774,
+  "68bbb1bee8a29cf4": 1793618010.5549443,
+  "8aaeebd33fa4744c": 1793618010.5549443,
+  "7656991c25add387": 1793618010.5549443,
+  "99ab2670ebaef84e": 1793618010.5549443,
+  "5ebd3261f310ccdd": 1793618010.5549443,
+  "c2708f2d96520ef2": 1793618010.5549443,
+  "d7401e8972faa1c2": 1793618010.5549443,
+  "dbce121f7d88b2d7": 1793618010.5549443,
+  "be2f00c040076add": 1793618010.5549443,
+  "792f09a8867957b7": 1793618010.5549443,
+  "33c49d6b03e076b2": 1793618010.5549443,
+  "76e52116137085f6": 1793618010.5549443,
+  "53a30b33b85a330a": 1793618010.5549443
  },
  "recent_headlines": [
-  "የኢትዮጵያ የተቀማጭ ገንዘብ ዋስትና ፈንድ በሩብ ዓመቱ 2.6 ቢሊዮን ብር ሰበሰበ (Ethiopian Deposit Insurance Fund Records ETB2.6Bln in Q1 Premiums)",
-  "የግብር ስወራን እና ያልተገለጸ ገቢን የሚቆጣጠር አዲስ መመሪያ ተዘረጋ (New Tax Rule Cracks Down on Undeclared Income, False Accounting)",
-  "ኢትዮጵያ 12 ሱ-35 የጦር ጄቶችን ከሩሲያ መረከቧን ጠቅላይ ሚኒስትር ዐቢይ አስታወቁ (Moscow Summit demands Compensation for Colonial-Era Damages on African Countries)",
-  "የተባበሩት መንግሥታት ድርጅት በምዕራባዊ ሰሃራ ጉዳይ የቀረቡ የውሳኔ ሃሳቦችን ውድቅ አደረገ (Rival US and Russian resolutions on Western Sahara fail at UN)",
   "ሴኔጋል የአፍሪካ የመጀመሪያውን የወጣቶች ኦሊምፒክ ውድድር ማስተናገድ ጀመረች (Senegal hosts Africa’s first ever Youth Olympic Games)",
   "የኢትዮጵያ ኤሌክትሪክ አገልግሎት የጂቡቲ የንግድ መስመርን በኤሌክትሪክ ለማንቀሳቀስ አቀደ (Ethiopia to electrify strategic Djibouti Trade Corridor with Multi-Million-Dollar EV Infrastructure Plan)",
   "የተባበሩት መንግሥታት ድርጅት በሶማሊያ የነበረውን የፖለቲካ ተልዕኮ አጠናቀቀ (UN closes Somalia mission, ending three decades of political engagement)",
@@ -2609,7 +2612,11 @@
   "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግዳለች መባሉን አስተባበለች (#Daily_Brief: #Saudi_Arabia denies suspending domestic worker recruitment from #Ethiopia)",
   "ኢትዮጵያ ከአረንጓዴ የአየር ንብረት ፈንድ የ30 ሚሊዮን ዶላር ፋይናንስ አገኘች (Daily_Brief: #Ethiopia secures $30 million in Green Climate Fund financing for climate resilience)",
   "ሱዳን ለሩሲያ የወርቅ እና የመዳብ ማዕድን ኢንቨስትመንት ቦታዎችን አቀረበች (#Daily_Brief: #Sudan offers #Russia investment sites for gold, copper mining)",
-  "የእስራኤል የመጀመሪያው አምባሳደር በሶማሊላንድ የማረጋገጫ ደብዳቤያቸውን አቀረቡ (Israel’s first ambassador to Somaliland presents credentials in Hargeisa)"
+  "የእስራኤል የመጀመሪያው አምባሳደር በሶማሊላንድ የማረጋገጫ ደብዳቤያቸውን አቀረቡ (Israel’s first ambassador to Somaliland presents credentials in Hargeisa)",
+  "መቀሌ የ«መሶብ» የተቀናጀ የአንድ ማዕከል አገልግሎት መረብን ልትቀላቀል ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
+  "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ለመቀላቀል የምታደርገው ድርድር ጠንከር ያሉ ቅድመ ሁኔታዎች ገጠሙት (Ethiopia’s WTO Terms Harden as Members Ask for More)",
+  "ዓዲግራት ዩኒቨርሲቲ ነባር እና አዲስ ተማሪዎችን መቀበል ጀመረ (Adigrat University Welcomes Returning and Newly Admitted Students as Academic Activities Resume Across Tigray Region)",
+  "ሱዳን ከኢትዮጵያ ስለሚነሱ የድሮን ጥቃቶች ለአፍሪካ ህብረትና UN አመለከተች (Sudan files complaints against Ethiopia with UN over deadly drone spree)"
  ],
  "posted_at": [
   1793448705.4338558,
@@ -2645,6 +2652,10 @@
   1793556692.5044272,
   1793558152.6417542,
   1793558156.1886594,
-  1793560077.1274574
+  1793560077.1274574,
+  1793618123.022173,
+  1793618126.701561,
+  1793618130.340793,
+  1793618133.9403625
  ]
 }
