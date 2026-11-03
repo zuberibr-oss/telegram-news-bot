@@ -1325,10 +1325,24 @@
   "d7c6d0a4761c7535": 1793743589.6622722,
   "218d767a2af8cdca": 1793743589.6622722,
   "e60e78274ee92668": 1793743589.6622722,
-  "f1864ee296f56a62": 1793743589.6622722
+  "f1864ee296f56a62": 1793743589.6622722,
+  "a04a017aa8393e98": 1793745243.8858395,
+  "fe7efd3d3a33d94c": 1793745243.8858395,
+  "cc0f7d2fa2c24cdf": 1793745243.8858395,
+  "d30bd1071a118f52": 1793745243.8858395,
+  "2f91e881f4b98e7f": 1793745243.8858395,
+  "5b0b30dddc8d4cd9": 1793745243.8858395,
+  "b70a0868c22b3030": 1793745243.8858395,
+  "e88eb93267d80a78": 1793745243.8858395,
+  "6ef36494b7ec14eb": 1793745243.8858395,
+  "8114bd9cf06ddbeb": 1793745243.8858395,
+  "9d574c98a8fda111": 1793745243.8858395,
+  "18f02b6b87cbfe40": 1793745243.8858395,
+  "f025419b44479cfc": 1793745243.8858395,
+  "d3b289771560b981": 1793745243.8858395,
+  "0d870de7c660a0f5": 1793745243.8858395
  },
  "recent_headlines": [
-  "Cassava Technologies የ Anthropic Claude AI ሞዴሎችን በአፍሪካ ለማቅረብ የሚያስችል ፈቃድ አገኘ (Cassava Technologies Becomes Authorised Reseller of Anthropic’s Claude AI in Africa)",
   "የሜዱሳ የባህር ስር የቴሌኮም ኬብል በሊቢያዋ ቤንጋዚ ከተማ ደረሰ (Libya’s O3 Group Announces Medusa Submarine Cable Arrival in Benghazi)",
   "ኢትዮጵያ በዲጂታል ክፍያዎች 7.8 ቢሊዮን ዶላር የሚያወጡ 387 ሚሊዮን ግብይቶችን ፈጸመች (Ethiopia Processes 387 Million Digital Payment Transactions Worth $7.8 Billion in 2025 26)",
   "Mastercard በኢትዮጵያ የዲጂታል ክፍያ ደህንነትን ለማጠናከር የ AI እና ቶከናይዜሽን ቴክኖሎጂ አስተዋወቀ (Mastercard Introduces AI and Tokenization to Enhance Digital Payment Security in Ethiopia)",
@@ -1367,7 +1381,8 @@
   "DSRV የኢትዮጵያን ዲጂታል መታወቂያ ከብሎክቼይን ቴክኖሎጂ ጋር ለማያያዝ ከኢትዮጵያ ጋር ተባበረ (DSRV Partners With Ethiopia to Link Digital ID and Blockchain Services)",
   "ጉግል 3 ሚሊዮን አፍሪካውያንን በ AI ለማሰልጠን የሚያስችል አዲስ መድረክ አስመረቀ (Google launches Skilling Africa hub to train 3m in AI by 2030)",
   "Rise of Fearless የቪዲዮ ጨዋታ የ 1 ሚሊዮን USD ኢንቨስትመንት አገኘ (Rise of Fearless raises $1 million ahead of a relaunch)",
-  "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ተመኑን በ16% እንዳጸና አቆየ (Inflation at 14.9%, and Single Digits Won’t Come in the Next Six Months)"
+  "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ተመኑን በ16% እንዳጸና አቆየ (Inflation at 14.9%, and Single Digits Won’t Come in the Next Six Months)",
+  "የሳፋሪኮም በኢትዮጵያ የነበረው ኪሳራ በ92% ሊቀንስ እንደሚችል ተገለጸ (Safaricom HY2027 results: Analysts expect stronger earnings as Ethiopia losses shrink)"
  ],
  "posted_at": [
   1793619412.1111405,
@@ -1379,6 +1394,7 @@
   1793658933.9925003,
   1793660940.5049896,
   1793693540.501309,
-  1793696986.4059486
+  1793696986.4059486,
+  1793745389.5116549
  ]
 }
