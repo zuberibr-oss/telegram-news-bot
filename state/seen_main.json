@@ -1,11 +1,5 @@
 {
  "seen": {
-  "948c3022bc6c1b66": 1792503671.894829,
-  "61995b2c820eb070": 1792503671.894829,
-  "7a02f033cee9abfb": 1792503671.894829,
-  "4549ec3cd4aa150b": 1792503671.894829,
-  "599bbfe39cb911fc": 1792503671.894829,
-  "74d54f70acad1d48": 1792503671.894829,
   "927a327682f7208b": 1792505584.940664,
   "3c862fe25fc2a9f2": 1792505584.940664,
   "803e1334b85c5a5c": 1792505584.940664,
@@ -2632,10 +2626,17 @@
   "7da56d3964257a53": 1793712925.7970836,
   "d490ef8a24c0e77b": 1793712925.7970836,
   "398e5e59a29b5128": 1793712925.7970836,
-  "17e207965dd23cd4": 1793712925.7970836
+  "17e207965dd23cd4": 1793712925.7970836,
+  "a1409b2bcd9faeea": 1793714941.0044918,
+  "fd9040bda44f1174": 1793714941.0044918,
+  "3cf4955c6109a48e": 1793714941.0044918,
+  "8c2d0b827998decc": 1793714941.0044918,
+  "94110db1c017031e": 1793714941.0044918,
+  "6227fc7e08085c40": 1793714941.0044918,
+  "192392d649681c65": 1793714941.0044918,
+  "501851ed5947d0be": 1793714941.0044918
  },
  "recent_headlines": [
-  "በሳውዲ አረቢያ በችግር ውስጥ የነበሩ 1,364 ኢትዮጵያውያን ወደ አገራቸው ተመለሱ (Ethiopia’s Citizen-Centered Diplomacy Brings 1,364 More Nationals Home from Saudi Arabia)",
   "የኢትዮጵያ ኤሌክትሪክ አገልግሎት በስድስት ከተሞች 11 የኤሌክትሪክ ተሽከርካሪዎች ቻርጅ ማድረጊያ ጣቢያዎችን አስመረቀ (BEYOND THE PLUG: ETHIOPIA’S DRIVE TO BUILD A COMPLETE GREEN MOBILITY ECOSYSTEM)",
   "በኢትዮጵያ በግጭት ምክንያት የተፈናቀሉ ሰዎች ቁጥር 1.7 ሚሊዮን መድረሱን UNHCR አስታወቀ (Conflict Uproots 1.7 Million Ethiopians, Disasters Add 173,000: UNHCR)",
   "የኢትዮጵያ ፀረ-ዶፒንግ ባለሥልጣን በአትሌቶች የሚቀርቡ 89 በመቶ ማስረጃዎች የሐሰት መሆናቸውን ገለጸ (Ethiopian Anti-Doping Authority Flags 89 Percent of Athlete Evidence as Fabricated)",
@@ -2674,7 +2675,8 @@
   "ኢትዮጵያ እና የአውሮፓ ኅብረት በወሳኝ ማዕድናት ልማት ላይ ስትራቴጂካዊ ትብብር ለማድረግ ተወያዩ (Ethiopia and EU Explore Strategic Partnership in Critical Raw Minerals Development)",
   "የኢትዮጵያ ቡና እና ሻይ ባለሥልጣን ከDHL ጋር የመግባቢያ ስምምነት ተፈራረመ (Ethiopia, DHL sign deal to boost coffee export capacity)",
   "በጥቁር ባሕር መርከቦች ላይ የተሰነዘሩ ጥቃቶች የዓለም አቀፍ የምግብ ዋጋን አናሩ (Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply)",
-  "በአውሮፓ የሱፐርማርኬት ሰንሰለቶች ላይ በተፈጸመ የሳይበር ጥቃት ሥራ መስተጓጎሉ ተገለጸ (Cyberattack disrupts supermarkets across Europe)"
+  "በአውሮፓ የሱፐርማርኬት ሰንሰለቶች ላይ በተፈጸመ የሳይበር ጥቃት ሥራ መስተጓጎሉ ተገለጸ (Cyberattack disrupts supermarkets across Europe)",
+  "አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ልታቋርጥ መሆኑን ዶናልድ ትራምፕ ገለጹ (Trump says that US will stop paying Israel military aid after year-end)"
  ],
  "posted_at": [
   1793545659.1814597,
@@ -2729,6 +2731,7 @@
   1793707975.2975137,
   1793709454.7951179,
   1793711408.560622,
-  1793711412.0140088
+  1793711412.0140088,
+  1793715002.6574197
  ]
 }
