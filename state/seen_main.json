@@ -1,7 +1,5 @@
 {
  "seen": {
-  "a12b21b198c66e63": 1792456200.9605243,
-  "f02f288e2d3c2065": 1792456200.9605243,
   "b05ad6c695f674e9": 1792458486.566933,
   "407420648b406f28": 1792458486.566933,
   "eec7e3b5dc626de0": 1792458486.566933,
@@ -2619,11 +2617,12 @@
   "a5bf33864079c8bd": 1793665238.152995,
   "c825782a0eaab7db": 1793665238.152995,
   "ae9254d4e524ede5": 1793665238.152995,
-  "1d8fec17b6124a46": 1793665238.152995
+  "1d8fec17b6124a46": 1793665238.152995,
+  "7ab95d3fcc9c8f4b": 1793666783.8435352,
+  "b508f3a571b19225": 1793666783.8435352,
+  "22926f6dc6b75574": 1793666783.8435352
  },
  "recent_headlines": [
-  "Awash Bank ባለፈው የበጀት ዓመት 38.3 ቢሊዮን ብር አጠቃላይ ትርፍ ማግኘቱን አስታወቀ (AWASH WITH DEPOSITS, SPARING WITH LOANS)",
-  "በሩሲያ ቁጥጥር ሥር ከነበረችው ኦሌሽኪ ከተማ የዩክሬን ዜጎች ተለቀቁ (Ukrainian evacuees from Russian-occupied Oleshky reunite with family)",
   "አሜሪካ በአርሲ በተፈጸሙት የንጹኃን ግድያዎች ላይ ገለልተኛ ምርመራ እንዲደረግ ጠየቀች (አሜሪካ በአርሲ የተፈጸሙ ግድያዎች በጽኑ እንዳሳሰቧት ገልጻ በአግባቡ እንዲመረመሩ ጠየቀች)",
   "በፋርስ ባሕረ ሰላጤ የተጓዘ የቃጣር የፈሳሽ ጋዝ ጫኝ መርከብ ጥቃት ተፈጸመበት (Qatar LNG carrier struck by ‘unidentified objects’ in Gulf)",
   "በአሜሪካ የኮንግረስ አባላትን ለመምረጥ የሚካሄደው የሚድተርም ምርጫ ተጀመረ (US midterms live: Trump, Democrats in last-ditch efforts before polls)",
@@ -2661,12 +2660,11 @@
   "በአርሲ ሽርካ ከተፈጸመው ግድያ ጋር በተያያዘ 73 ሰዎች በቁጥጥር ሥር ዋሉ (Ajjeecha Shirkaatti mudateen booda namootni 73 to’atamuu mootummaan ibse; kun erga jiraattonni taatecha hordofee namootni hidhamuu eeraniiyyu)",
   "የኢትዮጵያ መገናኛ ብዙኃን ባለሥልጣን የነጻ ጋዜጣ ፈቃድን ላልተወሰነ ጊዜ ሰረዘ (Abbaan Taayitaa Miidiyaa Itoophiyaa galmee eyyamaa Gaazexaa walabaafi umriin angafaa biyyattii yeroo hin beekamneef haqe)",
   "Donald Trump ከኢራን ጋር የሚደረገው የሰላም ውይይት በጎ ውጤት ማሳየቱን ገለጹ (Trump signals progress on Iran deal as Tehran pushes faster ceasefire)",
-  "የአውሮፓ አገራት በዩክሬን ሊደረግ የሚችለውን የወታደሮች ስምሪት በፖላንድ ሊለማመዱ ነው (Thousands of European troops to rehearse Ukraine deployment in event of peace)"
+  "የአውሮፓ አገራት በዩክሬን ሊደረግ የሚችለውን የወታደሮች ስምሪት በፖላንድ ሊለማመዱ ነው (Thousands of European troops to rehearse Ukraine deployment in event of peace)",
+  "ኢትዮጵያ በኤል ኒኞ ምክንያት ለስንጥቅ ሸለቆ በሽታ ተጋላጭነቷ መጨመሩ ተገለጸ (Daily_Brief: #Ethiopia faces heightened Rift Valley fever risk as #El_Niño threatens #Eastern_Africa, FAO, IGAD warn)",
+  "በሐይቅ ጃሪ ተፈናቃዮች ጣቢያ በተፈጸመ የድሮን ጥቃት ተፈናቃዮች አካባቢውን እየለቀቁ ነው (News: Survivors flee Hayiq Jari IDP camp after deadly drone strike)"
  ],
  "posted_at": [
-  1793492751.3563747,
-  1793492754.7804565,
-  1793492758.2749214,
   1793494405.5621026,
   1793502732.894316,
   1793502736.2527497,
@@ -2709,6 +2707,8 @@
   1793653809.2966845,
   1793655355.1470459,
   1793665359.5829854,
-  1793665363.0014915
+  1793665363.0014915,
+  1793666809.8171341,
+  1793666813.2209554
  ]
 }
