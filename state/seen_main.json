@@ -1,11 +1,5 @@
 {
  "seen": {
-  "d10fc2010aa461cf": 1792530681.2109616,
-  "8ae437577bd9bf26": 1792530681.2109616,
-  "df119f4589ddc854": 1792530681.2109616,
-  "d870390d49ef40ff": 1792530681.2109616,
-  "bb7adade56a1aa40": 1792530681.2109616,
-  "a43455e5e283e192": 1792530681.2109616,
   "58c1be7fad53c347": 1792532295.7911098,
   "97ba6c2511801dfd": 1792532295.7911098,
   "86834f3cb922d11d": 1792534268.6217904,
@@ -2616,10 +2610,13 @@
   "ed37ae96dd8f7e6d": 1793738124.7728786,
   "e9b07098f4ddd957": 1793740125.6456683,
   "24c72ce96e3c508a": 1793740125.6456683,
-  "a2b7a2df65296143": 1793740125.6456683
+  "a2b7a2df65296143": 1793740125.6456683,
+  "dbc7efb0ba2df485": 1793741771.6089947,
+  "852718e0c24897d4": 1793741771.6089947,
+  "d2a385c2d50920b9": 1793741771.6089947,
+  "2ceeceda44d5b76c": 1793741771.6089947
  },
  "recent_headlines": [
-  "አዲስ አበባ በረጅም ጊዜ ብድር መሠረተ ልማት ከሚገነቡ ጥቂት የአፍሪካ ከተሞች አንዷ ተባለች (Addis Ababa among Rare African Pioneers in Long-term Debt Financing Model: World Bank)",
   "የዓለም ጤና ድርጅት በአማራና ትግራይ ጥቃቶች የኢትዮጵያ የጤና ሥርዓት ሊፈርስ እንደሚችል አስጠነቀቀ (Hogganaan Dhaabbata Fayyaa Addunyaa itti fufiinsi haleellaa naannoo Amaaraa fi Tigraay sirna fayyaa Itoophiyaa kufaatiif saaxilaa akka jiru akeekkachiisan)",
   "ኢራን ቅድመ ሁኔታዎቿ ከተሟሉ ከአሜሪካ ጋር ውይይት ለመጀመር ዝግጁ መሆኗን ገለጸች (Iran says US talks could resume ‘within a short period’ if demands are met)",
   "በሞያሌ ከኢትዮጵያ ድንበር የተተኮሱ ሮኬቶች ኬንያ መውደቃቸውን የኬንያ ፖሊስ ገለጸ (ግጭት ከተቀሰቀሰባት ሞያሌ ወደ ኬንያ ድንበር \"ሮኬቶች መተኮሳቸውን\" የኬንያ ፖሊስ አስታወቀ)",
@@ -2658,7 +2655,8 @@
   "በBinance የሳይበር ጥቃት 6.3 ቢሊዮን ዶላር የዲጂታል ገንዘብ ተሰረቀ (Binance says fake job interviews used as part of $6.3bn crypto hack)",
   "PetroChina በደቡብ ሱዳን፣ ኢትዮጵያ እና ጅቡቲ መካከል የነዳጅ መስመር ለመዘርጋት አቅዷል (PetroChina eyes South Sudan–Ethiopia–Djibouti oil corridor)",
   "የእስራኤሉ ጠቅላይ ሚኒስትር ኢትዮጵያን ለሀገራቸው «ወዳጅ» አድርጎ የሚያሳይ ካርታ አቀረቡ (#Daily_Brief: Netanyahu map depicts #Ethiopia, #Sudan’s RSF as ‘friendly’ to #Israel, #UAE)",
-  "Dangote በኢትዮጵያ የሚገኘውን የ4 ቢሊዮን USD የማዳበሪያ ኩባንያ አክሲዮን ለገበያ ሊያቀርብ ነው (Daily_Brief: #Dangote eyes stock exchange listing for at least 10% of $4bn #Ethiopia fertilizer business)"
+  "Dangote በኢትዮጵያ የሚገኘውን የ4 ቢሊዮን USD የማዳበሪያ ኩባንያ አክሲዮን ለገበያ ሊያቀርብ ነው (Daily_Brief: #Dangote eyes stock exchange listing for at least 10% of $4bn #Ethiopia fertilizer business)",
+  "አሜሪካ በኤቦላ ወረርሽኝ ምክንያት ዜጎቿ ወደ ኬንያ የሚያደርጉትን ጉዞ እንዲከልሱ መከረች (#Daily_Brief: US urges #Americans to reconsider travel to #Kenya amid Ebola spread)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2712,6 +2710,7 @@
   1793727432.4990337,
   1793734594.8712418,
   1793740154.0997224,
-  1793740157.7213194
+  1793740157.7213194,
+  1793741800.1428084
  ]
 }
