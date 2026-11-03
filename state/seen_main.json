@@ -1,12 +1,5 @@
 {
  "seen": {
-  "ad95a8599b31aaf9": 1792514403.6728013,
-  "133b8ff4d4ff2ee7": 1792514403.6728013,
-  "44e71f5eb7588721": 1792514403.6728013,
-  "f1f219a086d697d1": 1792514403.6728013,
-  "60d13f1a4479527a": 1792514403.6728013,
-  "d29e6e05efbbba88": 1792514403.6728013,
-  "e9f6c713f229f09f": 1792514403.6728013,
   "6a1b293ae790b0b8": 1792516411.5644739,
   "ddbd9da399a51aa3": 1792516411.5644739,
   "c059633c34351743": 1792516411.5644739,
@@ -2633,10 +2626,13 @@
   "06ca88e4b83f7051": 1793722179.8326287,
   "e418f4dda733eef3": 1793723724.902356,
   "e44f4729d34377a3": 1793723724.902356,
-  "68f92ba8b50f6eab": 1793723724.902356
+  "68f92ba8b50f6eab": 1793723724.902356,
+  "784837e046b9bf8c": 1793725679.269428,
+  "fc9d975eb2a002f8": 1793725679.269428,
+  "132218d4907adc48": 1793725679.269428,
+  "e3b3a3397371fd7d": 1793725679.269428
  },
  "recent_headlines": [
-  "በኢትዮጵያ በግጭት ምክንያት የተፈናቀሉ ሰዎች ቁጥር 1.7 ሚሊዮን መድረሱን UNHCR አስታወቀ (Conflict Uproots 1.7 Million Ethiopians, Disasters Add 173,000: UNHCR)",
   "የኢትዮጵያ ፀረ-ዶፒንግ ባለሥልጣን በአትሌቶች የሚቀርቡ 89 በመቶ ማስረጃዎች የሐሰት መሆናቸውን ገለጸ (Ethiopian Anti-Doping Authority Flags 89 Percent of Athlete Evidence as Fabricated)",
   "በምዕራባዊ ሰሐራ ለ35 ዓመታት ሲንቀሳቀስ የቆየው የተባበሩት መንግሥታት የሰላም ማስከበር ተልዕኮ አበቃ (UN’s peacekeeping mission in disputed Western Sahara ends after 35 years)",
   "በትግራይ አበርገለ ወረዳ በፈንጂ ፍንዳታ የአራት ሕፃናትን ሕይወት ጨምሮ የ10 ሰዎች ሕይወት አለፈ (በትግራይ ክልል 10 ሰዎች በፈንጂ ምክንያት ህይወታቸውን አጡ)",
@@ -2675,7 +2671,8 @@
   "በጥቁር ባሕር መርከቦች ላይ የተሰነዘሩ ጥቃቶች የዓለም አቀፍ የምግብ ዋጋን አናሩ (Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply)",
   "በአውሮፓ የሱፐርማርኬት ሰንሰለቶች ላይ በተፈጸመ የሳይበር ጥቃት ሥራ መስተጓጎሉ ተገለጸ (Cyberattack disrupts supermarkets across Europe)",
   "አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ልታቋርጥ መሆኑን ዶናልድ ትራምፕ ገለጹ (Trump says that US will stop paying Israel military aid after year-end)",
-  "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)"
+  "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)",
+  "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)"
  ],
  "posted_at": [
   1793556681.846882,
@@ -2731,6 +2728,7 @@
   1793711408.560622,
   1793711412.0140088,
   1793715002.6574197,
-  1793720186.7123318
+  1793720186.7123318,
+  1793725724.267728
  ]
 }
