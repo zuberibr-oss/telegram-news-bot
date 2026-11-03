@@ -1,7 +1,5 @@
 {
  "seen": {
-  "acf2cff576ab8c3c": 1792471358.7097003,
-  "1a3bc38a95e05c94": 1792471358.7097003,
   "f36e0ab0cbc113f6": 1792473137.6098876,
   "622609f72656a65d": 1792474875.474855,
   "fd51a108b0ce838f": 1792474875.474855,
@@ -2624,10 +2622,12 @@
   "4829e62131a90d59": 1793679032.9900794,
   "6afbbf79511579c9": 1793680519.8787935,
   "e8cb9e594f3d1565": 1793680519.8787935,
-  "f8b5285255d2ace4": 1793680519.8787935
+  "f8b5285255d2ace4": 1793680519.8787935,
+  "f7eb3372dddd54a2": 1793682540.930287,
+  "492225e46727f31b": 1793682540.930287,
+  "0d4e112d90bf1270": 1793682540.930287
  },
  "recent_headlines": [
-  "የተባበሩት አረብ ኤምሬቶች የሱዳን ጦር ምክትል አዛዥን ጨምሮ 8 ሰዎችን በዕድሜ ልክ ቀጣች (Daily_Brief: #UAE sentences eight #Sudanese men, including army deputy chief, to life over arms deals)",
   "የኢትዮጵያ መገናኛ ብዙኃን ባለሥልጣን ለድምፂ ወያኔ በአዲስ ስም አዲስ የሥራ ፈቃድ ሰጠ (Daily_Brief: Media Authority grants new license to Dimtsi Weyane #Tigray under new name following caretaker administration’s request)",
   "ኡጋንዳ ከሁለት አስርት ዓመታት በኋላ ወታደሮቿን ከሶማሊያ ማስወጣት ጀመረች (#Daily_Brief: #Uganda begins withdrawing troops from #Somalia after nearly two decades)",
   "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግዳለች መባሉን አስተባበለች (#Daily_Brief: #Saudi_Arabia denies suspending domestic worker recruitment from #Ethiopia)",
@@ -2666,10 +2666,10 @@
   "በሐይቅ ጃሪ ተፈናቃዮች ጣቢያ በተፈጸመ የድሮን ጥቃት ተፈናቃዮች አካባቢውን እየለቀቁ ነው (News: Survivors flee Hayiq Jari IDP camp after deadly drone strike)",
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ የተቀሰቀሰው የኤቦላ ወረርሽኝ የ5 ሺህ 300 ሰዎችን ሕይወት ቀጠፈ (Ebola outbreak kills more than 5,300 people in DR Congo)",
   "አሜሪካ በሩሲያ እና ዩክሬን መካከል አዲስ የሰላም ውይይት እንደምታዘጋጅ አስታወቀች (Russian strike on Ukraine aid hub kills 26 as US announces new peace talks)",
-  "አሜሪካ በኢራን የቄሽም ደሴት እና ሆርሙዝ ወሰን ላይ ጥቃት ፈጸመች (Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz)"
+  "አሜሪካ በኢራን የቄሽም ደሴት እና ሆርሙዝ ወሰን ላይ ጥቃት ፈጸመች (Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz)",
+  "ዩናይትድ ኪንግደም የቋሚ ነዋሪነት መብት ማግኛ ጊዜን ወደ 10 ዓመት አራዘመች (UK to double wait for permanent residency, with exemptions for care workers)"
  ],
  "posted_at": [
-  1793509759.8318217,
   1793529339.7570548,
   1793545659.1814597,
   1793556681.846882,
@@ -2711,6 +2711,7 @@
   1793666813.2209554,
   1793669872.7033284,
   1793671963.5018167,
-  1793673374.2652023
+  1793673374.2652023,
+  1793682576.8002408
  ]
 }
