@@ -1,9 +1,5 @@
 {
  "seen": {
-  "a74b3b94c2a083d6": 1792496409.3484356,
-  "428e31ca7746feee": 1792496409.3484356,
-  "e1bf119847711b37": 1792496409.3484356,
-  "2ceeceda44d5b76c": 1792496409.3484356,
   "e2ee2e675364ba8f": 1792498749.4387848,
   "0c0717c6f25dc701": 1792498749.4387848,
   "563dbed7efb62d12": 1792498749.4387848,
@@ -2637,11 +2633,17 @@
   "7c2f1c50d5c11bac": 1793705707.0002315,
   "f9b4b5edfeec4aca": 1793705707.0002315,
   "35e403824bd79e4a": 1793705707.0002315,
-  "e60e78274ee92668": 1793705707.0002315
+  "e60e78274ee92668": 1793705707.0002315,
+  "acd6fa05cba44ef3": 1793707911.7694356,
+  "855d73c5fbf125d5": 1793707911.7694356,
+  "931f19a3345931f4": 1793707911.7694356,
+  "8d4396d1e471572c": 1793707911.7694356,
+  "0f2aadc7c29c595d": 1793707911.7694356,
+  "faa8e6f31c5249af": 1793707911.7694356,
+  "49bf7fc68457068a": 1793707911.7694356,
+  "43ab25b597ffb6ff": 1793707911.7694356
  },
  "recent_headlines": [
-  "መቀሌ የ«መሶብ» የተቀናጀ የአንድ ማዕከል አገልግሎት መረብን ልትቀላቀል ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
-  "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ለመቀላቀል የምታደርገው ድርድር ጠንከር ያሉ ቅድመ ሁኔታዎች ገጠሙት (Ethiopia’s WTO Terms Harden as Members Ask for More)",
   "ዓዲግራት ዩኒቨርሲቲ ነባር እና አዲስ ተማሪዎችን መቀበል ጀመረ (Adigrat University Welcomes Returning and Newly Admitted Students as Academic Activities Resume Across Tigray Region)",
   "ሱዳን ከኢትዮጵያ ስለሚነሱ የድሮን ጥቃቶች ለአፍሪካ ህብረትና UN አመለከተች (Sudan files complaints against Ethiopia with UN over deadly drone spree)",
   "የሶማሊያ የባሕር ላይ ወንበዴዎች አንድ የኢራን የዓሣ ማስገሪያ መርከብ ተቆጣጠሩ (Daily_Brief: #Somali pirates seize #Iranian fishing vessel, raising fears of attacks on commercial shipping)",
@@ -2679,7 +2681,9 @@
   "ዩጋንዳ ከሶማሊያ የሰላም ማስከበር ተልዕኮ ወታደሮቿን ማስወጣት ጀመረች (Uganda withdraws troops from peacekeeping mission in Somalia)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ምጣኔውን በ16 በመቶ እንዳጸና አስታወቀ (Ethiopia’s Economic Momentum Strengthens as Gold Exports and Foreign Assets Drive External Gains, NBE Reports)",
   "ሩሲያ በዩክሬን ሆስፒታል እና የኃይል ማዕከላት ላይ በሰነዘረችው ጥቃት 73 ሰዎች ቆሰሉ (At least 73 injured as Russia bombs Ukrainian hospital and power plants)",
-  "የኢትዮጵያ ሜቴዎሮሎጂ ኢንስቲትዩት 107 ዘመናዊ የአየር ሁኔታ መከታተያ ጣቢያዎችን ሊተክል ነው (Ethiopia to Install 107 Modern Automated Weather Stations Nationwide)"
+  "የኢትዮጵያ ሜቴዎሮሎጂ ኢንስቲትዩት 107 ዘመናዊ የአየር ሁኔታ መከታተያ ጣቢያዎችን ሊተክል ነው (Ethiopia to Install 107 Modern Automated Weather Stations Nationwide)",
+  "ኢትዮጵያ የዓለም ጤና ድርጅት የአደጋ ጊዜ ሕክምና ቡድኖች ዓለም አቀፍ ስብሰባን ማስተናገድ ጀመረች (Ethiopia Hosts First WHO Emergency Medical Teams Global Meeting in African Region)",
+  "ኢትዮጵያ እና የአውሮፓ ኅብረት በወሳኝ ማዕድናት ልማት ላይ ስትራቴጂካዊ ትብብር ለማድረግ ተወያዩ (Ethiopia and EU Explore Strategic Partnership in Critical Raw Minerals Development)"
  ],
  "posted_at": [
   1793545659.1814597,
@@ -2729,6 +2733,8 @@
   1793700569.9407806,
   1793700573.3031697,
   1793702167.2995467,
-  1793705754.8216112
+  1793705754.8216112,
+  1793707971.8914511,
+  1793707975.2975137
  ]
 }
