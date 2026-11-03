@@ -1,14 +1,5 @@
 {
  "seen": {
-  "6a1b293ae790b0b8": 1792516411.5644739,
-  "ddbd9da399a51aa3": 1792516411.5644739,
-  "c059633c34351743": 1792516411.5644739,
-  "4219134ded01c725": 1792516411.5644739,
-  "9020a0552b2b1068": 1792516411.5644739,
-  "54918facb6cbb5a7": 1792516411.5644739,
-  "c9361cca34301590": 1792516411.5644739,
-  "b175d3b1e0f367ad": 1792516411.5644739,
-  "e96a3991e3c83d40": 1792516411.5644739,
   "1c674df4125721f1": 1792517904.2954028,
   "24c72ce96e3c508a": 1792517904.2954028,
   "a2b7a2df65296143": 1792517904.2954028,
@@ -2630,10 +2621,15 @@
   "784837e046b9bf8c": 1793725679.269428,
   "fc9d975eb2a002f8": 1793725679.269428,
   "132218d4907adc48": 1793725679.269428,
-  "e3b3a3397371fd7d": 1793725679.269428
+  "e3b3a3397371fd7d": 1793725679.269428,
+  "76947d9eeaa45a46": 1793727383.3247185,
+  "bf57f711d2e931fd": 1793727383.3247185,
+  "5c3856b163a0198d": 1793727383.3247185,
+  "d85b18148edef494": 1793727383.3247185,
+  "f6d687eeb97da45d": 1793727383.3247185,
+  "f4d26f40f343522c": 1793727383.3247185
  },
  "recent_headlines": [
-  "የኢትዮጵያ ፀረ-ዶፒንግ ባለሥልጣን በአትሌቶች የሚቀርቡ 89 በመቶ ማስረጃዎች የሐሰት መሆናቸውን ገለጸ (Ethiopian Anti-Doping Authority Flags 89 Percent of Athlete Evidence as Fabricated)",
   "በምዕራባዊ ሰሐራ ለ35 ዓመታት ሲንቀሳቀስ የቆየው የተባበሩት መንግሥታት የሰላም ማስከበር ተልዕኮ አበቃ (UN’s peacekeeping mission in disputed Western Sahara ends after 35 years)",
   "በትግራይ አበርገለ ወረዳ በፈንጂ ፍንዳታ የአራት ሕፃናትን ሕይወት ጨምሮ የ10 ሰዎች ሕይወት አለፈ (በትግራይ ክልል 10 ሰዎች በፈንጂ ምክንያት ህይወታቸውን አጡ)",
   "Allied Gold በኩርሙክ የወርቅ ማዕድን የቴክኒክ ፍተሻ በመጀመር ወደ ማምረት ሊሸጋገር ነው (Allied gold begins wet commissioning at Kurmuk mine, targets first gold within days)",
@@ -2672,7 +2668,8 @@
   "በአውሮፓ የሱፐርማርኬት ሰንሰለቶች ላይ በተፈጸመ የሳይበር ጥቃት ሥራ መስተጓጎሉ ተገለጸ (Cyberattack disrupts supermarkets across Europe)",
   "አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ልታቋርጥ መሆኑን ዶናልድ ትራምፕ ገለጹ (Trump says that US will stop paying Israel military aid after year-end)",
   "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)",
-  "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)"
+  "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)",
+  "በBinance የሳይበር ጥቃት 6.3 ቢሊዮን ዶላር የዲጂታል ገንዘብ ተሰረቀ (Binance says fake job interviews used as part of $6.3bn crypto hack)"
  ],
  "posted_at": [
   1793556681.846882,
@@ -2729,6 +2726,7 @@
   1793711412.0140088,
   1793715002.6574197,
   1793720186.7123318,
-  1793725724.267728
+  1793725724.267728,
+  1793727432.4990337
  ]
 }
