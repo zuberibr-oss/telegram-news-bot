@@ -1,8 +1,5 @@
 {
  "seen": {
-  "116f11dfc86fb0e2": 1792509148.9801702,
-  "af1baf2b09515cf9": 1792509148.9801702,
-  "a93f797204c5b99f": 1792509148.9801702,
   "7c3bcaf8c968b635": 1792510800.1149442,
   "b6a31195181f9a26": 1792510800.1149442,
   "dda3341e122913b7": 1792512874.677744,
@@ -2632,10 +2629,12 @@
   "e047f3139d537365": 1793718567.6989837,
   "b46df759812d964c": 1793718567.6989837,
   "0206271c66c29839": 1793718567.6989837,
-  "8bcb89a57e05c2df": 1793718567.6989837
+  "8bcb89a57e05c2df": 1793718567.6989837,
+  "84b6c9139bb86eb6": 1793720153.0025005,
+  "54388fa7610d353b": 1793720153.0025005,
+  "adfbd57eed4bbffb": 1793720153.0025005
  },
  "recent_headlines": [
-  "የኢትዮጵያ ኤሌክትሪክ አገልግሎት በስድስት ከተሞች 11 የኤሌክትሪክ ተሽከርካሪዎች ቻርጅ ማድረጊያ ጣቢያዎችን አስመረቀ (BEYOND THE PLUG: ETHIOPIA’S DRIVE TO BUILD A COMPLETE GREEN MOBILITY ECOSYSTEM)",
   "በኢትዮጵያ በግጭት ምክንያት የተፈናቀሉ ሰዎች ቁጥር 1.7 ሚሊዮን መድረሱን UNHCR አስታወቀ (Conflict Uproots 1.7 Million Ethiopians, Disasters Add 173,000: UNHCR)",
   "የኢትዮጵያ ፀረ-ዶፒንግ ባለሥልጣን በአትሌቶች የሚቀርቡ 89 በመቶ ማስረጃዎች የሐሰት መሆናቸውን ገለጸ (Ethiopian Anti-Doping Authority Flags 89 Percent of Athlete Evidence as Fabricated)",
   "በምዕራባዊ ሰሐራ ለ35 ዓመታት ሲንቀሳቀስ የቆየው የተባበሩት መንግሥታት የሰላም ማስከበር ተልዕኮ አበቃ (UN’s peacekeeping mission in disputed Western Sahara ends after 35 years)",
@@ -2674,7 +2673,8 @@
   "የኢትዮጵያ ቡና እና ሻይ ባለሥልጣን ከDHL ጋር የመግባቢያ ስምምነት ተፈራረመ (Ethiopia, DHL sign deal to boost coffee export capacity)",
   "በጥቁር ባሕር መርከቦች ላይ የተሰነዘሩ ጥቃቶች የዓለም አቀፍ የምግብ ዋጋን አናሩ (Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply)",
   "በአውሮፓ የሱፐርማርኬት ሰንሰለቶች ላይ በተፈጸመ የሳይበር ጥቃት ሥራ መስተጓጎሉ ተገለጸ (Cyberattack disrupts supermarkets across Europe)",
-  "አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ልታቋርጥ መሆኑን ዶናልድ ትራምፕ ገለጹ (Trump says that US will stop paying Israel military aid after year-end)"
+  "አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ልታቋርጥ መሆኑን ዶናልድ ትራምፕ ገለጹ (Trump says that US will stop paying Israel military aid after year-end)",
+  "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)"
  ],
  "posted_at": [
   1793556681.846882,
@@ -2729,6 +2729,7 @@
   1793709454.7951179,
   1793711408.560622,
   1793711412.0140088,
-  1793715002.6574197
+  1793715002.6574197,
+  1793720186.7123318
  ]
 }
