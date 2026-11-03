@@ -1,9 +1,5 @@
 {
  "seen": {
-  "524ad17e4de165de": 1792491065.9888868,
-  "58b12fa3300b732b": 1792491065.9888868,
-  "54d9ea085a836d6b": 1792491065.9888868,
-  "ddcff7f6b99bcb07": 1792491065.9888868,
   "36737ebcaab25d61": 1792492848.8946056,
   "e84ed838dc1dec84": 1792492848.8946056,
   "f6c22131e1a90f70": 1792492848.8946056,
@@ -2631,10 +2627,15 @@
   "a3e2e592284a92d2": 1793700521.2754693,
   "2c34323fe38733ad": 1793700521.2754693,
   "502a7ff27eb88a2f": 1793700521.2754693,
-  "799d50c00cc55615": 1793700521.2754693
+  "799d50c00cc55615": 1793700521.2754693,
+  "e819f62e14e2d8e3": 1793702121.946341,
+  "549a68c85f9412d6": 1793702121.946341,
+  "75e4488c936e7f9a": 1793702121.946341,
+  "5bc34b02b903ae6e": 1793702121.946341,
+  "f0dfdfe420e02498": 1793702121.946341,
+  "d73c1eb255d5e237": 1793702121.946341
  },
  "recent_headlines": [
-  "ሱዳን ለሩሲያ የወርቅ እና የመዳብ ማዕድን ኢንቨስትመንት ቦታዎችን አቀረበች (#Daily_Brief: #Sudan offers #Russia investment sites for gold, copper mining)",
   "የእስራኤል የመጀመሪያው አምባሳደር በሶማሊላንድ የማረጋገጫ ደብዳቤያቸውን አቀረቡ (Israel’s first ambassador to Somaliland presents credentials in Hargeisa)",
   "መቀሌ የ«መሶብ» የተቀናጀ የአንድ ማዕከል አገልግሎት መረብን ልትቀላቀል ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
   "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ለመቀላቀል የምታደርገው ድርድር ጠንከር ያሉ ቅድመ ሁኔታዎች ገጠሙት (Ethiopia’s WTO Terms Harden as Members Ask for More)",
@@ -2673,10 +2674,10 @@
   "በአሜሪካ የኮንግረስ አጋማሽ ዘመን ምርጫ መካሄድ ጀመረ (Americans head to the polls for elections that could define Trump's closing chapter)",
   "የህንድ ባሕር ኃይል በሶማሊያ ዳርቻ ታግተው የነበሩ 20 የመርከብ ሠራተኞችን አታደገ (Humnoonni Waraana Galaanarraa Hindii hojjettoota doonii 20 ta'an kan doonii handaara Somaliyaarraa ugguramte baraaran)",
   "ዩጋንዳ ከሶማሊያ የሰላም ማስከበር ተልዕኮ ወታደሮቿን ማስወጣት ጀመረች (Uganda withdraws troops from peacekeeping mission in Somalia)",
-  "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ምጣኔውን በ16 በመቶ እንዳጸና አስታወቀ (Ethiopia’s Economic Momentum Strengthens as Gold Exports and Foreign Assets Drive External Gains, NBE Reports)"
+  "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ምጣኔውን በ16 በመቶ እንዳጸና አስታወቀ (Ethiopia’s Economic Momentum Strengthens as Gold Exports and Foreign Assets Drive External Gains, NBE Reports)",
+  "ሩሲያ በዩክሬን ሆስፒታል እና የኃይል ማዕከላት ላይ በሰነዘረችው ጥቃት 73 ሰዎች ቆሰሉ (At least 73 injured as Russia bombs Ukrainian hospital and power plants)"
  ],
  "posted_at": [
-  1793529339.7570548,
   1793545659.1814597,
   1793556681.846882,
   1793556685.4197955,
@@ -2722,6 +2723,7 @@
   1793693596.076862,
   1793697013.6097715,
   1793700569.9407806,
-  1793700573.3031697
+  1793700573.3031697,
+  1793702167.2995467
  ]
 }
