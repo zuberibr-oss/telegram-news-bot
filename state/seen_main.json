@@ -1,7 +1,5 @@
 {
  "seen": {
-  "66ce818105e3bf83": 1792460825.4255486,
-  "edb9de6844bde050": 1792460825.4255486,
   "9fa7402d9638af07": 1792462564.015083,
   "ca7f0c2f2cf1f81d": 1792464310.8151782,
   "f44f77987814bd73": 1792464310.8151782,
@@ -2619,10 +2617,11 @@
   "99dd3a0256d26b54": 1793669833.5515666,
   "dff81c7912d87d7d": 1793669833.5515666,
   "3bb73e3df7e2f683": 1793669833.5515666,
-  "aba8278ec2c80b0f": 1793669833.5515666
+  "aba8278ec2c80b0f": 1793669833.5515666,
+  "c2a0e11802304c89": 1793671928.7911289,
+  "65aa718c2d70df0a": 1793671928.7911289
  },
  "recent_headlines": [
-  "በፋርስ ባሕረ ሰላጤ የተጓዘ የቃጣር የፈሳሽ ጋዝ ጫኝ መርከብ ጥቃት ተፈጸመበት (Qatar LNG carrier struck by ‘unidentified objects’ in Gulf)",
   "በአሜሪካ የኮንግረስ አባላትን ለመምረጥ የሚካሄደው የሚድተርም ምርጫ ተጀመረ (US midterms live: Trump, Democrats in last-ditch efforts before polls)",
   "የተባበሩት አረብ ኤምሬቶች የሱዳን ጦር ምክትል አዛዥን ጨምሮ 8 ሰዎችን በዕድሜ ልክ ቀጣች (Daily_Brief: #UAE sentences eight #Sudanese men, including army deputy chief, to life over arms deals)",
   "የኢትዮጵያ መገናኛ ብዙኃን ባለሥልጣን ለድምፂ ወያኔ በአዲስ ስም አዲስ የሥራ ፈቃድ ሰጠ (Daily_Brief: Media Authority grants new license to Dimtsi Weyane #Tigray under new name following caretaker administration’s request)",
@@ -2661,7 +2660,8 @@
   "የአውሮፓ አገራት በዩክሬን ሊደረግ የሚችለውን የወታደሮች ስምሪት በፖላንድ ሊለማመዱ ነው (Thousands of European troops to rehearse Ukraine deployment in event of peace)",
   "ኢትዮጵያ በኤል ኒኞ ምክንያት ለስንጥቅ ሸለቆ በሽታ ተጋላጭነቷ መጨመሩ ተገለጸ (Daily_Brief: #Ethiopia faces heightened Rift Valley fever risk as #El_Niño threatens #Eastern_Africa, FAO, IGAD warn)",
   "በሐይቅ ጃሪ ተፈናቃዮች ጣቢያ በተፈጸመ የድሮን ጥቃት ተፈናቃዮች አካባቢውን እየለቀቁ ነው (News: Survivors flee Hayiq Jari IDP camp after deadly drone strike)",
-  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ የተቀሰቀሰው የኤቦላ ወረርሽኝ የ5 ሺህ 300 ሰዎችን ሕይወት ቀጠፈ (Ebola outbreak kills more than 5,300 people in DR Congo)"
+  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ የተቀሰቀሰው የኤቦላ ወረርሽኝ የ5 ሺህ 300 ሰዎችን ሕይወት ቀጠፈ (Ebola outbreak kills more than 5,300 people in DR Congo)",
+  "አሜሪካ በሩሲያ እና ዩክሬን መካከል አዲስ የሰላም ውይይት እንደምታዘጋጅ አስታወቀች (Russian strike on Ukraine aid hub kills 26 as US announces new peace talks)"
  ],
  "posted_at": [
   1793502732.894316,
@@ -2708,6 +2708,7 @@
   1793665363.0014915,
   1793666809.8171341,
   1793666813.2209554,
-  1793669872.7033284
+  1793669872.7033284,
+  1793671963.5018167
  ]
 }
