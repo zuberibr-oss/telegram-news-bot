@@ -1,6 +1,5 @@
 {
  "seen": {
-  "cdf7fa3749a8c3bb": 1792489274.8308406,
   "524ad17e4de165de": 1792491065.9888868,
   "58b12fa3300b732b": 1792491065.9888868,
   "54d9ea085a836d6b": 1792491065.9888868,
@@ -2624,11 +2623,17 @@
   "c67432bd83a08ea2": 1793698527.0578153,
   "91745787e1a4d4e2": 1793698527.0578153,
   "411bb6cca177dd26": 1793698527.0578153,
-  "a41fd6ce1ee32686": 1793698527.0578153
+  "a41fd6ce1ee32686": 1793698527.0578153,
+  "e929aa6b863f6ae2": 1793700521.2754693,
+  "138189c9722f153b": 1793700521.2754693,
+  "69cbff0394f7845d": 1793700521.2754693,
+  "dcd1ac6425373122": 1793700521.2754693,
+  "a3e2e592284a92d2": 1793700521.2754693,
+  "2c34323fe38733ad": 1793700521.2754693,
+  "502a7ff27eb88a2f": 1793700521.2754693,
+  "799d50c00cc55615": 1793700521.2754693
  },
  "recent_headlines": [
-  "ሳውዲ አረቢያ ከኢትዮጵያ የቤት ሠራተኞችን መቅጠር አግዳለች መባሉን አስተባበለች (#Daily_Brief: #Saudi_Arabia denies suspending domestic worker recruitment from #Ethiopia)",
-  "ኢትዮጵያ ከአረንጓዴ የአየር ንብረት ፈንድ የ30 ሚሊዮን ዶላር ፋይናንስ አገኘች (Daily_Brief: #Ethiopia secures $30 million in Green Climate Fund financing for climate resilience)",
   "ሱዳን ለሩሲያ የወርቅ እና የመዳብ ማዕድን ኢንቨስትመንት ቦታዎችን አቀረበች (#Daily_Brief: #Sudan offers #Russia investment sites for gold, copper mining)",
   "የእስራኤል የመጀመሪያው አምባሳደር በሶማሊላንድ የማረጋገጫ ደብዳቤያቸውን አቀረቡ (Israel’s first ambassador to Somaliland presents credentials in Hargeisa)",
   "መቀሌ የ«መሶብ» የተቀናጀ የአንድ ማዕከል አገልግሎት መረብን ልትቀላቀል ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
@@ -2666,7 +2671,9 @@
   "አሜሪካ በኢራን የቄሽም ደሴት እና ሆርሙዝ ወሰን ላይ ጥቃት ፈጸመች (Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz)",
   "ዩናይትድ ኪንግደም የቋሚ ነዋሪነት መብት ማግኛ ጊዜን ወደ 10 ዓመት አራዘመች (UK to double wait for permanent residency, with exemptions for care workers)",
   "በአሜሪካ የኮንግረስ አጋማሽ ዘመን ምርጫ መካሄድ ጀመረ (Americans head to the polls for elections that could define Trump's closing chapter)",
-  "የህንድ ባሕር ኃይል በሶማሊያ ዳርቻ ታግተው የነበሩ 20 የመርከብ ሠራተኞችን አታደገ (Humnoonni Waraana Galaanarraa Hindii hojjettoota doonii 20 ta'an kan doonii handaara Somaliyaarraa ugguramte baraaran)"
+  "የህንድ ባሕር ኃይል በሶማሊያ ዳርቻ ታግተው የነበሩ 20 የመርከብ ሠራተኞችን አታደገ (Humnoonni Waraana Galaanarraa Hindii hojjettoota doonii 20 ta'an kan doonii handaara Somaliyaarraa ugguramte baraaran)",
+  "ዩጋንዳ ከሶማሊያ የሰላም ማስከበር ተልዕኮ ወታደሮቿን ማስወጣት ጀመረች (Uganda withdraws troops from peacekeeping mission in Somalia)",
+  "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ምጣኔውን በ16 በመቶ እንዳጸና አስታወቀ (Ethiopia’s Economic Momentum Strengthens as Gold Exports and Foreign Assets Drive External Gains, NBE Reports)"
  ],
  "posted_at": [
   1793529339.7570548,
@@ -2713,6 +2720,8 @@
   1793673374.2652023,
   1793682576.8002408,
   1793693596.076862,
-  1793697013.6097715
+  1793697013.6097715,
+  1793700569.9407806,
+  1793700573.3031697
  ]
 }
