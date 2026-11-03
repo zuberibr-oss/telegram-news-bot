@@ -1,9 +1,5 @@
 {
  "seen": {
-  "39210c0f7efeb071": 1792523411.400485,
-  "7ea729bf58a1b48e": 1792523411.400485,
-  "1e54083a2b3360a4": 1792523411.400485,
-  "897c1c7218d2b2e5": 1792523411.400485,
   "ab7cceece27740c8": 1792525125.6301255,
   "c5fbb48b5766445f": 1792525125.6301255,
   "d1950eb3a23e2d87": 1792525125.6301255,
@@ -2626,10 +2622,13 @@
   "daca0b4359178e4b": 1793729424.0497692,
   "33b308ff0d2c4165": 1793730934.9443395,
   "6ed4b5f61f09be03": 1793732837.5035071,
-  "12a3eac186aa1a1e": 1793732837.5035071
+  "12a3eac186aa1a1e": 1793732837.5035071,
+  "8e0b74fe05b347f5": 1793734553.925669,
+  "9309851d59fe5573": 1793734553.925669,
+  "fb440cf6be7eea87": 1793734553.925669,
+  "53d08ff98c505eac": 1793734553.925669
  },
  "recent_headlines": [
-  "በምዕራባዊ ሰሐራ ለ35 ዓመታት ሲንቀሳቀስ የቆየው የተባበሩት መንግሥታት የሰላም ማስከበር ተልዕኮ አበቃ (UN’s peacekeeping mission in disputed Western Sahara ends after 35 years)",
   "በትግራይ አበርገለ ወረዳ በፈንጂ ፍንዳታ የአራት ሕፃናትን ሕይወት ጨምሮ የ10 ሰዎች ሕይወት አለፈ (በትግራይ ክልል 10 ሰዎች በፈንጂ ምክንያት ህይወታቸውን አጡ)",
   "Allied Gold በኩርሙክ የወርቅ ማዕድን የቴክኒክ ፍተሻ በመጀመር ወደ ማምረት ሊሸጋገር ነው (Allied gold begins wet commissioning at Kurmuk mine, targets first gold within days)",
   "አዲስ አበባ በረጅም ጊዜ ብድር መሠረተ ልማት ከሚገነቡ ጥቂት የአፍሪካ ከተሞች አንዷ ተባለች (Addis Ababa among Rare African Pioneers in Long-term Debt Financing Model: World Bank)",
@@ -2668,10 +2667,10 @@
   "አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ልታቋርጥ መሆኑን ዶናልድ ትራምፕ ገለጹ (Trump says that US will stop paying Israel military aid after year-end)",
   "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)",
   "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)",
-  "በBinance የሳይበር ጥቃት 6.3 ቢሊዮን ዶላር የዲጂታል ገንዘብ ተሰረቀ (Binance says fake job interviews used as part of $6.3bn crypto hack)"
+  "በBinance የሳይበር ጥቃት 6.3 ቢሊዮን ዶላር የዲጂታል ገንዘብ ተሰረቀ (Binance says fake job interviews used as part of $6.3bn crypto hack)",
+  "PetroChina በደቡብ ሱዳን፣ ኢትዮጵያ እና ጅቡቲ መካከል የነዳጅ መስመር ለመዘርጋት አቅዷል (PetroChina eyes South Sudan–Ethiopia–Djibouti oil corridor)"
  ],
  "posted_at": [
-  1793560077.1274574,
   1793618123.022173,
   1793618126.701561,
   1793618130.340793,
@@ -2720,6 +2719,7 @@
   1793715002.6574197,
   1793720186.7123318,
   1793725724.267728,
-  1793727432.4990337
+  1793727432.4990337,
+  1793734594.8712418
  ]
 }
