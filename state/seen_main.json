@@ -1,13 +1,5 @@
 {
  "seen": {
-  "a9ea64f459f3abc4": 1792500556.3842046,
-  "12953b1cd630fb66": 1792500556.3842046,
-  "633eadcf30284820": 1792500556.3842046,
-  "c4eff7a8e59d3648": 1792500556.3842046,
-  "59ca8b9762badf66": 1792500556.3842046,
-  "bb41a01e5efca85e": 1792500556.3842046,
-  "4fecfecfd07903a8": 1792500556.3842046,
-  "afd44be6ff51528d": 1792500556.3842046,
   "07da2eaa82fec69a": 1792502015.8981102,
   "64f530c59dd16379": 1792502015.8981102,
   "09d4951e82c3a92f": 1792502015.8981102,
@@ -2634,11 +2626,16 @@
   "49bf7fc68457068a": 1793707911.7694356,
   "43ab25b597ffb6ff": 1793707911.7694356,
   "f419a87a7183e6c4": 1793709426.1337676,
-  "218d767a2af8cdca": 1793709426.1337676
+  "218d767a2af8cdca": 1793709426.1337676,
+  "fbcd06dc1399d1f9": 1793711356.0925965,
+  "89ee676c002f5cb1": 1793711356.0925965,
+  "00bd057e38cfa9de": 1793711356.0925965,
+  "d54d6d111915394f": 1793711356.0925965,
+  "a703622b3eb63c30": 1793711356.0925965,
+  "60dd3a2e028fa444": 1793711356.0925965,
+  "5db3dde933e74baa": 1793711356.0925965
  },
  "recent_headlines": [
-  "ሱዳን ከኢትዮጵያ ስለሚነሱ የድሮን ጥቃቶች ለአፍሪካ ህብረትና UN አመለከተች (Sudan files complaints against Ethiopia with UN over deadly drone spree)",
-  "የሶማሊያ የባሕር ላይ ወንበዴዎች አንድ የኢራን የዓሣ ማስገሪያ መርከብ ተቆጣጠሩ (Daily_Brief: #Somali pirates seize #Iranian fishing vessel, raising fears of attacks on commercial shipping)",
   "በሳውዲ አረቢያ በችግር ውስጥ የነበሩ 1,364 ኢትዮጵያውያን ወደ አገራቸው ተመለሱ (Ethiopia’s Citizen-Centered Diplomacy Brings 1,364 More Nationals Home from Saudi Arabia)",
   "የኢትዮጵያ ኤሌክትሪክ አገልግሎት በስድስት ከተሞች 11 የኤሌክትሪክ ተሽከርካሪዎች ቻርጅ ማድረጊያ ጣቢያዎችን አስመረቀ (BEYOND THE PLUG: ETHIOPIA’S DRIVE TO BUILD A COMPLETE GREEN MOBILITY ECOSYSTEM)",
   "በኢትዮጵያ በግጭት ምክንያት የተፈናቀሉ ሰዎች ቁጥር 1.7 ሚሊዮን መድረሱን UNHCR አስታወቀ (Conflict Uproots 1.7 Million Ethiopians, Disasters Add 173,000: UNHCR)",
@@ -2676,7 +2673,9 @@
   "የኢትዮጵያ ሜቴዎሮሎጂ ኢንስቲትዩት 107 ዘመናዊ የአየር ሁኔታ መከታተያ ጣቢያዎችን ሊተክል ነው (Ethiopia to Install 107 Modern Automated Weather Stations Nationwide)",
   "ኢትዮጵያ የዓለም ጤና ድርጅት የአደጋ ጊዜ ሕክምና ቡድኖች ዓለም አቀፍ ስብሰባን ማስተናገድ ጀመረች (Ethiopia Hosts First WHO Emergency Medical Teams Global Meeting in African Region)",
   "ኢትዮጵያ እና የአውሮፓ ኅብረት በወሳኝ ማዕድናት ልማት ላይ ስትራቴጂካዊ ትብብር ለማድረግ ተወያዩ (Ethiopia and EU Explore Strategic Partnership in Critical Raw Minerals Development)",
-  "የኢትዮጵያ ቡና እና ሻይ ባለሥልጣን ከDHL ጋር የመግባቢያ ስምምነት ተፈራረመ (Ethiopia, DHL sign deal to boost coffee export capacity)"
+  "የኢትዮጵያ ቡና እና ሻይ ባለሥልጣን ከDHL ጋር የመግባቢያ ስምምነት ተፈራረመ (Ethiopia, DHL sign deal to boost coffee export capacity)",
+  "በጥቁር ባሕር መርከቦች ላይ የተሰነዘሩ ጥቃቶች የዓለም አቀፍ የምግብ ዋጋን አናሩ (Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply)",
+  "በአውሮፓ የሱፐርማርኬት ሰንሰለቶች ላይ በተፈጸመ የሳይበር ጥቃት ሥራ መስተጓጎሉ ተገለጸ (Cyberattack disrupts supermarkets across Europe)"
  ],
  "posted_at": [
   1793545659.1814597,
@@ -2729,6 +2728,8 @@
   1793705754.8216112,
   1793707971.8914511,
   1793707975.2975137,
-  1793709454.7951179
+  1793709454.7951179,
+  1793711408.560622,
+  1793711412.0140088
  ]
 }
