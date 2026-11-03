@@ -1,7 +1,5 @@
 {
  "seen": {
-  "58c1be7fad53c347": 1792532295.7911098,
-  "97ba6c2511801dfd": 1792532295.7911098,
   "86834f3cb922d11d": 1792534268.6217904,
   "3cf349f20d525fa8": 1792534268.6217904,
   "74842f6a88254f7a": 1792534268.6217904,
@@ -2614,11 +2612,16 @@
   "dbc7efb0ba2df485": 1793741771.6089947,
   "852718e0c24897d4": 1793741771.6089947,
   "d2a385c2d50920b9": 1793741771.6089947,
-  "2ceeceda44d5b76c": 1793741771.6089947
+  "2ceeceda44d5b76c": 1793741771.6089947,
+  "f40fa9024d062ee5": 1793743737.0968072,
+  "59d4ce464e65e80d": 1793743737.0968072,
+  "e9a918cbb158b97f": 1793743737.0968072,
+  "d1a4b69467aab0e0": 1793743737.0968072,
+  "e8d05d7366a2742a": 1793743737.0968072,
+  "8a74f22bf4e3d310": 1793743737.0968072,
+  "b9c3e42c0ed3ca6b": 1793743737.0968072
  },
  "recent_headlines": [
-  "የዓለም ጤና ድርጅት በአማራና ትግራይ ጥቃቶች የኢትዮጵያ የጤና ሥርዓት ሊፈርስ እንደሚችል አስጠነቀቀ (Hogganaan Dhaabbata Fayyaa Addunyaa itti fufiinsi haleellaa naannoo Amaaraa fi Tigraay sirna fayyaa Itoophiyaa kufaatiif saaxilaa akka jiru akeekkachiisan)",
-  "ኢራን ቅድመ ሁኔታዎቿ ከተሟሉ ከአሜሪካ ጋር ውይይት ለመጀመር ዝግጁ መሆኗን ገለጸች (Iran says US talks could resume ‘within a short period’ if demands are met)",
   "በሞያሌ ከኢትዮጵያ ድንበር የተተኮሱ ሮኬቶች ኬንያ መውደቃቸውን የኬንያ ፖሊስ ገለጸ (ግጭት ከተቀሰቀሰባት ሞያሌ ወደ ኬንያ ድንበር \"ሮኬቶች መተኮሳቸውን\" የኬንያ ፖሊስ አስታወቀ)",
   "በትግራይ ክልል የመንግሥት ሠራተኞች ደመወዝ ክፍያ በዚህ ወር እንደሚጀምር ተገለጸ (Tigray Region Accelerates Institutional Recovery as Government Employee Salary Payments Set to Resume This Month)",
   "የሶማሊላንድ ባለሥልጣናት በቦራማ በኦሮሞ ነዋሪዎች ላይ የተፈጸመውን ጥቃት ኮነኑ (Angawoonni Somaalilaand haleellaa jiraattota Oromoo Booramaa irratti raawwatame balaaleffatan; manneen 150 ol miidhaan irra gahuunis gabaafame)",
@@ -2656,7 +2659,9 @@
   "PetroChina በደቡብ ሱዳን፣ ኢትዮጵያ እና ጅቡቲ መካከል የነዳጅ መስመር ለመዘርጋት አቅዷል (PetroChina eyes South Sudan–Ethiopia–Djibouti oil corridor)",
   "የእስራኤሉ ጠቅላይ ሚኒስትር ኢትዮጵያን ለሀገራቸው «ወዳጅ» አድርጎ የሚያሳይ ካርታ አቀረቡ (#Daily_Brief: Netanyahu map depicts #Ethiopia, #Sudan’s RSF as ‘friendly’ to #Israel, #UAE)",
   "Dangote በኢትዮጵያ የሚገኘውን የ4 ቢሊዮን USD የማዳበሪያ ኩባንያ አክሲዮን ለገበያ ሊያቀርብ ነው (Daily_Brief: #Dangote eyes stock exchange listing for at least 10% of $4bn #Ethiopia fertilizer business)",
-  "አሜሪካ በኤቦላ ወረርሽኝ ምክንያት ዜጎቿ ወደ ኬንያ የሚያደርጉትን ጉዞ እንዲከልሱ መከረች (#Daily_Brief: US urges #Americans to reconsider travel to #Kenya amid Ebola spread)"
+  "አሜሪካ በኤቦላ ወረርሽኝ ምክንያት ዜጎቿ ወደ ኬንያ የሚያደርጉትን ጉዞ እንዲከልሱ መከረች (#Daily_Brief: US urges #Americans to reconsider travel to #Kenya amid Ebola spread)",
+  "ኬንያ ከሞያሌ ግጭት የሸሹ ከ50 ሺህ በላይ ኢትዮጵያውያን ተፈናቃዮችን መመዝገብ ጀመረች (Oduu: Keeniyaan baqattoota Itoophiyaa walitti bu’iinsa Moyyaaleen baqatan galmeessuu eegalte; baqattoonni Keeniyaa ga’an kuma 50 ol ta’aniiru)",
+  "የኢብራሂም ኢንዴክስ በኢትዮጵያ በጎ አስተዳደር ላይ የማስጠንቀቂያ ምልክቶች መኖራቸውን ገለጸ (Fooyya’iinsi xiqqaan jiraatus, bulchiinsi Itoophiyaa mallattoolee akeekkachiisaa agarsiisa: Indeksii Ibraahim)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2711,6 +2716,8 @@
   1793734594.8712418,
   1793740154.0997224,
   1793740157.7213194,
-  1793741800.1428084
+  1793741800.1428084,
+  1793743785.3066604,
+  1793743788.6969378
  ]
 }
