@@ -1,14 +1,5 @@
 {
  "seen": {
-  "10ebf684a946ad64": 1792528852.8054574,
-  "d775fb29dd835adf": 1792528852.8054574,
-  "3ea9612c77df5101": 1792528852.8054574,
-  "b4da377de7b837e8": 1792528852.8054574,
-  "1b942a8fe7ac73f0": 1792528852.8054574,
-  "1b675044a69270db": 1792528852.8054574,
-  "f71f246c4abd72cd": 1792528852.8054574,
-  "22078ade3f1dc513": 1792528852.8054574,
-  "45158fe530de10e0": 1792528852.8054574,
   "d10fc2010aa461cf": 1792530681.2109616,
   "8ae437577bd9bf26": 1792530681.2109616,
   "df119f4589ddc854": 1792530681.2109616,
@@ -2622,11 +2613,12 @@
   "fb440cf6be7eea87": 1793734553.925669,
   "53d08ff98c505eac": 1793734553.925669,
   "0b8d29b42793b385": 1793738124.7728786,
-  "ed37ae96dd8f7e6d": 1793738124.7728786
+  "ed37ae96dd8f7e6d": 1793738124.7728786,
+  "e9b07098f4ddd957": 1793740125.6456683,
+  "24c72ce96e3c508a": 1793740125.6456683,
+  "a2b7a2df65296143": 1793740125.6456683
  },
  "recent_headlines": [
-  "በትግራይ አበርገለ ወረዳ በፈንጂ ፍንዳታ የአራት ሕፃናትን ሕይወት ጨምሮ የ10 ሰዎች ሕይወት አለፈ (በትግራይ ክልል 10 ሰዎች በፈንጂ ምክንያት ህይወታቸውን አጡ)",
-  "Allied Gold በኩርሙክ የወርቅ ማዕድን የቴክኒክ ፍተሻ በመጀመር ወደ ማምረት ሊሸጋገር ነው (Allied gold begins wet commissioning at Kurmuk mine, targets first gold within days)",
   "አዲስ አበባ በረጅም ጊዜ ብድር መሠረተ ልማት ከሚገነቡ ጥቂት የአፍሪካ ከተሞች አንዷ ተባለች (Addis Ababa among Rare African Pioneers in Long-term Debt Financing Model: World Bank)",
   "የዓለም ጤና ድርጅት በአማራና ትግራይ ጥቃቶች የኢትዮጵያ የጤና ሥርዓት ሊፈርስ እንደሚችል አስጠነቀቀ (Hogganaan Dhaabbata Fayyaa Addunyaa itti fufiinsi haleellaa naannoo Amaaraa fi Tigraay sirna fayyaa Itoophiyaa kufaatiif saaxilaa akka jiru akeekkachiisan)",
   "ኢራን ቅድመ ሁኔታዎቿ ከተሟሉ ከአሜሪካ ጋር ውይይት ለመጀመር ዝግጁ መሆኗን ገለጸች (Iran says US talks could resume ‘within a short period’ if demands are met)",
@@ -2664,7 +2656,9 @@
   "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)",
   "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)",
   "በBinance የሳይበር ጥቃት 6.3 ቢሊዮን ዶላር የዲጂታል ገንዘብ ተሰረቀ (Binance says fake job interviews used as part of $6.3bn crypto hack)",
-  "PetroChina በደቡብ ሱዳን፣ ኢትዮጵያ እና ጅቡቲ መካከል የነዳጅ መስመር ለመዘርጋት አቅዷል (PetroChina eyes South Sudan–Ethiopia–Djibouti oil corridor)"
+  "PetroChina በደቡብ ሱዳን፣ ኢትዮጵያ እና ጅቡቲ መካከል የነዳጅ መስመር ለመዘርጋት አቅዷል (PetroChina eyes South Sudan–Ethiopia–Djibouti oil corridor)",
+  "የእስራኤሉ ጠቅላይ ሚኒስትር ኢትዮጵያን ለሀገራቸው «ወዳጅ» አድርጎ የሚያሳይ ካርታ አቀረቡ (#Daily_Brief: Netanyahu map depicts #Ethiopia, #Sudan’s RSF as ‘friendly’ to #Israel, #UAE)",
+  "Dangote በኢትዮጵያ የሚገኘውን የ4 ቢሊዮን USD የማዳበሪያ ኩባንያ አክሲዮን ለገበያ ሊያቀርብ ነው (Daily_Brief: #Dangote eyes stock exchange listing for at least 10% of $4bn #Ethiopia fertilizer business)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2716,6 +2710,8 @@
   1793720186.7123318,
   1793725724.267728,
   1793727432.4990337,
-  1793734594.8712418
+  1793734594.8712418,
+  1793740154.0997224,
+  1793740157.7213194
  ]
 }
