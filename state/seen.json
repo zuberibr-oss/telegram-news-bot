@@ -1,18 +1,5 @@
 {
  "seen": {
-  "d548810514b21ab8": 1792485894.4791172,
-  "268e1671bf7846c1": 1792485894.4791172,
-  "8c8b9408f2510ed3": 1792485894.4791172,
-  "b65cc0e02aa71e33": 1792485894.4791172,
-  "0f25811b77c110d6": 1792485894.4791172,
-  "f938d299ecb952c3": 1792485894.4791172,
-  "fa1d112f41ac902d": 1792485894.4791172,
-  "60eb3d4e2f56054b": 1792485894.4791172,
-  "5ec868bceb1e8814": 1792485894.4791172,
-  "3b9d61430c9b5803": 1792485894.4791172,
-  "7004400f11f76987": 1792485894.4791172,
-  "ed9dc4ef21c0b925": 1792485894.4791172,
-  "e254b9f7ed571aa4": 1792485894.4791172,
   "48e3be4f199a8389": 1792487553.632801,
   "09878d23114b44fb": 1792487553.632801,
   "55cea73c5387134b": 1792487553.632801,
@@ -1338,10 +1325,11 @@
   "b1ee1a18a9817b88": 1793694880.2529871,
   "5c36f5aa9b640dc8": 1793694880.2529871,
   "d00bebffd435d92b": 1793694880.2529871,
-  "bbd3d9e534886992": 1793694880.2529871
+  "bbd3d9e534886992": 1793694880.2529871,
+  "3f823872dad45522": 1793696909.983261,
+  "4989d8681472492b": 1793696909.983261
  },
  "recent_headlines": [
-  "በኬንያ የናይሮቢ ሰነደ መዋዕለ ንዋይ ገበያ ባለሀብቶች ቁጥር 2.36 ሚሊዮን ደረሰ (More Kenyans turn to stocks as NSE investor numbers hit 2.36 million)",
   "Cassava Technologies የ Anthropic Claude AI ሞዴሎችን በአፍሪካ ለማቅረብ የሚያስችል ፈቃድ አገኘ (Cassava Technologies Becomes Authorised Reseller of Anthropic’s Claude AI in Africa)",
   "የሜዱሳ የባህር ስር የቴሌኮም ኬብል በሊቢያዋ ቤንጋዚ ከተማ ደረሰ (Libya’s O3 Group Announces Medusa Submarine Cable Arrival in Benghazi)",
   "ኢትዮጵያ በዲጂታል ክፍያዎች 7.8 ቢሊዮን ዶላር የሚያወጡ 387 ሚሊዮን ግብይቶችን ፈጸመች (Ethiopia Processes 387 Million Digital Payment Transactions Worth $7.8 Billion in 2025 26)",
@@ -1380,7 +1368,8 @@
   "ስማርት አፍሪካ ሀገራት አቀፍ የዲጂታል መታወቂያዎችን የሚያገናኝ የሙከራ ፕሮጀክት አጠናቀቀ (The Infrastructure Mechanics of Africa’s First Interoperable Digital Identity Framework)",
   "DSRV የኢትዮጵያን ዲጂታል መታወቂያ ከብሎክቼይን ቴክኖሎጂ ጋር ለማያያዝ ከኢትዮጵያ ጋር ተባበረ (DSRV Partners With Ethiopia to Link Digital ID and Blockchain Services)",
   "ጉግል 3 ሚሊዮን አፍሪካውያንን በ AI ለማሰልጠን የሚያስችል አዲስ መድረክ አስመረቀ (Google launches Skilling Africa hub to train 3m in AI by 2030)",
-  "Rise of Fearless የቪዲዮ ጨዋታ የ 1 ሚሊዮን USD ኢንቨስትመንት አገኘ (Rise of Fearless raises $1 million ahead of a relaunch)"
+  "Rise of Fearless የቪዲዮ ጨዋታ የ 1 ሚሊዮን USD ኢንቨስትመንት አገኘ (Rise of Fearless raises $1 million ahead of a relaunch)",
+  "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ተመኑን በ16% እንዳጸና አቆየ (Inflation at 14.9%, and Single Digits Won’t Come in the Next Six Months)"
  ],
  "posted_at": [
   1793619412.1111405,
@@ -1391,6 +1380,7 @@
   1793655332.777827,
   1793658933.9925003,
   1793660940.5049896,
-  1793693540.501309
+  1793693540.501309,
+  1793696986.4059486
  ]
 }
