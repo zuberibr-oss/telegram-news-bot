@@ -1,6 +1,5 @@
 {
  "seen": {
-  "9fcf7d8657c3c86f": 1792535833.5315154,
   "d29fbbca23fb8cff": 1792537774.8101132,
   "ddfa4095c9505160": 1792537774.8101132,
   "d9f3dc6a40d13076": 1792539350.1842318,
@@ -2620,10 +2619,12 @@
   "d8fcf39a8644545d": 1793745389.7725832,
   "803176cbfa2830ff": 1793745389.7725832,
   "ecaea19ff5e7cf34": 1793745389.7725832,
-  "fa724ae6cf11f657": 1793745389.7725832
+  "fa724ae6cf11f657": 1793745389.7725832,
+  "713676977c6ac835": 1793747309.318569,
+  "ed08fe69aa1edb82": 1793747309.318569,
+  "f49d7e0a7060366a": 1793747309.318569
  },
  "recent_headlines": [
-  "በትግራይ ክልል የመንግሥት ሠራተኞች ደመወዝ ክፍያ በዚህ ወር እንደሚጀምር ተገለጸ (Tigray Region Accelerates Institutional Recovery as Government Employee Salary Payments Set to Resume This Month)",
   "የሶማሊላንድ ባለሥልጣናት በቦራማ በኦሮሞ ነዋሪዎች ላይ የተፈጸመውን ጥቃት ኮነኑ (Angawoonni Somaalilaand haleellaa jiraattota Oromoo Booramaa irratti raawwatame balaaleffatan; manneen 150 ol miidhaan irra gahuunis gabaafame)",
   "በሱዳን የኃይል ማዕከላት ላይ ተጨማሪ የድሮን ጥቃቶች መፈጸማቸው ተገለጸ (Drone attacks extend campaign targeting Sudan’s power system)",
   "በዩክሬን Kherson ግዛት ለ6 ቀናት የቆየው የተኩስ ማቆም አብቅቶ ውጊያ ተጀመረ (Fighting returns to Kherson region after longest Ukraine war ceasefire)",
@@ -2662,7 +2663,8 @@
   "አሜሪካ በኤቦላ ወረርሽኝ ምክንያት ዜጎቿ ወደ ኬንያ የሚያደርጉትን ጉዞ እንዲከልሱ መከረች (#Daily_Brief: US urges #Americans to reconsider travel to #Kenya amid Ebola spread)",
   "ኬንያ ከሞያሌ ግጭት የሸሹ ከ50 ሺህ በላይ ኢትዮጵያውያን ተፈናቃዮችን መመዝገብ ጀመረች (Oduu: Keeniyaan baqattoota Itoophiyaa walitti bu’iinsa Moyyaaleen baqatan galmeessuu eegalte; baqattoonni Keeniyaa ga’an kuma 50 ol ta’aniiru)",
   "የኢብራሂም ኢንዴክስ በኢትዮጵያ በጎ አስተዳደር ላይ የማስጠንቀቂያ ምልክቶች መኖራቸውን ገለጸ (Fooyya’iinsi xiqqaan jiraatus, bulchiinsi Itoophiyaa mallattoolee akeekkachiisaa agarsiisa: Indeksii Ibraahim)",
-  "ቻይና በኢትዮጵያ እና ኤርትራ መካከል ያለውን ውጥረት ለማርገብ ልዩ መልእክተኞችን ልትልክ ነው (Daily_Brief: #China to send special envoys to #Ethiopia, #Eritrea to ease tensions, promote regional stability)"
+  "ቻይና በኢትዮጵያ እና ኤርትራ መካከል ያለውን ውጥረት ለማርገብ ልዩ መልእክተኞችን ልትልክ ነው (Daily_Brief: #China to send special envoys to #Ethiopia, #Eritrea to ease tensions, promote regional stability)",
+  "በሞያሌ ድንበር ግጭት ምክንያት ኬንያ የብሔራዊ ፈተና ማዕከላትን አዛወረች (Daily_Brief: Kenya relocates two national examination centres in Moyale over Ethiopia border clashes)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2720,6 +2722,7 @@
   1793741800.1428084,
   1793743785.3066604,
   1793743788.6969378,
-  1793745417.6692405
+  1793745417.6692405,
+  1793747336.8860502
  ]
 }
