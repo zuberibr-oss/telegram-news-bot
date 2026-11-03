@@ -1,9 +1,5 @@
 {
  "seen": {
-  "62f9b017c39d55b6": 1792494762.6477187,
-  "3eefac669322282c": 1792494762.6477187,
-  "b8da51c94ab6ec63": 1792494762.6477187,
-  "714c9a917737fb24": 1792494762.6477187,
   "a74b3b94c2a083d6": 1792496409.3484356,
   "428e31ca7746feee": 1792496409.3484356,
   "e1bf119847711b37": 1792496409.3484356,
@@ -2637,10 +2633,13 @@
   "90637bed03fed709": 1793704133.105283,
   "4778ec9dc324c99f": 1793704133.105283,
   "463bf05fb0a17aa8": 1793704133.105283,
-  "01bed652689c0b3e": 1793704133.105283
+  "01bed652689c0b3e": 1793704133.105283,
+  "7c2f1c50d5c11bac": 1793705707.0002315,
+  "f9b4b5edfeec4aca": 1793705707.0002315,
+  "35e403824bd79e4a": 1793705707.0002315,
+  "e60e78274ee92668": 1793705707.0002315
  },
  "recent_headlines": [
-  "የእስራኤል የመጀመሪያው አምባሳደር በሶማሊላንድ የማረጋገጫ ደብዳቤያቸውን አቀረቡ (Israel’s first ambassador to Somaliland presents credentials in Hargeisa)",
   "መቀሌ የ«መሶብ» የተቀናጀ የአንድ ማዕከል አገልግሎት መረብን ልትቀላቀል ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
   "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ለመቀላቀል የምታደርገው ድርድር ጠንከር ያሉ ቅድመ ሁኔታዎች ገጠሙት (Ethiopia’s WTO Terms Harden as Members Ask for More)",
   "ዓዲግራት ዩኒቨርሲቲ ነባር እና አዲስ ተማሪዎችን መቀበል ጀመረ (Adigrat University Welcomes Returning and Newly Admitted Students as Academic Activities Resume Across Tigray Region)",
@@ -2679,7 +2678,8 @@
   "የህንድ ባሕር ኃይል በሶማሊያ ዳርቻ ታግተው የነበሩ 20 የመርከብ ሠራተኞችን አታደገ (Humnoonni Waraana Galaanarraa Hindii hojjettoota doonii 20 ta'an kan doonii handaara Somaliyaarraa ugguramte baraaran)",
   "ዩጋንዳ ከሶማሊያ የሰላም ማስከበር ተልዕኮ ወታደሮቿን ማስወጣት ጀመረች (Uganda withdraws troops from peacekeeping mission in Somalia)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ምጣኔውን በ16 በመቶ እንዳጸና አስታወቀ (Ethiopia’s Economic Momentum Strengthens as Gold Exports and Foreign Assets Drive External Gains, NBE Reports)",
-  "ሩሲያ በዩክሬን ሆስፒታል እና የኃይል ማዕከላት ላይ በሰነዘረችው ጥቃት 73 ሰዎች ቆሰሉ (At least 73 injured as Russia bombs Ukrainian hospital and power plants)"
+  "ሩሲያ በዩክሬን ሆስፒታል እና የኃይል ማዕከላት ላይ በሰነዘረችው ጥቃት 73 ሰዎች ቆሰሉ (At least 73 injured as Russia bombs Ukrainian hospital and power plants)",
+  "የኢትዮጵያ ሜቴዎሮሎጂ ኢንስቲትዩት 107 ዘመናዊ የአየር ሁኔታ መከታተያ ጣቢያዎችን ሊተክል ነው (Ethiopia to Install 107 Modern Automated Weather Stations Nationwide)"
  ],
  "posted_at": [
   1793545659.1814597,
@@ -2728,6 +2728,7 @@
   1793697013.6097715,
   1793700569.9407806,
   1793700573.3031697,
-  1793702167.2995467
+  1793702167.2995467,
+  1793705754.8216112
  ]
 }
