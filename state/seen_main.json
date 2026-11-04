@@ -1,8 +1,5 @@
 {
  "seen": {
-  "fe8cbbf0866cccb1": 1792590049.4068325,
-  "c67dd61853ccd532": 1792590049.4068325,
-  "ff49f49698ebbaf5": 1792590049.4068325,
   "62edad41554ded10": 1792592046.6245868,
   "2eacc0da53a570bf": 1792592046.6245868,
   "e83402037196aa77": 1792592046.6245868,
@@ -2641,10 +2638,13 @@
   "c08bb56064bf5bb6": 1793799370.3410447,
   "fcad272236c7b91e": 1793799370.3410447,
   "cc4c8c17ae2301da": 1793799370.3410447,
-  "615f18302b17ae45": 1793799370.3410447
+  "615f18302b17ae45": 1793799370.3410447,
+  "6428c9a13cbab5e4": 1793801404.3558025,
+  "e6a1472279e3a67e": 1793801404.3558025,
+  "7281c2885c8c7aea": 1793801404.3558025,
+  "5161bb9cfd8d2ce2": 1793801404.3558025
  },
  "recent_headlines": [
-  "ሩሲያ በዩክሬን ሆስፒታል እና የኃይል ማዕከላት ላይ በሰነዘረችው ጥቃት 73 ሰዎች ቆሰሉ (At least 73 injured as Russia bombs Ukrainian hospital and power plants)",
   "የኢትዮጵያ ሜቴዎሮሎጂ ኢንስቲትዩት 107 ዘመናዊ የአየር ሁኔታ መከታተያ ጣቢያዎችን ሊተክል ነው (Ethiopia to Install 107 Modern Automated Weather Stations Nationwide)",
   "ኢትዮጵያ የዓለም ጤና ድርጅት የአደጋ ጊዜ ሕክምና ቡድኖች ዓለም አቀፍ ስብሰባን ማስተናገድ ጀመረች (Ethiopia Hosts First WHO Emergency Medical Teams Global Meeting in African Region)",
   "ኢትዮጵያ እና የአውሮፓ ኅብረት በወሳኝ ማዕድናት ልማት ላይ ስትራቴጂካዊ ትብብር ለማድረግ ተወያዩ (Ethiopia and EU Explore Strategic Partnership in Critical Raw Minerals Development)",
@@ -2683,7 +2683,8 @@
   "ኢትዮጵያ የአጠቃላይ ሀገራዊ ምርት (GDP) ስሌቷን በድጋሚ ማሻሻሏን አስታወቀች (Ethiopia’s GDP Rebasing Establishes New Benchmark for Long-Term Development Planning – Minister)",
   "በደቡብ ምስራቅ ኦሮሚያ በተፈጸመ ጥቃት 48 ሰዎች መገደላቸውን ኢሰመኮ አስታወቀ (EHRC reports 48 deaths in armed attack in Southeast Oromia)",
   "የአፍሪካ ኅብረት በኢትዮጵያ እና በኤርትራ መካከል ያለውን ውጥረት ለማርገብ ዲፕሎማሲያዊ ጥረት ጀመረ (African Union dteps up Diplomacy to ease Ethiopia-Eritrea tensions)",
-  "Abdul El-Sayed የመጀመሪያው ሙስሊም የአሜሪካ ሴኔት አባል በመሆን ተመረጡ (Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator)"
+  "Abdul El-Sayed የመጀመሪያው ሙስሊም የአሜሪካ ሴኔት አባል በመሆን ተመረጡ (Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator)",
+  "ኢትዮጵያ ስድስት የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቱን ለቅቀው እንዲወጡ አዘዘች (ኢትዮጵያ የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቷን ለቅቀው እንዲወጡ አዘዘች)"
  ],
  "posted_at": [
   1793628715.4517004,
@@ -2750,6 +2751,7 @@
   1793794483.4645948,
   1793795867.3141272,
   1793795870.7260242,
-  1793797764.1108696
+  1793797764.1108696,
+  1793801443.1007245
  ]
 }
