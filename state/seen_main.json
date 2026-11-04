@@ -1,8 +1,5 @@
 {
  "seen": {
-  "d1b946108bb67493": 1792600918.4479427,
-  "2d89e9d872eb1d13": 1792600918.4479427,
-  "63fcfd7dd200bf99": 1792600918.4479427,
   "c6ebc4a2102d5d5e": 1792602616.2786608,
   "03c902637f1a95c4": 1792602616.2786608,
   "2114bca631f71be4": 1792602616.2786608,
@@ -2648,10 +2645,13 @@
   "ed21215f5931ec34": 1793810141.421821,
   "7ef5486b45e4ccfe": 1793810141.421821,
   "cdd3b3d17af29162": 1793810141.421821,
-  "0d8f9f1b691298b3": 1793810141.421821
+  "0d8f9f1b691298b3": 1793810141.421821,
+  "e9eb92ba9084ef8a": 1793812056.8033376,
+  "bdb864dadc79c24b": 1793812056.8033376,
+  "acbd8640bfbed70d": 1793812056.8033376,
+  "e3870e0d1f4e9958": 1793812056.8033376
  },
  "recent_headlines": [
-  "በአውሮፓ የሱፐርማርኬት ሰንሰለቶች ላይ በተፈጸመ የሳይበር ጥቃት ሥራ መስተጓጎሉ ተገለጸ (Cyberattack disrupts supermarkets across Europe)",
   "አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ልታቋርጥ መሆኑን ዶናልድ ትራምፕ ገለጹ (Trump says that US will stop paying Israel military aid after year-end)",
   "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)",
   "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)",
@@ -2690,7 +2690,8 @@
   "ኢትዮጵያ በአፍሪካ እና አውሮፓ ኅብረት ስብሰባ ላይ የንግድ ገደቦች እንዲነሱ ጠየቀች (Ethiopia Presses for Stronger Africa-EU Cooperation on Trade, Energy and Digital Development)",
   "Volodymyr Zelensky ለአሜሪካዋ የመጀመሪያ እመቤት Melania Trump የዩክሬን ከፍተኛ የክብር ሜዳሊያ ሰጡ (Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire)",
   "ባይረን ዶናልድስ የመጀመሪያው የፍሎሪዳ ጥቁር ገዥ ሆነው ተመረጡ (‘We are still red,’ Florida’s first Black governor upon win)",
-  "ዓለም አቀፍ ባንክ በኢትዮጵያ ለውኃና ኢነርጂ ፕሮጀክቶች የሚሰጠውን ድጋፍ እንደሚያጠናክር ገለጸ (World Bank Pledges to Strengthen Support for Ethiopia’s Water and Energy Development Projects)"
+  "ዓለም አቀፍ ባንክ በኢትዮጵያ ለውኃና ኢነርጂ ፕሮጀክቶች የሚሰጠውን ድጋፍ እንደሚያጠናክር ገለጸ (World Bank Pledges to Strengthen Support for Ethiopia’s Water and Energy Development Projects)",
+  "ኢትዮጵያ እና የዓለም ባንክ የ«One WASH» ፕሮግራምን የማስፈጸሚያ ጊዜ አራዘሙ (Ethiopia, World Bank Move to Accelerate Water Projects and Unlock Development Financing)"
  ],
  "posted_at": [
   1793643124.112419,
@@ -2758,6 +2759,7 @@
   1793804986.8398013,
   1793806587.563171,
   1793808604.3784425,
-  1793808607.8810604
+  1793808607.8810604,
+  1793812106.6985111
  ]
 }
