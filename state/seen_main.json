@@ -1,8 +1,5 @@
 {
  "seen": {
-  "eaa5703260a21af2": 1792608223.980825,
-  "49d997242163feb7": 1792608223.980825,
-  "7d16cc89fa0fcd93": 1792608223.980825,
   "d42f4f15671bec2f": 1792609809.245179,
   "cd52403b98579d9f": 1792609809.245179,
   "8875507a3d2d7143": 1792609809.245179,
@@ -2653,10 +2650,13 @@
   "11150526eccbdc6f": 1793815793.7951877,
   "d19850402533bc9a": 1793815793.7951877,
   "7f2074a56ccedef4": 1793815793.7951877,
-  "251508a9370de49a": 1793817342.2947273
+  "251508a9370de49a": 1793817342.2947273,
+  "93efbfb9aca8f38d": 1793819226.5113785,
+  "3cdce88cea5262be": 1793819226.5113785,
+  "c3eae2107320eb64": 1793819226.5113785,
+  "267867b9b29da7d0": 1793819226.5113785
  },
  "recent_headlines": [
-  "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)",
   "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)",
   "በBinance የሳይበር ጥቃት 6.3 ቢሊዮን ዶላር የዲጂታል ገንዘብ ተሰረቀ (Binance says fake job interviews used as part of $6.3bn crypto hack)",
   "PetroChina በደቡብ ሱዳን፣ ኢትዮጵያ እና ጅቡቲ መካከል የነዳጅ መስመር ለመዘርጋት አቅዷል (PetroChina eyes South Sudan–Ethiopia–Djibouti oil corridor)",
@@ -2695,10 +2695,10 @@
   "ባይረን ዶናልድስ የመጀመሪያው የፍሎሪዳ ጥቁር ገዥ ሆነው ተመረጡ (‘We are still red,’ Florida’s first Black governor upon win)",
   "ዓለም አቀፍ ባንክ በኢትዮጵያ ለውኃና ኢነርጂ ፕሮጀክቶች የሚሰጠውን ድጋፍ እንደሚያጠናክር ገለጸ (World Bank Pledges to Strengthen Support for Ethiopia’s Water and Energy Development Projects)",
   "ኢትዮጵያ እና የዓለም ባንክ የ«One WASH» ፕሮግራምን የማስፈጸሚያ ጊዜ አራዘሙ (Ethiopia, World Bank Move to Accelerate Water Projects and Unlock Development Financing)",
-  "በዩክሬን የእርዳታ ማዕከል ላይ በተሰነዘረ የሩሲያ የአየር ጥቃት የ40 ሰዎች ሕይወት አለፈ (Ukraine says bodycam video shows deadly Russian double-tap bombing)"
+  "በዩክሬን የእርዳታ ማዕከል ላይ በተሰነዘረ የሩሲያ የአየር ጥቃት የ40 ሰዎች ሕይወት አለፈ (Ukraine says bodycam video shows deadly Russian double-tap bombing)",
+  "በሰሜን ኢትዮጵያ በገናኘው ግጭት በትግራይና አማራ ክልሎች በሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (Oduu: Walitti bu’iinsi kaaba Itoophiyaatti deebi’ee ka’eTigraayitti maatii qe’ee isaaniitti deebi’an deebisee buqqise; Amaaraatti namoonni kumaatamaan lakkaa’aman qe’ee isaanii irraa buqqa’an)"
  ],
  "posted_at": [
-  1793644563.2336574,
   1793646510.767691,
   1793650112.3898787,
   1793653809.2966845,
@@ -2762,6 +2762,7 @@
   1793808604.3784425,
   1793808607.8810604,
   1793812106.6985111,
-  1793815837.3073611
+  1793815837.3073611,
+  1793819261.3999872
  ]
 }
