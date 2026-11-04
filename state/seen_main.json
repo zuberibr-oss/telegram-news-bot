@@ -1,6 +1,5 @@
 {
  "seen": {
-  "d1cfb7af0b4d872e": 1792552453.3089628,
   "539226d54f915379": 1792554189.8792899,
   "315b620d60537f0a": 1792556044.4036684,
   "a35d15c8076bc592": 1792556044.4036684,
@@ -2624,10 +2623,12 @@
   "b09e33372cadea64": 1793758265.274291,
   "cff8372b73c7f271": 1793759717.7176263,
   "a80dfca30f1e080d": 1793759717.7176263,
-  "8a08603685d1b476": 1793761784.0349977
+  "8a08603685d1b476": 1793761784.0349977,
+  "d5fc13832c84afaf": 1793763336.108879,
+  "5e3638c453465865": 1793763336.108879,
+  "f61bdaea2bc794e1": 1793763336.108879
  },
  "recent_headlines": [
-  "በዩክሬን የእርዳታ ማዕከል ላይ በተፈጸመ የሩሲያ የአየር ጥቃት 18 ሰዎች ተገደሉ (Russian bombing kills 18 people at Ukraine aid centre, Kyiv says)",
   "ኤፍኤኦ ኢትዮጵያ ከተፈጥሮ አደጋ ድንገተኛ እርዳታ ወደ ቅድመ መከላከል እንድትሸጋገር ጠየቀ (FAO urges Ethiopia to shift from emergency aid to anticipatory action against recurring climate disasters)",
   "በሱዳን ብሉ ናይል ግዛት በተቀሰቀሰው ግጭት ወደ 120 ሺህ የሚጠጉ ሰዎች ተፈናቀሉ (Daily_Brief: Nearly 120,000 displaced from #Sudan’s #Blue_Nile State amid escalating conflict, IOM says)",
   "Donald Trump ደቡብ አፍሪካ እና ሩዋንዳን ከ AGOA የንግድ ስምምነት ሊያወጡ ነው (Trump to remove Rwanda and South Africa from US trade deal)",
@@ -2666,7 +2667,8 @@
   "በሞያሌ ድንበር ግጭት ምክንያት ኬንያ የብሔራዊ ፈተና ማዕከላትን አዛወረች (Daily_Brief: Kenya relocates two national examination centres in Moyale over Ethiopia border clashes)",
   "ግብፅ እና ሱዳን ከህዳሴው ግድብ መጠናቀቅ በኋላ የቅኝ ግዛት የናይል ስምምነቶችን ጠቀሱ (Long after Ethiopia completes GERD, Egypt, Sudan invoke Nile water rights under colonial-era agreement)",
   "የአፍሪካ ኅብረት በሞቃዲሾ ዙሪያ የሚገኙ አራት የጦር ሠፈሮችን ሊረከብ ነው (Daily_Brief: #AU peacekeepers to take over four bases near #Mogadishu as #Ugandan troops withdraw)",
-  "ሱዳን በኢትዮጵያ ላይ ለተባበሩት መንግሥታት እና ለአፍሪካ ኅብረት የጸጥታ ምክር ቤቶች አቤቱታ አቀረበች (Sudaan Itoophiyaa irratti Mana Maree Nageenyaa UN fi Mana Maree Nagaa fi Tasgabbii AU’tti komii sirnaa dhiyeessite)"
+  "ሱዳን በኢትዮጵያ ላይ ለተባበሩት መንግሥታት እና ለአፍሪካ ኅብረት የጸጥታ ምክር ቤቶች አቤቱታ አቀረበች (Sudaan Itoophiyaa irratti Mana Maree Nageenyaa UN fi Mana Maree Nagaa fi Tasgabbii AU’tti komii sirnaa dhiyeessite)",
+  "በአሜሪካ የአጋማሽ ዘመን ምርጫ ዲሞክራቶች በሴኔት እና በተወካዮች ምክር ቤት ድል እያስመዘገቡ ነው (Anthony Zurcher: Democrats surge into Republican territory as party eyes historic night)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2728,6 +2730,7 @@
   1793747336.8860502,
   1793751644.1369743,
   1793751647.4963677,
-  1793753183.018234
+  1793753183.018234,
+  1793763373.3909314
  ]
 }
