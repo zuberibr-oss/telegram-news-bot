@@ -1,11 +1,5 @@
 {
  "seen": {
-  "1ae8667224b02788": 1792577525.692641,
-  "0e1885f75e9fb201": 1792579313.52383,
-  "7a1efb8a8dee69cf": 1792579313.52383,
-  "6d860873f00280f8": 1792579313.52383,
-  "d47b5343acd0b704": 1792579313.52383,
-  "f4d4b85acfe6edeb": 1792579313.52383,
   "944aa8ea60bd441b": 1792581191.2947872,
   "d2487c0a7f73d439": 1792581191.2947872,
   "732c9f9821127454": 1792581191.2947872,
@@ -2626,11 +2620,24 @@
   "4621832395d17911": 1793786993.4186342,
   "b8614ed1aa10f4f1": 1793786993.4186342,
   "6f7ed0ba1b552735": 1793786993.4186342,
-  "2c40c4e898524494": 1793786993.4186342
+  "2c40c4e898524494": 1793786993.4186342,
+  "8ae163c198281da8": 1793790550.585417,
+  "4cee850679d83d57": 1793790550.585417,
+  "b274288b7ce1f3f7": 1793790550.585417,
+  "9c3a1c846beddc74": 1793790550.585417,
+  "9a197c4012ec1819": 1793790550.585417,
+  "a5f42737f3e6e239": 1793790550.585417,
+  "427b4ae79701a257": 1793790550.585417,
+  "aae7219538a7e3c9": 1793790550.585417,
+  "4cb9a0b59dc8a1f9": 1793790550.585417,
+  "959e04944607911f": 1793790550.585417,
+  "0486bb56765a002d": 1793790550.585417,
+  "edbd55b6e387fa67": 1793790550.585417,
+  "debfaf2fc555a0ee": 1793790550.585417,
+  "26652aac596d1e50": 1793790550.585417,
+  "6a24318757f9da4d": 1793790550.585417
  },
  "recent_headlines": [
-  "በሐይቅ ጃሪ ተፈናቃዮች ጣቢያ በተፈጸመ የድሮን ጥቃት ተፈናቃዮች አካባቢውን እየለቀቁ ነው (News: Survivors flee Hayiq Jari IDP camp after deadly drone strike)",
-  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ የተቀሰቀሰው የኤቦላ ወረርሽኝ የ5 ሺህ 300 ሰዎችን ሕይወት ቀጠፈ (Ebola outbreak kills more than 5,300 people in DR Congo)",
   "አሜሪካ በሩሲያ እና ዩክሬን መካከል አዲስ የሰላም ውይይት እንደምታዘጋጅ አስታወቀች (Russian strike on Ukraine aid hub kills 26 as US announces new peace talks)",
   "አሜሪካ በኢራን የቄሽም ደሴት እና ሆርሙዝ ወሰን ላይ ጥቃት ፈጸመች (Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz)",
   "ዩናይትድ ኪንግደም የቋሚ ነዋሪነት መብት ማግኛ ጊዜን ወደ 10 ዓመት አራዘመች (UK to double wait for permanent residency, with exemptions for care workers)",
@@ -2668,7 +2675,9 @@
   "ዲሞክራቶች የአሜሪካ ሴኔት አብላጫ ወንበር የበላይነትን መቀናጀታቸው ተረጋገጠ (Democratic Party flips US Senate in 2026 midterm elections)",
   "ትውልደ ኢትዮጵያዊው የአሜሪካን ሚስጥራዊ መረጃዎች ለኢትዮጵያ በመስጠት ጥፋተኛ መሆናቸውን አመኑ (ትውልደ ኢትዮጵያዊው የአሜሪካን ጥብቅ መረጃዎች ለኢትዮጵያ አሳልፎ መስጠቱን አመነ)",
   "ዲሞክራቶች የአሜሪካ የተወካዮች ምክር ቤት አብላጫ ወንበር ማሸነፋቸው ተረጋገጠ (Democratic Party gains US House majority in 2026 midterm elections)",
-  "በሆርሙዝ ወሰን 4 የነዳጅ ጭነት መርከቦች በባሕር ቦምብ መደመሰሳቸውን ኢራን ገለጸች (Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says)"
+  "በሆርሙዝ ወሰን 4 የነዳጅ ጭነት መርከቦች በባሕር ቦምብ መደመሰሳቸውን ኢራን ገለጸች (Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says)",
+  "አሜሪካ ደቡብ አፍሪካን እና ሩዋንዳን ከAGOA የንግድ ዕድል ሰረዘች (Washington excludes South Africa and Rwanda from US duty-free trade deal)",
+  "የእስራኤል የምርጫ ኮሚሽን የምርጫ ውጤቱን በማረጋገጥ የማጭበርበር ክሶችን ውድቅ አደረገ (Israel vote results confirmed as election commission rejects fraud claims)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2739,6 +2748,8 @@
   1793769055.108184,
   1793769058.6403193,
   1793776239.2848706,
-  1793777871.5804486
+  1793777871.5804486,
+  1793790648.482133,
+  1793790652.0527687
  ]
 }
