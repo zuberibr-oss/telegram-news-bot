@@ -1,17 +1,5 @@
 {
  "seen": {
-  "d42f4f15671bec2f": 1792609809.245179,
-  "cd52403b98579d9f": 1792609809.245179,
-  "8875507a3d2d7143": 1792609809.245179,
-  "74134453403df542": 1792609809.245179,
-  "c8be286d85a7de06": 1792609809.245179,
-  "b9055d1289f44b12": 1792609809.245179,
-  "cfa3864ca3a5071f": 1792609809.245179,
-  "5492b39b9456b013": 1792609809.245179,
-  "ebdb88f6267299cf": 1792609809.245179,
-  "30b8ce9ebef8df0e": 1792609809.245179,
-  "8615bac3d652ea98": 1792609809.245179,
-  "e5ccececb6fa3ae5": 1792609809.245179,
   "ed011419db4aaf65": 1792611436.3089209,
   "771c52209aa03ce7": 1792611436.3089209,
   "dd77deb34c04adba": 1792611436.3089209,
@@ -2654,7 +2642,9 @@
   "93efbfb9aca8f38d": 1793819226.5113785,
   "3cdce88cea5262be": 1793819226.5113785,
   "c3eae2107320eb64": 1793819226.5113785,
-  "267867b9b29da7d0": 1793819226.5113785
+  "267867b9b29da7d0": 1793819226.5113785,
+  "9100b03c34973360": 1793820940.2714334,
+  "a5c9a4a6e945620e": 1793820940.2714334
  },
  "recent_headlines": [
   "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)",
@@ -2699,7 +2689,6 @@
   "በሰሜን ኢትዮጵያ በገናኘው ግጭት በትግራይና አማራ ክልሎች በሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (Oduu: Walitti bu’iinsi kaaba Itoophiyaatti deebi’ee ka’eTigraayitti maatii qe’ee isaaniitti deebi’an deebisee buqqise; Amaaraatti namoonni kumaatamaan lakkaa’aman qe’ee isaanii irraa buqqa’an)"
  ],
  "posted_at": [
-  1793646510.767691,
   1793650112.3898787,
   1793653809.2966845,
   1793655355.1470459,
