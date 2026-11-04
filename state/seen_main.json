@@ -1,6 +1,5 @@
 {
  "seen": {
-  "f6e627f3607b6213": 1792597307.7811131,
   "c009910aa48c33ab": 1792599134.9530892,
   "6870ffa24b191774": 1792599134.9530892,
   "9053a524ec1fc51d": 1792599134.9530892,
@@ -2643,11 +2642,15 @@
   "02075d7ba9694389": 1793806531.2962732,
   "2b66723bac07ba4e": 1793806531.2962732,
   "42ad2dee950ec60b": 1793806531.2962732,
-  "eb912df98dbc6717": 1793806531.2962732
+  "eb912df98dbc6717": 1793806531.2962732,
+  "23a7def4a790957b": 1793808552.628829,
+  "b0a24cc5e45bd50e": 1793808552.628829,
+  "eba4119ec4b63f32": 1793808552.628829,
+  "ccbf0b96ff677b65": 1793808552.628829,
+  "fe038c3573ee27bc": 1793808552.628829,
+  "462c6fe0ef1c0eec": 1793808552.628829
  },
  "recent_headlines": [
-  "የኢትዮጵያ ቡና እና ሻይ ባለሥልጣን ከDHL ጋር የመግባቢያ ስምምነት ተፈራረመ (Ethiopia, DHL sign deal to boost coffee export capacity)",
-  "በጥቁር ባሕር መርከቦች ላይ የተሰነዘሩ ጥቃቶች የዓለም አቀፍ የምግብ ዋጋን አናሩ (Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply)",
   "በአውሮፓ የሱፐርማርኬት ሰንሰለቶች ላይ በተፈጸመ የሳይበር ጥቃት ሥራ መስተጓጎሉ ተገለጸ (Cyberattack disrupts supermarkets across Europe)",
   "አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ልታቋርጥ መሆኑን ዶናልድ ትራምፕ ገለጹ (Trump says that US will stop paying Israel military aid after year-end)",
   "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)",
@@ -2685,7 +2688,9 @@
   "ኢትዮጵያ ስድስት የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቱን ለቅቀው እንዲወጡ አዘዘች (ኢትዮጵያ የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቷን ለቅቀው እንዲወጡ አዘዘች)",
   "በኬንያ የኤቦላ ተጣቃሚዎች ቁጥር ወደ ስምንት ከፍ አለ (#Daily_Brief: #Kenya’s Ebola cases rise to eight, with no community transmission reported)",
   "ኢትዮጵያ በአፍሪካ እና አውሮፓ ኅብረት ስብሰባ ላይ የንግድ ገደቦች እንዲነሱ ጠየቀች (Ethiopia Presses for Stronger Africa-EU Cooperation on Trade, Energy and Digital Development)",
-  "Volodymyr Zelensky ለአሜሪካዋ የመጀመሪያ እመቤት Melania Trump የዩክሬን ከፍተኛ የክብር ሜዳሊያ ሰጡ (Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire)"
+  "Volodymyr Zelensky ለአሜሪካዋ የመጀመሪያ እመቤት Melania Trump የዩክሬን ከፍተኛ የክብር ሜዳሊያ ሰጡ (Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire)",
+  "ባይረን ዶናልድስ የመጀመሪያው የፍሎሪዳ ጥቁር ገዥ ሆነው ተመረጡ (‘We are still red,’ Florida’s first Black governor upon win)",
+  "ዓለም አቀፍ ባንክ በኢትዮጵያ ለውኃና ኢነርጂ ፕሮጀክቶች የሚሰጠውን ድጋፍ እንደሚያጠናክር ገለጸ (World Bank Pledges to Strengthen Support for Ethiopia’s Water and Energy Development Projects)"
  ],
  "posted_at": [
   1793643124.112419,
@@ -2751,6 +2756,8 @@
   1793801443.1007245,
   1793803001.036708,
   1793804986.8398013,
-  1793806587.563171
+  1793806587.563171,
+  1793808604.3784425,
+  1793808607.8810604
  ]
 }
