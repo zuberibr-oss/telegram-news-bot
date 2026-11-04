@@ -1,6 +1,5 @@
 {
  "seen": {
-  "c60804c0c65dc51f": 1792563537.5470948,
   "b1db079bd0bef329": 1792565675.3051558,
   "cc73c3ed41b92fe7": 1792567071.6343663,
   "47461bba1844eda9": 1792567071.6343663,
@@ -1353,10 +1352,10 @@
   "d5d39401f0bb6adb": 1793754470.717684,
   "c127ac397e368ef7": 1793765321.0199056,
   "5c1b7cdf3471934f": 1793765321.0199056,
-  "ace1ceeb5a82817f": 1793772778.5074017
+  "ace1ceeb5a82817f": 1793772778.5074017,
+  "b120a67ea30c58cb": 1793774308.4185221
  },
  "recent_headlines": [
-  "ኢትዮጵያ በዲጂታል ክፍያዎች 7.8 ቢሊዮን ዶላር የሚያወጡ 387 ሚሊዮን ግብይቶችን ፈጸመች (Ethiopia Processes 387 Million Digital Payment Transactions Worth $7.8 Billion in 2025 26)",
   "Mastercard በኢትዮጵያ የዲጂታል ክፍያ ደህንነትን ለማጠናከር የ AI እና ቶከናይዜሽን ቴክኖሎጂ አስተዋወቀ (Mastercard Introduces AI and Tokenization to Enhance Digital Payment Security in Ethiopia)",
   "የኢትዮጵያ ብሔራዊ ባንክ በ31ኛው የውጭ ምንዛሬ ሐራጅ አማካይ ተመን 159.70 ብር ሆነ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
   "M-Pesa በቀን 114 ቢሊዮን የኬንያ ሽልንግ የሚያወጡ ግብይቶችን እያከናወነ ነው (M-Pesa Processes Ksh114 Billion in Transactions Per Day, Safaricom Report Shows)",
@@ -1395,7 +1394,8 @@
   "Rise of Fearless የቪዲዮ ጨዋታ የ 1 ሚሊዮን USD ኢንቨስትመንት አገኘ (Rise of Fearless raises $1 million ahead of a relaunch)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ተመኑን በ16% እንዳጸና አቆየ (Inflation at 14.9%, and Single Digits Won’t Come in the Next Six Months)",
   "የሳፋሪኮም በኢትዮጵያ የነበረው ኪሳራ በ92% ሊቀንስ እንደሚችል ተገለጸ (Safaricom HY2027 results: Analysts expect stronger earnings as Ethiopia losses shrink)",
-  "የኬንያ የክሪፕቶፕረንሲ ግብይት 5.7 ቢሊዮን ዶላር በመድረስ ኢትዮጵያን በልጦ 3ኛ ደረጃን ያዘ (Kenya’s crypto market records KSh740bn as stablecoins drive activity)"
+  "የኬንያ የክሪፕቶፕረንሲ ግብይት 5.7 ቢሊዮን ዶላር በመድረስ ኢትዮጵያን በልጦ 3ኛ ደረጃን ያዘ (Kenya’s crypto market records KSh740bn as stablecoins drive activity)",
+  "Nedbank የኬንያውን NCBA ባንክ 66 በመቶ ድርሻ በ107.7 ቢሊዮን ሺሊንግ ገዛ (Nedbank takes control of NCBA as 1.087 billion shares change hands in KSh107.7 billion NSE transaction)"
  ],
  "posted_at": [
   1793619412.1111405,
@@ -1409,6 +1409,7 @@
   1793693540.501309,
   1793696986.4059486,
   1793745389.5116549,
-  1793765414.280706
+  1793765414.280706,
+  1793774390.2069864
  ]
 }
