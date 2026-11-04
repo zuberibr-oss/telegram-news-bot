@@ -1,9 +1,5 @@
 {
  "seen": {
-  "ed011419db4aaf65": 1792611436.3089209,
-  "771c52209aa03ce7": 1792611436.3089209,
-  "dd77deb34c04adba": 1792611436.3089209,
-  "6a9e6fb64ba04f29": 1792611436.3089209,
   "6ca018df4e792d0f": 1792613541.8936887,
   "5b951815b1366d6f": 1792613541.8936887,
   "a8c6955924a9e1bb": 1792615253.1157517,
@@ -2644,10 +2640,13 @@
   "c3eae2107320eb64": 1793819226.5113785,
   "267867b9b29da7d0": 1793819226.5113785,
   "9100b03c34973360": 1793820940.2714334,
-  "a5c9a4a6e945620e": 1793820940.2714334
+  "a5c9a4a6e945620e": 1793820940.2714334,
+  "95160a8ae40d2175": 1793822939.5173824,
+  "1fe4860f2e9173dc": 1793822939.5173824,
+  "6342a19cec3a337e": 1793822939.5173824,
+  "df1048e3c41d2150": 1793822939.5173824
  },
  "recent_headlines": [
-  "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)",
   "በBinance የሳይበር ጥቃት 6.3 ቢሊዮን ዶላር የዲጂታል ገንዘብ ተሰረቀ (Binance says fake job interviews used as part of $6.3bn crypto hack)",
   "PetroChina በደቡብ ሱዳን፣ ኢትዮጵያ እና ጅቡቲ መካከል የነዳጅ መስመር ለመዘርጋት አቅዷል (PetroChina eyes South Sudan–Ethiopia–Djibouti oil corridor)",
   "የእስራኤሉ ጠቅላይ ሚኒስትር ኢትዮጵያን ለሀገራቸው «ወዳጅ» አድርጎ የሚያሳይ ካርታ አቀረቡ (#Daily_Brief: Netanyahu map depicts #Ethiopia, #Sudan’s RSF as ‘friendly’ to #Israel, #UAE)",
@@ -2686,10 +2685,10 @@
   "ዓለም አቀፍ ባንክ በኢትዮጵያ ለውኃና ኢነርጂ ፕሮጀክቶች የሚሰጠውን ድጋፍ እንደሚያጠናክር ገለጸ (World Bank Pledges to Strengthen Support for Ethiopia’s Water and Energy Development Projects)",
   "ኢትዮጵያ እና የዓለም ባንክ የ«One WASH» ፕሮግራምን የማስፈጸሚያ ጊዜ አራዘሙ (Ethiopia, World Bank Move to Accelerate Water Projects and Unlock Development Financing)",
   "በዩክሬን የእርዳታ ማዕከል ላይ በተሰነዘረ የሩሲያ የአየር ጥቃት የ40 ሰዎች ሕይወት አለፈ (Ukraine says bodycam video shows deadly Russian double-tap bombing)",
-  "በሰሜን ኢትዮጵያ በገናኘው ግጭት በትግራይና አማራ ክልሎች በሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (Oduu: Walitti bu’iinsi kaaba Itoophiyaatti deebi’ee ka’eTigraayitti maatii qe’ee isaaniitti deebi’an deebisee buqqise; Amaaraatti namoonni kumaatamaan lakkaa’aman qe’ee isaanii irraa buqqa’an)"
+  "በሰሜን ኢትዮጵያ በገናኘው ግጭት በትግራይና አማራ ክልሎች በሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (Oduu: Walitti bu’iinsi kaaba Itoophiyaatti deebi’ee ka’eTigraayitti maatii qe’ee isaaniitti deebi’an deebisee buqqise; Amaaraatti namoonni kumaatamaan lakkaa’aman qe’ee isaanii irraa buqqa’an)",
+  "የዓለም ጤና ድርጅት ለሁለት አዳዲስ የኤቦላ ክትባቶች የሙከራ ፈቃድ ሰጠ (WHO approves trials for two new Ebola vaccines)"
  ],
  "posted_at": [
-  1793650112.3898787,
   1793653809.2966845,
   1793655355.1470459,
   1793665359.5829854,
@@ -2752,6 +2751,7 @@
   1793808607.8810604,
   1793812106.6985111,
   1793815837.3073611,
-  1793819261.3999872
+  1793819261.3999872,
+  1793822976.2088752
  ]
 }
