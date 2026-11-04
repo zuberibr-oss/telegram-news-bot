@@ -1,9 +1,5 @@
 {
  "seen": {
-  "4f3b784a71426952": 1792557729.5428662,
-  "c97445986ea773cd": 1792557729.5428662,
-  "2e8caa42d1ac9d6a": 1792557729.5428662,
-  "7f6a98c9e3342c0c": 1792557729.5428662,
   "a8a91a1706d919c4": 1792559490.4815907,
   "c29f77c5aa5e2af4": 1792561269.8873403,
   "9ab9090bf0cca7e5": 1792561269.8873403,
@@ -2635,12 +2631,20 @@
   "a7a6668576ea3ed6": 1793766951.128828,
   "a8470d21f551017b": 1793766951.128828,
   "7e91dcd3f7382c1f": 1793766951.128828,
-  "2091f5c94a646bb2": 1793766951.128828
+  "2091f5c94a646bb2": 1793766951.128828,
+  "487a8540d2f58f10": 1793768953.236329,
+  "315b620d60537f0a": 1793768953.236329,
+  "b7942af3e512f770": 1793768953.236329,
+  "ff67bcb337c86416": 1793768953.236329,
+  "e21590e7a3d3a36e": 1793768953.236329,
+  "0feb4ea74bfb00d9": 1793768953.236329,
+  "8c9d930461634452": 1793768953.236329,
+  "e302925554fae554": 1793768953.236329,
+  "ba2877efe2919cd6": 1793768953.236329,
+  "66fd55a873871530": 1793768953.236329,
+  "c014a0e7aa53215f": 1793768953.236329
  },
  "recent_headlines": [
-  "በአርሲ ሽርካ ከተፈጸመው ግድያ ጋር በተያያዘ 73 ሰዎች በቁጥጥር ሥር ዋሉ (Ajjeecha Shirkaatti mudateen booda namootni 73 to’atamuu mootummaan ibse; kun erga jiraattonni taatecha hordofee namootni hidhamuu eeraniiyyu)",
-  "የኢትዮጵያ መገናኛ ብዙኃን ባለሥልጣን የነጻ ጋዜጣ ፈቃድን ላልተወሰነ ጊዜ ሰረዘ (Abbaan Taayitaa Miidiyaa Itoophiyaa galmee eyyamaa Gaazexaa walabaafi umriin angafaa biyyattii yeroo hin beekamneef haqe)",
-  "Donald Trump ከኢራን ጋር የሚደረገው የሰላም ውይይት በጎ ውጤት ማሳየቱን ገለጹ (Trump signals progress on Iran deal as Tehran pushes faster ceasefire)",
   "የአውሮፓ አገራት በዩክሬን ሊደረግ የሚችለውን የወታደሮች ስምሪት በፖላንድ ሊለማመዱ ነው (Thousands of European troops to rehearse Ukraine deployment in event of peace)",
   "ኢትዮጵያ በኤል ኒኞ ምክንያት ለስንጥቅ ሸለቆ በሽታ ተጋላጭነቷ መጨመሩ ተገለጸ (Daily_Brief: #Ethiopia faces heightened Rift Valley fever risk as #El_Niño threatens #Eastern_Africa, FAO, IGAD warn)",
   "በሐይቅ ጃሪ ተፈናቃዮች ጣቢያ በተፈጸመ የድሮን ጥቃት ተፈናቃዮች አካባቢውን እየለቀቁ ነው (News: Survivors flee Hayiq Jari IDP camp after deadly drone strike)",
@@ -2677,7 +2681,10 @@
   "በአሜሪካ የአጋማሽ ዘመን ምርጫ ዲሞክራቶች በሴኔት እና በተወካዮች ምክር ቤት ድል እያስመዘገቡ ነው (Anthony Zurcher: Democrats surge into Republican territory as party eyes historic night)",
   "ትውልደ ኢትዮጵያዊቷ Melat Kiros በኮሎራዶ የኮንግረስ ወንበር አሸነፉ (Daily_Brief - #Ethiopian-born Melat Kiros wins #Colorado congressional seat, becomes first Black woman elected to represent state)",
   "ኢትዮጵያ 2ኛውን የአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ በአዲስ አበባ ልታስተናግድ ነው (From Adwa to Medemer: Ethiopia’s Pan-African Legacy Meets Africa’s Quest for a New Development Era)",
-  "በሱዳን ሶስት የኤሌክትሪክ ኃይል ጣቢያዎች በድሮን ጥቃት በመመታታቸው የኃይል አቅርቦት ተቋረጠ (Haleellaa drooniitiin buufataaleen humna ibsaa sadii #Sudaan keessatti rukutamuun booda tajaajilli ibsaa bal’inaan addaan cite)"
+  "በሱዳን ሶስት የኤሌክትሪክ ኃይል ጣቢያዎች በድሮን ጥቃት በመመታታቸው የኃይል አቅርቦት ተቋረጠ (Haleellaa drooniitiin buufataaleen humna ibsaa sadii #Sudaan keessatti rukutamuun booda tajaajilli ibsaa bal’inaan addaan cite)",
+  "Keisha Lance Bottoms የመጀመሪያዋ ጥቁር ሴት የአሜሪካ ክፍለ ሀገር ገዥ በመሆን ታሪክ ሠሩ (Keisha Lance Bottoms makes history as first Black woman elected US governor)",
+  "ዲሞክራቶች የአሜሪካ ሴኔት አብላጫ ወንበር የበላይነትን መቀናጀታቸው ተረጋገጠ (Democratic Party flips US Senate in 2026 midterm elections)",
+  "ትውልደ ኢትዮጵያዊው የአሜሪካን ሚስጥራዊ መረጃዎች ለኢትዮጵያ በመስጠት ጥፋተኛ መሆናቸውን አመኑ (ትውልደ ኢትዮጵያዊው የአሜሪካን ጥብቅ መረጃዎች ለኢትዮጵያ አሳልፎ መስጠቱን አመነ)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2743,6 +2750,9 @@
   1793763373.3909314,
   1793765480.672042,
   1793765484.0929508,
-  1793767011.9626746
+  1793767011.9626746,
+  1793769051.657053,
+  1793769055.108184,
+  1793769058.6403193
  ]
 }
