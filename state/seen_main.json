@@ -1,8 +1,5 @@
 {
  "seen": {
-  "d9f3dc6a40d13076": 1792539350.1842318,
-  "2f3797239868f7d1": 1792539350.1842318,
-  "491a34e2fa9046b4": 1792539350.1842318,
   "e6e51f47df69c845": 1792542538.2752812,
   "246e5f8d6cd2787e": 1792542538.2752812,
   "8137a0eca369ca21": 1792542538.2752812,
@@ -2623,11 +2620,14 @@
   "f49d7e0a7060366a": 1793747309.318569,
   "030851fe8758126e": 1793748900.2448502,
   "5524139c0614926f": 1793748900.2448502,
-  "be449d0d3b394965": 1793748900.2448502
+  "be449d0d3b394965": 1793748900.2448502,
+  "fbc13c27950b0073": 1793751601.055124,
+  "6537a31a7178df46": 1793751601.055124,
+  "c9e610def245db2e": 1793751601.055124,
+  "6e8b02bbbdeabae5": 1793751601.055124,
+  "28746a80f2ea6e41": 1793751601.055124
  },
  "recent_headlines": [
-  "የሶማሊላንድ ባለሥልጣናት በቦራማ በኦሮሞ ነዋሪዎች ላይ የተፈጸመውን ጥቃት ኮነኑ (Angawoonni Somaalilaand haleellaa jiraattota Oromoo Booramaa irratti raawwatame balaaleffatan; manneen 150 ol miidhaan irra gahuunis gabaafame)",
-  "በሱዳን የኃይል ማዕከላት ላይ ተጨማሪ የድሮን ጥቃቶች መፈጸማቸው ተገለጸ (Drone attacks extend campaign targeting Sudan’s power system)",
   "በዩክሬን Kherson ግዛት ለ6 ቀናት የቆየው የተኩስ ማቆም አብቅቶ ውጊያ ተጀመረ (Fighting returns to Kherson region after longest Ukraine war ceasefire)",
   "በዩክሬን የእርዳታ ማዕከል ላይ በተፈጸመ የሩሲያ የአየር ጥቃት 18 ሰዎች ተገደሉ (Russian bombing kills 18 people at Ukraine aid centre, Kyiv says)",
   "ኤፍኤኦ ኢትዮጵያ ከተፈጥሮ አደጋ ድንገተኛ እርዳታ ወደ ቅድመ መከላከል እንድትሸጋገር ጠየቀ (FAO urges Ethiopia to shift from emergency aid to anticipatory action against recurring climate disasters)",
@@ -2665,7 +2665,9 @@
   "ኬንያ ከሞያሌ ግጭት የሸሹ ከ50 ሺህ በላይ ኢትዮጵያውያን ተፈናቃዮችን መመዝገብ ጀመረች (Oduu: Keeniyaan baqattoota Itoophiyaa walitti bu’iinsa Moyyaaleen baqatan galmeessuu eegalte; baqattoonni Keeniyaa ga’an kuma 50 ol ta’aniiru)",
   "የኢብራሂም ኢንዴክስ በኢትዮጵያ በጎ አስተዳደር ላይ የማስጠንቀቂያ ምልክቶች መኖራቸውን ገለጸ (Fooyya’iinsi xiqqaan jiraatus, bulchiinsi Itoophiyaa mallattoolee akeekkachiisaa agarsiisa: Indeksii Ibraahim)",
   "ቻይና በኢትዮጵያ እና ኤርትራ መካከል ያለውን ውጥረት ለማርገብ ልዩ መልእክተኞችን ልትልክ ነው (Daily_Brief: #China to send special envoys to #Ethiopia, #Eritrea to ease tensions, promote regional stability)",
-  "በሞያሌ ድንበር ግጭት ምክንያት ኬንያ የብሔራዊ ፈተና ማዕከላትን አዛወረች (Daily_Brief: Kenya relocates two national examination centres in Moyale over Ethiopia border clashes)"
+  "በሞያሌ ድንበር ግጭት ምክንያት ኬንያ የብሔራዊ ፈተና ማዕከላትን አዛወረች (Daily_Brief: Kenya relocates two national examination centres in Moyale over Ethiopia border clashes)",
+  "ግብፅ እና ሱዳን ከህዳሴው ግድብ መጠናቀቅ በኋላ የቅኝ ግዛት የናይል ስምምነቶችን ጠቀሱ (Long after Ethiopia completes GERD, Egypt, Sudan invoke Nile water rights under colonial-era agreement)",
+  "የአፍሪካ ኅብረት በሞቃዲሾ ዙሪያ የሚገኙ አራት የጦር ሠፈሮችን ሊረከብ ነው (Daily_Brief: #AU peacekeepers to take over four bases near #Mogadishu as #Ugandan troops withdraw)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2724,6 +2726,8 @@
   1793743785.3066604,
   1793743788.6969378,
   1793745417.6692405,
-  1793747336.8860502
+  1793747336.8860502,
+  1793751644.1369743,
+  1793751647.4963677
  ]
 }
