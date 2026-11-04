@@ -1,10 +1,5 @@
 {
  "seen": {
-  "4f9ac50c30429971": 1792582888.693225,
-  "e2318a52f635f415": 1792582888.693225,
-  "2e9c9e50c55a3774": 1792582888.693225,
-  "a5c32377988000a5": 1792582888.693225,
-  "593a0c45e6f2e612": 1792582888.693225,
   "2bf68272bb3e930b": 1792585067.4544675,
   "2a3832e3227e31cf": 1792585067.4544675,
   "e048ed22f3fb3bb3": 1792585067.4544675,
@@ -2634,12 +2629,19 @@
   "be13a52bdaef2c0b": 1793792196.987264,
   "fe26383a2b0989e0": 1793792196.987264,
   "a6792e06a5c86d64": 1793792196.987264,
-  "409d3e906826eef4": 1793792196.987264
+  "409d3e906826eef4": 1793792196.987264,
+  "216cefdac6756d07": 1793794399.3434885,
+  "9b994ca805a9b68c": 1793794399.3434885,
+  "872e3d802e39a917": 1793794399.3434885,
+  "4921aea9a87febf0": 1793794399.3434885,
+  "e332c14a0a7543b4": 1793794399.3434885,
+  "f145de9bb3120a0c": 1793794399.3434885,
+  "d811f9bef1d327a9": 1793794399.3434885,
+  "f4d4b85acfe6edeb": 1793794399.3434885,
+  "86ffc609245a781e": 1793794399.3434885,
+  "c46006de490e678d": 1793794399.3434885
  },
  "recent_headlines": [
-  "አሜሪካ በኢራን የቄሽም ደሴት እና ሆርሙዝ ወሰን ላይ ጥቃት ፈጸመች (Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz)",
-  "ዩናይትድ ኪንግደም የቋሚ ነዋሪነት መብት ማግኛ ጊዜን ወደ 10 ዓመት አራዘመች (UK to double wait for permanent residency, with exemptions for care workers)",
-  "በአሜሪካ የኮንግረስ አጋማሽ ዘመን ምርጫ መካሄድ ጀመረ (Americans head to the polls for elections that could define Trump's closing chapter)",
   "የህንድ ባሕር ኃይል በሶማሊያ ዳርቻ ታግተው የነበሩ 20 የመርከብ ሠራተኞችን አታደገ (Humnoonni Waraana Galaanarraa Hindii hojjettoota doonii 20 ta'an kan doonii handaara Somaliyaarraa ugguramte baraaran)",
   "ዩጋንዳ ከሶማሊያ የሰላም ማስከበር ተልዕኮ ወታደሮቿን ማስወጣት ጀመረች (Uganda withdraws troops from peacekeeping mission in Somalia)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ምጣኔውን በ16 በመቶ እንዳጸና አስታወቀ (Ethiopia’s Economic Momentum Strengthens as Gold Exports and Foreign Assets Drive External Gains, NBE Reports)",
@@ -2676,10 +2678,12 @@
   "በሆርሙዝ ወሰን 4 የነዳጅ ጭነት መርከቦች በባሕር ቦምብ መደመሰሳቸውን ኢራን ገለጸች (Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says)",
   "አሜሪካ ደቡብ አፍሪካን እና ሩዋንዳን ከAGOA የንግድ ዕድል ሰረዘች (Washington excludes South Africa and Rwanda from US duty-free trade deal)",
   "የእስራኤል የምርጫ ኮሚሽን የምርጫ ውጤቱን በማረጋገጥ የማጭበርበር ክሶችን ውድቅ አደረገ (Israel vote results confirmed as election commission rejects fraud claims)",
-  "ኬንያ አምስት የኤቦላ ታካሚዎችን አዳና ከሆስፒታል አሰናበተች (#Daily_Brief: #Kenya discharges five #Ebola patients as no new infections reported)"
+  "ኬንያ አምስት የኤቦላ ታካሚዎችን አዳና ከሆስፒታል አሰናበተች (#Daily_Brief: #Kenya discharges five #Ebola patients as no new infections reported)",
+  "በአብዬ የገበያ ስፍራ በተሰነዘረ የድሮን ጥቃት የ153 ሰዎች ሕይወት ማለፉ ተገለጸ (Daily_Brief: #Sudanese drone strike kills 153 in disputed #Abyei market, #South_Sudanese official says)",
+  "በአፋር ወራሪው የፕሮሶፒስ ዛፍ በየዓመቱ በ31 ሺህ ሄክታር ላይ እየተስፋፋ ነው (Daily_Brief: Invasive Prosopis trees spreads 31,127 hectares annually in #Afar, linked to $602 million in ecosystem-service losses)",
+  "ኢትዮጵያ የአጠቃላይ ሀገራዊ ምርት (GDP) ስሌቷን በድጋሚ ማሻሻሏን አስታወቀች (Ethiopia’s GDP Rebasing Establishes New Benchmark for Long-Term Development Planning – Minister)"
  ],
  "posted_at": [
-  1793619496.2963579,
   1793621717.2071376,
   1793621720.7870352,
   1793621724.355294,
@@ -2746,6 +2750,9 @@
   1793777871.5804486,
   1793790648.482133,
   1793790652.0527687,
-  1793792224.440589
+  1793792224.440589,
+  1793794476.5117314,
+  1793794479.9594274,
+  1793794483.4645948
  ]
 }
