@@ -1,8 +1,5 @@
 {
  "seen": {
-  "daef2db501b8e1a0": 1792593632.045997,
-  "0d67de9c48b322e8": 1792593632.045997,
-  "2ff1db51b74722d1": 1792593632.045997,
   "345fa1e0c358ec8f": 1792595540.2029715,
   "fc5f8e8a4fbb6632": 1792595540.2029715,
   "bb54799716f9e7c8": 1792595540.2029715,
@@ -2641,10 +2638,13 @@
   "5976ac6fcf7d7d14": 1793802961.584425,
   "c1df34a162822c30": 1793802961.584425,
   "0d3dc626b22ed51e": 1793802961.584425,
-  "7bb57e9af181b9b5": 1793802961.584425
+  "7bb57e9af181b9b5": 1793802961.584425,
+  "6f56440eb1193a79": 1793804949.4406576,
+  "8c272c126849e506": 1793804949.4406576,
+  "1e1ae57e66088e2c": 1793804949.4406576,
+  "35fde6325a95bf3d": 1793804949.4406576
  },
  "recent_headlines": [
-  "ኢትዮጵያ የዓለም ጤና ድርጅት የአደጋ ጊዜ ሕክምና ቡድኖች ዓለም አቀፍ ስብሰባን ማስተናገድ ጀመረች (Ethiopia Hosts First WHO Emergency Medical Teams Global Meeting in African Region)",
   "ኢትዮጵያ እና የአውሮፓ ኅብረት በወሳኝ ማዕድናት ልማት ላይ ስትራቴጂካዊ ትብብር ለማድረግ ተወያዩ (Ethiopia and EU Explore Strategic Partnership in Critical Raw Minerals Development)",
   "የኢትዮጵያ ቡና እና ሻይ ባለሥልጣን ከDHL ጋር የመግባቢያ ስምምነት ተፈራረመ (Ethiopia, DHL sign deal to boost coffee export capacity)",
   "በጥቁር ባሕር መርከቦች ላይ የተሰነዘሩ ጥቃቶች የዓለም አቀፍ የምግብ ዋጋን አናሩ (Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply)",
@@ -2683,7 +2683,8 @@
   "የአፍሪካ ኅብረት በኢትዮጵያ እና በኤርትራ መካከል ያለውን ውጥረት ለማርገብ ዲፕሎማሲያዊ ጥረት ጀመረ (African Union dteps up Diplomacy to ease Ethiopia-Eritrea tensions)",
   "Abdul El-Sayed የመጀመሪያው ሙስሊም የአሜሪካ ሴኔት አባል በመሆን ተመረጡ (Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator)",
   "ኢትዮጵያ ስድስት የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቱን ለቅቀው እንዲወጡ አዘዘች (ኢትዮጵያ የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቷን ለቅቀው እንዲወጡ አዘዘች)",
-  "በኬንያ የኤቦላ ተጣቃሚዎች ቁጥር ወደ ስምንት ከፍ አለ (#Daily_Brief: #Kenya’s Ebola cases rise to eight, with no community transmission reported)"
+  "በኬንያ የኤቦላ ተጣቃሚዎች ቁጥር ወደ ስምንት ከፍ አለ (#Daily_Brief: #Kenya’s Ebola cases rise to eight, with no community transmission reported)",
+  "ኢትዮጵያ በአፍሪካ እና አውሮፓ ኅብረት ስብሰባ ላይ የንግድ ገደቦች እንዲነሱ ጠየቀች (Ethiopia Presses for Stronger Africa-EU Cooperation on Trade, Energy and Digital Development)"
  ],
  "posted_at": [
   1793632236.3519444,
@@ -2748,6 +2749,7 @@
   1793795870.7260242,
   1793797764.1108696,
   1793801443.1007245,
-  1793803001.036708
+  1793803001.036708,
+  1793804986.8398013
  ]
 }
