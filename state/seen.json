@@ -1317,10 +1317,14 @@
   "556d1527056755cf": 1793802875.270475,
   "9f0dc0b6ca07943d": 1793804896.859303,
   "e5e8ed2179c4bb72": 1793808496.0430639,
-  "71271cda95abf487": 1793812003.2048485
+  "71271cda95abf487": 1793812003.2048485,
+  "6ad3f7af273e333c": 1793826393.7972116,
+  "d86c601298c3fd0a": 1793826393.7972116,
+  "7393f211a85c2209": 1793826393.7972116,
+  "17d8a286948a672d": 1793826393.7972116,
+  "10bebc96cf8039f0": 1793826393.7972116
  },
  "recent_headlines": [
-  "M-Pesa በቀን 114 ቢሊዮን የኬንያ ሽልንግ የሚያወጡ ግብይቶችን እያከናወነ ነው (M-Pesa Processes Ksh114 Billion in Transactions Per Day, Safaricom Report Shows)",
   "ሳፋሪኮም ከወኪሎች ኮሚሽን ማጭበርበር ጋር በተያያዘ 118 ሰራተኞችን አሰናበተ (Safaricom dismisses 118 staff, recovers $7.34m in agent commission fraud)",
   "Mastercard እና Interswitch የ Google Pay አገልግሎትን በናይጄሪያ አስተዋወቁ (Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria)",
   "አዲስ አበባ ዓመታዊ የግብር ማስታወቂያ በኦንላይን ማቅረብ የሚያስችል አሰራር ዘረጋች (Addis Ababa Moves Annual Tax Filing Online, Revises Audit Rules on Bank Deposits)",
@@ -1359,7 +1363,8 @@
   "የኬንያ የክሪፕቶፕረንሲ ግብይት 5.7 ቢሊዮን ዶላር በመድረስ ኢትዮጵያን በልጦ 3ኛ ደረጃን ያዘ (Kenya’s crypto market records KSh740bn as stablecoins drive activity)",
   "Nedbank የኬንያውን NCBA ባንክ 66 በመቶ ድርሻ በ107.7 ቢሊዮን ሺሊንግ ገዛ (Nedbank takes control of NCBA as 1.087 billion shares change hands in KSh107.7 billion NSE transaction)",
   "ኢቲዮ ቴሌኮም እና ZTE በኢትዮጵያ የመጀመሪያውን የAIR RAN ቴክኖሎጂ ተገበሩ (ZTE and Ethio Telecom Successfully Deployed Ethiopia's First Pre-Commercial AIR RAN)",
-  "Yellow Card ወደ ደቡብ አሜሪካ ገበያ ለመግባት የብራዚሉን GoMoney ኩባንያ ገዛ (Yellow Card acquires GoMoney to enter Brazil)"
+  "Yellow Card ወደ ደቡብ አሜሪካ ገበያ ለመግባት የብራዚሉን GoMoney ኩባንያ ገዛ (Yellow Card acquires GoMoney to enter Brazil)",
+  "ኬንያ Meta፣ TikTok እና X ህገወጥ ይዘቶችን እንዲያሳውቁ የሚያስገድድ የህግ ረቂቅ አዘጋጀች (Kenya wants Meta, TikTok and X to report unlawful content under proposed social media law)"
  ],
  "posted_at": [
   1793655332.777827,
@@ -1371,6 +1376,7 @@
   1793765414.280706,
   1793774390.2069864,
   1793784937.596119,
-  1793802961.2729154
+  1793802961.2729154,
+  1793826491.3214564
  ]
 }
