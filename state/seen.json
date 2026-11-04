@@ -1,7 +1,5 @@
 {
  "seen": {
-  "9f4657b59a4b6974": 1792573955.298886,
-  "d6f971e8711fcfdd": 1792573955.298886,
   "256960e47341b313": 1792575637.5697565,
   "a585c8872e06cfb5": 1792577454.2734294,
   "d1f796d2baaf7d9f": 1792577454.2734294,
@@ -1351,10 +1349,10 @@
   "6191651fb83a7af6": 1793783331.7044318,
   "faf7270a99620418": 1793783331.7044318,
   "af1e8cafbb15cd7b": 1793783331.7044318,
-  "b60162e9ec78a93a": 1793783331.7044318
+  "b60162e9ec78a93a": 1793783331.7044318,
+  "f6db56161f44a9c0": 1793784867.2402506
  },
  "recent_headlines": [
-  "Mastercard በኢትዮጵያ የዲጂታል ክፍያ ደህንነትን ለማጠናከር የ AI እና ቶከናይዜሽን ቴክኖሎጂ አስተዋወቀ (Mastercard Introduces AI and Tokenization to Enhance Digital Payment Security in Ethiopia)",
   "የኢትዮጵያ ብሔራዊ ባንክ በ31ኛው የውጭ ምንዛሬ ሐራጅ አማካይ ተመን 159.70 ብር ሆነ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
   "M-Pesa በቀን 114 ቢሊዮን የኬንያ ሽልንግ የሚያወጡ ግብይቶችን እያከናወነ ነው (M-Pesa Processes Ksh114 Billion in Transactions Per Day, Safaricom Report Shows)",
   "ሳፋሪኮም ከወኪሎች ኮሚሽን ማጭበርበር ጋር በተያያዘ 118 ሰራተኞችን አሰናበተ (Safaricom dismisses 118 staff, recovers $7.34m in agent commission fraud)",
@@ -1393,7 +1391,8 @@
   "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ተመኑን በ16% እንዳጸና አቆየ (Inflation at 14.9%, and Single Digits Won’t Come in the Next Six Months)",
   "የሳፋሪኮም በኢትዮጵያ የነበረው ኪሳራ በ92% ሊቀንስ እንደሚችል ተገለጸ (Safaricom HY2027 results: Analysts expect stronger earnings as Ethiopia losses shrink)",
   "የኬንያ የክሪፕቶፕረንሲ ግብይት 5.7 ቢሊዮን ዶላር በመድረስ ኢትዮጵያን በልጦ 3ኛ ደረጃን ያዘ (Kenya’s crypto market records KSh740bn as stablecoins drive activity)",
-  "Nedbank የኬንያውን NCBA ባንክ 66 በመቶ ድርሻ በ107.7 ቢሊዮን ሺሊንግ ገዛ (Nedbank takes control of NCBA as 1.087 billion shares change hands in KSh107.7 billion NSE transaction)"
+  "Nedbank የኬንያውን NCBA ባንክ 66 በመቶ ድርሻ በ107.7 ቢሊዮን ሺሊንግ ገዛ (Nedbank takes control of NCBA as 1.087 billion shares change hands in KSh107.7 billion NSE transaction)",
+  "ኢቲዮ ቴሌኮም እና ZTE በኢትዮጵያ የመጀመሪያውን የAIR RAN ቴክኖሎጂ ተገበሩ (ZTE and Ethio Telecom Successfully Deployed Ethiopia's First Pre-Commercial AIR RAN)"
  ],
  "posted_at": [
   1793619412.1111405,
@@ -1408,6 +1407,7 @@
   1793696986.4059486,
   1793745389.5116549,
   1793765414.280706,
-  1793774390.2069864
+  1793774390.2069864,
+  1793784937.596119
  ]
 }
