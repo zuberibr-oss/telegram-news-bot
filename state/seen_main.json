@@ -1,6 +1,5 @@
 {
  "seen": {
-  "c23ab8ac46982a75": 1792604385.5919838,
   "d773648d29d975fe": 1792606550.7082636,
   "066f68a0741b7472": 1792606550.7082636,
   "eaa5703260a21af2": 1792608223.980825,
@@ -2652,10 +2651,12 @@
   "d01f0889931f3fd1": 1793813714.938334,
   "de283a2d42793bf3": 1793813714.938334,
   "8465588381cc49e6": 1793813714.938334,
-  "20944183e64c1c61": 1793813714.938334
+  "20944183e64c1c61": 1793813714.938334,
+  "11150526eccbdc6f": 1793815793.7951877,
+  "d19850402533bc9a": 1793815793.7951877,
+  "7f2074a56ccedef4": 1793815793.7951877
  },
  "recent_headlines": [
-  "አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ልታቋርጥ መሆኑን ዶናልድ ትራምፕ ገለጹ (Trump says that US will stop paying Israel military aid after year-end)",
   "የኢትዮጵያ ዓመታዊ የዋጋ ንረት ወደ 14.9 በመቶ ዝቅ ማለቱን ብሔራዊ ባንክ አስታወቀ (Ethiopia’s Inflation Eases to 14.9% in September, NBE Reports)",
   "በእስራኤል ምርጫ አብላጫ ባለመገኘቱ የ Benjamin Netanyahu የፖለቲካ እድል አጠራጣሪ ሆነ (Israel political deadlock leaves Netanyahu’s future hanging in the balance)",
   "በBinance የሳይበር ጥቃት 6.3 ቢሊዮን ዶላር የዲጂታል ገንዘብ ተሰረቀ (Binance says fake job interviews used as part of $6.3bn crypto hack)",
@@ -2694,7 +2695,8 @@
   "Volodymyr Zelensky ለአሜሪካዋ የመጀመሪያ እመቤት Melania Trump የዩክሬን ከፍተኛ የክብር ሜዳሊያ ሰጡ (Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire)",
   "ባይረን ዶናልድስ የመጀመሪያው የፍሎሪዳ ጥቁር ገዥ ሆነው ተመረጡ (‘We are still red,’ Florida’s first Black governor upon win)",
   "ዓለም አቀፍ ባንክ በኢትዮጵያ ለውኃና ኢነርጂ ፕሮጀክቶች የሚሰጠውን ድጋፍ እንደሚያጠናክር ገለጸ (World Bank Pledges to Strengthen Support for Ethiopia’s Water and Energy Development Projects)",
-  "ኢትዮጵያ እና የዓለም ባንክ የ«One WASH» ፕሮግራምን የማስፈጸሚያ ጊዜ አራዘሙ (Ethiopia, World Bank Move to Accelerate Water Projects and Unlock Development Financing)"
+  "ኢትዮጵያ እና የዓለም ባንክ የ«One WASH» ፕሮግራምን የማስፈጸሚያ ጊዜ አራዘሙ (Ethiopia, World Bank Move to Accelerate Water Projects and Unlock Development Financing)",
+  "በዩክሬን የእርዳታ ማዕከል ላይ በተሰነዘረ የሩሲያ የአየር ጥቃት የ40 ሰዎች ሕይወት አለፈ (Ukraine says bodycam video shows deadly Russian double-tap bombing)"
  ],
  "posted_at": [
   1793643124.112419,
@@ -2763,6 +2765,7 @@
   1793806587.563171,
   1793808604.3784425,
   1793808607.8810604,
-  1793812106.6985111
+  1793812106.6985111,
+  1793815837.3073611
  ]
 }
