@@ -1,10 +1,5 @@
 {
  "seen": {
-  "944aa8ea60bd441b": 1792581191.2947872,
-  "d2487c0a7f73d439": 1792581191.2947872,
-  "732c9f9821127454": 1792581191.2947872,
-  "20f9688a4ee975fe": 1792581191.2947872,
-  "18c7c2cf07ae76d2": 1792581191.2947872,
   "4f9ac50c30429971": 1792582888.693225,
   "e2318a52f635f415": 1792582888.693225,
   "2e9c9e50c55a3774": 1792582888.693225,
@@ -2635,10 +2630,13 @@
   "edbd55b6e387fa67": 1793790550.585417,
   "debfaf2fc555a0ee": 1793790550.585417,
   "26652aac596d1e50": 1793790550.585417,
-  "6a24318757f9da4d": 1793790550.585417
+  "6a24318757f9da4d": 1793790550.585417,
+  "be13a52bdaef2c0b": 1793792196.987264,
+  "fe26383a2b0989e0": 1793792196.987264,
+  "a6792e06a5c86d64": 1793792196.987264,
+  "409d3e906826eef4": 1793792196.987264
  },
  "recent_headlines": [
-  "አሜሪካ በሩሲያ እና ዩክሬን መካከል አዲስ የሰላም ውይይት እንደምታዘጋጅ አስታወቀች (Russian strike on Ukraine aid hub kills 26 as US announces new peace talks)",
   "አሜሪካ በኢራን የቄሽም ደሴት እና ሆርሙዝ ወሰን ላይ ጥቃት ፈጸመች (Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz)",
   "ዩናይትድ ኪንግደም የቋሚ ነዋሪነት መብት ማግኛ ጊዜን ወደ 10 ዓመት አራዘመች (UK to double wait for permanent residency, with exemptions for care workers)",
   "በአሜሪካ የኮንግረስ አጋማሽ ዘመን ምርጫ መካሄድ ጀመረ (Americans head to the polls for elections that could define Trump's closing chapter)",
@@ -2677,13 +2675,10 @@
   "ዲሞክራቶች የአሜሪካ የተወካዮች ምክር ቤት አብላጫ ወንበር ማሸነፋቸው ተረጋገጠ (Democratic Party gains US House majority in 2026 midterm elections)",
   "በሆርሙዝ ወሰን 4 የነዳጅ ጭነት መርከቦች በባሕር ቦምብ መደመሰሳቸውን ኢራን ገለጸች (Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says)",
   "አሜሪካ ደቡብ አፍሪካን እና ሩዋንዳን ከAGOA የንግድ ዕድል ሰረዘች (Washington excludes South Africa and Rwanda from US duty-free trade deal)",
-  "የእስራኤል የምርጫ ኮሚሽን የምርጫ ውጤቱን በማረጋገጥ የማጭበርበር ክሶችን ውድቅ አደረገ (Israel vote results confirmed as election commission rejects fraud claims)"
+  "የእስራኤል የምርጫ ኮሚሽን የምርጫ ውጤቱን በማረጋገጥ የማጭበርበር ክሶችን ውድቅ አደረገ (Israel vote results confirmed as election commission rejects fraud claims)",
+  "ኬንያ አምስት የኤቦላ ታካሚዎችን አዳና ከሆስፒታል አሰናበተች (#Daily_Brief: #Kenya discharges five #Ebola patients as no new infections reported)"
  ],
  "posted_at": [
-  1793618123.022173,
-  1793618126.701561,
-  1793618130.340793,
-  1793618133.9403625,
   1793619496.2963579,
   1793621717.2071376,
   1793621720.7870352,
@@ -2750,6 +2745,7 @@
   1793776239.2848706,
   1793777871.5804486,
   1793790648.482133,
-  1793790652.0527687
+  1793790652.0527687,
+  1793792224.440589
  ]
 }
