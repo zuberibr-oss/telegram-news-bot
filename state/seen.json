@@ -1,11 +1,5 @@
 {
  "seen": {
-  "62edad41554ded10": 1792591944.061932,
-  "7f72abffa64ca1d6": 1792591944.061932,
-  "e35b333ccc936ceb": 1792591944.061932,
-  "68718d1ec3d36333": 1792591944.061932,
-  "9f0dc0b6ca07943d": 1792591944.061932,
-  "26502eb4b7591741": 1792591944.061932,
   "327ab6f8e97e1f9f": 1792595469.1132376,
   "e5e8ed2179c4bb72": 1792595469.1132376,
   "472faedf7193e940": 1792597277.8233433,
@@ -1329,10 +1323,12 @@
   "aee7b09448017430": 1793799298.4693747,
   "9073055d06be5b32": 1793799298.4693747,
   "334460b19d49e2ec": 1793799298.4693747,
-  "eacdc4c921178c53": 1793801349.632542
+  "eacdc4c921178c53": 1793801349.632542,
+  "56ca6270943cba7d": 1793802875.270475,
+  "e95b82ecced25cdd": 1793802875.270475,
+  "556d1527056755cf": 1793802875.270475
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ በ31ኛው የውጭ ምንዛሬ ሐራጅ አማካይ ተመን 159.70 ብር ሆነ (Weighted average dollar rate falls to 159.70 birr in NBE latest auction)",
   "M-Pesa በቀን 114 ቢሊዮን የኬንያ ሽልንግ የሚያወጡ ግብይቶችን እያከናወነ ነው (M-Pesa Processes Ksh114 Billion in Transactions Per Day, Safaricom Report Shows)",
   "ሳፋሪኮም ከወኪሎች ኮሚሽን ማጭበርበር ጋር በተያያዘ 118 ሰራተኞችን አሰናበተ (Safaricom dismisses 118 staff, recovers $7.34m in agent commission fraud)",
   "Mastercard እና Interswitch የ Google Pay አገልግሎትን በናይጄሪያ አስተዋወቁ (Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria)",
@@ -1371,7 +1367,8 @@
   "የሳፋሪኮም በኢትዮጵያ የነበረው ኪሳራ በ92% ሊቀንስ እንደሚችል ተገለጸ (Safaricom HY2027 results: Analysts expect stronger earnings as Ethiopia losses shrink)",
   "የኬንያ የክሪፕቶፕረንሲ ግብይት 5.7 ቢሊዮን ዶላር በመድረስ ኢትዮጵያን በልጦ 3ኛ ደረጃን ያዘ (Kenya’s crypto market records KSh740bn as stablecoins drive activity)",
   "Nedbank የኬንያውን NCBA ባንክ 66 በመቶ ድርሻ በ107.7 ቢሊዮን ሺሊንግ ገዛ (Nedbank takes control of NCBA as 1.087 billion shares change hands in KSh107.7 billion NSE transaction)",
-  "ኢቲዮ ቴሌኮም እና ZTE በኢትዮጵያ የመጀመሪያውን የAIR RAN ቴክኖሎጂ ተገበሩ (ZTE and Ethio Telecom Successfully Deployed Ethiopia's First Pre-Commercial AIR RAN)"
+  "ኢቲዮ ቴሌኮም እና ZTE በኢትዮጵያ የመጀመሪያውን የAIR RAN ቴክኖሎጂ ተገበሩ (ZTE and Ethio Telecom Successfully Deployed Ethiopia's First Pre-Commercial AIR RAN)",
+  "Yellow Card ወደ ደቡብ አሜሪካ ገበያ ለመግባት የብራዚሉን GoMoney ኩባንያ ገዛ (Yellow Card acquires GoMoney to enter Brazil)"
  ],
  "posted_at": [
   1793655332.777827,
@@ -1382,6 +1379,7 @@
   1793745389.5116549,
   1793765414.280706,
   1793774390.2069864,
-  1793784937.596119
+  1793784937.596119,
+  1793802961.2729154
  ]
 }
