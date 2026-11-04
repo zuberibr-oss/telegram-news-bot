@@ -1,6 +1,5 @@
 {
  "seen": {
-  "539226d54f915379": 1792554189.8792899,
   "315b620d60537f0a": 1792556044.4036684,
   "a35d15c8076bc592": 1792556044.4036684,
   "4f3b784a71426952": 1792557729.5428662,
@@ -2626,11 +2625,17 @@
   "8a08603685d1b476": 1793761784.0349977,
   "d5fc13832c84afaf": 1793763336.108879,
   "5e3638c453465865": 1793763336.108879,
-  "f61bdaea2bc794e1": 1793763336.108879
+  "f61bdaea2bc794e1": 1793763336.108879,
+  "fb5c66bc460ea23d": 1793765414.4821792,
+  "94e54b7584a53ebf": 1793765414.4821792,
+  "a8c8ebbad0661747": 1793765414.4821792,
+  "3ed2126fd7aa629e": 1793765414.4821792,
+  "ddaf03bc6d10de95": 1793765414.4821792,
+  "9fdd90402de54228": 1793765414.4821792,
+  "859791c3a4d176c0": 1793765414.4821792,
+  "c127ac397e368ef7": 1793765414.4821792
  },
  "recent_headlines": [
-  "ኤፍኤኦ ኢትዮጵያ ከተፈጥሮ አደጋ ድንገተኛ እርዳታ ወደ ቅድመ መከላከል እንድትሸጋገር ጠየቀ (FAO urges Ethiopia to shift from emergency aid to anticipatory action against recurring climate disasters)",
-  "በሱዳን ብሉ ናይል ግዛት በተቀሰቀሰው ግጭት ወደ 120 ሺህ የሚጠጉ ሰዎች ተፈናቀሉ (Daily_Brief: Nearly 120,000 displaced from #Sudan’s #Blue_Nile State amid escalating conflict, IOM says)",
   "Donald Trump ደቡብ አፍሪካ እና ሩዋንዳን ከ AGOA የንግድ ስምምነት ሊያወጡ ነው (Trump to remove Rwanda and South Africa from US trade deal)",
   "በአርሲ ሽርካ ከተፈጸመው ግድያ ጋር በተያያዘ 73 ሰዎች በቁጥጥር ሥር ዋሉ (Ajjeecha Shirkaatti mudateen booda namootni 73 to’atamuu mootummaan ibse; kun erga jiraattonni taatecha hordofee namootni hidhamuu eeraniiyyu)",
   "የኢትዮጵያ መገናኛ ብዙኃን ባለሥልጣን የነጻ ጋዜጣ ፈቃድን ላልተወሰነ ጊዜ ሰረዘ (Abbaan Taayitaa Miidiyaa Itoophiyaa galmee eyyamaa Gaazexaa walabaafi umriin angafaa biyyattii yeroo hin beekamneef haqe)",
@@ -2668,7 +2673,9 @@
   "ግብፅ እና ሱዳን ከህዳሴው ግድብ መጠናቀቅ በኋላ የቅኝ ግዛት የናይል ስምምነቶችን ጠቀሱ (Long after Ethiopia completes GERD, Egypt, Sudan invoke Nile water rights under colonial-era agreement)",
   "የአፍሪካ ኅብረት በሞቃዲሾ ዙሪያ የሚገኙ አራት የጦር ሠፈሮችን ሊረከብ ነው (Daily_Brief: #AU peacekeepers to take over four bases near #Mogadishu as #Ugandan troops withdraw)",
   "ሱዳን በኢትዮጵያ ላይ ለተባበሩት መንግሥታት እና ለአፍሪካ ኅብረት የጸጥታ ምክር ቤቶች አቤቱታ አቀረበች (Sudaan Itoophiyaa irratti Mana Maree Nageenyaa UN fi Mana Maree Nagaa fi Tasgabbii AU’tti komii sirnaa dhiyeessite)",
-  "በአሜሪካ የአጋማሽ ዘመን ምርጫ ዲሞክራቶች በሴኔት እና በተወካዮች ምክር ቤት ድል እያስመዘገቡ ነው (Anthony Zurcher: Democrats surge into Republican territory as party eyes historic night)"
+  "በአሜሪካ የአጋማሽ ዘመን ምርጫ ዲሞክራቶች በሴኔት እና በተወካዮች ምክር ቤት ድል እያስመዘገቡ ነው (Anthony Zurcher: Democrats surge into Republican territory as party eyes historic night)",
+  "ትውልደ ኢትዮጵያዊቷ Melat Kiros በኮሎራዶ የኮንግረስ ወንበር አሸነፉ (Daily_Brief - #Ethiopian-born Melat Kiros wins #Colorado congressional seat, becomes first Black woman elected to represent state)",
+  "ኢትዮጵያ 2ኛውን የአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ በአዲስ አበባ ልታስተናግድ ነው (From Adwa to Medemer: Ethiopia’s Pan-African Legacy Meets Africa’s Quest for a New Development Era)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2731,6 +2738,8 @@
   1793751644.1369743,
   1793751647.4963677,
   1793753183.018234,
-  1793763373.3909314
+  1793763373.3909314,
+  1793765480.672042,
+  1793765484.0929508
  ]
 }
