@@ -1,9 +1,5 @@
 {
  "seen": {
-  "7af005a4fdf05aaa": 1792567154.9765842,
-  "fb0c5ddd891dc6b3": 1792567154.9765842,
-  "69af47b1065d4b7d": 1792567154.9765842,
-  "3048abe098b05c05": 1792567154.9765842,
   "5b58d0dec8ad49bc": 1792568677.7012012,
   "ca7b7be644e04f67": 1792568677.7012012,
   "2e45c5d502fe4a86": 1792568677.7012012,
@@ -2646,10 +2642,15 @@
   "a9379c0a8767fd0c": 1793776179.8946943,
   "1baba51f09e02a4d": 1793776179.8946943,
   "8acec86a5dd32212": 1793776179.8946943,
-  "0f2da4c17e31ec3c": 1793776179.8946943
+  "0f2da4c17e31ec3c": 1793776179.8946943,
+  "105b2ff5cbf5c946": 1793777824.4793901,
+  "76b6f7a8f60d4e61": 1793777824.4793901,
+  "265d62f967955b22": 1793777824.4793901,
+  "ce6aaa62e14b22df": 1793777824.4793901,
+  "c33a5f8526892670": 1793777824.4793901,
+  "c9769df422209e30": 1793777824.4793901
  },
  "recent_headlines": [
-  "ኢትዮጵያ በኤል ኒኞ ምክንያት ለስንጥቅ ሸለቆ በሽታ ተጋላጭነቷ መጨመሩ ተገለጸ (Daily_Brief: #Ethiopia faces heightened Rift Valley fever risk as #El_Niño threatens #Eastern_Africa, FAO, IGAD warn)",
   "በሐይቅ ጃሪ ተፈናቃዮች ጣቢያ በተፈጸመ የድሮን ጥቃት ተፈናቃዮች አካባቢውን እየለቀቁ ነው (News: Survivors flee Hayiq Jari IDP camp after deadly drone strike)",
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ የተቀሰቀሰው የኤቦላ ወረርሽኝ የ5 ሺህ 300 ሰዎችን ሕይወት ቀጠፈ (Ebola outbreak kills more than 5,300 people in DR Congo)",
   "አሜሪካ በሩሲያ እና ዩክሬን መካከል አዲስ የሰላም ውይይት እንደምታዘጋጅ አስታወቀች (Russian strike on Ukraine aid hub kills 26 as US announces new peace talks)",
@@ -2688,7 +2689,8 @@
   "Keisha Lance Bottoms የመጀመሪያዋ ጥቁር ሴት የአሜሪካ ክፍለ ሀገር ገዥ በመሆን ታሪክ ሠሩ (Keisha Lance Bottoms makes history as first Black woman elected US governor)",
   "ዲሞክራቶች የአሜሪካ ሴኔት አብላጫ ወንበር የበላይነትን መቀናጀታቸው ተረጋገጠ (Democratic Party flips US Senate in 2026 midterm elections)",
   "ትውልደ ኢትዮጵያዊው የአሜሪካን ሚስጥራዊ መረጃዎች ለኢትዮጵያ በመስጠት ጥፋተኛ መሆናቸውን አመኑ (ትውልደ ኢትዮጵያዊው የአሜሪካን ጥብቅ መረጃዎች ለኢትዮጵያ አሳልፎ መስጠቱን አመነ)",
-  "ዲሞክራቶች የአሜሪካ የተወካዮች ምክር ቤት አብላጫ ወንበር ማሸነፋቸው ተረጋገጠ (Democratic Party gains US House majority in 2026 midterm elections)"
+  "ዲሞክራቶች የአሜሪካ የተወካዮች ምክር ቤት አብላጫ ወንበር ማሸነፋቸው ተረጋገጠ (Democratic Party gains US House majority in 2026 midterm elections)",
+  "በሆርሙዝ ወሰን 4 የነዳጅ ጭነት መርከቦች በባሕር ቦምብ መደመሰሳቸውን ኢራን ገለጸች (Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says)"
  ],
  "posted_at": [
   1793618123.022173,
@@ -2758,6 +2760,7 @@
   1793769051.657053,
   1793769055.108184,
   1793769058.6403193,
-  1793776239.2848706
+  1793776239.2848706,
+  1793777871.5804486
  ]
 }
