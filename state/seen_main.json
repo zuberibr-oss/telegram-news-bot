@@ -1,10 +1,5 @@
 {
  "seen": {
-  "2bf68272bb3e930b": 1792585067.4544675,
-  "2a3832e3227e31cf": 1792585067.4544675,
-  "e048ed22f3fb3bb3": 1792585067.4544675,
-  "e890c174c0a4e4d1": 1792585067.4544675,
-  "f124cd32151c2192": 1792585067.4544675,
   "40912f8f831bb4ee": 1792587033.623448,
   "2af41dac6f9efddc": 1792587033.623448,
   "d9d4333247a59b0b": 1792587033.623448,
@@ -2639,11 +2634,11 @@
   "d811f9bef1d327a9": 1793794399.3434885,
   "f4d4b85acfe6edeb": 1793794399.3434885,
   "86ffc609245a781e": 1793794399.3434885,
-  "c46006de490e678d": 1793794399.3434885
+  "c46006de490e678d": 1793794399.3434885,
+  "12d2b509dd615fd5": 1793795825.047568,
+  "7b0d5593603c71df": 1793795825.047568
  },
  "recent_headlines": [
-  "የህንድ ባሕር ኃይል በሶማሊያ ዳርቻ ታግተው የነበሩ 20 የመርከብ ሠራተኞችን አታደገ (Humnoonni Waraana Galaanarraa Hindii hojjettoota doonii 20 ta'an kan doonii handaara Somaliyaarraa ugguramte baraaran)",
-  "ዩጋንዳ ከሶማሊያ የሰላም ማስከበር ተልዕኮ ወታደሮቿን ማስወጣት ጀመረች (Uganda withdraws troops from peacekeeping mission in Somalia)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ምጣኔውን በ16 በመቶ እንዳጸና አስታወቀ (Ethiopia’s Economic Momentum Strengthens as Gold Exports and Foreign Assets Drive External Gains, NBE Reports)",
   "ሩሲያ በዩክሬን ሆስፒታል እና የኃይል ማዕከላት ላይ በሰነዘረችው ጥቃት 73 ሰዎች ቆሰሉ (At least 73 injured as Russia bombs Ukrainian hospital and power plants)",
   "የኢትዮጵያ ሜቴዎሮሎጂ ኢንስቲትዩት 107 ዘመናዊ የአየር ሁኔታ መከታተያ ጣቢያዎችን ሊተክል ነው (Ethiopia to Install 107 Modern Automated Weather Stations Nationwide)",
@@ -2681,13 +2676,11 @@
   "ኬንያ አምስት የኤቦላ ታካሚዎችን አዳና ከሆስፒታል አሰናበተች (#Daily_Brief: #Kenya discharges five #Ebola patients as no new infections reported)",
   "በአብዬ የገበያ ስፍራ በተሰነዘረ የድሮን ጥቃት የ153 ሰዎች ሕይወት ማለፉ ተገለጸ (Daily_Brief: #Sudanese drone strike kills 153 in disputed #Abyei market, #South_Sudanese official says)",
   "በአፋር ወራሪው የፕሮሶፒስ ዛፍ በየዓመቱ በ31 ሺህ ሄክታር ላይ እየተስፋፋ ነው (Daily_Brief: Invasive Prosopis trees spreads 31,127 hectares annually in #Afar, linked to $602 million in ecosystem-service losses)",
-  "ኢትዮጵያ የአጠቃላይ ሀገራዊ ምርት (GDP) ስሌቷን በድጋሚ ማሻሻሏን አስታወቀች (Ethiopia’s GDP Rebasing Establishes New Benchmark for Long-Term Development Planning – Minister)"
+  "ኢትዮጵያ የአጠቃላይ ሀገራዊ ምርት (GDP) ስሌቷን በድጋሚ ማሻሻሏን አስታወቀች (Ethiopia’s GDP Rebasing Establishes New Benchmark for Long-Term Development Planning – Minister)",
+  "በደቡብ ምስራቅ ኦሮሚያ በተፈጸመ ጥቃት 48 ሰዎች መገደላቸውን ኢሰመኮ አስታወቀ (EHRC reports 48 deaths in armed attack in Southeast Oromia)",
+  "የአፍሪካ ኅብረት በኢትዮጵያ እና በኤርትራ መካከል ያለውን ውጥረት ለማርገብ ዲፕሎማሲያዊ ጥረት ጀመረ (African Union dteps up Diplomacy to ease Ethiopia-Eritrea tensions)"
  ],
  "posted_at": [
-  1793621717.2071376,
-  1793621720.7870352,
-  1793621724.355294,
-  1793621727.9618497,
   1793623186.3654077,
   1793623189.9131532,
   1793623193.4527514,
@@ -2753,6 +2746,8 @@
   1793792224.440589,
   1793794476.5117314,
   1793794479.9594274,
-  1793794483.4645948
+  1793794483.4645948,
+  1793795867.3141272,
+  1793795870.7260242
  ]
 }
