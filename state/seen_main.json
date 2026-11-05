@@ -1,7 +1,5 @@
 {
  "seen": {
-  "2d2206fd5002679f": 1792647665.9147902,
-  "5be3ebe76a89a848": 1792647665.9147902,
   "d0e464a041a1ebef": 1792649982.6062973,
   "58e3a860654e777d": 1792649982.6062973,
   "9ebe8b58d12ba466": 1792649982.6062973,
@@ -2633,11 +2631,17 @@
   "01d73235f37728a7": 1793853332.7978468,
   "22c314b1ed5ff4f4": 1793855357.281804,
   "543c963a49aa8b8c": 1793855357.281804,
-  "015cd64f0f802fed": 1793856995.3072736
+  "015cd64f0f802fed": 1793856995.3072736,
+  "97baceed94396976": 1793859277.3240166,
+  "04ed481f7856764c": 1793859277.3240166,
+  "451acd5a9d115cf1": 1793859277.3240166,
+  "816adaf909f55823": 1793859277.3240166,
+  "68d9dd19dcaa0fd1": 1793859277.3240166,
+  "6f9670a18dae0ce1": 1793859277.3240166,
+  "1b9663975029b715": 1793859277.3240166,
+  "1066a0ed88612a64": 1793859277.3240166
  },
  "recent_headlines": [
-  "PetroChina በደቡብ ሱዳን፣ ኢትዮጵያ እና ጅቡቲ መካከል የነዳጅ መስመር ለመዘርጋት አቅዷል (PetroChina eyes South Sudan–Ethiopia–Djibouti oil corridor)",
-  "የእስራኤሉ ጠቅላይ ሚኒስትር ኢትዮጵያን ለሀገራቸው «ወዳጅ» አድርጎ የሚያሳይ ካርታ አቀረቡ (#Daily_Brief: Netanyahu map depicts #Ethiopia, #Sudan’s RSF as ‘friendly’ to #Israel, #UAE)",
   "Dangote በኢትዮጵያ የሚገኘውን የ4 ቢሊዮን USD የማዳበሪያ ኩባንያ አክሲዮን ለገበያ ሊያቀርብ ነው (Daily_Brief: #Dangote eyes stock exchange listing for at least 10% of $4bn #Ethiopia fertilizer business)",
   "አሜሪካ በኤቦላ ወረርሽኝ ምክንያት ዜጎቿ ወደ ኬንያ የሚያደርጉትን ጉዞ እንዲከልሱ መከረች (#Daily_Brief: US urges #Americans to reconsider travel to #Kenya amid Ebola spread)",
   "ኬንያ ከሞያሌ ግጭት የሸሹ ከ50 ሺህ በላይ ኢትዮጵያውያን ተፈናቃዮችን መመዝገብ ጀመረች (Oduu: Keeniyaan baqattoota Itoophiyaa walitti bu’iinsa Moyyaaleen baqatan galmeessuu eegalte; baqattoonni Keeniyaa ga’an kuma 50 ol ta’aniiru)",
@@ -2675,7 +2679,9 @@
   "በዩክሬን የእርዳታ ማዕከል ላይ በተሰነዘረ የሩሲያ የአየር ጥቃት የ40 ሰዎች ሕይወት አለፈ (Ukraine says bodycam video shows deadly Russian double-tap bombing)",
   "በሰሜን ኢትዮጵያ በገናኘው ግጭት በትግራይና አማራ ክልሎች በሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (Oduu: Walitti bu’iinsi kaaba Itoophiyaatti deebi’ee ka’eTigraayitti maatii qe’ee isaaniitti deebi’an deebisee buqqise; Amaaraatti namoonni kumaatamaan lakkaa’aman qe’ee isaanii irraa buqqa’an)",
   "የዓለም ጤና ድርጅት ለሁለት አዳዲስ የኤቦላ ክትባቶች የሙከራ ፈቃድ ሰጠ (WHO approves trials for two new Ebola vaccines)",
-  "በደቡብ አፍሪካ ሀገራዊ ምርጫ የድምፅ ቆጠራ ተጀመረ (Vote counting underway in critical South Africa elections)"
+  "በደቡብ አፍሪካ ሀገራዊ ምርጫ የድምፅ ቆጠራ ተጀመረ (Vote counting underway in critical South Africa elections)",
+  "በሆርሙዝ ወሰን 2 የነዳጅ መርከቦች እና የጎታች መርከብ በእሳት መመታታቸውን ኢራን ገለጸች (Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz)",
+  "ኢትዮጵያ የውኃ ሀብቷን ለማልማት የግብፅን ፈቃድ አትጠይቅም አለች (Ethiopia Will Not Seek Egypt’s Permission to Develop Its Water Resources: Minister)"
  ],
  "posted_at": [
   1793693596.076862,
@@ -2732,6 +2738,8 @@
   1793815837.3073611,
   1793819261.3999872,
   1793822976.2088752,
-  1793848264.7965167
+  1793848264.7965167,
+  1793859342.8040562,
+  1793859346.2367442
  ]
 }
