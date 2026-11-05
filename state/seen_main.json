@@ -1,6 +1,5 @@
 {
  "seen": {
-  "390ebaf15d1c6818": 1792696211.3789113,
   "50c1198bcbeb2051": 1792697874.6113546,
   "4ce0dabf06e197e4": 1792699941.2965045,
   "7edea29143c82300": 1792699941.2965045,
@@ -2627,10 +2626,11 @@
   "c3061aac1f3be96a": 1793905623.0265987,
   "e794eaa824eaaaa9": 1793905623.0265987,
   "5131bbccd7de8e1c": 1793905623.0265987,
-  "4d03930ec4b4e810": 1793905623.0265987
+  "4d03930ec4b4e810": 1793905623.0265987,
+  "d5a793a4c9574709": 1793907291.803463,
+  "883132bd00d96ae1": 1793907291.803463
  },
  "recent_headlines": [
-  "ዲሞክራቶች የአሜሪካ የተወካዮች ምክር ቤት አብላጫ ወንበር ማሸነፋቸው ተረጋገጠ (Democratic Party gains US House majority in 2026 midterm elections)",
   "በሆርሙዝ ወሰን 4 የነዳጅ ጭነት መርከቦች በባሕር ቦምብ መደመሰሳቸውን ኢራን ገለጸች (Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says)",
   "አሜሪካ ደቡብ አፍሪካን እና ሩዋንዳን ከAGOA የንግድ ዕድል ሰረዘች (Washington excludes South Africa and Rwanda from US duty-free trade deal)",
   "የእስራኤል የምርጫ ኮሚሽን የምርጫ ውጤቱን በማረጋገጥ የማጭበርበር ክሶችን ውድቅ አደረገ (Israel vote results confirmed as election commission rejects fraud claims)",
@@ -2669,7 +2669,8 @@
   "በሱዳን የካርቱም የዳቦ ዋጋ በእጥፍ አደገ፤ የምግብ እጥረት ቀውሱ ተባብሷል (#Daily_Brief: Bread prices double in #Khartoum as #Sudan’s food crisis deepens)",
   "ኢትዮጵያ ከፈረንሳይ እና ከቻይና ጋር ያላትን የወታደራዊ ትብብር ለማስፋፋት እየሰራች ነው (Daily_Brief: After #Russia, #Ethiopia seeks expanded military cooperation with #France, #China)",
   "ግብፅ በሱዳን ግጭት ተጠቃሚ ሆናለች ሲሉ የውኃ እና ኢነርጂ ሚኒስትሩ ገለጹ (Egypt Benefits from Sudanese People’s Suffering amid Ongoing Conflict: Minister)",
-  "ሳፋሪኮም በኢትዮጵያ ያጋጠመው ኪሳራ በከፍተኛ ሁኔታ መቀነሱን አስታወቀ (Daily_Brief: #Safaricom reports sharp reduction in #Ethiopia losses, 40% rise in group earnings)"
+  "ሳፋሪኮም በኢትዮጵያ ያጋጠመው ኪሳራ በከፍተኛ ሁኔታ መቀነሱን አስታወቀ (Daily_Brief: #Safaricom reports sharp reduction in #Ethiopia losses, 40% rise in group earnings)",
+  "ሜላኒያ ትራምፕ የሩሲያ እና ዩክሬን ልዑካንን በኋይት ሀውስ አስተናገዱ (Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials)"
  ],
  "posted_at": [
   1793734594.8712418,
@@ -2729,6 +2730,7 @@
   1793902330.1691582,
   1793902333.793174,
   1793902337.3424652,
-  1793905668.5240984
+  1793905668.5240984,
+  1793907330.208957
  ]
 }
