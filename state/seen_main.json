@@ -1,10 +1,5 @@
 {
  "seen": {
-  "92805b352b0bf525": 1792652107.342307,
-  "c08ac8a0354b9982": 1792652107.342307,
-  "292b4271017a3ad2": 1792652107.342307,
-  "26fa5bd8903be796": 1792652107.342307,
-  "607b7d4d7a353188": 1792652107.342307,
   "d9aa7dda528cc955": 1792653558.3156,
   "1952e22abada2542": 1792653558.3156,
   "df84788448fa7cbb": 1792653558.3156,
@@ -2635,10 +2630,10 @@
   "1066a0ed88612a64": 1793859277.3240166,
   "63ed8863a42d76d7": 1793860837.3769166,
   "2250e161c770e51a": 1793860837.3769166,
-  "d3d39e18f7575964": 1793860837.3769166
+  "d3d39e18f7575964": 1793860837.3769166,
+  "ba82e7a420bad465": 1793862626.3872106
  },
  "recent_headlines": [
-  "Dangote በኢትዮጵያ የሚገኘውን የ4 ቢሊዮን USD የማዳበሪያ ኩባንያ አክሲዮን ለገበያ ሊያቀርብ ነው (Daily_Brief: #Dangote eyes stock exchange listing for at least 10% of $4bn #Ethiopia fertilizer business)",
   "አሜሪካ በኤቦላ ወረርሽኝ ምክንያት ዜጎቿ ወደ ኬንያ የሚያደርጉትን ጉዞ እንዲከልሱ መከረች (#Daily_Brief: US urges #Americans to reconsider travel to #Kenya amid Ebola spread)",
   "ኬንያ ከሞያሌ ግጭት የሸሹ ከ50 ሺህ በላይ ኢትዮጵያውያን ተፈናቃዮችን መመዝገብ ጀመረች (Oduu: Keeniyaan baqattoota Itoophiyaa walitti bu’iinsa Moyyaaleen baqatan galmeessuu eegalte; baqattoonni Keeniyaa ga’an kuma 50 ol ta’aniiru)",
   "የኢብራሂም ኢንዴክስ በኢትዮጵያ በጎ አስተዳደር ላይ የማስጠንቀቂያ ምልክቶች መኖራቸውን ገለጸ (Fooyya’iinsi xiqqaan jiraatus, bulchiinsi Itoophiyaa mallattoolee akeekkachiisaa agarsiisa: Indeksii Ibraahim)",
@@ -2677,7 +2672,8 @@
   "የዓለም ጤና ድርጅት ለሁለት አዳዲስ የኤቦላ ክትባቶች የሙከራ ፈቃድ ሰጠ (WHO approves trials for two new Ebola vaccines)",
   "በደቡብ አፍሪካ ሀገራዊ ምርጫ የድምፅ ቆጠራ ተጀመረ (Vote counting underway in critical South Africa elections)",
   "በሆርሙዝ ወሰን 2 የነዳጅ መርከቦች እና የጎታች መርከብ በእሳት መመታታቸውን ኢራን ገለጸች (Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz)",
-  "ኢትዮጵያ የውኃ ሀብቷን ለማልማት የግብፅን ፈቃድ አትጠይቅም አለች (Ethiopia Will Not Seek Egypt’s Permission to Develop Its Water Resources: Minister)"
+  "ኢትዮጵያ የውኃ ሀብቷን ለማልማት የግብፅን ፈቃድ አትጠይቅም አለች (Ethiopia Will Not Seek Egypt’s Permission to Develop Its Water Resources: Minister)",
+  "በናይሮቢ በህገ-ወጥ የሰዎች ዝውውር የተጠረጠሩ 65 ኢትዮጵያውያን ተታደጉ (Daily_Brief: 65 #Ethiopians rescued in Nairobi, three #Kenyans arrested over suspected trafficking)"
  ],
  "posted_at": [
   1793693596.076862,
@@ -2736,6 +2732,7 @@
   1793822976.2088752,
   1793848264.7965167,
   1793859342.8040562,
-  1793859346.2367442
+  1793859346.2367442,
+  1793862642.423239
  ]
 }
