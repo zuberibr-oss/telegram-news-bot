@@ -1356,10 +1356,10 @@
   "3951ff78fb5ed565": 1793848145.1586516,
   "0f7813f8b4e33c17": 1793851743.868423,
   "c2708f2d96520ef2": 1793853275.7482436,
-  "2afd6c33ca9e2af7": 1793853275.7482436
+  "2afd6c33ca9e2af7": 1793853275.7482436,
+  "84ab8a98482155cb": 1793856897.9016395
  },
  "recent_headlines": [
-  "Mastercard እና Interswitch የ Google Pay አገልግሎትን በናይጄሪያ አስተዋወቁ (Tap, pay, go: Mastercard and Interswitch bring Google Pay to Nigeria)",
   "አዲስ አበባ ዓመታዊ የግብር ማስታወቂያ በኦንላይን ማቅረብ የሚያስችል አሰራር ዘረጋች (Addis Ababa Moves Annual Tax Filing Online, Revises Audit Rules on Bank Deposits)",
   "ECA የአገልግሎት ጥራትንና ተመጣጣኝ ዋጋን ቅድሚያ እንዲሰጥ መመሪያ ተሰጠው (Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability)",
   "ሳፋሪኮም በኬንያ የዲጂታል ሀብት ማኔጅመንት ንብረቱን 21.1 ቢሊዮን ሺሊንግ አደረሰ (Safaricom records KSh21.1 billion in wealth management assets as digital finance expands)",
@@ -1398,7 +1398,8 @@
   "ኢቲዮ ቴሌኮም እና ZTE በኢትዮጵያ የመጀመሪያውን የAIR RAN ቴክኖሎጂ ተገበሩ (ZTE and Ethio Telecom Successfully Deployed Ethiopia's First Pre-Commercial AIR RAN)",
   "Yellow Card ወደ ደቡብ አሜሪካ ገበያ ለመግባት የብራዚሉን GoMoney ኩባንያ ገዛ (Yellow Card acquires GoMoney to enter Brazil)",
   "ኬንያ Meta፣ TikTok እና X ህገወጥ ይዘቶችን እንዲያሳውቁ የሚያስገድድ የህግ ረቂቅ አዘጋጀች (Kenya wants Meta, TikTok and X to report unlawful content under proposed social media law)",
-  "IFC በአፍሪካ የግብርና ቴክኖሎጂ እና የባንክ ብድርን የሚያስተናግድ አዲስ የፋይናንስ መዋቅር ይፋ አደረገ (The 20-year experiment: Why IFC thinks African agritech has finally come of age)"
+  "IFC በአፍሪካ የግብርና ቴክኖሎጂ እና የባንክ ብድርን የሚያስተናግድ አዲስ የፋይናንስ መዋቅር ይፋ አደረገ (The 20-year experiment: Why IFC thinks African agritech has finally come of age)",
+  "የሳፋሪኮም ትርፍ በ36 በመቶ አደገ፤ በኢትዮጵያ የሚያጋጥመው ኪሳራ ቀነሰ (Safaricom Grows Profit 36% as Ethiopia Business Losses Narrow)"
  ],
  "posted_at": [
   1793693540.501309,
@@ -1409,6 +1410,7 @@
   1793784937.596119,
   1793802961.2729154,
   1793826491.3214564,
-  1793828188.923445
+  1793828188.923445,
+  1793856995.0476801
  ]
 }
