@@ -1,12 +1,5 @@
 {
  "seen": {
-  "2160e5cd7a7e1f9b": 1792694675.1509395,
-  "357d1571e7b269de": 1792694675.1509395,
-  "fd3d5d303aa39709": 1792694675.1509395,
-  "64bc4e11b1ae638f": 1792694675.1509395,
-  "122cbcacbe007b05": 1792694675.1509395,
-  "eaf9b07f5683c86b": 1792694675.1509395,
-  "1c42407c0e9ae08c": 1792694675.1509395,
   "390ebaf15d1c6818": 1792696211.3789113,
   "50c1198bcbeb2051": 1792697874.6113546,
   "4ce0dabf06e197e4": 1792699941.2965045,
@@ -2628,10 +2621,15 @@
   "e33843af8221640e": 1793902264.1702042,
   "ba90f9d897a05db7": 1793902264.1702042,
   "d5be3f4d0979de10": 1793903743.6548157,
-  "77087455a07976c8": 1793903743.6548157
+  "77087455a07976c8": 1793903743.6548157,
+  "86a87121306b54d6": 1793905623.0265987,
+  "678956f640ec93a9": 1793905623.0265987,
+  "c3061aac1f3be96a": 1793905623.0265987,
+  "e794eaa824eaaaa9": 1793905623.0265987,
+  "5131bbccd7de8e1c": 1793905623.0265987,
+  "4d03930ec4b4e810": 1793905623.0265987
  },
  "recent_headlines": [
-  "ትውልደ ኢትዮጵያዊው የአሜሪካን ሚስጥራዊ መረጃዎች ለኢትዮጵያ በመስጠት ጥፋተኛ መሆናቸውን አመኑ (ትውልደ ኢትዮጵያዊው የአሜሪካን ጥብቅ መረጃዎች ለኢትዮጵያ አሳልፎ መስጠቱን አመነ)",
   "ዲሞክራቶች የአሜሪካ የተወካዮች ምክር ቤት አብላጫ ወንበር ማሸነፋቸው ተረጋገጠ (Democratic Party gains US House majority in 2026 midterm elections)",
   "በሆርሙዝ ወሰን 4 የነዳጅ ጭነት መርከቦች በባሕር ቦምብ መደመሰሳቸውን ኢራን ገለጸች (Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says)",
   "አሜሪካ ደቡብ አፍሪካን እና ሩዋንዳን ከAGOA የንግድ ዕድል ሰረዘች (Washington excludes South Africa and Rwanda from US duty-free trade deal)",
@@ -2670,7 +2668,8 @@
   "የፓራጓይ ፕሬዝዳንት Santiago Peña ከባንክ ውድቀት በኋላ ከሥልጣናቸው ለቀቁ (Paraguay President Santiago Peña resigns after bank collapse)",
   "በሱዳን የካርቱም የዳቦ ዋጋ በእጥፍ አደገ፤ የምግብ እጥረት ቀውሱ ተባብሷል (#Daily_Brief: Bread prices double in #Khartoum as #Sudan’s food crisis deepens)",
   "ኢትዮጵያ ከፈረንሳይ እና ከቻይና ጋር ያላትን የወታደራዊ ትብብር ለማስፋፋት እየሰራች ነው (Daily_Brief: After #Russia, #Ethiopia seeks expanded military cooperation with #France, #China)",
-  "ግብፅ በሱዳን ግጭት ተጠቃሚ ሆናለች ሲሉ የውኃ እና ኢነርጂ ሚኒስትሩ ገለጹ (Egypt Benefits from Sudanese People’s Suffering amid Ongoing Conflict: Minister)"
+  "ግብፅ በሱዳን ግጭት ተጠቃሚ ሆናለች ሲሉ የውኃ እና ኢነርጂ ሚኒስትሩ ገለጹ (Egypt Benefits from Sudanese People’s Suffering amid Ongoing Conflict: Minister)",
+  "ሳፋሪኮም በኢትዮጵያ ያጋጠመው ኪሳራ በከፍተኛ ሁኔታ መቀነሱን አስታወቀ (Daily_Brief: #Safaricom reports sharp reduction in #Ethiopia losses, 40% rise in group earnings)"
  ],
  "posted_at": [
   1793734594.8712418,
@@ -2729,6 +2728,7 @@
   1793900181.1970289,
   1793902330.1691582,
   1793902333.793174,
-  1793902337.3424652
+  1793902337.3424652,
+  1793905668.5240984
  ]
 }
