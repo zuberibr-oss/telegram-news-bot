@@ -1,9 +1,5 @@
 {
  "seen": {
-  "ba0f34e7116dc012": 1792685700.1114376,
-  "736508e9fdc40950": 1792685700.1114376,
-  "00c722f9ce30be6f": 1792685700.1114376,
-  "3fbcf6f490fa986e": 1792685700.1114376,
   "a093e4baf2343c22": 1792687279.0337272,
   "366d9111a65f0cd3": 1792687279.0337272,
   "8bd9f7232ef857c1": 1792687279.0337272,
@@ -2628,10 +2624,18 @@
   "17ba819cdc6836e5": 1793895083.5183587,
   "bbdccdee00d91df5": 1793895083.5183587,
   "682c8ec4b156b4c4": 1793895083.5183587,
-  "98a10eeffcdf1c76": 1793895083.5183587
+  "98a10eeffcdf1c76": 1793895083.5183587,
+  "71f12833af042177": 1793896545.8988378,
+  "0ff2aba67965a634": 1793896545.8988378,
+  "948be5e3aacbf343": 1793896545.8988378,
+  "e32db1944858525a": 1793896545.8988378,
+  "b38048ff62afbaeb": 1793896545.8988378,
+  "a605c7925f2eeb15": 1793896545.8988378,
+  "96fb40ec1c5ec2c3": 1793896545.8988378,
+  "82644a147d177ba8": 1793896545.8988378,
+  "bbf2385b45e3d491": 1793896545.8988378
  },
  "recent_headlines": [
-  "በአሜሪካ የአጋማሽ ዘመን ምርጫ ዲሞክራቶች በሴኔት እና በተወካዮች ምክር ቤት ድል እያስመዘገቡ ነው (Anthony Zurcher: Democrats surge into Republican territory as party eyes historic night)",
   "ትውልደ ኢትዮጵያዊቷ Melat Kiros በኮሎራዶ የኮንግረስ ወንበር አሸነፉ (Daily_Brief - #Ethiopian-born Melat Kiros wins #Colorado congressional seat, becomes first Black woman elected to represent state)",
   "ኢትዮጵያ 2ኛውን የአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ በአዲስ አበባ ልታስተናግድ ነው (From Adwa to Medemer: Ethiopia’s Pan-African Legacy Meets Africa’s Quest for a New Development Era)",
   "በሱዳን ሶስት የኤሌክትሪክ ኃይል ጣቢያዎች በድሮን ጥቃት በመመታታቸው የኃይል አቅርቦት ተቋረጠ (Haleellaa drooniitiin buufataaleen humna ibsaa sadii #Sudaan keessatti rukutamuun booda tajaajilli ibsaa bal’inaan addaan cite)",
@@ -2670,7 +2674,8 @@
   "ኢትዮጵያ እና ቻይና ለኢትዮ-ጅቡቲ የባቡር መስመር ማሻሻያ የ15 ሚሊዮን ዶላር ስምምነት ተፈራረሙ (Ethiopia and China Sign Grant Agreement for Supplementary Work on Ethio-Djibouti Railway)",
   "በለንደን የሚገኘው Taranis በኢትዮጵያ የኮርቤቲ የጂኦተርማል ፕሮጀክት የአብላጫ ድርሻ ገዛ (Daily_Brief: London-based #Taranis acquires majority stake in #Ethiopia’s 50 MW Corbetti geothermal project)",
   "በሞያሌ በቦረና እና በሶማሌ ማኅበረሰቦች መካከል ያለው ግጭት መቀጠሉ ተገለጸ (Xiinxala Oduu: Walitti bu’iinsi Moyyaleetti itti fufe; Abbaa Gadaa Booranaa fi Jaarsi Somaalee dhimma lafa falmisiisaa irratti ejjennoo isaanii jabeessan)",
-  "አምባሳደር ሬድዋን ሁሴን በመገናኛ ብዙኃን ላይ የሚወሰዱ እርምጃዎችን ተከላከሉ (\"ከአምስት ጊዜ በላይ ምን እንዳጠፋ ሳይነገረው ማስጠንቀቂያ የተጻፈበት ሚዲያ የለም\" አምባሳደር ሬድዋን ሁሴን)"
+  "አምባሳደር ሬድዋን ሁሴን በመገናኛ ብዙኃን ላይ የሚወሰዱ እርምጃዎችን ተከላከሉ (\"ከአምስት ጊዜ በላይ ምን እንዳጠፋ ሳይነገረው ማስጠንቀቂያ የተጻፈበት ሚዲያ የለም\" አምባሳደር ሬድዋን ሁሴን)",
+  "የኢትዮጵያ ባህር ኃይል በተለያዩ መስኮች የተጣለበትን ተልዕኮ ለመወጣት ዝግጁ መሆኑን ገለጸ (Ethiopian Navy Says It Is Fully Prepared to Carry Out Maritime, Air and Land Missions)"
  ],
  "posted_at": [
   1793725724.267728,
@@ -2725,6 +2730,7 @@
   1793885887.667492,
   1793891410.183541,
   1793891413.7968674,
-  1793892990.5631123
+  1793892990.5631123,
+  1793896608.2151358
  ]
 }
