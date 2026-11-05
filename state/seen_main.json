@@ -1,9 +1,5 @@
 {
  "seen": {
-  "b185b9b644bab157": 1792705089.9504957,
-  "6883530676d93940": 1792705089.9504957,
-  "86c1e745f9f32ed3": 1792705089.9504957,
-  "39d7f405e0e3fcfa": 1792705089.9504957,
   "f52a22166b2e7483": 1792707077.127005,
   "fd251d46e593a4c1": 1792708673.0806718,
   "9516a68f1974b12f": 1792708673.0806718,
@@ -2629,11 +2625,17 @@
   "878fbd3c7e0e194c": 1793914591.7377882,
   "51a80ab85e3e8630": 1793914591.7377882,
   "2aeed27fa3926a08": 1793914591.7377882,
-  "5ff4c33376485a9e": 1793914591.7377882
+  "5ff4c33376485a9e": 1793914591.7377882,
+  "0cd660d4f204bc79": 1793916489.6058226,
+  "119663c5b288d6e9": 1793916489.6058226,
+  "9744caa9888af04c": 1793916489.6058226,
+  "5a78aec147641ef4": 1793916489.6058226,
+  "898dac33fba9aa43": 1793916489.6058226,
+  "68cff61b789e1d5e": 1793916489.6058226,
+  "30509014897a7da1": 1793916489.6058226,
+  "f66988f425a88875": 1793916489.6058226
  },
  "recent_headlines": [
-  "የእስራኤል የምርጫ ኮሚሽን የምርጫ ውጤቱን በማረጋገጥ የማጭበርበር ክሶችን ውድቅ አደረገ (Israel vote results confirmed as election commission rejects fraud claims)",
-  "ኬንያ አምስት የኤቦላ ታካሚዎችን አዳና ከሆስፒታል አሰናበተች (#Daily_Brief: #Kenya discharges five #Ebola patients as no new infections reported)",
   "በአብዬ የገበያ ስፍራ በተሰነዘረ የድሮን ጥቃት የ153 ሰዎች ሕይወት ማለፉ ተገለጸ (Daily_Brief: #Sudanese drone strike kills 153 in disputed #Abyei market, #South_Sudanese official says)",
   "በአፋር ወራሪው የፕሮሶፒስ ዛፍ በየዓመቱ በ31 ሺህ ሄክታር ላይ እየተስፋፋ ነው (Daily_Brief: Invasive Prosopis trees spreads 31,127 hectares annually in #Afar, linked to $602 million in ecosystem-service losses)",
   "ኢትዮጵያ የአጠቃላይ ሀገራዊ ምርት (GDP) ስሌቷን በድጋሚ ማሻሻሏን አስታወቀች (Ethiopia’s GDP Rebasing Establishes New Benchmark for Long-Term Development Planning – Minister)",
@@ -2671,7 +2673,9 @@
   "ሳፋሪኮም በኢትዮጵያ ያጋጠመው ኪሳራ በከፍተኛ ሁኔታ መቀነሱን አስታወቀ (Daily_Brief: #Safaricom reports sharp reduction in #Ethiopia losses, 40% rise in group earnings)",
   "ሜላኒያ ትራምፕ የሩሲያ እና ዩክሬን ልዑካንን በኋይት ሀውስ አስተናገዱ (Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials)",
   "የሳዑዲ ጥምረት በሀገሪቱ የመዲና ክልል ላይ የተተኮሰን ባሊስቲክ ሚሳይል ማክሸፉን አስታወቀ (Saudi coalition intercepts missile fired towards Medina)",
-  "በደቡብ ኢትዮጵያ በተቀሰቀሰ ግጭት በአስር ሺዎች የሚቆጠሩ ሰዎች ወደ ኬንያ ተሰደዱ (Nigeria court bars opposition candidate two months before election)"
+  "በደቡብ ኢትዮጵያ በተቀሰቀሰ ግጭት በአስር ሺዎች የሚቆጠሩ ሰዎች ወደ ኬንያ ተሰደዱ (Nigeria court bars opposition candidate two months before election)",
+  "በደቡብ አፍሪካ ገዢው ፓርቲ ANC በምርጫ ያገኘው የድጋፍ መጠን በከፍተኛ ሁኔታ ቀነሰ (South Africa’s ANC on track for new lows in local polls)",
+  "በኢትዮጵያ የተወለደችው Melat Kiros ወደ አሜሪካ ኮንግረስ ተመረጠች (Generation Z and diversity redefine US politics in groundbreaking election)"
  ],
  "posted_at": [
   1793743785.3066604,
@@ -2730,6 +2734,8 @@
   1793905668.5240984,
   1793907330.208957,
   1793914641.87855,
-  1793914645.3580332
+  1793914645.3580332,
+  1793916568.4489782,
+  1793916571.8624327
  ]
 }
