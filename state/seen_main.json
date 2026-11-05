@@ -1,11 +1,5 @@
 {
  "seen": {
-  "a2f522e76e65f82b": 1792667549.974275,
-  "46b3bc9fe57e14d7": 1792667549.974275,
-  "78e6d07061414109": 1792667549.974275,
-  "34f34d4f5b5df490": 1792667549.974275,
-  "306f7c89c0d244f8": 1792667549.974275,
-  "8447bbe2f8fcbcc3": 1792667549.974275,
   "5f771501aaa62303": 1792669274.905723,
   "1909f151f92518d1": 1792669274.905723,
   "12c5c74b153db2cb": 1792669274.905723,
@@ -2627,11 +2621,14 @@
   "d2522b22858c2725": 1793876894.5653899,
   "8f866ba06aa0b02d": 1793876894.5653899,
   "6ed6b4afd88603a7": 1793876894.5653899,
-  "194f3425ee7452af": 1793876894.5653899
+  "194f3425ee7452af": 1793876894.5653899,
+  "c259f6bb0bbdcd4f": 1793878589.8915174,
+  "30143641c9382bfa": 1793878589.8915174,
+  "caefa8c2cbe6d482": 1793878589.8915174,
+  "fefab5c8ccb3dc7b": 1793878589.8915174,
+  "dfb6799ab252e683": 1793878589.8915174
  },
  "recent_headlines": [
-  "አሜሪካ በኤቦላ ወረርሽኝ ምክንያት ዜጎቿ ወደ ኬንያ የሚያደርጉትን ጉዞ እንዲከልሱ መከረች (#Daily_Brief: US urges #Americans to reconsider travel to #Kenya amid Ebola spread)",
-  "ኬንያ ከሞያሌ ግጭት የሸሹ ከ50 ሺህ በላይ ኢትዮጵያውያን ተፈናቃዮችን መመዝገብ ጀመረች (Oduu: Keeniyaan baqattoota Itoophiyaa walitti bu’iinsa Moyyaaleen baqatan galmeessuu eegalte; baqattoonni Keeniyaa ga’an kuma 50 ol ta’aniiru)",
   "የኢብራሂም ኢንዴክስ በኢትዮጵያ በጎ አስተዳደር ላይ የማስጠንቀቂያ ምልክቶች መኖራቸውን ገለጸ (Fooyya’iinsi xiqqaan jiraatus, bulchiinsi Itoophiyaa mallattoolee akeekkachiisaa agarsiisa: Indeksii Ibraahim)",
   "ቻይና በኢትዮጵያ እና ኤርትራ መካከል ያለውን ውጥረት ለማርገብ ልዩ መልእክተኞችን ልትልክ ነው (Daily_Brief: #China to send special envoys to #Ethiopia, #Eritrea to ease tensions, promote regional stability)",
   "በሞያሌ ድንበር ግጭት ምክንያት ኬንያ የብሔራዊ ፈተና ማዕከላትን አዛወረች (Daily_Brief: Kenya relocates two national examination centres in Moyale over Ethiopia border clashes)",
@@ -2669,10 +2666,11 @@
   "በደቡብ አፍሪካ ሀገራዊ ምርጫ የድምፅ ቆጠራ ተጀመረ (Vote counting underway in critical South Africa elections)",
   "በሆርሙዝ ወሰን 2 የነዳጅ መርከቦች እና የጎታች መርከብ በእሳት መመታታቸውን ኢራን ገለጸች (Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz)",
   "ኢትዮጵያ የውኃ ሀብቷን ለማልማት የግብፅን ፈቃድ አትጠይቅም አለች (Ethiopia Will Not Seek Egypt’s Permission to Develop Its Water Resources: Minister)",
-  "በናይሮቢ በህገ-ወጥ የሰዎች ዝውውር የተጠረጠሩ 65 ኢትዮጵያውያን ተታደጉ (Daily_Brief: 65 #Ethiopians rescued in Nairobi, three #Kenyans arrested over suspected trafficking)"
+  "በናይሮቢ በህገ-ወጥ የሰዎች ዝውውር የተጠረጠሩ 65 ኢትዮጵያውያን ተታደጉ (Daily_Brief: 65 #Ethiopians rescued in Nairobi, three #Kenyans arrested over suspected trafficking)",
+  "አፍሪካ ሲዲሲ በናይጄሪያ የኤቦላ ቫይረስ በመገኘቱ አስቸኳይ ስብሰባ ጠራ (#Daily_Brief: #Africa CDC calls emergency Ebola summit as #Nigeria reports first case)",
+  "በመቀሌ 5 ሺህ 500 የቀድሞ የትግራይ ተዋጊዎች ትጥቅ ፈትተው ስልጠና ጀመሩ (5,500 Former Tigray Combatants Disarm and Begin Rehabilitation Training in Mekelle)"
  ],
  "posted_at": [
-  1793705754.8216112,
   1793707971.8914511,
   1793707975.2975137,
   1793709454.7951179,
@@ -2724,6 +2722,8 @@
   1793848264.7965167,
   1793859342.8040562,
   1793859346.2367442,
-  1793862642.423239
+  1793862642.423239,
+  1793878644.9643986,
+  1793878648.451553
  ]
 }
