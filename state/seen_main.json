@@ -1,11 +1,5 @@
 {
  "seen": {
-  "66baa777e122be44": 1792690734.0777702,
-  "0cc8e83b61142b75": 1792690734.0777702,
-  "bba644ca4ef633a1": 1792690734.0777702,
-  "d343307e5dfb48cd": 1792690734.0777702,
-  "ea35cb096105179d": 1792690734.0777702,
-  "d0358acddc9d22a6": 1792690734.0777702,
   "97db0011ae1fc4d2": 1792692901.465964,
   "bd6aa697609646e3": 1792692901.465964,
   "4c01ff385d1feb2e": 1792692901.465964,
@@ -2630,12 +2624,17 @@
   "0f92df8f02ecd755": 1793900130.645268,
   "0fbc8aa6eceee5ca": 1793900130.645268,
   "6eeab4b0d5cca10a": 1793900130.645268,
-  "059d13fcea8057bb": 1793900130.645268
+  "059d13fcea8057bb": 1793900130.645268,
+  "a891d950f5a263ee": 1793902264.1702042,
+  "479a28ede17369a3": 1793902264.1702042,
+  "435367e8cd57b4ce": 1793902264.1702042,
+  "c2977fc216b6cb3b": 1793902264.1702042,
+  "d712238d004c8a38": 1793902264.1702042,
+  "73d7f2c240764765": 1793902264.1702042,
+  "e33843af8221640e": 1793902264.1702042,
+  "ba90f9d897a05db7": 1793902264.1702042
  },
  "recent_headlines": [
-  "በሱዳን ሶስት የኤሌክትሪክ ኃይል ጣቢያዎች በድሮን ጥቃት በመመታታቸው የኃይል አቅርቦት ተቋረጠ (Haleellaa drooniitiin buufataaleen humna ibsaa sadii #Sudaan keessatti rukutamuun booda tajaajilli ibsaa bal’inaan addaan cite)",
-  "Keisha Lance Bottoms የመጀመሪያዋ ጥቁር ሴት የአሜሪካ ክፍለ ሀገር ገዥ በመሆን ታሪክ ሠሩ (Keisha Lance Bottoms makes history as first Black woman elected US governor)",
-  "ዲሞክራቶች የአሜሪካ ሴኔት አብላጫ ወንበር የበላይነትን መቀናጀታቸው ተረጋገጠ (Democratic Party flips US Senate in 2026 midterm elections)",
   "ትውልደ ኢትዮጵያዊው የአሜሪካን ሚስጥራዊ መረጃዎች ለኢትዮጵያ በመስጠት ጥፋተኛ መሆናቸውን አመኑ (ትውልደ ኢትዮጵያዊው የአሜሪካን ጥብቅ መረጃዎች ለኢትዮጵያ አሳልፎ መስጠቱን አመነ)",
   "ዲሞክራቶች የአሜሪካ የተወካዮች ምክር ቤት አብላጫ ወንበር ማሸነፋቸው ተረጋገጠ (Democratic Party gains US House majority in 2026 midterm elections)",
   "በሆርሙዝ ወሰን 4 የነዳጅ ጭነት መርከቦች በባሕር ቦምብ መደመሰሳቸውን ኢራን ገለጸች (Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says)",
@@ -2672,10 +2671,12 @@
   "አምባሳደር ሬድዋን ሁሴን በመገናኛ ብዙኃን ላይ የሚወሰዱ እርምጃዎችን ተከላከሉ (\"ከአምስት ጊዜ በላይ ምን እንዳጠፋ ሳይነገረው ማስጠንቀቂያ የተጻፈበት ሚዲያ የለም\" አምባሳደር ሬድዋን ሁሴን)",
   "የኢትዮጵያ ባህር ኃይል በተለያዩ መስኮች የተጣለበትን ተልዕኮ ለመወጣት ዝግጁ መሆኑን ገለጸ (Ethiopian Navy Says It Is Fully Prepared to Carry Out Maritime, Air and Land Missions)",
   "ሱዳን በገዳሪፍ የሚገኘውን የኢትዮጵያ ቆንስላ በመዝጋት ዲፕሎማቶችን አባረረች (Sudan closes Ethiopian consulate in Gedaref, expels diplomats in retaliation for Assosa closure)",
-  "የፓራጓይ ፕሬዝዳንት Santiago Peña ከባንክ ውድቀት በኋላ ከሥልጣናቸው ለቀቁ (Paraguay President Santiago Peña resigns after bank collapse)"
+  "የፓራጓይ ፕሬዝዳንት Santiago Peña ከባንክ ውድቀት በኋላ ከሥልጣናቸው ለቀቁ (Paraguay President Santiago Peña resigns after bank collapse)",
+  "በሱዳን የካርቱም የዳቦ ዋጋ በእጥፍ አደገ፤ የምግብ እጥረት ቀውሱ ተባብሷል (#Daily_Brief: Bread prices double in #Khartoum as #Sudan’s food crisis deepens)",
+  "ኢትዮጵያ ከፈረንሳይ እና ከቻይና ጋር ያላትን የወታደራዊ ትብብር ለማስፋፋት እየሰራች ነው (Daily_Brief: After #Russia, #Ethiopia seeks expanded military cooperation with #France, #China)",
+  "ግብፅ በሱዳን ግጭት ተጠቃሚ ሆናለች ሲሉ የውኃ እና ኢነርጂ ሚኒስትሩ ገለጹ (Egypt Benefits from Sudanese People’s Suffering amid Ongoing Conflict: Minister)"
  ],
  "posted_at": [
-  1793727432.4990337,
   1793734594.8712418,
   1793740154.0997224,
   1793740157.7213194,
@@ -2729,6 +2730,9 @@
   1793892990.5631123,
   1793896608.2151358,
   1793898540.7083712,
-  1793900181.1970289
+  1793900181.1970289,
+  1793902330.1691582,
+  1793902333.793174,
+  1793902337.3424652
  ]
 }
