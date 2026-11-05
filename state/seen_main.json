@@ -1,12 +1,5 @@
 {
  "seen": {
-  "4660e8e4abf4b191": 1792680082.1066647,
-  "e6bec3e54aea87a8": 1792680082.1066647,
-  "9a3396ad1f92017d": 1792680082.1066647,
-  "245d5b61772a952f": 1792680082.1066647,
-  "c4d1018487f5a42f": 1792680082.1066647,
-  "ac2f62ce6a105852": 1792680082.1066647,
-  "3f5048d5678c2954": 1792680082.1066647,
   "1d56b962f49077c5": 1792682030.6184604,
   "5fc77bfff4e907ff": 1792682030.6184604,
   "1a0c4f728be87ff1": 1792682030.6184604,
@@ -2628,11 +2621,19 @@
   "e3f1401101735953": 1793887783.1911204,
   "4351c6fbd6280adf": 1793887783.1911204,
   "43f2f1226175ab76": 1793887783.1911204,
-  "fcd45b79ed6885d4": 1793887783.1911204
+  "fcd45b79ed6885d4": 1793887783.1911204,
+  "7b0bb39d9b447536": 1793891347.681422,
+  "a62332c71f11ee44": 1793891347.681422,
+  "1ca5f5369cd0b41d": 1793891347.681422,
+  "0d7de3131f9db77b": 1793891347.681422,
+  "900ca16e2d812c50": 1793891347.681422,
+  "8279fac5aa452feb": 1793891347.681422,
+  "bebd08d926977b8e": 1793891347.681422,
+  "35149357a7adeeb9": 1793891347.681422,
+  "190924e4e884412e": 1793891347.681422,
+  "a48bc7658079fd3a": 1793891347.681422
  },
  "recent_headlines": [
-  "ግብፅ እና ሱዳን ከህዳሴው ግድብ መጠናቀቅ በኋላ የቅኝ ግዛት የናይል ስምምነቶችን ጠቀሱ (Long after Ethiopia completes GERD, Egypt, Sudan invoke Nile water rights under colonial-era agreement)",
-  "የአፍሪካ ኅብረት በሞቃዲሾ ዙሪያ የሚገኙ አራት የጦር ሠፈሮችን ሊረከብ ነው (Daily_Brief: #AU peacekeepers to take over four bases near #Mogadishu as #Ugandan troops withdraw)",
   "ሱዳን በኢትዮጵያ ላይ ለተባበሩት መንግሥታት እና ለአፍሪካ ኅብረት የጸጥታ ምክር ቤቶች አቤቱታ አቀረበች (Sudaan Itoophiyaa irratti Mana Maree Nageenyaa UN fi Mana Maree Nagaa fi Tasgabbii AU’tti komii sirnaa dhiyeessite)",
   "በአሜሪካ የአጋማሽ ዘመን ምርጫ ዲሞክራቶች በሴኔት እና በተወካዮች ምክር ቤት ድል እያስመዘገቡ ነው (Anthony Zurcher: Democrats surge into Republican territory as party eyes historic night)",
   "ትውልደ ኢትዮጵያዊቷ Melat Kiros በኮሎራዶ የኮንግረስ ወንበር አሸነፉ (Daily_Brief - #Ethiopian-born Melat Kiros wins #Colorado congressional seat, becomes first Black woman elected to represent state)",
@@ -2670,7 +2671,9 @@
   "በመቀሌ 5 ሺህ 500 የቀድሞ የትግራይ ተዋጊዎች ትጥቅ ፈትተው ስልጠና ጀመሩ (5,500 Former Tigray Combatants Disarm and Begin Rehabilitation Training in Mekelle)",
   "የዓለም ጤና ድርጅት ከ71 ቶን በላይ የሕክምና ቁሳቁስ በሰሜን ኢትዮጵያ ለሚገኙ ተጎጂዎች አቀረበ (Daily_Brief: WHO delivers more than 71 tonnes of medical supplies to conflict-affected northern #Ethiopia)",
   "በጋዛ የእስራኤል ጥቃት የህፃንን ህይወት ጨምሮ አራት ፍልስጤማውያን ተገደሉ (Four people, including a child, killed in Israeli attacks on Gaza)",
-  "ኢትዮጵያ እና ቻይና ለኢትዮ-ጅቡቲ የባቡር መስመር ማሻሻያ የ15 ሚሊዮን ዶላር ስምምነት ተፈራረሙ (Ethiopia and China Sign Grant Agreement for Supplementary Work on Ethio-Djibouti Railway)"
+  "ኢትዮጵያ እና ቻይና ለኢትዮ-ጅቡቲ የባቡር መስመር ማሻሻያ የ15 ሚሊዮን ዶላር ስምምነት ተፈራረሙ (Ethiopia and China Sign Grant Agreement for Supplementary Work on Ethio-Djibouti Railway)",
+  "በለንደን የሚገኘው Taranis በኢትዮጵያ የኮርቤቲ የጂኦተርማል ፕሮጀክት የአብላጫ ድርሻ ገዛ (Daily_Brief: London-based #Taranis acquires majority stake in #Ethiopia’s 50 MW Corbetti geothermal project)",
+  "በሞያሌ በቦረና እና በሶማሌ ማኅበረሰቦች መካከል ያለው ግጭት መቀጠሉ ተገለጸ (Xiinxala Oduu: Walitti bu’iinsi Moyyaleetti itti fufe; Abbaa Gadaa Booranaa fi Jaarsi Somaalee dhimma lafa falmisiisaa irratti ejjennoo isaanii jabeessan)"
  ],
  "posted_at": [
   1793720186.7123318,
@@ -2723,6 +2726,8 @@
   1793878648.451553,
   1793885880.5283737,
   1793885884.0770168,
-  1793885887.667492
+  1793885887.667492,
+  1793891410.183541,
+  1793891413.7968674
  ]
 }
