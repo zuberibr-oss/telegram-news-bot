@@ -1,11 +1,5 @@
 {
  "seen": {
-  "8decb58bb80f3ec8": 1792689050.3911026,
-  "2d096def81598749": 1792689050.3911026,
-  "1b26224aee18fbb8": 1792689050.3911026,
-  "f26b7b6119526277": 1792689050.3911026,
-  "0105545686a0280c": 1792689050.3911026,
-  "05b78147742c8c38": 1792689050.3911026,
   "66baa777e122be44": 1792690734.0777702,
   "0cc8e83b61142b75": 1792690734.0777702,
   "bba644ca4ef633a1": 1792690734.0777702,
@@ -2631,10 +2625,14 @@
   "bbf2385b45e3d491": 1793896545.8988378,
   "f407ed2c1f8c3228": 1793898512.420736,
   "eec070043ad2d157": 1793898512.420736,
-  "c9374d821f2a7966": 1793898512.420736
+  "c9374d821f2a7966": 1793898512.420736,
+  "96c4f4542909484c": 1793900130.645268,
+  "0f92df8f02ecd755": 1793900130.645268,
+  "0fbc8aa6eceee5ca": 1793900130.645268,
+  "6eeab4b0d5cca10a": 1793900130.645268,
+  "059d13fcea8057bb": 1793900130.645268
  },
  "recent_headlines": [
-  "ኢትዮጵያ 2ኛውን የአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ በአዲስ አበባ ልታስተናግድ ነው (From Adwa to Medemer: Ethiopia’s Pan-African Legacy Meets Africa’s Quest for a New Development Era)",
   "በሱዳን ሶስት የኤሌክትሪክ ኃይል ጣቢያዎች በድሮን ጥቃት በመመታታቸው የኃይል አቅርቦት ተቋረጠ (Haleellaa drooniitiin buufataaleen humna ibsaa sadii #Sudaan keessatti rukutamuun booda tajaajilli ibsaa bal’inaan addaan cite)",
   "Keisha Lance Bottoms የመጀመሪያዋ ጥቁር ሴት የአሜሪካ ክፍለ ሀገር ገዥ በመሆን ታሪክ ሠሩ (Keisha Lance Bottoms makes history as first Black woman elected US governor)",
   "ዲሞክራቶች የአሜሪካ ሴኔት አብላጫ ወንበር የበላይነትን መቀናጀታቸው ተረጋገጠ (Democratic Party flips US Senate in 2026 midterm elections)",
@@ -2673,7 +2671,8 @@
   "በሞያሌ በቦረና እና በሶማሌ ማኅበረሰቦች መካከል ያለው ግጭት መቀጠሉ ተገለጸ (Xiinxala Oduu: Walitti bu’iinsi Moyyaleetti itti fufe; Abbaa Gadaa Booranaa fi Jaarsi Somaalee dhimma lafa falmisiisaa irratti ejjennoo isaanii jabeessan)",
   "አምባሳደር ሬድዋን ሁሴን በመገናኛ ብዙኃን ላይ የሚወሰዱ እርምጃዎችን ተከላከሉ (\"ከአምስት ጊዜ በላይ ምን እንዳጠፋ ሳይነገረው ማስጠንቀቂያ የተጻፈበት ሚዲያ የለም\" አምባሳደር ሬድዋን ሁሴን)",
   "የኢትዮጵያ ባህር ኃይል በተለያዩ መስኮች የተጣለበትን ተልዕኮ ለመወጣት ዝግጁ መሆኑን ገለጸ (Ethiopian Navy Says It Is Fully Prepared to Carry Out Maritime, Air and Land Missions)",
-  "ሱዳን በገዳሪፍ የሚገኘውን የኢትዮጵያ ቆንስላ በመዝጋት ዲፕሎማቶችን አባረረች (Sudan closes Ethiopian consulate in Gedaref, expels diplomats in retaliation for Assosa closure)"
+  "ሱዳን በገዳሪፍ የሚገኘውን የኢትዮጵያ ቆንስላ በመዝጋት ዲፕሎማቶችን አባረረች (Sudan closes Ethiopian consulate in Gedaref, expels diplomats in retaliation for Assosa closure)",
+  "የፓራጓይ ፕሬዝዳንት Santiago Peña ከባንክ ውድቀት በኋላ ከሥልጣናቸው ለቀቁ (Paraguay President Santiago Peña resigns after bank collapse)"
  ],
  "posted_at": [
   1793727432.4990337,
@@ -2729,6 +2728,7 @@
   1793891413.7968674,
   1793892990.5631123,
   1793896608.2151358,
-  1793898540.7083712
+  1793898540.7083712,
+  1793900181.1970289
  ]
 }
