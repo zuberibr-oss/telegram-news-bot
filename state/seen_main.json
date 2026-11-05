@@ -1,9 +1,5 @@
 {
  "seen": {
-  "1e1f1d07a4f67709": 1792703507.04544,
-  "32d57b2bc3d69250": 1792703507.04544,
-  "564f78389a383274": 1792703507.04544,
-  "55c21a86b03f90bc": 1792703507.04544,
   "b185b9b644bab157": 1792705089.9504957,
   "6883530676d93940": 1792705089.9504957,
   "86c1e745f9f32ed3": 1792705089.9504957,
@@ -2628,11 +2624,14 @@
   "f1a757403feaf0a9": 1793910947.829523,
   "f10b5f7c4973381f": 1793912913.5217538,
   "2f0360e27ea26e13": 1793912913.5217538,
-  "b29e4110d1f77409": 1793912913.5217538
+  "b29e4110d1f77409": 1793912913.5217538,
+  "c2af700efe4a17c5": 1793914591.7377882,
+  "878fbd3c7e0e194c": 1793914591.7377882,
+  "51a80ab85e3e8630": 1793914591.7377882,
+  "2aeed27fa3926a08": 1793914591.7377882,
+  "5ff4c33376485a9e": 1793914591.7377882
  },
  "recent_headlines": [
-  "በሆርሙዝ ወሰን 4 የነዳጅ ጭነት መርከቦች በባሕር ቦምብ መደመሰሳቸውን ኢራን ገለጸች (Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says)",
-  "አሜሪካ ደቡብ አፍሪካን እና ሩዋንዳን ከAGOA የንግድ ዕድል ሰረዘች (Washington excludes South Africa and Rwanda from US duty-free trade deal)",
   "የእስራኤል የምርጫ ኮሚሽን የምርጫ ውጤቱን በማረጋገጥ የማጭበርበር ክሶችን ውድቅ አደረገ (Israel vote results confirmed as election commission rejects fraud claims)",
   "ኬንያ አምስት የኤቦላ ታካሚዎችን አዳና ከሆስፒታል አሰናበተች (#Daily_Brief: #Kenya discharges five #Ebola patients as no new infections reported)",
   "በአብዬ የገበያ ስፍራ በተሰነዘረ የድሮን ጥቃት የ153 ሰዎች ሕይወት ማለፉ ተገለጸ (Daily_Brief: #Sudanese drone strike kills 153 in disputed #Abyei market, #South_Sudanese official says)",
@@ -2670,12 +2669,11 @@
   "ኢትዮጵያ ከፈረንሳይ እና ከቻይና ጋር ያላትን የወታደራዊ ትብብር ለማስፋፋት እየሰራች ነው (Daily_Brief: After #Russia, #Ethiopia seeks expanded military cooperation with #France, #China)",
   "ግብፅ በሱዳን ግጭት ተጠቃሚ ሆናለች ሲሉ የውኃ እና ኢነርጂ ሚኒስትሩ ገለጹ (Egypt Benefits from Sudanese People’s Suffering amid Ongoing Conflict: Minister)",
   "ሳፋሪኮም በኢትዮጵያ ያጋጠመው ኪሳራ በከፍተኛ ሁኔታ መቀነሱን አስታወቀ (Daily_Brief: #Safaricom reports sharp reduction in #Ethiopia losses, 40% rise in group earnings)",
-  "ሜላኒያ ትራምፕ የሩሲያ እና ዩክሬን ልዑካንን በኋይት ሀውስ አስተናገዱ (Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials)"
+  "ሜላኒያ ትራምፕ የሩሲያ እና ዩክሬን ልዑካንን በኋይት ሀውስ አስተናገዱ (Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials)",
+  "የሳዑዲ ጥምረት በሀገሪቱ የመዲና ክልል ላይ የተተኮሰን ባሊስቲክ ሚሳይል ማክሸፉን አስታወቀ (Saudi coalition intercepts missile fired towards Medina)",
+  "በደቡብ ኢትዮጵያ በተቀሰቀሰ ግጭት በአስር ሺዎች የሚቆጠሩ ሰዎች ወደ ኬንያ ተሰደዱ (Nigeria court bars opposition candidate two months before election)"
  ],
  "posted_at": [
-  1793740154.0997224,
-  1793740157.7213194,
-  1793741800.1428084,
   1793743785.3066604,
   1793743788.6969378,
   1793745417.6692405,
@@ -2730,6 +2728,8 @@
   1793902333.793174,
   1793902337.3424652,
   1793905668.5240984,
-  1793907330.208957
+  1793907330.208957,
+  1793914641.87855,
+  1793914645.3580332
  ]
 }
