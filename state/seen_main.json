@@ -1,10 +1,5 @@
 {
  "seen": {
-  "a093e4baf2343c22": 1792687279.0337272,
-  "366d9111a65f0cd3": 1792687279.0337272,
-  "8bd9f7232ef857c1": 1792687279.0337272,
-  "59cb3ed4b0cd64b2": 1792687279.0337272,
-  "a2ba01444d25e357": 1792687279.0337272,
   "8decb58bb80f3ec8": 1792689050.3911026,
   "2d096def81598749": 1792689050.3911026,
   "1b26224aee18fbb8": 1792689050.3911026,
@@ -2633,10 +2628,12 @@
   "a605c7925f2eeb15": 1793896545.8988378,
   "96fb40ec1c5ec2c3": 1793896545.8988378,
   "82644a147d177ba8": 1793896545.8988378,
-  "bbf2385b45e3d491": 1793896545.8988378
+  "bbf2385b45e3d491": 1793896545.8988378,
+  "f407ed2c1f8c3228": 1793898512.420736,
+  "eec070043ad2d157": 1793898512.420736,
+  "c9374d821f2a7966": 1793898512.420736
  },
  "recent_headlines": [
-  "ትውልደ ኢትዮጵያዊቷ Melat Kiros በኮሎራዶ የኮንግረስ ወንበር አሸነፉ (Daily_Brief - #Ethiopian-born Melat Kiros wins #Colorado congressional seat, becomes first Black woman elected to represent state)",
   "ኢትዮጵያ 2ኛውን የአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ በአዲስ አበባ ልታስተናግድ ነው (From Adwa to Medemer: Ethiopia’s Pan-African Legacy Meets Africa’s Quest for a New Development Era)",
   "በሱዳን ሶስት የኤሌክትሪክ ኃይል ጣቢያዎች በድሮን ጥቃት በመመታታቸው የኃይል አቅርቦት ተቋረጠ (Haleellaa drooniitiin buufataaleen humna ibsaa sadii #Sudaan keessatti rukutamuun booda tajaajilli ibsaa bal’inaan addaan cite)",
   "Keisha Lance Bottoms የመጀመሪያዋ ጥቁር ሴት የአሜሪካ ክፍለ ሀገር ገዥ በመሆን ታሪክ ሠሩ (Keisha Lance Bottoms makes history as first Black woman elected US governor)",
@@ -2675,10 +2672,10 @@
   "በለንደን የሚገኘው Taranis በኢትዮጵያ የኮርቤቲ የጂኦተርማል ፕሮጀክት የአብላጫ ድርሻ ገዛ (Daily_Brief: London-based #Taranis acquires majority stake in #Ethiopia’s 50 MW Corbetti geothermal project)",
   "በሞያሌ በቦረና እና በሶማሌ ማኅበረሰቦች መካከል ያለው ግጭት መቀጠሉ ተገለጸ (Xiinxala Oduu: Walitti bu’iinsi Moyyaleetti itti fufe; Abbaa Gadaa Booranaa fi Jaarsi Somaalee dhimma lafa falmisiisaa irratti ejjennoo isaanii jabeessan)",
   "አምባሳደር ሬድዋን ሁሴን በመገናኛ ብዙኃን ላይ የሚወሰዱ እርምጃዎችን ተከላከሉ (\"ከአምስት ጊዜ በላይ ምን እንዳጠፋ ሳይነገረው ማስጠንቀቂያ የተጻፈበት ሚዲያ የለም\" አምባሳደር ሬድዋን ሁሴን)",
-  "የኢትዮጵያ ባህር ኃይል በተለያዩ መስኮች የተጣለበትን ተልዕኮ ለመወጣት ዝግጁ መሆኑን ገለጸ (Ethiopian Navy Says It Is Fully Prepared to Carry Out Maritime, Air and Land Missions)"
+  "የኢትዮጵያ ባህር ኃይል በተለያዩ መስኮች የተጣለበትን ተልዕኮ ለመወጣት ዝግጁ መሆኑን ገለጸ (Ethiopian Navy Says It Is Fully Prepared to Carry Out Maritime, Air and Land Missions)",
+  "ሱዳን በገዳሪፍ የሚገኘውን የኢትዮጵያ ቆንስላ በመዝጋት ዲፕሎማቶችን አባረረች (Sudan closes Ethiopian consulate in Gedaref, expels diplomats in retaliation for Assosa closure)"
  ],
  "posted_at": [
-  1793725724.267728,
   1793727432.4990337,
   1793734594.8712418,
   1793740154.0997224,
@@ -2731,6 +2728,7 @@
   1793891410.183541,
   1793891413.7968674,
   1793892990.5631123,
-  1793896608.2151358
+  1793896608.2151358,
+  1793898540.7083712
  ]
 }
