@@ -1,8 +1,5 @@
 {
  "seen": {
-  "691097f9ded91edf": 1792637147.771804,
-  "5daf5e1a80de41f4": 1792637147.771804,
-  "11c47f1066505713": 1792637147.771804,
   "88972a1c5e2939ef": 1792640611.4280958,
   "9b2ae4377cd32371": 1792644125.2545052,
   "742d4e69ff50cbb4": 1792644125.2545052,
@@ -2628,10 +2625,13 @@
   "b5807542ead6e422": 1793841013.290756,
   "58de0f8bd725a936": 1793841013.290756,
   "351543682c01605c": 1793844717.5474696,
-  "0f3dfef92581571b": 1793844717.5474696
+  "0f3dfef92581571b": 1793844717.5474696,
+  "f3aa1d16c9d92598": 1793848237.7083426,
+  "5238fc8c41a105db": 1793848237.7083426,
+  "9963e359ea39a8e1": 1793848237.7083426,
+  "06eaa29835576bb3": 1793848237.7083426
  },
  "recent_headlines": [
-  "በBinance የሳይበር ጥቃት 6.3 ቢሊዮን ዶላር የዲጂታል ገንዘብ ተሰረቀ (Binance says fake job interviews used as part of $6.3bn crypto hack)",
   "PetroChina በደቡብ ሱዳን፣ ኢትዮጵያ እና ጅቡቲ መካከል የነዳጅ መስመር ለመዘርጋት አቅዷል (PetroChina eyes South Sudan–Ethiopia–Djibouti oil corridor)",
   "የእስራኤሉ ጠቅላይ ሚኒስትር ኢትዮጵያን ለሀገራቸው «ወዳጅ» አድርጎ የሚያሳይ ካርታ አቀረቡ (#Daily_Brief: Netanyahu map depicts #Ethiopia, #Sudan’s RSF as ‘friendly’ to #Israel, #UAE)",
   "Dangote በኢትዮጵያ የሚገኘውን የ4 ቢሊዮን USD የማዳበሪያ ኩባንያ አክሲዮን ለገበያ ሊያቀርብ ነው (Daily_Brief: #Dangote eyes stock exchange listing for at least 10% of $4bn #Ethiopia fertilizer business)",
@@ -2670,10 +2670,10 @@
   "ኢትዮጵያ እና የዓለም ባንክ የ«One WASH» ፕሮግራምን የማስፈጸሚያ ጊዜ አራዘሙ (Ethiopia, World Bank Move to Accelerate Water Projects and Unlock Development Financing)",
   "በዩክሬን የእርዳታ ማዕከል ላይ በተሰነዘረ የሩሲያ የአየር ጥቃት የ40 ሰዎች ሕይወት አለፈ (Ukraine says bodycam video shows deadly Russian double-tap bombing)",
   "በሰሜን ኢትዮጵያ በገናኘው ግጭት በትግራይና አማራ ክልሎች በሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (Oduu: Walitti bu’iinsi kaaba Itoophiyaatti deebi’ee ka’eTigraayitti maatii qe’ee isaaniitti deebi’an deebisee buqqise; Amaaraatti namoonni kumaatamaan lakkaa’aman qe’ee isaanii irraa buqqa’an)",
-  "የዓለም ጤና ድርጅት ለሁለት አዳዲስ የኤቦላ ክትባቶች የሙከራ ፈቃድ ሰጠ (WHO approves trials for two new Ebola vaccines)"
+  "የዓለም ጤና ድርጅት ለሁለት አዳዲስ የኤቦላ ክትባቶች የሙከራ ፈቃድ ሰጠ (WHO approves trials for two new Ebola vaccines)",
+  "በደቡብ አፍሪካ ሀገራዊ ምርጫ የድምፅ ቆጠራ ተጀመረ (Vote counting underway in critical South Africa elections)"
  ],
  "posted_at": [
-  1793673374.2652023,
   1793682576.8002408,
   1793693596.076862,
   1793697013.6097715,
@@ -2728,6 +2728,7 @@
   1793812106.6985111,
   1793815837.3073611,
   1793819261.3999872,
-  1793822976.2088752
+  1793822976.2088752,
+  1793848264.7965167
  ]
 }
