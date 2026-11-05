@@ -1,10 +1,5 @@
 {
  "seen": {
-  "1d56b962f49077c5": 1792682030.6184604,
-  "5fc77bfff4e907ff": 1792682030.6184604,
-  "1a0c4f728be87ff1": 1792682030.6184604,
-  "864a45dbd2722f13": 1792682030.6184604,
-  "82811e266b8ce457": 1792682030.6184604,
   "c31dde147faf39ec": 1792683726.9980385,
   "3b3365528ca2c557": 1792683726.9980385,
   "f2319f904af68873": 1792683726.9980385,
@@ -2631,10 +2626,14 @@
   "bebd08d926977b8e": 1793891347.681422,
   "35149357a7adeeb9": 1793891347.681422,
   "190924e4e884412e": 1793891347.681422,
-  "a48bc7658079fd3a": 1793891347.681422
+  "a48bc7658079fd3a": 1793891347.681422,
+  "3a3234338bc95dc3": 1793892949.6141918,
+  "8f470938d55a1a1d": 1793892949.6141918,
+  "7898417a2c121a70": 1793892949.6141918,
+  "fb0c1a9995c8a08b": 1793892949.6141918,
+  "2cbbbc7c6bab72ff": 1793892949.6141918
  },
  "recent_headlines": [
-  "ሱዳን በኢትዮጵያ ላይ ለተባበሩት መንግሥታት እና ለአፍሪካ ኅብረት የጸጥታ ምክር ቤቶች አቤቱታ አቀረበች (Sudaan Itoophiyaa irratti Mana Maree Nageenyaa UN fi Mana Maree Nagaa fi Tasgabbii AU’tti komii sirnaa dhiyeessite)",
   "በአሜሪካ የአጋማሽ ዘመን ምርጫ ዲሞክራቶች በሴኔት እና በተወካዮች ምክር ቤት ድል እያስመዘገቡ ነው (Anthony Zurcher: Democrats surge into Republican territory as party eyes historic night)",
   "ትውልደ ኢትዮጵያዊቷ Melat Kiros በኮሎራዶ የኮንግረስ ወንበር አሸነፉ (Daily_Brief - #Ethiopian-born Melat Kiros wins #Colorado congressional seat, becomes first Black woman elected to represent state)",
   "ኢትዮጵያ 2ኛውን የአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ በአዲስ አበባ ልታስተናግድ ነው (From Adwa to Medemer: Ethiopia’s Pan-African Legacy Meets Africa’s Quest for a New Development Era)",
@@ -2673,10 +2672,10 @@
   "በጋዛ የእስራኤል ጥቃት የህፃንን ህይወት ጨምሮ አራት ፍልስጤማውያን ተገደሉ (Four people, including a child, killed in Israeli attacks on Gaza)",
   "ኢትዮጵያ እና ቻይና ለኢትዮ-ጅቡቲ የባቡር መስመር ማሻሻያ የ15 ሚሊዮን ዶላር ስምምነት ተፈራረሙ (Ethiopia and China Sign Grant Agreement for Supplementary Work on Ethio-Djibouti Railway)",
   "በለንደን የሚገኘው Taranis በኢትዮጵያ የኮርቤቲ የጂኦተርማል ፕሮጀክት የአብላጫ ድርሻ ገዛ (Daily_Brief: London-based #Taranis acquires majority stake in #Ethiopia’s 50 MW Corbetti geothermal project)",
-  "በሞያሌ በቦረና እና በሶማሌ ማኅበረሰቦች መካከል ያለው ግጭት መቀጠሉ ተገለጸ (Xiinxala Oduu: Walitti bu’iinsi Moyyaleetti itti fufe; Abbaa Gadaa Booranaa fi Jaarsi Somaalee dhimma lafa falmisiisaa irratti ejjennoo isaanii jabeessan)"
+  "በሞያሌ በቦረና እና በሶማሌ ማኅበረሰቦች መካከል ያለው ግጭት መቀጠሉ ተገለጸ (Xiinxala Oduu: Walitti bu’iinsi Moyyaleetti itti fufe; Abbaa Gadaa Booranaa fi Jaarsi Somaalee dhimma lafa falmisiisaa irratti ejjennoo isaanii jabeessan)",
+  "አምባሳደር ሬድዋን ሁሴን በመገናኛ ብዙኃን ላይ የሚወሰዱ እርምጃዎችን ተከላከሉ (\"ከአምስት ጊዜ በላይ ምን እንዳጠፋ ሳይነገረው ማስጠንቀቂያ የተጻፈበት ሚዲያ የለም\" አምባሳደር ሬድዋን ሁሴን)"
  ],
  "posted_at": [
-  1793720186.7123318,
   1793725724.267728,
   1793727432.4990337,
   1793734594.8712418,
@@ -2728,6 +2727,7 @@
   1793885884.0770168,
   1793885887.667492,
   1793891410.183541,
-  1793891413.7968674
+  1793891413.7968674,
+  1793892990.5631123
  ]
 }
