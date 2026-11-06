@@ -1,18 +1,5 @@
 {
  "seen": {
-  "86a79a4419a2bacf": 1792757868.7922552,
-  "839f5b6cec2098b9": 1792757868.7922552,
-  "02dc09e09b89ced1": 1792757868.7922552,
-  "52cf2381ff606d30": 1792757868.7922552,
-  "381baf0c1c7e6e9d": 1792757868.7922552,
-  "e3a4ccf30493a8dc": 1792757868.7922552,
-  "590e049e2c0a390d": 1792757868.7922552,
-  "60fb19cbb6645f67": 1792757868.7922552,
-  "1538af8733ab992b": 1792757868.7922552,
-  "4292ffe99996cee3": 1792757868.7922552,
-  "46c8a8180244f028": 1792757868.7922552,
-  "99620881632dc1fa": 1792757868.7922552,
-  "d1b60050e1c8a889": 1792757868.7922552,
   "eacdc4e2e0ec1cbc": 1792759711.4443183,
   "d8f2c41c8e351877": 1792759711.4443183,
   "79c8bd777f682410": 1792759711.4443183,
@@ -2615,11 +2602,18 @@
   "bb146f7ed933f4fb": 1793967175.6527505,
   "f2e3f4e82908cd49": 1793967175.6527505,
   "39d2020b2251dcbc": 1793967175.6527505,
-  "9a1b09477f83c45d": 1793967175.6527505
+  "9a1b09477f83c45d": 1793967175.6527505,
+  "1d41fcbc5ad4e512": 1793968633.2586348,
+  "90f0cc8689514fe6": 1793968633.2586348,
+  "8af797d86b68c24c": 1793968633.2586348,
+  "daa68ab8a44e5144": 1793968633.2586348,
+  "3ac0ee19e98169cf": 1793968633.2586348,
+  "6f3100ae46a5900a": 1793968633.2586348,
+  "a80c1aab090338c8": 1793968633.2586348,
+  "8648912562218f6e": 1793968633.2586348,
+  "fcd297965e1847a6": 1793968633.2586348
  },
  "recent_headlines": [
-  "በሆርሙዝ ወሰን 2 የነዳጅ መርከቦች እና የጎታች መርከብ በእሳት መመታታቸውን ኢራን ገለጸች (Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz)",
-  "ኢትዮጵያ የውኃ ሀብቷን ለማልማት የግብፅን ፈቃድ አትጠይቅም አለች (Ethiopia Will Not Seek Egypt’s Permission to Develop Its Water Resources: Minister)",
   "በናይሮቢ በህገ-ወጥ የሰዎች ዝውውር የተጠረጠሩ 65 ኢትዮጵያውያን ተታደጉ (Daily_Brief: 65 #Ethiopians rescued in Nairobi, three #Kenyans arrested over suspected trafficking)",
   "አፍሪካ ሲዲሲ በናይጄሪያ የኤቦላ ቫይረስ በመገኘቱ አስቸኳይ ስብሰባ ጠራ (#Daily_Brief: #Africa CDC calls emergency Ebola summit as #Nigeria reports first case)",
   "በመቀሌ 5 ሺህ 500 የቀድሞ የትግራይ ተዋጊዎች ትጥቅ ፈትተው ስልጠና ጀመሩ (5,500 Former Tigray Combatants Disarm and Begin Rehabilitation Training in Mekelle)",
@@ -2657,11 +2651,11 @@
   "ሩሲያ ለኢራን 90 የላቁ የሮኬት ማስወንጨፊያዎችን ለመሸጥ መስማማቷ ተገለጸ (Rocket launcher deal illustrates deepening Russia-Iran relations)",
   "በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈጸመ ጥቃት የ38 ሰዎች ሕይወት ማለፉ ተገለጸ (በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈፀመ ጥቃት 38 ሰዎች መገደላቸውን የተጎጂ ቤተሰቦች እና ነዋሪዎች ተናገሩ)",
   "በኬንያ የሃይማኖት ቡድን መሪ Paul Mackenzie የ200 ዓመት እስራት ተፈረደበት (Kenyan doomsday cult leader given life sentence for murdering 191 people)",
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ ላይ ሁለት ሀሳቦችን አቀረቡ (PM Abiy Identifies Producing Leadership Succession and Development Continuity as Key to Overcoming Africa’s Political Challenges)"
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ ላይ ሁለት ሀሳቦችን አቀረቡ (PM Abiy Identifies Producing Leadership Succession and Development Continuity as Key to Overcoming Africa’s Political Challenges)",
+  "በአውሮፓ በርካታ ሀገራት በተስተዋሉ የቦምብ ዛቻዎች የአየር ትራንስፖርት መስተጓጎል አጋጠመ (Hoax or bomb threats? What we know about flight disruptions across Europe)",
+  "የታንዛኒያ ፍርድ ቤት በተቃዋሚው መሪ Tundu Lissu ላይ የ4 ዓመት እስራት ፈረደ (Tanzania court jails opposition leader for incitement, lifts treason charge)"
  ],
  "posted_at": [
-  1793795867.3141272,
-  1793795870.7260242,
   1793797764.1108696,
   1793801443.1007245,
   1793803001.036708,
@@ -2713,6 +2707,8 @@
   1793967277.7578838,
   1793967281.208243,
   1793967284.6126707,
-  1793967288.0207415
+  1793967288.0207415,
+  1793968713.4619207,
+  1793968716.9706
  ]
 }
