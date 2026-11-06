@@ -1,10 +1,5 @@
 {
  "seen": {
-  "7548409e2d762e5b": 1792782639.5118208,
-  "9179cb55d7c59f2a": 1792782639.5118208,
-  "5c61a636ca13b9ba": 1792782639.5118208,
-  "93b744c9f3804f4c": 1792782639.5118208,
-  "80c1fec266ab7a48": 1792782639.5118208,
   "2fdb5c95c6db2749": 1792786355.315338,
   "45173dc990ab5a68": 1792786355.315338,
   "d84f96c3653d0043": 1792788030.8084192,
@@ -2595,11 +2590,14 @@
   "24e9ca86040fce69": 1793992017.8379588,
   "dbc242e206a263e9": 1793992017.8379588,
   "6f5d824d1263abfd": 1793992017.8379588,
-  "0aa6a4cac0d8016a": 1793992017.8379588
+  "0aa6a4cac0d8016a": 1793992017.8379588,
+  "d411dd37a9ef11d0": 1793993696.846921,
+  "82c5be8654f543ba": 1793993696.846921,
+  "10cedac076693a74": 1793993696.846921,
+  "a6e4bc62897053da": 1793993696.846921,
+  "a8c286276eb21046": 1793993696.846921
  },
  "recent_headlines": [
-  "በሞያሌ በቦረና እና በሶማሌ ማኅበረሰቦች መካከል ያለው ግጭት መቀጠሉ ተገለጸ (Xiinxala Oduu: Walitti bu’iinsi Moyyaleetti itti fufe; Abbaa Gadaa Booranaa fi Jaarsi Somaalee dhimma lafa falmisiisaa irratti ejjennoo isaanii jabeessan)",
-  "አምባሳደር ሬድዋን ሁሴን በመገናኛ ብዙኃን ላይ የሚወሰዱ እርምጃዎችን ተከላከሉ (\"ከአምስት ጊዜ በላይ ምን እንዳጠፋ ሳይነገረው ማስጠንቀቂያ የተጻፈበት ሚዲያ የለም\" አምባሳደር ሬድዋን ሁሴን)",
   "የኢትዮጵያ ባህር ኃይል በተለያዩ መስኮች የተጣለበትን ተልዕኮ ለመወጣት ዝግጁ መሆኑን ገለጸ (Ethiopian Navy Says It Is Fully Prepared to Carry Out Maritime, Air and Land Missions)",
   "ሱዳን በገዳሪፍ የሚገኘውን የኢትዮጵያ ቆንስላ በመዝጋት ዲፕሎማቶችን አባረረች (Sudan closes Ethiopian consulate in Gedaref, expels diplomats in retaliation for Assosa closure)",
   "የፓራጓይ ፕሬዝዳንት Santiago Peña ከባንክ ውድቀት በኋላ ከሥልጣናቸው ለቀቁ (Paraguay President Santiago Peña resigns after bank collapse)",
@@ -2637,7 +2635,9 @@
   "በዩክሬን የተኩስ አቁም ከተደረገ በኋላ ወታደሮችን ለማሰማራት የሚያስችል ልምምድ በፖላንድ እየተካሄደ ነው (European troops prepare for possible post-ceasefire deployment to Ukraine)",
   "በሱዳን በግጭት ከተፈናቀሉ ሚሊዮኖች መካከል አብዛኞቹ የመጠለያ እርዳታ ሊያጡ እንደሚችሉ ተገለጸ (Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns)",
   "በየመኗ ታኢዝ ግዛት በገበያ ላይ በተሰነዘረ ጥቃት ቢያንስ 30 ሰዎች ተገደሉ (Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market)",
-  "ሩሲያ በዩክሬን የምታደርገው የወታደራዊ ግስጋሴ በከፍተኛ ሁኔታ መቀነሱ ተገለጸ (Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold)"
+  "ሩሲያ በዩክሬን የምታደርገው የወታደራዊ ግስጋሴ በከፍተኛ ሁኔታ መቀነሱ ተገለጸ (Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold)",
+  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ ታጣቂዎች በተፈጸመ ጥቃት ቢያንስ 33 ሰዎች ተገደሉ (Armed men kill at least 33 in village in Ebola-hit eastern DRC)",
+  "ዶናልድ ትራምፕ Stephen Millerን የኋይት ሀውስ የጽሕፈት ቤት ኃላፊ አድርገው ሾሙ (Trump says making adviser Stephen Miller White House chief of staff)"
  ],
  "posted_at": [
   1793822976.2088752,
@@ -2690,6 +2690,8 @@
   1793982991.0183887,
   1793982994.4670932,
   1793992075.320424,
-  1793992078.8678052
+  1793992078.8678052,
+  1793993749.1514323,
+  1793993752.5795743
  ]
 }
