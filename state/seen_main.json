@@ -1,12 +1,5 @@
 {
  "seen": {
-  "5a7c719cfa6d34d3": 1792761110.749117,
-  "1acbf760cefa66a1": 1792761110.749117,
-  "a9a4d21eac54a7d9": 1792761110.749117,
-  "b0537ccc637734c0": 1792761110.749117,
-  "f8e9e719a6fed1cf": 1792761110.749117,
-  "4eebe45da0e3119a": 1792761110.749117,
-  "f1a6df2f4ae6572a": 1792761110.749117,
   "c2f371280832c811": 1792762948.7859073,
   "87af1ecbcdfbed49": 1792762948.7859073,
   "5b768dd03374a0e6": 1792762948.7859073,
@@ -2614,10 +2607,11 @@
   "835b7c4004b266a8": 1793970562.620201,
   "c5fb507433bcec3b": 1793970562.620201,
   "d773648d29d975fe": 1793970562.620201,
-  "99620881632dc1fa": 1793970562.620201
+  "99620881632dc1fa": 1793970562.620201,
+  "37f7bd59d831833e": 1793972127.2128315,
+  "6fe075dc9407d14d": 1793972127.2128315
  },
  "recent_headlines": [
-  "በናይሮቢ በህገ-ወጥ የሰዎች ዝውውር የተጠረጠሩ 65 ኢትዮጵያውያን ተታደጉ (Daily_Brief: 65 #Ethiopians rescued in Nairobi, three #Kenyans arrested over suspected trafficking)",
   "አፍሪካ ሲዲሲ በናይጄሪያ የኤቦላ ቫይረስ በመገኘቱ አስቸኳይ ስብሰባ ጠራ (#Daily_Brief: #Africa CDC calls emergency Ebola summit as #Nigeria reports first case)",
   "በመቀሌ 5 ሺህ 500 የቀድሞ የትግራይ ተዋጊዎች ትጥቅ ፈትተው ስልጠና ጀመሩ (5,500 Former Tigray Combatants Disarm and Begin Rehabilitation Training in Mekelle)",
   "የዓለም ጤና ድርጅት ከ71 ቶን በላይ የሕክምና ቁሳቁስ በሰሜን ኢትዮጵያ ለሚገኙ ተጎጂዎች አቀረበ (Daily_Brief: WHO delivers more than 71 tonnes of medical supplies to conflict-affected northern #Ethiopia)",
@@ -2656,7 +2650,8 @@
   "በኬንያ የሃይማኖት ቡድን መሪ Paul Mackenzie የ200 ዓመት እስራት ተፈረደበት (Kenyan doomsday cult leader given life sentence for murdering 191 people)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ ላይ ሁለት ሀሳቦችን አቀረቡ (PM Abiy Identifies Producing Leadership Succession and Development Continuity as Key to Overcoming Africa’s Political Challenges)",
   "በአውሮፓ በርካታ ሀገራት በተስተዋሉ የቦምብ ዛቻዎች የአየር ትራንስፖርት መስተጓጎል አጋጠመ (Hoax or bomb threats? What we know about flight disruptions across Europe)",
-  "የታንዛኒያ ፍርድ ቤት በተቃዋሚው መሪ Tundu Lissu ላይ የ4 ዓመት እስራት ፈረደ (Tanzania court jails opposition leader for incitement, lifts treason charge)"
+  "የታንዛኒያ ፍርድ ቤት በተቃዋሚው መሪ Tundu Lissu ላይ የ4 ዓመት እስራት ፈረደ (Tanzania court jails opposition leader for incitement, lifts treason charge)",
+  "በደቡብ ሱዳን በተቀናቃኝ ቡድኖች ግጭት የ70 ሰዎች ሕይወት አለፈ (Daily_Brief: Clashes between rival groups leave about 70 dead in #South_Sudan’s Lakes state)"
  ],
  "posted_at": [
   1793801443.1007245,
@@ -2711,6 +2706,7 @@
   1793967284.6126707,
   1793967288.0207415,
   1793968713.4619207,
-  1793968716.9706
+  1793968716.9706,
+  1793972205.8634179
  ]
 }
