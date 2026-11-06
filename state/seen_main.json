@@ -1,10 +1,5 @@
 {
  "seen": {
-  "1d41fcbc5ad4e512": 1792755721.2575915,
-  "39cec25ed8b96923": 1792755721.2575915,
-  "9bb37ad77f8f29e0": 1792755721.2575915,
-  "8a0a32e3ed1c8f52": 1792755721.2575915,
-  "6eec3ef53913b709": 1792755721.2575915,
   "86a79a4419a2bacf": 1792757868.7922552,
   "839f5b6cec2098b9": 1792757868.7922552,
   "02dc09e09b89ced1": 1792757868.7922552,
@@ -2612,13 +2607,17 @@
   "329ae418539bb14b": 1793964903.5976808,
   "dcc9ab7eeb171899": 1793964903.5976808,
   "774fb1352d1cce3d": 1793964903.5976808,
-  "c38e6e9697b7184c": 1793964903.5976808
+  "c38e6e9697b7184c": 1793964903.5976808,
+  "d65fcab39b51358d": 1793967175.6527505,
+  "2b353895168583c8": 1793967175.6527505,
+  "6fddd24d70bd322c": 1793967175.6527505,
+  "0b9828421fb1f534": 1793967175.6527505,
+  "bb146f7ed933f4fb": 1793967175.6527505,
+  "f2e3f4e82908cd49": 1793967175.6527505,
+  "39d2020b2251dcbc": 1793967175.6527505,
+  "9a1b09477f83c45d": 1793967175.6527505
  },
  "recent_headlines": [
-  "በዩክሬን የእርዳታ ማዕከል ላይ በተሰነዘረ የሩሲያ የአየር ጥቃት የ40 ሰዎች ሕይወት አለፈ (Ukraine says bodycam video shows deadly Russian double-tap bombing)",
-  "በሰሜን ኢትዮጵያ በገናኘው ግጭት በትግራይና አማራ ክልሎች በሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (Oduu: Walitti bu’iinsi kaaba Itoophiyaatti deebi’ee ka’eTigraayitti maatii qe’ee isaaniitti deebi’an deebisee buqqise; Amaaraatti namoonni kumaatamaan lakkaa’aman qe’ee isaanii irraa buqqa’an)",
-  "የዓለም ጤና ድርጅት ለሁለት አዳዲስ የኤቦላ ክትባቶች የሙከራ ፈቃድ ሰጠ (WHO approves trials for two new Ebola vaccines)",
-  "በደቡብ አፍሪካ ሀገራዊ ምርጫ የድምፅ ቆጠራ ተጀመረ (Vote counting underway in critical South Africa elections)",
   "በሆርሙዝ ወሰን 2 የነዳጅ መርከቦች እና የጎታች መርከብ በእሳት መመታታቸውን ኢራን ገለጸች (Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz)",
   "ኢትዮጵያ የውኃ ሀብቷን ለማልማት የግብፅን ፈቃድ አትጠይቅም አለች (Ethiopia Will Not Seek Egypt’s Permission to Develop Its Water Resources: Minister)",
   "በናይሮቢ በህገ-ወጥ የሰዎች ዝውውር የተጠረጠሩ 65 ኢትዮጵያውያን ተታደጉ (Daily_Brief: 65 #Ethiopians rescued in Nairobi, three #Kenyans arrested over suspected trafficking)",
@@ -2654,13 +2653,13 @@
   "የሶማሊያ ጠቅላይ ፍርድ ቤት የፕሬዝዳንቱን የሥልጣን ዘመን ማራዘም ውድቅ አደረገ (Somalia's top court rejects president's term extension amid political crisis)",
   "በኬንያ የ191 ሰዎችን ሕይወት ያጠፋው የሃይማኖት ቡድን መሪ Paul Mackenzie የቅጣት ውሳኔ ሊሰጠው ነው (Kenyan court sentencing doomsday cult leader Paul Mackenzie)",
   "የተባበሩት መንግሥታት ድርጅት ሪፖርት፡ የኤምሬትስ ኩባንያ በሱዳን የኮሎምቢያ ቅጥረኛ ወታደሮችን አሰማርቷል (UN report says UAE firm hired Colombian mercenaries to fight in Sudan, raising questions over Abu Dhabi’s UN chief bid)",
-  "የሱዳን ጦር ከኢትዮጵያ ድንበር አቅራቢያ የሚገኝ ስልታዊ ወታደራዊ ካምፕ መልሶ ተቆጣጠረ (Daily_Brief: #Sudanese army recaptures strategic base near #Ethiopian border from RSF-SPLM-N alliance)"
+  "የሱዳን ጦር ከኢትዮጵያ ድንበር አቅራቢያ የሚገኝ ስልታዊ ወታደራዊ ካምፕ መልሶ ተቆጣጠረ (Daily_Brief: #Sudanese army recaptures strategic base near #Ethiopian border from RSF-SPLM-N alliance)",
+  "ሩሲያ ለኢራን 90 የላቁ የሮኬት ማስወንጨፊያዎችን ለመሸጥ መስማማቷ ተገለጸ (Rocket launcher deal illustrates deepening Russia-Iran relations)",
+  "በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈጸመ ጥቃት የ38 ሰዎች ሕይወት ማለፉ ተገለጸ (በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈፀመ ጥቃት 38 ሰዎች መገደላቸውን የተጎጂ ቤተሰቦች እና ነዋሪዎች ተናገሩ)",
+  "በኬንያ የሃይማኖት ቡድን መሪ Paul Mackenzie የ200 ዓመት እስራት ተፈረደበት (Kenyan doomsday cult leader given life sentence for murdering 191 people)",
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ ላይ ሁለት ሀሳቦችን አቀረቡ (PM Abiy Identifies Producing Leadership Succession and Development Continuity as Key to Overcoming Africa’s Political Challenges)"
  ],
  "posted_at": [
-  1793792224.440589,
-  1793794476.5117314,
-  1793794479.9594274,
-  1793794483.4645948,
   1793795867.3141272,
   1793795870.7260242,
   1793797764.1108696,
@@ -2710,6 +2709,10 @@
   1793952794.0511663,
   1793956281.209043,
   1793957724.8255665,
-  1793959810.212983
+  1793959810.212983,
+  1793967277.7578838,
+  1793967281.208243,
+  1793967284.6126707,
+  1793967288.0207415
  ]
 }
