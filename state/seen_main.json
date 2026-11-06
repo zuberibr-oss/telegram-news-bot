@@ -1,7 +1,5 @@
 {
  "seen": {
-  "4dd025d2fb545bb2": 1792748595.0167055,
-  "3e17f9743d9c54b3": 1792748595.0167055,
   "2d1d1d005a7c4dc5": 1792750334.6037478,
   "3e4401f8591ed506": 1792750334.6037478,
   "b7714cd192b8bd5f": 1792750334.6037478,
@@ -2623,10 +2621,17 @@
   "f933f282b8dc7dc6": 1793956238.1194975,
   "268c44f4be28bd11": 1793957692.7336297,
   "1e117d1d91e39550": 1793957692.7336297,
-  "873b7672993b070a": 1793957692.7336297
+  "873b7672993b070a": 1793957692.7336297,
+  "936a966cf9d25de6": 1793959764.9998484,
+  "c9e587f556d8bd21": 1793959764.9998484,
+  "5eaacf306ff3c507": 1793959764.9998484,
+  "3994db08fa59f693": 1793959764.9998484,
+  "62af547e9656e5c0": 1793959764.9998484,
+  "061ed2c39c01992a": 1793959764.9998484,
+  "0d11cb751aedfd44": 1793959764.9998484,
+  "5de244e9c921006c": 1793959764.9998484
  },
  "recent_headlines": [
-  "ኢትዮጵያ እና የዓለም ባንክ የ«One WASH» ፕሮግራምን የማስፈጸሚያ ጊዜ አራዘሙ (Ethiopia, World Bank Move to Accelerate Water Projects and Unlock Development Financing)",
   "በዩክሬን የእርዳታ ማዕከል ላይ በተሰነዘረ የሩሲያ የአየር ጥቃት የ40 ሰዎች ሕይወት አለፈ (Ukraine says bodycam video shows deadly Russian double-tap bombing)",
   "በሰሜን ኢትዮጵያ በገናኘው ግጭት በትግራይና አማራ ክልሎች በሺዎች የሚቆጠሩ ሰዎች ተፈናቀሉ (Oduu: Walitti bu’iinsi kaaba Itoophiyaatti deebi’ee ka’eTigraayitti maatii qe’ee isaaniitti deebi’an deebisee buqqise; Amaaraatti namoonni kumaatamaan lakkaa’aman qe’ee isaanii irraa buqqa’an)",
   "የዓለም ጤና ድርጅት ለሁለት አዳዲስ የኤቦላ ክትባቶች የሙከራ ፈቃድ ሰጠ (WHO approves trials for two new Ebola vaccines)",
@@ -2665,7 +2670,8 @@
   "መከላከያ በመቀሌ የተሽከርካሪዎች የሰዓት እላፊ ገደብ ጣለ፤ ሕገወጥ መሣሪያ እንዲያስረክቡ አዘዘ (በመቀለ ከዛሬ ጀምሮ የተሽከርካሪ እንቅስቃሴ ላይ የሰዓት እላፊ ገደብ ተጣለ)",
   "የሶማሊያ ጠቅላይ ፍርድ ቤት የፕሬዝዳንቱን የሥልጣን ዘመን ማራዘም ውድቅ አደረገ (Somalia's top court rejects president's term extension amid political crisis)",
   "በኬንያ የ191 ሰዎችን ሕይወት ያጠፋው የሃይማኖት ቡድን መሪ Paul Mackenzie የቅጣት ውሳኔ ሊሰጠው ነው (Kenyan court sentencing doomsday cult leader Paul Mackenzie)",
-  "የተባበሩት መንግሥታት ድርጅት ሪፖርት፡ የኤምሬትስ ኩባንያ በሱዳን የኮሎምቢያ ቅጥረኛ ወታደሮችን አሰማርቷል (UN report says UAE firm hired Colombian mercenaries to fight in Sudan, raising questions over Abu Dhabi’s UN chief bid)"
+  "የተባበሩት መንግሥታት ድርጅት ሪፖርት፡ የኤምሬትስ ኩባንያ በሱዳን የኮሎምቢያ ቅጥረኛ ወታደሮችን አሰማርቷል (UN report says UAE firm hired Colombian mercenaries to fight in Sudan, raising questions over Abu Dhabi’s UN chief bid)",
+  "የሱዳን ጦር ከኢትዮጵያ ድንበር አቅራቢያ የሚገኝ ስልታዊ ወታደራዊ ካምፕ መልሶ ተቆጣጠረ (Daily_Brief: #Sudanese army recaptures strategic base near #Ethiopian border from RSF-SPLM-N alliance)"
  ],
  "posted_at": [
   1793790648.482133,
@@ -2722,6 +2728,7 @@
   1793952790.4762425,
   1793952794.0511663,
   1793956281.209043,
-  1793957724.8255665
+  1793957724.8255665,
+  1793959810.212983
  ]
 }
