@@ -1,9 +1,5 @@
 {
  "seen": {
-  "d1cef3c44c32924e": 1792715456.5016892,
-  "a548866d5ee7e2ae": 1792715456.5016892,
-  "476072e0fac29018": 1792715456.5016892,
-  "d1285f50d3d091f2": 1792715456.5016892,
   "c223d2504e66c01e": 1792717879.8598313,
   "d915d874ddcdc714": 1792720228.5374577,
   "7ad29486c18785d2": 1792720228.5374577,
@@ -2627,11 +2623,14 @@
   "8bcfe94a42896e31": 1793921704.4057195,
   "40e9750e4fcf5086": 1793924492.2102468,
   "5d1a0cb1542fb92b": 1793924492.2102468,
-  "3a51f3e4c91691e5": 1793924492.2102468
+  "3a51f3e4c91691e5": 1793924492.2102468,
+  "6b1545dd67001faa": 1793925996.6714509,
+  "7a467682679f7084": 1793925996.6714509,
+  "d5e57303a3c47666": 1793925996.6714509,
+  "893c66f6f8f40d52": 1793925996.6714509,
+  "68ecc0f893620193": 1793925996.6714509
  },
  "recent_headlines": [
-  "በአፋር ወራሪው የፕሮሶፒስ ዛፍ በየዓመቱ በ31 ሺህ ሄክታር ላይ እየተስፋፋ ነው (Daily_Brief: Invasive Prosopis trees spreads 31,127 hectares annually in #Afar, linked to $602 million in ecosystem-service losses)",
-  "ኢትዮጵያ የአጠቃላይ ሀገራዊ ምርት (GDP) ስሌቷን በድጋሚ ማሻሻሏን አስታወቀች (Ethiopia’s GDP Rebasing Establishes New Benchmark for Long-Term Development Planning – Minister)",
   "በደቡብ ምስራቅ ኦሮሚያ በተፈጸመ ጥቃት 48 ሰዎች መገደላቸውን ኢሰመኮ አስታወቀ (EHRC reports 48 deaths in armed attack in Southeast Oromia)",
   "የአፍሪካ ኅብረት በኢትዮጵያ እና በኤርትራ መካከል ያለውን ውጥረት ለማርገብ ዲፕሎማሲያዊ ጥረት ጀመረ (African Union dteps up Diplomacy to ease Ethiopia-Eritrea tensions)",
   "Abdul El-Sayed የመጀመሪያው ሙስሊም የአሜሪካ ሴኔት አባል በመሆን ተመረጡ (Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator)",
@@ -2669,10 +2668,11 @@
   "በደቡብ ኢትዮጵያ በተቀሰቀሰ ግጭት በአስር ሺዎች የሚቆጠሩ ሰዎች ወደ ኬንያ ተሰደዱ (Nigeria court bars opposition candidate two months before election)",
   "በደቡብ አፍሪካ ገዢው ፓርቲ ANC በምርጫ ያገኘው የድጋፍ መጠን በከፍተኛ ሁኔታ ቀነሰ (South Africa’s ANC on track for new lows in local polls)",
   "በኢትዮጵያ የተወለደችው Melat Kiros ወደ አሜሪካ ኮንግረስ ተመረጠች (Generation Z and diversity redefine US politics in groundbreaking election)",
-  "ዶናልድ ትራምፕ አሜሪካ የቀረውን የኢራን ክፍል ልታጠፋ ትችላለች ሲሉ አስጠነቀቁ (Iran war live: Trump warns US may have to ‘destroy’ rest of Iran)"
+  "ዶናልድ ትራምፕ አሜሪካ የቀረውን የኢራን ክፍል ልታጠፋ ትችላለች ሲሉ አስጠነቀቁ (Iran war live: Trump warns US may have to ‘destroy’ rest of Iran)",
+  "Donald Trump ከሩሲያ መልዕክተኛ ጋር ከተወያዩ በኋላ የሰላም ስምምነት ተቃርቧል አሉ (Trump met Russian envoy after he appeared with Melania Trump and Ukrainians)",
+  "የቱርክ ፓርላማ ከሳዑዲ ዓረቢያ እና ፓኪስታን ጋር የተደረገውን የጋራ መከላከያ ስምምነት አጸደቀ (Turkiye’s parliament ratifies Mecca defence agreement)"
  ],
  "posted_at": [
-  1793753183.018234,
   1793763373.3909314,
   1793765480.672042,
   1793765484.0929508,
@@ -2725,6 +2725,8 @@
   1793914645.3580332,
   1793916568.4489782,
   1793916571.8624327,
-  1793924518.7681596
+  1793924518.7681596,
+  1793926052.9857032,
+  1793926056.481139
  ]
 }
