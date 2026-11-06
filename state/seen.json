@@ -1,8 +1,5 @@
 {
  "seen": {
-  "40f9ab0b9be4c47d": 1792759613.25986,
-  "e4dc97e43be8c2b7": 1792759613.25986,
-  "ce7dff16ef429653": 1792759613.25986,
   "3a3488b69da641a5": 1792761019.9571006,
   "8e65c934f61285e1": 1792761019.9571006,
   "4732913a6eb81975": 1792761019.9571006,
@@ -1425,10 +1422,10 @@
   "cc6cb97fbad978b5": 1793968553.1815155,
   "3ac0ee19e98169cf": 1793968553.1815155,
   "9b4893b210f15b01": 1793968553.1815155,
-  "5b2c95e1e314cd95": 1793968553.1815155
+  "5b2c95e1e314cd95": 1793968553.1815155,
+  "f9f34078e0421eb0": 1793970474.7498345
  },
  "recent_headlines": [
-  "ዳሸን ባንክ የ15.2 ቢሊዮን ብር የትርፍ እና የ309 ቢሊዮን ብር ዲጂታል ግብይት ማስመዝገቡን ገለጸ (Dashen Bank Profit More Than Doubles to 15.2 Billion Birr as Assets Hit 350 Billion)",
   "በአፍሪካ የ AI ወጪን ለመቀነስ የሚያስችል የ10 ሚሊዮን USD Enzi Prize ተጀመረ (“It’s for the person in your village”: Oji Udezue’s $10mn Enzi Prize to crack AI’s cost wall for Africa)",
   "የኢትዮጵያ ንግድ ባንክ የአገሪቱን 73 በመቶ የዲጂታል ግብይት ዋጋ እያከናወነ መሆኑን ገለጸ (CBE Handles 73% of Ethiopia’s Digital Transaction Value as Cybersecurity Spending Rises)",
   "ዳሸን ባንክ የኢንቨስትመንት ባንክ አገልግሎት ለመጀመር የቁጥጥር አካላትን ፈቃድ በመጠባበቅ ላይ ነው (Dashen Bank Seeks Regulatory Green Light for Investment Banking Arm)",
@@ -1467,7 +1464,8 @@
   "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)",
   "የናይጄሪያ ማዕከላዊ ባንክ ለውጭ ስቴብልኮይን አውጪዎች የ11.16 ሚሊዮን ዶላር ዝቅተኛ ካፒታል ደነገገ (Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers)",
   "የናይጄሪያ ማዕከላዊ ባንክ የ P2P ክሪፕቶ ግብይቶች ከባንክ ሂሳቦች ጋር እንዲያያዙ ደነገገ (Nigeria’s Central Bank wants every crypto P2P payment linked to a bank transaction)",
-  "ኤም-ፔሳ ኢትዮጵያ በሶስት ወራት ውስጥ 510 ሺህ ንቁ ተጠቃሚዎችን አጣ (M-PESA Ethiopia lost 510,000 active users in three months as Safaricom Ethiopia neared break-even)"
+  "ኤም-ፔሳ ኢትዮጵያ በሶስት ወራት ውስጥ 510 ሺህ ንቁ ተጠቃሚዎችን አጣ (M-PESA Ethiopia lost 510,000 active users in three months as Safaricom Ethiopia neared break-even)",
+  "ሳፋሪኮም ኢትዮጵያ በኢትዮጵያ ያፈሰሰው አጠቃላይ ካፒታል 2.84 ቢሊዮን ዶላር ደረሰ (Safaricom’s Ethiopian Funding Reaches 2.84 Billion US Dollars as Borrowing Replaces Equity-Only Financing)"
  ],
  "posted_at": [
   1793802961.2729154,
@@ -1479,6 +1477,7 @@
   1793945706.6803288,
   1793948989.6220534,
   1793952705.5682814,
-  1793956237.9096897
+  1793956237.9096897,
+  1793970562.4638686
  ]
 }
