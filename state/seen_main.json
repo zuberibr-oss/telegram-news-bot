@@ -1,7 +1,5 @@
 {
  "seen": {
-  "87fa1a6829193121": 1792741456.3757005,
-  "12c877d1b7c92124": 1792741456.3757005,
   "510e78bf37dd7f3e": 1792743365.5477724,
   "2bb959d6607a064d": 1792743365.5477724,
   "2531690f4d9e9f55": 1792743365.5477724,
@@ -2629,12 +2627,21 @@
   "e87c48ee3e2c7873": 1793950541.1312459,
   "9bc629843568bb05": 1793950541.1312459,
   "4ef3a5317652887b": 1793950541.1312459,
-  "d5e433f04d290fa4": 1793950541.1312459
+  "d5e433f04d290fa4": 1793950541.1312459,
+  "c58d570f69061de7": 1793952705.7499912,
+  "9c5fde8c73ea6a38": 1793952705.7499912,
+  "637749156cbc2de6": 1793952705.7499912,
+  "ea3392f0c9c5fc4e": 1793952705.7499912,
+  "c7aa025f107f00ee": 1793952705.7499912,
+  "0fb102d8b07484bd": 1793952705.7499912,
+  "83377214657e640c": 1793952705.7499912,
+  "44864aca3b1cf8e5": 1793952705.7499912,
+  "3a712a869cdc0878": 1793952705.7499912,
+  "29bf33dd6f1494de": 1793952705.7499912,
+  "ad143c7d4526d609": 1793952705.7499912,
+  "1397457eb0ea7c2f": 1793952705.7499912
  },
  "recent_headlines": [
-  "በኬንያ የኤቦላ ተጣቃሚዎች ቁጥር ወደ ስምንት ከፍ አለ (#Daily_Brief: #Kenya’s Ebola cases rise to eight, with no community transmission reported)",
-  "ኢትዮጵያ በአፍሪካ እና አውሮፓ ኅብረት ስብሰባ ላይ የንግድ ገደቦች እንዲነሱ ጠየቀች (Ethiopia Presses for Stronger Africa-EU Cooperation on Trade, Energy and Digital Development)",
-  "Volodymyr Zelensky ለአሜሪካዋ የመጀመሪያ እመቤት Melania Trump የዩክሬን ከፍተኛ የክብር ሜዳሊያ ሰጡ (Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire)",
   "ባይረን ዶናልድስ የመጀመሪያው የፍሎሪዳ ጥቁር ገዥ ሆነው ተመረጡ (‘We are still red,’ Florida’s first Black governor upon win)",
   "ዓለም አቀፍ ባንክ በኢትዮጵያ ለውኃና ኢነርጂ ፕሮጀክቶች የሚሰጠውን ድጋፍ እንደሚያጠናክር ገለጸ (World Bank Pledges to Strengthen Support for Ethiopia’s Water and Energy Development Projects)",
   "ኢትዮጵያ እና የዓለም ባንክ የ«One WASH» ፕሮግራምን የማስፈጸሚያ ጊዜ አራዘሙ (Ethiopia, World Bank Move to Accelerate Water Projects and Unlock Development Financing)",
@@ -2671,10 +2678,12 @@
   "የአሜሪካን ምርጫ ተከተሎ የዓለም አቀፍ የቴክኖሎጂ ኩባንያዎች አክሲዮን በከፍተኛ ሁኔታ ወደቀ (Global tech stocks plunge as US midterms add to AI slowdown fears)",
   "የኢራን የደኅንነት ኃላፊ ለቪላዲሚር ፑቲን የሞጅታባ ኻመነይን መልእክት አደረሱ (Iran’s security chief meets Putin, delivers message from Khamenei)",
   "የኢራቅ ጠቅላይ ሚኒስትር ከDonald Trump ጋር በስልክ ተወያዩ (Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran)",
-  "ኢራን ከአራት ሀገራት የሚነሱ መርከቦች በሆርሙዝ ወሰን እንዲያልፉ ፈቀደች (Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?)"
+  "ኢራን ከአራት ሀገራት የሚነሱ መርከቦች በሆርሙዝ ወሰን እንዲያልፉ ፈቀደች (Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?)",
+  "ኢራን በሚሳይል ጣቢያዎቿ አቅራቢያ አዳዲስ ከመሬት በታች ግንባታዎችን እያካሄደች ነው ተባለ (Major construction ongoing near Iran missile bases, satellite images suggest)",
+  "መከላከያ በመቀሌ የተሽከርካሪዎች የሰዓት እላፊ ገደብ ጣለ፤ ሕገወጥ መሣሪያ እንዲያስረክቡ አዘዘ (በመቀለ ከዛሬ ጀምሮ የተሽከርካሪ እንቅስቃሴ ላይ የሰዓት እላፊ ገደብ ተጣለ)",
+  "የሶማሊያ ጠቅላይ ፍርድ ቤት የፕሬዝዳንቱን የሥልጣን ዘመን ማራዘም ውድቅ አደረገ (Somalia's top court rejects president's term extension amid political crisis)"
  ],
  "posted_at": [
-  1793777871.5804486,
   1793790648.482133,
   1793790652.0527687,
   1793792224.440589,
@@ -2724,6 +2733,9 @@
   1793934623.7116418,
   1793936170.1978438,
   1793943373.1054697,
-  1793947240.1891038
+  1793947240.1891038,
+  1793952787.0381923,
+  1793952790.4762425,
+  1793952794.0511663
  ]
 }

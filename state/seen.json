@@ -1,6 +1,5 @@
 {
  "seen": {
-  "7a63971d2fe48d21": 1792741397.015325,
   "263496e33436eaac": 1792743302.3930051,
   "0efd05e5e737d52e": 1792745049.7747076,
   "fd778592c25e3aba": 1792745049.7747076,
@@ -1435,10 +1434,11 @@
   "57893978d2e4f83f": 1793950470.5853007,
   "a611f7d41df6452c": 1793950470.5853007,
   "742279cd152ecab0": 1793950470.5853007,
-  "c8ed8d99b344402f": 1793950470.5853007
+  "c8ed8d99b344402f": 1793950470.5853007,
+  "06a573fec33eaab4": 1793952635.309413,
+  "08856ac277f4c50b": 1793952635.309413
  },
  "recent_headlines": [
-  "የኢትዮጵያ ሰነደ መዋዕለ ንዋይ ገበያ ለ8 ዋስትናዎች የ OTC የንግድ መድረክ ሊጀምር ነው (Ethiopia’s OTC market targets 8 securities outside main listing requirements)",
   "ዳሸን ባንክ Dashen Air Pay የተሰኘ የክፍያ አገልግሎት በይፋ አስጀመረ (Dashen Air Pay service officially goes operational to bridge the gap between businesses and customers)",
   "ዳሸን ባንክ የ15.2 ቢሊዮን ብር የትርፍ እና የ309 ቢሊዮን ብር ዲጂታል ግብይት ማስመዝገቡን ገለጸ (Dashen Bank Profit More Than Doubles to 15.2 Billion Birr as Assets Hit 350 Billion)",
   "በአፍሪካ የ AI ወጪን ለመቀነስ የሚያስችል የ10 ሚሊዮን USD Enzi Prize ተጀመረ (“It’s for the person in your village”: Oji Udezue’s $10mn Enzi Prize to crack AI’s cost wall for Africa)",
@@ -1477,7 +1477,8 @@
   "IFC የአፍሪካ የግብርና ፋይናንስን ለማስፋፋት በ Kifiya ላይ ኢንቨስት አደረገ (IFC Invests in Kifiya’s AI Platform to Expand Agricultural Finance Across Africa)",
   "ሳፋሪኮም ኢትዮጵያ ወደ ወጪና ገቢ ሚዛን (Break-even) ለመሸጋገር በመቃረብ ላይ ነው (Safaricom Ethiopia break even: price floor steps remain)",
   "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)",
-  "የናይጄሪያ ማዕከላዊ ባንክ ለውጭ ስቴብልኮይን አውጪዎች የ11.16 ሚሊዮን ዶላር ዝቅተኛ ካፒታል ደነገገ (Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers)"
+  "የናይጄሪያ ማዕከላዊ ባንክ ለውጭ ስቴብልኮይን አውጪዎች የ11.16 ሚሊዮን ዶላር ዝቅተኛ ካፒታል ደነገገ (Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers)",
+  "የናይጄሪያ ማዕከላዊ ባንክ የ P2P ክሪፕቶ ግብይቶች ከባንክ ሂሳቦች ጋር እንዲያያዙ ደነገገ (Nigeria’s Central Bank wants every crypto P2P payment linked to a bank transaction)"
  ],
  "posted_at": [
   1793784937.596119,
@@ -1488,6 +1489,7 @@
   1793871329.235776,
   1793878589.3791413,
   1793945706.6803288,
-  1793948989.6220534
+  1793948989.6220534,
+  1793952705.5682814
  ]
 }
