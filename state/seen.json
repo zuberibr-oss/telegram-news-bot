@@ -1,6 +1,5 @@
 {
  "seen": {
-  "9b6a06b3d9e8318d": 1792738438.2990277,
   "29163868be4311d9": 1792739825.077767,
   "76df73ff12f9a1b5": 1792739825.077767,
   "0122db121b85dd64": 1792739825.077767,
@@ -1435,10 +1434,13 @@
   "37163ffe830f4c7d": 1793945629.6396031,
   "050f4de980aba157": 1793945629.6396031,
   "68cdea64e655b206": 1793947132.8002563,
-  "46f68cc4ef4d68c3": 1793947132.8002563
+  "46f68cc4ef4d68c3": 1793947132.8002563,
+  "8ce9f9cb5ed289bd": 1793948899.050945,
+  "d95a45b5522dfcea": 1793948899.050945,
+  "32ed265784fe4028": 1793948899.050945,
+  "8caac426bdf66178": 1793948899.050945
  },
  "recent_headlines": [
-  "የሳፋሪኮም የ M-Pesa ፉሊዛ የብድር አገልግሎት ተጠቃሚዎች ቁጥር 18.1 ሚሊዮን ደረሰ (Fuliza borrowers rise to 18.1m as merchant loans sour)",
   "የኢትዮጵያ ሰነደ መዋዕለ ንዋይ ገበያ ለ8 ዋስትናዎች የ OTC የንግድ መድረክ ሊጀምር ነው (Ethiopia’s OTC market targets 8 securities outside main listing requirements)",
   "ዳሸን ባንክ Dashen Air Pay የተሰኘ የክፍያ አገልግሎት በይፋ አስጀመረ (Dashen Air Pay service officially goes operational to bridge the gap between businesses and customers)",
   "ዳሸን ባንክ የ15.2 ቢሊዮን ብር የትርፍ እና የ309 ቢሊዮን ብር ዲጂታል ግብይት ማስመዝገቡን ገለጸ (Dashen Bank Profit More Than Doubles to 15.2 Billion Birr as Assets Hit 350 Billion)",
@@ -1477,7 +1479,8 @@
   "የሳፋሪኮም ትርፍ በ36 በመቶ አደገ፤ በኢትዮጵያ የሚያጋጥመው ኪሳራ ቀነሰ (Safaricom Grows Profit 36% as Ethiopia Business Losses Narrow)",
   "IFC የአፍሪካ የግብርና ፋይናንስን ለማስፋፋት በ Kifiya ላይ ኢንቨስት አደረገ (IFC Invests in Kifiya’s AI Platform to Expand Agricultural Finance Across Africa)",
   "ሳፋሪኮም ኢትዮጵያ ወደ ወጪና ገቢ ሚዛን (Break-even) ለመሸጋገር በመቃረብ ላይ ነው (Safaricom Ethiopia break even: price floor steps remain)",
-  "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)"
+  "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)",
+  "የናይጄሪያ ማዕከላዊ ባንክ ለውጭ ስቴብልኮይን አውጪዎች የ11.16 ሚሊዮን ዶላር ዝቅተኛ ካፒታል ደነገገ (Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers)"
  ],
  "posted_at": [
   1793784937.596119,
@@ -1487,6 +1490,7 @@
   1793856995.0476801,
   1793871329.235776,
   1793878589.3791413,
-  1793945706.6803288
+  1793945706.6803288,
+  1793948989.6220534
  ]
 }
