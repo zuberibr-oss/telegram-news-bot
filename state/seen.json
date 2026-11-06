@@ -1,6 +1,5 @@
 {
  "seen": {
-  "b3551b1e31c5d2c0": 1792787969.9080052,
   "d21e1ecdfce3ad71": 1792820349.1956697,
   "c8659d1e3b2e61ac": 1792822654.0899062,
   "db11858380e51c81": 1792822654.0899062,
@@ -1394,10 +1393,22 @@
   "5b2c95e1e314cd95": 1793968553.1815155,
   "f9f34078e0421eb0": 1793970474.7498345,
   "8b6192af770cde5f": 1793981302.126705,
-  "efa052d03c8879cc": 1793982860.9321349
+  "efa052d03c8879cc": 1793982860.9321349,
+  "44364d4495898c82": 1793999175.8420177,
+  "e87b63585a1716b9": 1793999175.8420177,
+  "05b2a9387d13dbd9": 1793999175.8420177,
+  "94d5f8b29f700e7b": 1793999175.8420177,
+  "b9c1ed905838e764": 1793999175.8420177,
+  "eabbd2f82c4713a0": 1793999175.8420177,
+  "b44624cd3849a542": 1793999175.8420177,
+  "f3b13161406a84e8": 1793999175.8420177,
+  "7576084288655e7b": 1793999175.8420177,
+  "1033d3a585cd5dde": 1793999175.8420177,
+  "c79fe30189b01fa4": 1793999175.8420177,
+  "b95f87b8aadb6ac5": 1793999175.8420177,
+  "8ae3ea85281a4021": 1793999175.8420177
  },
  "recent_headlines": [
-  "በአፍሪካ የ AI ወጪን ለመቀነስ የሚያስችል የ10 ሚሊዮን USD Enzi Prize ተጀመረ (“It’s for the person in your village”: Oji Udezue’s $10mn Enzi Prize to crack AI’s cost wall for Africa)",
   "የኢትዮጵያ ንግድ ባንክ የአገሪቱን 73 በመቶ የዲጂታል ግብይት ዋጋ እያከናወነ መሆኑን ገለጸ (CBE Handles 73% of Ethiopia’s Digital Transaction Value as Cybersecurity Spending Rises)",
   "ዳሸን ባንክ የኢንቨስትመንት ባንክ አገልግሎት ለመጀመር የቁጥጥር አካላትን ፈቃድ በመጠባበቅ ላይ ነው (Dashen Bank Seeks Regulatory Green Light for Investment Banking Arm)",
   "የደቡብ አፍሪካው ዲጂታል ባንክ GoTyme የደንበኞቹን ቁጥር 13 ሚሊዮን አደረሰ (GoTyme targets third-largest bank status by early 2027)",
@@ -1436,10 +1447,10 @@
   "የናይጄሪያ ማዕከላዊ ባንክ ለውጭ ስቴብልኮይን አውጪዎች የ11.16 ሚሊዮን ዶላር ዝቅተኛ ካፒታል ደነገገ (Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers)",
   "የናይጄሪያ ማዕከላዊ ባንክ የ P2P ክሪፕቶ ግብይቶች ከባንክ ሂሳቦች ጋር እንዲያያዙ ደነገገ (Nigeria’s Central Bank wants every crypto P2P payment linked to a bank transaction)",
   "ኤም-ፔሳ ኢትዮጵያ በሶስት ወራት ውስጥ 510 ሺህ ንቁ ተጠቃሚዎችን አጣ (M-PESA Ethiopia lost 510,000 active users in three months as Safaricom Ethiopia neared break-even)",
-  "ሳፋሪኮም ኢትዮጵያ በኢትዮጵያ ያፈሰሰው አጠቃላይ ካፒታል 2.84 ቢሊዮን ዶላር ደረሰ (Safaricom’s Ethiopian Funding Reaches 2.84 Billion US Dollars as Borrowing Replaces Equity-Only Financing)"
+  "ሳፋሪኮም ኢትዮጵያ በኢትዮጵያ ያፈሰሰው አጠቃላይ ካፒታል 2.84 ቢሊዮን ዶላር ደረሰ (Safaricom’s Ethiopian Funding Reaches 2.84 Billion US Dollars as Borrowing Replaces Equity-Only Financing)",
+  "ሳፋሪኮም ኢትዮጵያ 193 ሚሊዮን ዶላር አዲስ የካፒታል ፈንድ አገኘ (Safaricom Ethiopia raises $193M, lifting it into Ethiopia's top 8% of growth rounds)"
  ],
  "posted_at": [
-  1793826491.3214564,
   1793828188.923445,
   1793856995.0476801,
   1793871329.235776,
@@ -1448,6 +1459,7 @@
   1793948989.6220534,
   1793952705.5682814,
   1793956237.9096897,
-  1793970562.4638686
+  1793970562.4638686,
+  1793999299.841665
  ]
 }
