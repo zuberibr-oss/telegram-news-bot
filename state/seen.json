@@ -1431,10 +1431,12 @@
   "94faeb81347cd3a4": 1793916405.4947205,
   "50b3cc3ee6afcf85": 1793934535.1626897,
   "c8e99a2dcc50bb5a": 1793938150.8614442,
-  "78a15b5a65421817": 1793941689.6928082
+  "78a15b5a65421817": 1793941689.6928082,
+  "d29b934479b10141": 1793945629.6396031,
+  "37163ffe830f4c7d": 1793945629.6396031,
+  "050f4de980aba157": 1793945629.6396031
  },
  "recent_headlines": [
-  "ሳፋሪኮም በኬንያ የዲጂታል ሀብት ማኔጅመንት ንብረቱን 21.1 ቢሊዮን ሺሊንግ አደረሰ (Safaricom records KSh21.1 billion in wealth management assets as digital finance expands)",
   "የሳፋሪኮም የ M-Pesa ፉሊዛ የብድር አገልግሎት ተጠቃሚዎች ቁጥር 18.1 ሚሊዮን ደረሰ (Fuliza borrowers rise to 18.1m as merchant loans sour)",
   "የኢትዮጵያ ሰነደ መዋዕለ ንዋይ ገበያ ለ8 ዋስትናዎች የ OTC የንግድ መድረክ ሊጀምር ነው (Ethiopia’s OTC market targets 8 securities outside main listing requirements)",
   "ዳሸን ባንክ Dashen Air Pay የተሰኘ የክፍያ አገልግሎት በይፋ አስጀመረ (Dashen Air Pay service officially goes operational to bridge the gap between businesses and customers)",
@@ -1473,7 +1475,8 @@
   "IFC በአፍሪካ የግብርና ቴክኖሎጂ እና የባንክ ብድርን የሚያስተናግድ አዲስ የፋይናንስ መዋቅር ይፋ አደረገ (The 20-year experiment: Why IFC thinks African agritech has finally come of age)",
   "የሳፋሪኮም ትርፍ በ36 በመቶ አደገ፤ በኢትዮጵያ የሚያጋጥመው ኪሳራ ቀነሰ (Safaricom Grows Profit 36% as Ethiopia Business Losses Narrow)",
   "IFC የአፍሪካ የግብርና ፋይናንስን ለማስፋፋት በ Kifiya ላይ ኢንቨስት አደረገ (IFC Invests in Kifiya’s AI Platform to Expand Agricultural Finance Across Africa)",
-  "ሳፋሪኮም ኢትዮጵያ ወደ ወጪና ገቢ ሚዛን (Break-even) ለመሸጋገር በመቃረብ ላይ ነው (Safaricom Ethiopia break even: price floor steps remain)"
+  "ሳፋሪኮም ኢትዮጵያ ወደ ወጪና ገቢ ሚዛን (Break-even) ለመሸጋገር በመቃረብ ላይ ነው (Safaricom Ethiopia break even: price floor steps remain)",
+  "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)"
  ],
  "posted_at": [
   1793774390.2069864,
@@ -1483,6 +1486,7 @@
   1793828188.923445,
   1793856995.0476801,
   1793871329.235776,
-  1793878589.3791413
+  1793878589.3791413,
+  1793945706.6803288
  ]
 }
