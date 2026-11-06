@@ -1426,10 +1426,24 @@
   "3c4d23858d4ed5cb": 1794000839.537751,
   "5d50db88b39a3791": 1794000839.537751,
   "ab8f5d3f8dadf0f7": 1794000839.537751,
-  "3e762a3adec5d3cf": 1794000839.537751
+  "3e762a3adec5d3cf": 1794000839.537751,
+  "8c6eea88e931e672": 1794002829.3232305,
+  "71c0eb9b2fbd2eb2": 1794002829.3232305,
+  "2fb659f9e8ca284c": 1794002829.3232305,
+  "edd07ae68d407ddc": 1794002829.3232305,
+  "55115138aa042346": 1794002829.3232305,
+  "e60c499c79bbc35c": 1794002829.3232305,
+  "8fcc1e605fb2b09f": 1794002829.3232305,
+  "4030c1022e9d671f": 1794002829.3232305,
+  "131660a10ea05850": 1794002829.3232305,
+  "12911988687614f1": 1794002829.3232305,
+  "28f012890d1044b5": 1794002829.3232305,
+  "47234f02b9420183": 1794002829.3232305,
+  "60f3558b5de88ec2": 1794002829.3232305,
+  "521b9e5f11238d55": 1794002829.3232305,
+  "cec0dc1caf26bdea": 1794002829.3232305
  },
  "recent_headlines": [
-  "የኢትዮጵያ ንግድ ባንክ የአገሪቱን 73 በመቶ የዲጂታል ግብይት ዋጋ እያከናወነ መሆኑን ገለጸ (CBE Handles 73% of Ethiopia’s Digital Transaction Value as Cybersecurity Spending Rises)",
   "ዳሸን ባንክ የኢንቨስትመንት ባንክ አገልግሎት ለመጀመር የቁጥጥር አካላትን ፈቃድ በመጠባበቅ ላይ ነው (Dashen Bank Seeks Regulatory Green Light for Investment Banking Arm)",
   "የደቡብ አፍሪካው ዲጂታል ባንክ GoTyme የደንበኞቹን ቁጥር 13 ሚሊዮን አደረሰ (GoTyme targets third-largest bank status by early 2027)",
   "ሳፋሪኮም የቴሌኮም ጣቢያዎቹን በፀሐይ ኃይል ለማንቀሳቀስ የ5,000 ጣቢያዎች ግብ አስቀመጠ (Safaricom Drops Diesel for Solar Power, Explains 5,000 Network Sites Target)",
@@ -1468,10 +1482,10 @@
   "የናይጄሪያ ማዕከላዊ ባንክ የ P2P ክሪፕቶ ግብይቶች ከባንክ ሂሳቦች ጋር እንዲያያዙ ደነገገ (Nigeria’s Central Bank wants every crypto P2P payment linked to a bank transaction)",
   "ኤም-ፔሳ ኢትዮጵያ በሶስት ወራት ውስጥ 510 ሺህ ንቁ ተጠቃሚዎችን አጣ (M-PESA Ethiopia lost 510,000 active users in three months as Safaricom Ethiopia neared break-even)",
   "ሳፋሪኮም ኢትዮጵያ በኢትዮጵያ ያፈሰሰው አጠቃላይ ካፒታል 2.84 ቢሊዮን ዶላር ደረሰ (Safaricom’s Ethiopian Funding Reaches 2.84 Billion US Dollars as Borrowing Replaces Equity-Only Financing)",
-  "ሳፋሪኮም ኢትዮጵያ 193 ሚሊዮን ዶላር አዲስ የካፒታል ፈንድ አገኘ (Safaricom Ethiopia raises $193M, lifting it into Ethiopia's top 8% of growth rounds)"
+  "ሳፋሪኮም ኢትዮጵያ 193 ሚሊዮን ዶላር አዲስ የካፒታል ፈንድ አገኘ (Safaricom Ethiopia raises $193M, lifting it into Ethiopia's top 8% of growth rounds)",
+  "ኬንያ 500 ሚሊዮን USD የሚይዝ የስታርታፕ ፈንድ ልታቋቁም ነው (Kenya targets Sh65 billion in startup financing as venture capital funding falls 45 percent)"
  ],
  "posted_at": [
-  1793828188.923445,
   1793856995.0476801,
   1793871329.235776,
   1793878589.3791413,
@@ -1480,6 +1494,7 @@
   1793952705.5682814,
   1793956237.9096897,
   1793970562.4638686,
-  1793999299.841665
+  1793999299.841665,
+  1794002955.7665052
  ]
 }
