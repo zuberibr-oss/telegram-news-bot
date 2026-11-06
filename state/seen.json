@@ -1,11 +1,5 @@
 {
  "seen": {
-  "0efd05e5e737d52e": 1792745049.7747076,
-  "fd778592c25e3aba": 1792745049.7747076,
-  "3e7e2001e79f93bb": 1792745049.7747076,
-  "5776e0756046f465": 1792745049.7747076,
-  "bcd7e8c4d2d2ad9c": 1792745049.7747076,
-  "55e563e08a9aa3d1": 1792745049.7747076,
   "f063b31cf3a95a47": 1792746731.2573373,
   "b0972ca1a3532e95": 1792746731.2573373,
   "d26945cdb953b552": 1792746731.2573373,
@@ -1437,10 +1431,13 @@
   "06a573fec33eaab4": 1793952635.309413,
   "08856ac277f4c50b": 1793952635.309413,
   "69d1ab912b717482": 1793954058.1699224,
-  "9fadac1c50b0b028": 1793954058.1699224
+  "9fadac1c50b0b028": 1793954058.1699224,
+  "ce42acd230da9841": 1793956163.5553088,
+  "99a0f8cb662b7663": 1793956163.5553088,
+  "e368687cfb5fe9c5": 1793956163.5553088,
+  "1dac3ccf42ede04a": 1793956163.5553088
  },
  "recent_headlines": [
-  "ዳሸን ባንክ Dashen Air Pay የተሰኘ የክፍያ አገልግሎት በይፋ አስጀመረ (Dashen Air Pay service officially goes operational to bridge the gap between businesses and customers)",
   "ዳሸን ባንክ የ15.2 ቢሊዮን ብር የትርፍ እና የ309 ቢሊዮን ብር ዲጂታል ግብይት ማስመዝገቡን ገለጸ (Dashen Bank Profit More Than Doubles to 15.2 Billion Birr as Assets Hit 350 Billion)",
   "በአፍሪካ የ AI ወጪን ለመቀነስ የሚያስችል የ10 ሚሊዮን USD Enzi Prize ተጀመረ (“It’s for the person in your village”: Oji Udezue’s $10mn Enzi Prize to crack AI’s cost wall for Africa)",
   "የኢትዮጵያ ንግድ ባንክ የአገሪቱን 73 በመቶ የዲጂታል ግብይት ዋጋ እያከናወነ መሆኑን ገለጸ (CBE Handles 73% of Ethiopia’s Digital Transaction Value as Cybersecurity Spending Rises)",
@@ -1479,7 +1476,8 @@
   "ሳፋሪኮም ኢትዮጵያ ወደ ወጪና ገቢ ሚዛን (Break-even) ለመሸጋገር በመቃረብ ላይ ነው (Safaricom Ethiopia break even: price floor steps remain)",
   "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)",
   "የናይጄሪያ ማዕከላዊ ባንክ ለውጭ ስቴብልኮይን አውጪዎች የ11.16 ሚሊዮን ዶላር ዝቅተኛ ካፒታል ደነገገ (Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers)",
-  "የናይጄሪያ ማዕከላዊ ባንክ የ P2P ክሪፕቶ ግብይቶች ከባንክ ሂሳቦች ጋር እንዲያያዙ ደነገገ (Nigeria’s Central Bank wants every crypto P2P payment linked to a bank transaction)"
+  "የናይጄሪያ ማዕከላዊ ባንክ የ P2P ክሪፕቶ ግብይቶች ከባንክ ሂሳቦች ጋር እንዲያያዙ ደነገገ (Nigeria’s Central Bank wants every crypto P2P payment linked to a bank transaction)",
+  "ኤም-ፔሳ ኢትዮጵያ በሶስት ወራት ውስጥ 510 ሺህ ንቁ ተጠቃሚዎችን አጣ (M-PESA Ethiopia lost 510,000 active users in three months as Safaricom Ethiopia neared break-even)"
  ],
  "posted_at": [
   1793784937.596119,
@@ -1491,6 +1489,7 @@
   1793878589.3791413,
   1793945706.6803288,
   1793948989.6220534,
-  1793952705.5682814
+  1793952705.5682814,
+  1793956237.9096897
  ]
 }

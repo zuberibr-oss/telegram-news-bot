@@ -1,11 +1,5 @@
 {
  "seen": {
-  "d42a97e3459a2f9b": 1792745199.1848764,
-  "9ed89b686f796335": 1792745199.1848764,
-  "858d21b3168a283e": 1792745199.1848764,
-  "4de15954cd7497a6": 1792745199.1848764,
-  "a6606e5d41c68a7e": 1792745199.1848764,
-  "278fad9007a5e54a": 1792745199.1848764,
   "bf32bbc1fb452c10": 1792746879.6659064,
   "b0972ca1a3532e95": 1792746879.6659064,
   "d26945cdb953b552": 1792746879.6659064,
@@ -2633,10 +2627,13 @@
   "3a712a869cdc0878": 1793952705.7499912,
   "29bf33dd6f1494de": 1793952705.7499912,
   "ad143c7d4526d609": 1793952705.7499912,
-  "1397457eb0ea7c2f": 1793952705.7499912
+  "1397457eb0ea7c2f": 1793952705.7499912,
+  "51e2bb4e7f7149f8": 1793956238.1194975,
+  "6f79490de4d51ea6": 1793956238.1194975,
+  "fba4f4aaa44230d3": 1793956238.1194975,
+  "f933f282b8dc7dc6": 1793956238.1194975
  },
  "recent_headlines": [
-  "ባይረን ዶናልድስ የመጀመሪያው የፍሎሪዳ ጥቁር ገዥ ሆነው ተመረጡ (‘We are still red,’ Florida’s first Black governor upon win)",
   "ዓለም አቀፍ ባንክ በኢትዮጵያ ለውኃና ኢነርጂ ፕሮጀክቶች የሚሰጠውን ድጋፍ እንደሚያጠናክር ገለጸ (World Bank Pledges to Strengthen Support for Ethiopia’s Water and Energy Development Projects)",
   "ኢትዮጵያ እና የዓለም ባንክ የ«One WASH» ፕሮግራምን የማስፈጸሚያ ጊዜ አራዘሙ (Ethiopia, World Bank Move to Accelerate Water Projects and Unlock Development Financing)",
   "በዩክሬን የእርዳታ ማዕከል ላይ በተሰነዘረ የሩሲያ የአየር ጥቃት የ40 ሰዎች ሕይወት አለፈ (Ukraine says bodycam video shows deadly Russian double-tap bombing)",
@@ -2675,7 +2672,8 @@
   "ኢራን ከአራት ሀገራት የሚነሱ መርከቦች በሆርሙዝ ወሰን እንዲያልፉ ፈቀደች (Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?)",
   "ኢራን በሚሳይል ጣቢያዎቿ አቅራቢያ አዳዲስ ከመሬት በታች ግንባታዎችን እያካሄደች ነው ተባለ (Major construction ongoing near Iran missile bases, satellite images suggest)",
   "መከላከያ በመቀሌ የተሽከርካሪዎች የሰዓት እላፊ ገደብ ጣለ፤ ሕገወጥ መሣሪያ እንዲያስረክቡ አዘዘ (በመቀለ ከዛሬ ጀምሮ የተሽከርካሪ እንቅስቃሴ ላይ የሰዓት እላፊ ገደብ ተጣለ)",
-  "የሶማሊያ ጠቅላይ ፍርድ ቤት የፕሬዝዳንቱን የሥልጣን ዘመን ማራዘም ውድቅ አደረገ (Somalia's top court rejects president's term extension amid political crisis)"
+  "የሶማሊያ ጠቅላይ ፍርድ ቤት የፕሬዝዳንቱን የሥልጣን ዘመን ማራዘም ውድቅ አደረገ (Somalia's top court rejects president's term extension amid political crisis)",
+  "በኬንያ የ191 ሰዎችን ሕይወት ያጠፋው የሃይማኖት ቡድን መሪ Paul Mackenzie የቅጣት ውሳኔ ሊሰጠው ነው (Kenyan court sentencing doomsday cult leader Paul Mackenzie)"
  ],
  "posted_at": [
   1793790648.482133,
@@ -2730,6 +2728,7 @@
   1793947240.1891038,
   1793952787.0381923,
   1793952790.4762425,
-  1793952794.0511663
+  1793952794.0511663,
+  1793956281.209043
  ]
 }
