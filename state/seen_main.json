@@ -1,11 +1,5 @@
 {
  "seen": {
-  "f8b8066c4cd0422a": 1792772014.5288255,
-  "4add062233d4351e": 1792772014.5288255,
-  "264948718f8b47c1": 1792772014.5288255,
-  "810052ccffb99471": 1792772014.5288255,
-  "b818e087d9fd553c": 1792772014.5288255,
-  "749524c76a47c5c1": 1792772014.5288255,
   "e57d526fa5523d8e": 1792773753.277543,
   "e2e9b7bda7044499": 1792773753.277543,
   "eb11701cc5c04efc": 1792775507.4385462,
@@ -2600,12 +2594,16 @@
   "bec14df9b4813135": 1793981352.408472,
   "dccbbe52ac98d0ae": 1793981352.408472,
   "2d3d2c6fb125ebf7": 1793981352.408472,
-  "e01d9b215385257d": 1793981352.408472
+  "e01d9b215385257d": 1793981352.408472,
+  "3010b4d016da5a88": 1793982914.275642,
+  "04377476c960ada8": 1793982914.275642,
+  "2fb659f9e8ca284c": 1793982914.275642,
+  "edd07ae68d407ddc": 1793982914.275642,
+  "b4b92621e08cca7b": 1793982914.275642,
+  "ab0d41d56a35e14c": 1793982914.275642,
+  "912de76e152d9423": 1793982914.275642
  },
  "recent_headlines": [
-  "በመቀሌ 5 ሺህ 500 የቀድሞ የትግራይ ተዋጊዎች ትጥቅ ፈትተው ስልጠና ጀመሩ (5,500 Former Tigray Combatants Disarm and Begin Rehabilitation Training in Mekelle)",
-  "የዓለም ጤና ድርጅት ከ71 ቶን በላይ የሕክምና ቁሳቁስ በሰሜን ኢትዮጵያ ለሚገኙ ተጎጂዎች አቀረበ (Daily_Brief: WHO delivers more than 71 tonnes of medical supplies to conflict-affected northern #Ethiopia)",
-  "በጋዛ የእስራኤል ጥቃት የህፃንን ህይወት ጨምሮ አራት ፍልስጤማውያን ተገደሉ (Four people, including a child, killed in Israeli attacks on Gaza)",
   "ኢትዮጵያ እና ቻይና ለኢትዮ-ጅቡቲ የባቡር መስመር ማሻሻያ የ15 ሚሊዮን ዶላር ስምምነት ተፈራረሙ (Ethiopia and China Sign Grant Agreement for Supplementary Work on Ethio-Djibouti Railway)",
   "በለንደን የሚገኘው Taranis በኢትዮጵያ የኮርቤቲ የጂኦተርማል ፕሮጀክት የአብላጫ ድርሻ ገዛ (Daily_Brief: London-based #Taranis acquires majority stake in #Ethiopia’s 50 MW Corbetti geothermal project)",
   "በሞያሌ በቦረና እና በሶማሌ ማኅበረሰቦች መካከል ያለው ግጭት መቀጠሉ ተገለጸ (Xiinxala Oduu: Walitti bu’iinsi Moyyaleetti itti fufe; Abbaa Gadaa Booranaa fi Jaarsi Somaalee dhimma lafa falmisiisaa irratti ejjennoo isaanii jabeessan)",
@@ -2642,11 +2640,12 @@
   "በአውሮፓ በርካታ ሀገራት በተስተዋሉ የቦምብ ዛቻዎች የአየር ትራንስፖርት መስተጓጎል አጋጠመ (Hoax or bomb threats? What we know about flight disruptions across Europe)",
   "የታንዛኒያ ፍርድ ቤት በተቃዋሚው መሪ Tundu Lissu ላይ የ4 ዓመት እስራት ፈረደ (Tanzania court jails opposition leader for incitement, lifts treason charge)",
   "በደቡብ ሱዳን በተቀናቃኝ ቡድኖች ግጭት የ70 ሰዎች ሕይወት አለፈ (Daily_Brief: Clashes between rival groups leave about 70 dead in #South_Sudan’s Lakes state)",
-  "በዩክሬን ዛፖሪዝያ በእርዳታ ማዕከል ላይ በተሰነዘረ ጥቃት የሟቾች ቁጥር 53 ደረሰ (Ukraine raises Zaporizhia aid strike death toll to at least 50)"
+  "በዩክሬን ዛፖሪዝያ በእርዳታ ማዕከል ላይ በተሰነዘረ ጥቃት የሟቾች ቁጥር 53 ደረሰ (Ukraine raises Zaporizhia aid strike death toll to at least 50)",
+  "ኢትዮጵያ የሀገር ውስጥ ጠቅላላ ምርትን በየሩብ ዓመቱ ለመዘገብ አቅዳለች (Ethiopia plans quarterly GDP reporting under updated economic statistics framework)",
+  "በዩክሬን የተኩስ አቁም ከተደረገ በኋላ ወታደሮችን ለማሰማራት የሚያስችል ልምምድ በፖላንድ እየተካሄደ ነው (European troops prepare for possible post-ceasefire deployment to Ukraine)",
+  "በሱዳን በግጭት ከተፈናቀሉ ሚሊዮኖች መካከል አብዛኞቹ የመጠለያ እርዳታ ሊያጡ እንደሚችሉ ተገለጸ (Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns)"
  ],
  "posted_at": [
-  1793808604.3784425,
-  1793808607.8810604,
   1793812106.6985111,
   1793815837.3073611,
   1793819261.3999872,
@@ -2695,6 +2694,9 @@
   1793968713.4619207,
   1793968716.9706,
   1793972205.8634179,
-  1793974242.2943811
+  1793974242.2943811,
+  1793982987.6131408,
+  1793982991.0183887,
+  1793982994.4670932
  ]
 }
