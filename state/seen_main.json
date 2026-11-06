@@ -1,8 +1,5 @@
 {
  "seen": {
-  "b23d7d695e187c9f": 1792736420.921177,
-  "5d9f9d66dff8dee6": 1792736420.921177,
-  "46b97182c7f7ffc6": 1792736420.921177,
   "6b8de66490c22d35": 1792738496.8093817,
   "ba5f6a32732818bc": 1792738496.8093817,
   "57ee313523efd90d": 1792738496.8093817,
@@ -2630,10 +2627,12 @@
   "36d35eeb4e76012c": 1793943334.938794,
   "8cd881f6a2baa440": 1793943334.938794,
   "f448839555ebb51b": 1793945706.912679,
-  "51006d4f066064c7": 1793945706.912679
+  "51006d4f066064c7": 1793945706.912679,
+  "19e67f582fd6a74b": 1793947201.1806037,
+  "760214e4943864cd": 1793947201.1806037,
+  "878c5172966430fc": 1793947201.1806037
  },
  "recent_headlines": [
-  "ኢትዮጵያ ስድስት የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቱን ለቅቀው እንዲወጡ አዘዘች (ኢትዮጵያ የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቷን ለቅቀው እንዲወጡ አዘዘች)",
   "በኬንያ የኤቦላ ተጣቃሚዎች ቁጥር ወደ ስምንት ከፍ አለ (#Daily_Brief: #Kenya’s Ebola cases rise to eight, with no community transmission reported)",
   "ኢትዮጵያ በአፍሪካ እና አውሮፓ ኅብረት ስብሰባ ላይ የንግድ ገደቦች እንዲነሱ ጠየቀች (Ethiopia Presses for Stronger Africa-EU Cooperation on Trade, Energy and Digital Development)",
   "Volodymyr Zelensky ለአሜሪካዋ የመጀመሪያ እመቤት Melania Trump የዩክሬን ከፍተኛ የክብር ሜዳሊያ ሰጡ (Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire)",
@@ -2672,7 +2671,8 @@
   "የቱርክ ፓርላማ ከሳዑዲ ዓረቢያ እና ፓኪስታን ጋር የተደረገውን የጋራ መከላከያ ስምምነት አጸደቀ (Turkiye’s parliament ratifies Mecca defence agreement)",
   "የአሜሪካን ምርጫ ተከተሎ የዓለም አቀፍ የቴክኖሎጂ ኩባንያዎች አክሲዮን በከፍተኛ ሁኔታ ወደቀ (Global tech stocks plunge as US midterms add to AI slowdown fears)",
   "የኢራን የደኅንነት ኃላፊ ለቪላዲሚር ፑቲን የሞጅታባ ኻመነይን መልእክት አደረሱ (Iran’s security chief meets Putin, delivers message from Khamenei)",
-  "የኢራቅ ጠቅላይ ሚኒስትር ከDonald Trump ጋር በስልክ ተወያዩ (Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran)"
+  "የኢራቅ ጠቅላይ ሚኒስትር ከDonald Trump ጋር በስልክ ተወያዩ (Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran)",
+  "ኢራን ከአራት ሀገራት የሚነሱ መርከቦች በሆርሙዝ ወሰን እንዲያልፉ ፈቀደች (Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?)"
  ],
  "posted_at": [
   1793776239.2848706,
@@ -2725,6 +2725,7 @@
   1793926056.481139,
   1793934623.7116418,
   1793936170.1978438,
-  1793943373.1054697
+  1793943373.1054697,
+  1793947240.1891038
  ]
 }
