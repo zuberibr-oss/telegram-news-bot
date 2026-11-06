@@ -1,10 +1,5 @@
 {
  "seen": {
-  "3740816810acd5fb": 1792712236.4558032,
-  "e73cdde0839bc4b7": 1792712236.4558032,
-  "b36fd3ea47ab317c": 1792712236.4558032,
-  "7568132814627248": 1792712236.4558032,
-  "e69826a7c5a375c6": 1792712236.4558032,
   "d1cef3c44c32924e": 1792715456.5016892,
   "a548866d5ee7e2ae": 1792715456.5016892,
   "476072e0fac29018": 1792715456.5016892,
@@ -2629,10 +2624,12 @@
   "99b4d4be1aaf9e7f": 1793921704.4057195,
   "9992bc1148f2f693": 1793921704.4057195,
   "bec8cfe6e82d69a4": 1793921704.4057195,
-  "8bcfe94a42896e31": 1793921704.4057195
+  "8bcfe94a42896e31": 1793921704.4057195,
+  "40e9750e4fcf5086": 1793924492.2102468,
+  "5d1a0cb1542fb92b": 1793924492.2102468,
+  "3a51f3e4c91691e5": 1793924492.2102468
  },
  "recent_headlines": [
-  "በአብዬ የገበያ ስፍራ በተሰነዘረ የድሮን ጥቃት የ153 ሰዎች ሕይወት ማለፉ ተገለጸ (Daily_Brief: #Sudanese drone strike kills 153 in disputed #Abyei market, #South_Sudanese official says)",
   "በአፋር ወራሪው የፕሮሶፒስ ዛፍ በየዓመቱ በ31 ሺህ ሄክታር ላይ እየተስፋፋ ነው (Daily_Brief: Invasive Prosopis trees spreads 31,127 hectares annually in #Afar, linked to $602 million in ecosystem-service losses)",
   "ኢትዮጵያ የአጠቃላይ ሀገራዊ ምርት (GDP) ስሌቷን በድጋሚ ማሻሻሏን አስታወቀች (Ethiopia’s GDP Rebasing Establishes New Benchmark for Long-Term Development Planning – Minister)",
   "በደቡብ ምስራቅ ኦሮሚያ በተፈጸመ ጥቃት 48 ሰዎች መገደላቸውን ኢሰመኮ አስታወቀ (EHRC reports 48 deaths in armed attack in Southeast Oromia)",
@@ -2671,11 +2668,10 @@
   "የሳዑዲ ጥምረት በሀገሪቱ የመዲና ክልል ላይ የተተኮሰን ባሊስቲክ ሚሳይል ማክሸፉን አስታወቀ (Saudi coalition intercepts missile fired towards Medina)",
   "በደቡብ ኢትዮጵያ በተቀሰቀሰ ግጭት በአስር ሺዎች የሚቆጠሩ ሰዎች ወደ ኬንያ ተሰደዱ (Nigeria court bars opposition candidate two months before election)",
   "በደቡብ አፍሪካ ገዢው ፓርቲ ANC በምርጫ ያገኘው የድጋፍ መጠን በከፍተኛ ሁኔታ ቀነሰ (South Africa’s ANC on track for new lows in local polls)",
-  "በኢትዮጵያ የተወለደችው Melat Kiros ወደ አሜሪካ ኮንግረስ ተመረጠች (Generation Z and diversity redefine US politics in groundbreaking election)"
+  "በኢትዮጵያ የተወለደችው Melat Kiros ወደ አሜሪካ ኮንግረስ ተመረጠች (Generation Z and diversity redefine US politics in groundbreaking election)",
+  "ዶናልድ ትራምፕ አሜሪካ የቀረውን የኢራን ክፍል ልታጠፋ ትችላለች ሲሉ አስጠነቀቁ (Iran war live: Trump warns US may have to ‘destroy’ rest of Iran)"
  ],
  "posted_at": [
-  1793751644.1369743,
-  1793751647.4963677,
   1793753183.018234,
   1793763373.3909314,
   1793765480.672042,
@@ -2728,6 +2724,7 @@
   1793914641.87855,
   1793914645.3580332,
   1793916568.4489782,
-  1793916571.8624327
+  1793916571.8624327,
+  1793924518.7681596
  ]
 }
