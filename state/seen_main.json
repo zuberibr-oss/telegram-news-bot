@@ -1,12 +1,5 @@
 {
  "seen": {
-  "c2f371280832c811": 1792762948.7859073,
-  "87af1ecbcdfbed49": 1792762948.7859073,
-  "5b768dd03374a0e6": 1792762948.7859073,
-  "a00d2e411fa96d8f": 1792762948.7859073,
-  "52e791eb9d34ab32": 1792762948.7859073,
-  "e7a5702d6a3c3969": 1792762948.7859073,
-  "3565c80323d58d93": 1792762948.7859073,
   "631498463a7dc83e": 1792764802.7707748,
   "30619f83d406e70c": 1792764802.7707748,
   "832f860cec2ced64": 1792764802.7707748,
@@ -2609,10 +2602,18 @@
   "d773648d29d975fe": 1793970562.620201,
   "99620881632dc1fa": 1793970562.620201,
   "37f7bd59d831833e": 1793972127.2128315,
-  "6fe075dc9407d14d": 1793972127.2128315
+  "6fe075dc9407d14d": 1793972127.2128315,
+  "a52d5be28ef3a98d": 1793974183.2682161,
+  "e54fd67a2da2cf43": 1793974183.2682161,
+  "df6425c7abdbd627": 1793974183.2682161,
+  "55115138aa042346": 1793974183.2682161,
+  "b3a38d9086f35528": 1793974183.2682161,
+  "1da5a7252dfced06": 1793974183.2682161,
+  "29adcc4796b2d9fe": 1793974183.2682161,
+  "8f41a75fa234235f": 1793974183.2682161,
+  "cd8aaa8d51dd06c6": 1793974183.2682161
  },
  "recent_headlines": [
-  "አፍሪካ ሲዲሲ በናይጄሪያ የኤቦላ ቫይረስ በመገኘቱ አስቸኳይ ስብሰባ ጠራ (#Daily_Brief: #Africa CDC calls emergency Ebola summit as #Nigeria reports first case)",
   "በመቀሌ 5 ሺህ 500 የቀድሞ የትግራይ ተዋጊዎች ትጥቅ ፈትተው ስልጠና ጀመሩ (5,500 Former Tigray Combatants Disarm and Begin Rehabilitation Training in Mekelle)",
   "የዓለም ጤና ድርጅት ከ71 ቶን በላይ የሕክምና ቁሳቁስ በሰሜን ኢትዮጵያ ለሚገኙ ተጎጂዎች አቀረበ (Daily_Brief: WHO delivers more than 71 tonnes of medical supplies to conflict-affected northern #Ethiopia)",
   "በጋዛ የእስራኤል ጥቃት የህፃንን ህይወት ጨምሮ አራት ፍልስጤማውያን ተገደሉ (Four people, including a child, killed in Israeli attacks on Gaza)",
@@ -2651,7 +2652,8 @@
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ ላይ ሁለት ሀሳቦችን አቀረቡ (PM Abiy Identifies Producing Leadership Succession and Development Continuity as Key to Overcoming Africa’s Political Challenges)",
   "በአውሮፓ በርካታ ሀገራት በተስተዋሉ የቦምብ ዛቻዎች የአየር ትራንስፖርት መስተጓጎል አጋጠመ (Hoax or bomb threats? What we know about flight disruptions across Europe)",
   "የታንዛኒያ ፍርድ ቤት በተቃዋሚው መሪ Tundu Lissu ላይ የ4 ዓመት እስራት ፈረደ (Tanzania court jails opposition leader for incitement, lifts treason charge)",
-  "በደቡብ ሱዳን በተቀናቃኝ ቡድኖች ግጭት የ70 ሰዎች ሕይወት አለፈ (Daily_Brief: Clashes between rival groups leave about 70 dead in #South_Sudan’s Lakes state)"
+  "በደቡብ ሱዳን በተቀናቃኝ ቡድኖች ግጭት የ70 ሰዎች ሕይወት አለፈ (Daily_Brief: Clashes between rival groups leave about 70 dead in #South_Sudan’s Lakes state)",
+  "በዩክሬን ዛፖሪዝያ በእርዳታ ማዕከል ላይ በተሰነዘረ ጥቃት የሟቾች ቁጥር 53 ደረሰ (Ukraine raises Zaporizhia aid strike death toll to at least 50)"
  ],
  "posted_at": [
   1793801443.1007245,
@@ -2707,6 +2709,7 @@
   1793967288.0207415,
   1793968713.4619207,
   1793968716.9706,
-  1793972205.8634179
+  1793972205.8634179,
+  1793974242.2943811
  ]
 }
