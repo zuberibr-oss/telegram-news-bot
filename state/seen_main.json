@@ -1,6 +1,5 @@
 {
  "seen": {
-  "9be9155aa33d3fbd": 1792725261.4292924,
   "31af11860d778a34": 1792727112.5362093,
   "6a08886b2564ebc0": 1792727112.5362093,
   "d3e4555b91468dca": 1792728823.0365603,
@@ -2625,10 +2624,12 @@
   "b75528575f109491": 1793932527.0705075,
   "3b97795e2931347d": 1793932527.0705075,
   "1e84a9a25fa433d5": 1793932527.0705075,
-  "9d5383ac0d354c39": 1793934594.9642103
+  "9d5383ac0d354c39": 1793934594.9642103,
+  "938597e1371881c2": 1793936131.1318116,
+  "87dd00b1a1b7ddd6": 1793936131.1318116,
+  "f9e10881a6a9c3c5": 1793936131.1318116
  },
  "recent_headlines": [
-  "የአፍሪካ ኅብረት በኢትዮጵያ እና በኤርትራ መካከል ያለውን ውጥረት ለማርገብ ዲፕሎማሲያዊ ጥረት ጀመረ (African Union dteps up Diplomacy to ease Ethiopia-Eritrea tensions)",
   "Abdul El-Sayed የመጀመሪያው ሙስሊም የአሜሪካ ሴኔት አባል በመሆን ተመረጡ (Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator)",
   "ኢትዮጵያ ስድስት የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቱን ለቅቀው እንዲወጡ አዘዘች (ኢትዮጵያ የሱዳን ዲፕሎማቶች በ48 ሰዓታት ውስጥ አገሪቷን ለቅቀው እንዲወጡ አዘዘች)",
   "በኬንያ የኤቦላ ተጣቃሚዎች ቁጥር ወደ ስምንት ከፍ አለ (#Daily_Brief: #Kenya’s Ebola cases rise to eight, with no community transmission reported)",
@@ -2667,7 +2668,8 @@
   "ዶናልድ ትራምፕ አሜሪካ የቀረውን የኢራን ክፍል ልታጠፋ ትችላለች ሲሉ አስጠነቀቁ (Iran war live: Trump warns US may have to ‘destroy’ rest of Iran)",
   "Donald Trump ከሩሲያ መልዕክተኛ ጋር ከተወያዩ በኋላ የሰላም ስምምነት ተቃርቧል አሉ (Trump met Russian envoy after he appeared with Melania Trump and Ukrainians)",
   "የቱርክ ፓርላማ ከሳዑዲ ዓረቢያ እና ፓኪስታን ጋር የተደረገውን የጋራ መከላከያ ስምምነት አጸደቀ (Turkiye’s parliament ratifies Mecca defence agreement)",
-  "የአሜሪካን ምርጫ ተከተሎ የዓለም አቀፍ የቴክኖሎጂ ኩባንያዎች አክሲዮን በከፍተኛ ሁኔታ ወደቀ (Global tech stocks plunge as US midterms add to AI slowdown fears)"
+  "የአሜሪካን ምርጫ ተከተሎ የዓለም አቀፍ የቴክኖሎጂ ኩባንያዎች አክሲዮን በከፍተኛ ሁኔታ ወደቀ (Global tech stocks plunge as US midterms add to AI slowdown fears)",
+  "የኢራን የደኅንነት ኃላፊ ለቪላዲሚር ፑቲን የሞጅታባ ኻመነይን መልእክት አደረሱ (Iran’s security chief meets Putin, delivers message from Khamenei)"
  ],
  "posted_at": [
   1793763373.3909314,
@@ -2725,6 +2727,7 @@
   1793924518.7681596,
   1793926052.9857032,
   1793926056.481139,
-  1793934623.7116418
+  1793934623.7116418,
+  1793936170.1978438
  ]
 }
