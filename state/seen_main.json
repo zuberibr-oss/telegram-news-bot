@@ -1,6 +1,5 @@
 {
  "seen": {
-  "37a13ea7d8d0694a": 1792865603.538735,
   "976a7048095aaed1": 1792867286.8420234,
   "edbd3f2c79bca227": 1792867286.8420234,
   "62112e2dabf7d510": 1792867286.8420234,
@@ -2555,10 +2554,14 @@
   "393012021c3fcc6e": 1794072911.1749866,
   "8be30efab605d680": 1794072911.1749866,
   "b4c254d4aaed57bd": 1794074928.5501947,
-  "bf3aa18ee940eed8": 1794074928.5501947
+  "bf3aa18ee940eed8": 1794074928.5501947,
+  "0f211951cf7dc7d2": 1794076512.9936483,
+  "5b40b7f58adf71f0": 1794076512.9936483,
+  "e24cfcc4698a52af": 1794076512.9936483,
+  "904f9a472944e8b5": 1794076512.9936483,
+  "cd6816dc2a54dfff": 1794076512.9936483
  },
  "recent_headlines": [
-  "የኢራን የደኅንነት ኃላፊ ለቪላዲሚር ፑቲን የሞጅታባ ኻመነይን መልእክት አደረሱ (Iran’s security chief meets Putin, delivers message from Khamenei)",
   "የኢራቅ ጠቅላይ ሚኒስትር ከDonald Trump ጋር በስልክ ተወያዩ (Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran)",
   "ኢራን ከአራት ሀገራት የሚነሱ መርከቦች በሆርሙዝ ወሰን እንዲያልፉ ፈቀደች (Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?)",
   "ኢራን በሚሳይል ጣቢያዎቿ አቅራቢያ አዳዲስ ከመሬት በታች ግንባታዎችን እያካሄደች ነው ተባለ (Major construction ongoing near Iran missile bases, satellite images suggest)",
@@ -2597,12 +2600,10 @@
   "ኢራን ከመሬት በታች የሚሳይል ማምረቻ እና ማከማቻ ማዕከላትን እየገነባች መሆኑን ገለጸች (Iran’s IRGC says building underground sites for weapons production, storage)",
   "በአዲስ አበባ የተካሄደው የአፍሪካ ፖለቲካ ፓርቲዎች ጉባኤ የ«አዲስ አበባ መግለጫ»ን በማጽደቅ ተጠናቀቀ (African Political Parties Adopt Addis Ababa Declaration, Commit to Advancing Economic Transformation)",
   "እስራኤል በደቡብ ሊባኖስ የወታደራዊ መንገዶች እና ካምፖች አውታር እየገነባች ነው ተባለ (Israel builds 90km network of military roads across southern Lebanon)",
-  "በየመን በተፈጸመ የአየር ጥቃት ቢያንስ 25 ሰዎች መገደላቸውን ሁቲዎች አስታወቁ (Houthis report 25 killed in Yemen strikes)"
+  "በየመን በተፈጸመ የአየር ጥቃት ቢያንስ 25 ሰዎች መገደላቸውን ሁቲዎች አስታወቁ (Houthis report 25 killed in Yemen strikes)",
+  "አሜሪካ ስለ ኢራን የኑክሌር ፕሮግራም መረጃ ለሚሰጥ የ20 ሚሊዮን USD ሽልማት አዘጋጀች (US offers $20m reward for information about Iran's nuclear programme)"
  ],
  "posted_at": [
-  1793902330.1691582,
-  1793902333.793174,
-  1793902337.3424652,
   1793905668.5240984,
   1793907330.208957,
   1793914641.87855,
@@ -2652,6 +2653,7 @@
   1794067791.7907422,
   1794067795.3261173,
   1794071229.9689734,
-  1794074952.6953716
+  1794074952.6953716,
+  1794076559.0015392
  ]
 }
