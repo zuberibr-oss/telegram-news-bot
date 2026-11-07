@@ -1,12 +1,5 @@
 {
  "seen": {
-  "33dc140825bf9c05": 1792820406.447143,
-  "64778b7cc661a3dc": 1792820406.447143,
-  "236f6674853a6589": 1792820406.447143,
-  "f08b0cd7d06174c2": 1792820406.447143,
-  "e7e690130fda3dab": 1792820406.447143,
-  "068252f86610fe3e": 1792820406.447143,
-  "e153a50761f65941": 1792820406.447143,
   "574cd4ac8a871b66": 1792822746.391029,
   "b59480ede0d6babc": 1792822746.391029,
   "f5b401f98973a504": 1792824682.4590607,
@@ -2591,10 +2584,14 @@
   "a3e383a10ee170c7": 1794029701.9702327,
   "d671dd22cf665dd2": 1794029701.9702327,
   "3589e2a688e21c69": 1794029701.9702327,
-  "cd8447866e31f137": 1794029701.9702327
+  "cd8447866e31f137": 1794029701.9702327,
+  "2d6c99e74d5e7115": 1794031929.4088516,
+  "0b9ac930839890a2": 1794031929.4088516,
+  "520a865ed51bc9b2": 1794031929.4088516,
+  "533006580aa6c69e": 1794031929.4088516,
+  "7d85502c34687dba": 1794031929.4088516
  },
  "recent_headlines": [
-  "በሱዳን የካርቱም የዳቦ ዋጋ በእጥፍ አደገ፤ የምግብ እጥረት ቀውሱ ተባብሷል (#Daily_Brief: Bread prices double in #Khartoum as #Sudan’s food crisis deepens)",
   "ኢትዮጵያ ከፈረንሳይ እና ከቻይና ጋር ያላትን የወታደራዊ ትብብር ለማስፋፋት እየሰራች ነው (Daily_Brief: After #Russia, #Ethiopia seeks expanded military cooperation with #France, #China)",
   "ግብፅ በሱዳን ግጭት ተጠቃሚ ሆናለች ሲሉ የውኃ እና ኢነርጂ ሚኒስትሩ ገለጹ (Egypt Benefits from Sudanese People’s Suffering amid Ongoing Conflict: Minister)",
   "ሳፋሪኮም በኢትዮጵያ ያጋጠመው ኪሳራ በከፍተኛ ሁኔታ መቀነሱን አስታወቀ (Daily_Brief: #Safaricom reports sharp reduction in #Ethiopia losses, 40% rise in group earnings)",
@@ -2633,7 +2630,8 @@
   "ዶናልድ ትራምፕ Stephen Millerን የኋይት ሀውስ የጽሕፈት ቤት ኃላፊ አድርገው ሾሙ (Trump says making adviser Stephen Miller White House chief of staff)",
   "ኳታር አሜሪካ እና ኢራን ጦርነቱን ለማቆም አፋጣኝ የሰላም ስምምነት እንዲያደርጉ ጠየቀች (Iran war live: Qatar says US, Iran should not wait to reach a peace deal)",
   "Donald Trump አሜሪካ በኢራን Qeshm ደሴት ላይ ጥቃት መፈጸሟን አረጋገጡ (Trump confirms new US strikes on Iran’s Qeshm Island)",
-  "የእስራኤል ፕሬዝዳንት Isaac Herzog መንግሥት የማዋቀር ኃላፊነት የሚሰጡትን አካል ሊሰይሙ ነው (President Herzog faces key choice as Israel struggles to form government)"
+  "የእስራኤል ፕሬዝዳንት Isaac Herzog መንግሥት የማዋቀር ኃላፊነት የሚሰጡትን አካል ሊሰይሙ ነው (President Herzog faces key choice as Israel struggles to form government)",
+  "የስታንፎርድ ተመራማሪዎች የሰው አንጎል ህዋሳትን በአይጦች ውስጥ በመትከል ስኬታማ ሙከራ አከናወኑ (‘Alien-cortical’ mice: Can human brain cells grow inside animals?)"
  ],
  "posted_at": [
   1793859342.8040562,
@@ -2689,6 +2687,7 @@
   1793993752.5795743,
   1794010746.929912,
   1794024599.3170857,
-  1794029741.5572388
+  1794029741.5572388,
+  1794031969.8859353
  ]
 }
