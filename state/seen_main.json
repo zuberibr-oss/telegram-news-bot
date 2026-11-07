@@ -1,12 +1,5 @@
 {
  "seen": {
-  "2d6c99e74d5e7115": 1792818662.6405578,
-  "33eaa9f9aa1a8949": 1792818662.6405578,
-  "e25313db45baa30f": 1792818662.6405578,
-  "75505e0c15feca62": 1792818662.6405578,
-  "27a7c19aaec2c3b5": 1792818662.6405578,
-  "be577512dc01d062": 1792818662.6405578,
-  "92a8e4271eb16163": 1792818662.6405578,
   "33dc140825bf9c05": 1792820406.447143,
   "64778b7cc661a3dc": 1792820406.447143,
   "236f6674853a6589": 1792820406.447143,
@@ -2594,10 +2587,13 @@
   "4a7587082b87c2f8": 1794028085.4285305,
   "4de46cf219212036": 1794028085.4285305,
   "cf9c7c56eccc1ba7": 1794028085.4285305,
-  "1cd1d2d2d08abb34": 1794028085.4285305
+  "1cd1d2d2d08abb34": 1794028085.4285305,
+  "a3e383a10ee170c7": 1794029701.9702327,
+  "d671dd22cf665dd2": 1794029701.9702327,
+  "3589e2a688e21c69": 1794029701.9702327,
+  "cd8447866e31f137": 1794029701.9702327
  },
  "recent_headlines": [
-  "የፓራጓይ ፕሬዝዳንት Santiago Peña ከባንክ ውድቀት በኋላ ከሥልጣናቸው ለቀቁ (Paraguay President Santiago Peña resigns after bank collapse)",
   "በሱዳን የካርቱም የዳቦ ዋጋ በእጥፍ አደገ፤ የምግብ እጥረት ቀውሱ ተባብሷል (#Daily_Brief: Bread prices double in #Khartoum as #Sudan’s food crisis deepens)",
   "ኢትዮጵያ ከፈረንሳይ እና ከቻይና ጋር ያላትን የወታደራዊ ትብብር ለማስፋፋት እየሰራች ነው (Daily_Brief: After #Russia, #Ethiopia seeks expanded military cooperation with #France, #China)",
   "ግብፅ በሱዳን ግጭት ተጠቃሚ ሆናለች ሲሉ የውኃ እና ኢነርጂ ሚኒስትሩ ገለጹ (Egypt Benefits from Sudanese People’s Suffering amid Ongoing Conflict: Minister)",
@@ -2636,7 +2632,8 @@
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ ታጣቂዎች በተፈጸመ ጥቃት ቢያንስ 33 ሰዎች ተገደሉ (Armed men kill at least 33 in village in Ebola-hit eastern DRC)",
   "ዶናልድ ትራምፕ Stephen Millerን የኋይት ሀውስ የጽሕፈት ቤት ኃላፊ አድርገው ሾሙ (Trump says making adviser Stephen Miller White House chief of staff)",
   "ኳታር አሜሪካ እና ኢራን ጦርነቱን ለማቆም አፋጣኝ የሰላም ስምምነት እንዲያደርጉ ጠየቀች (Iran war live: Qatar says US, Iran should not wait to reach a peace deal)",
-  "Donald Trump አሜሪካ በኢራን Qeshm ደሴት ላይ ጥቃት መፈጸሟን አረጋገጡ (Trump confirms new US strikes on Iran’s Qeshm Island)"
+  "Donald Trump አሜሪካ በኢራን Qeshm ደሴት ላይ ጥቃት መፈጸሟን አረጋገጡ (Trump confirms new US strikes on Iran’s Qeshm Island)",
+  "የእስራኤል ፕሬዝዳንት Isaac Herzog መንግሥት የማዋቀር ኃላፊነት የሚሰጡትን አካል ሊሰይሙ ነው (President Herzog faces key choice as Israel struggles to form government)"
  ],
  "posted_at": [
   1793859342.8040562,
@@ -2691,6 +2688,7 @@
   1793993749.1514323,
   1793993752.5795743,
   1794010746.929912,
-  1794024599.3170857
+  1794024599.3170857,
+  1794029741.5572388
  ]
 }
