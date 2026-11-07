@@ -1,8 +1,5 @@
 {
  "seen": {
-  "2a07ef31d4154356": 1792863371.4447622,
-  "2bc539b1d5c1ff5a": 1792863371.4447622,
-  "ea83f0372895dfa0": 1792863371.4447622,
   "37a13ea7d8d0694a": 1792865603.538735,
   "976a7048095aaed1": 1792867286.8420234,
   "edbd3f2c79bca227": 1792867286.8420234,
@@ -2556,10 +2553,11 @@
   "22fe50259c61e44d": 1794071202.363368,
   "565534e3162b18da": 1794072911.1749866,
   "393012021c3fcc6e": 1794072911.1749866,
-  "8be30efab605d680": 1794072911.1749866
+  "8be30efab605d680": 1794072911.1749866,
+  "b4c254d4aaed57bd": 1794074928.5501947,
+  "bf3aa18ee940eed8": 1794074928.5501947
  },
  "recent_headlines": [
-  "የአሜሪካን ምርጫ ተከተሎ የዓለም አቀፍ የቴክኖሎጂ ኩባንያዎች አክሲዮን በከፍተኛ ሁኔታ ወደቀ (Global tech stocks plunge as US midterms add to AI slowdown fears)",
   "የኢራን የደኅንነት ኃላፊ ለቪላዲሚር ፑቲን የሞጅታባ ኻመነይን መልእክት አደረሱ (Iran’s security chief meets Putin, delivers message from Khamenei)",
   "የኢራቅ ጠቅላይ ሚኒስትር ከDonald Trump ጋር በስልክ ተወያዩ (Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran)",
   "ኢራን ከአራት ሀገራት የሚነሱ መርከቦች በሆርሙዝ ወሰን እንዲያልፉ ፈቀደች (Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?)",
@@ -2598,10 +2596,10 @@
   "በፖላንድ ክራኮው ከተማ በተፈጸመ የተኩስ ጥቃት የ5 ሰዎች ሕይወት አለፈ (Casualties reported after shooting in Poland’s Krakow)",
   "ኢራን ከመሬት በታች የሚሳይል ማምረቻ እና ማከማቻ ማዕከላትን እየገነባች መሆኑን ገለጸች (Iran’s IRGC says building underground sites for weapons production, storage)",
   "በአዲስ አበባ የተካሄደው የአፍሪካ ፖለቲካ ፓርቲዎች ጉባኤ የ«አዲስ አበባ መግለጫ»ን በማጽደቅ ተጠናቀቀ (African Political Parties Adopt Addis Ababa Declaration, Commit to Advancing Economic Transformation)",
-  "እስራኤል በደቡብ ሊባኖስ የወታደራዊ መንገዶች እና ካምፖች አውታር እየገነባች ነው ተባለ (Israel builds 90km network of military roads across southern Lebanon)"
+  "እስራኤል በደቡብ ሊባኖስ የወታደራዊ መንገዶች እና ካምፖች አውታር እየገነባች ነው ተባለ (Israel builds 90km network of military roads across southern Lebanon)",
+  "በየመን በተፈጸመ የአየር ጥቃት ቢያንስ 25 ሰዎች መገደላቸውን ሁቲዎች አስታወቁ (Houthis report 25 killed in Yemen strikes)"
  ],
  "posted_at": [
-  1793900181.1970289,
   1793902330.1691582,
   1793902333.793174,
   1793902337.3424652,
@@ -2653,6 +2651,7 @@
   1794067788.1915755,
   1794067791.7907422,
   1794067795.3261173,
-  1794071229.9689734
+  1794071229.9689734,
+  1794074952.6953716
  ]
 }
