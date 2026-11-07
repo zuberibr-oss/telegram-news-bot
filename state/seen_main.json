@@ -1,13 +1,5 @@
 {
  "seen": {
-  "88ae0bfc71e9ed69": 1792877866.2410018,
-  "187f3c7c4a3ffa3b": 1792877866.2410018,
-  "1d41e4b91401cf5a": 1792877866.2410018,
-  "34522bd28a004f81": 1792877866.2410018,
-  "e33a3a4ba523c616": 1792877866.2410018,
-  "1f24ffac713eea42": 1792877866.2410018,
-  "287a2456327f617f": 1792877866.2410018,
-  "0bef3135c9d50885": 1792877866.2410018,
   "9bf4446b847cff88": 1792879820.2656803,
   "72c6aa61736d1c53": 1792879820.2656803,
   "5cdc48e6607d8997": 1792879820.2656803,
@@ -2560,10 +2552,15 @@
   "b7a473f6d5c15cf7": 1794087321.1399562,
   "40ffb60c9f56df27": 1794087321.1399562,
   "482e30610f097503": 1794087321.1399562,
-  "ebca70b3ecaf08a9": 1794087321.1399562
+  "ebca70b3ecaf08a9": 1794087321.1399562,
+  "819d7ce36dfa27d9": 1794089245.6888626,
+  "66f90149994dfe61": 1794089245.6888626,
+  "9a1bb5bb8517157c": 1794089245.6888626,
+  "8c7cf44f87540fa0": 1794089245.6888626,
+  "b7a4823554c3dfc0": 1794089245.6888626,
+  "2928a91c16dee086": 1794089245.6888626
  },
  "recent_headlines": [
-  "ኢራን በሚሳይል ጣቢያዎቿ አቅራቢያ አዳዲስ ከመሬት በታች ግንባታዎችን እያካሄደች ነው ተባለ (Major construction ongoing near Iran missile bases, satellite images suggest)",
   "መከላከያ በመቀሌ የተሽከርካሪዎች የሰዓት እላፊ ገደብ ጣለ፤ ሕገወጥ መሣሪያ እንዲያስረክቡ አዘዘ (በመቀለ ከዛሬ ጀምሮ የተሽከርካሪ እንቅስቃሴ ላይ የሰዓት እላፊ ገደብ ተጣለ)",
   "የሶማሊያ ጠቅላይ ፍርድ ቤት የፕሬዝዳንቱን የሥልጣን ዘመን ማራዘም ውድቅ አደረገ (Somalia's top court rejects president's term extension amid political crisis)",
   "በኬንያ የ191 ሰዎችን ሕይወት ያጠፋው የሃይማኖት ቡድን መሪ Paul Mackenzie የቅጣት ውሳኔ ሊሰጠው ነው (Kenyan court sentencing doomsday cult leader Paul Mackenzie)",
@@ -2602,11 +2599,10 @@
   "በየመን በተፈጸመ የአየር ጥቃት ቢያንስ 25 ሰዎች መገደላቸውን ሁቲዎች አስታወቁ (Houthis report 25 killed in Yemen strikes)",
   "አሜሪካ ስለ ኢራን የኑክሌር ፕሮግራም መረጃ ለሚሰጥ የ20 ሚሊዮን USD ሽልማት አዘጋጀች (US offers $20m reward for information about Iran's nuclear programme)",
   "የእስራኤል ፕሬዝዳንት Isaac Herzog አዲሱን መንግሥት የማዋቀር ኃላፊነት ለGadi Eisenkot ሰጡ (Israel’s president picks Eisenkot over Netanyahu to form next government)",
-  "የተባበሩት መንግሥታት ወደ ኬንያ ለተፈናቀሉ 50 ሺህ ኢትዮጵያውያን 8.9 ሚሊዮን ዶላር ጠየቀ (Daily_Brief: #UN agencies seek $8.9 million to assist up to 50,000 #Ethiopians displaced into #Kenya)"
+  "የተባበሩት መንግሥታት ወደ ኬንያ ለተፈናቀሉ 50 ሺህ ኢትዮጵያውያን 8.9 ሚሊዮን ዶላር ጠየቀ (Daily_Brief: #UN agencies seek $8.9 million to assist up to 50,000 #Ethiopians displaced into #Kenya)",
+  "OLA Energy እና TotalEnergies ያደረጉት የውህደት ስምምነት በ COMESA እየተመረመረ ነው (COMESA review looms over OLA–TotalEnergies Ethiopia deal)"
  ],
  "posted_at": [
-  1793914641.87855,
-  1793914645.3580332,
   1793916568.4489782,
   1793916571.8624327,
   1793924518.7681596,
@@ -2655,6 +2651,7 @@
   1794074952.6953716,
   1794076559.0015392,
   1794085733.101651,
-  1794087355.1546853
+  1794087355.1546853,
+  1794089292.775093
  ]
 }
