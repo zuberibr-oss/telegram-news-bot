@@ -1,9 +1,5 @@
 {
  "seen": {
-  "5855a13af9df395b": 1792840266.715429,
-  "ac296f0d8ccea954": 1792840266.715429,
-  "2ef45b1dd44bb36e": 1792840266.715429,
-  "b215c905e6b05d4b": 1792840266.715429,
   "e90412c63944f38d": 1792841836.4594383,
   "5b147f754d80fffe": 1792841836.4594383,
   "28478177269c9e5c": 1792841836.4594383,
@@ -2560,10 +2556,13 @@
   "eb609884b97ad909": 1794046080.8697002,
   "65080fa6862a402e": 1794047698.7402725,
   "b1d847857670d12d": 1794049633.1448417,
-  "c5d8a8aa8af896cf": 1794049633.1448417
+  "c5d8a8aa8af896cf": 1794049633.1448417,
+  "4ae653ce9292fa26": 1794051289.3264518,
+  "101a92baa4bdc3d6": 1794051289.3264518,
+  "745c18b302f54193": 1794051289.3264518,
+  "1e969bced6c7b434": 1794051289.3264518
  },
  "recent_headlines": [
-  "ሜላኒያ ትራምፕ የሩሲያ እና ዩክሬን ልዑካንን በኋይት ሀውስ አስተናገዱ (Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials)",
   "የሳዑዲ ጥምረት በሀገሪቱ የመዲና ክልል ላይ የተተኮሰን ባሊስቲክ ሚሳይል ማክሸፉን አስታወቀ (Saudi coalition intercepts missile fired towards Medina)",
   "በደቡብ ኢትዮጵያ በተቀሰቀሰ ግጭት በአስር ሺዎች የሚቆጠሩ ሰዎች ወደ ኬንያ ተሰደዱ (Nigeria court bars opposition candidate two months before election)",
   "በደቡብ አፍሪካ ገዢው ፓርቲ ANC በምርጫ ያገኘው የድጋፍ መጠን በከፍተኛ ሁኔታ ቀነሰ (South Africa’s ANC on track for new lows in local polls)",
@@ -2602,7 +2601,8 @@
   "የስታንፎርድ ተመራማሪዎች የሰው አንጎል ህዋሳትን በአይጦች ውስጥ በመትከል ስኬታማ ሙከራ አከናወኑ (‘Alien-cortical’ mice: Can human brain cells grow inside animals?)",
   "የፓራጓይ ፕሬዝዳንት Santiago Peña በባንክ ውድቀት ምክንያት ከሥልጣን ተነሱ (Paraguay's President Santiago Peña impeached and arrested after bank collapse)",
   "የብልፅግና ፓርቲ የአፍሪካ ፖለቲካ ፓርቲዎች ኢኒሼቲቭን በሊቀመንበርነት እንዲመራ ተመረጠ (Ethiopia’s Ruling Prosperity Party Unanimously Elected to Lead African Political Parties Initiative)",
-  "አሃዱ ባንክ በበጀት ዓመቱ 1.07 ቢሊዮን ብር ከታክስ በፊት ማተርፉን አስታወቀ (Ahadu Bank records 1.07 billion birr pre-tax profit)"
+  "አሃዱ ባንክ በበጀት ዓመቱ 1.07 ቢሊዮን ብር ከታክስ በፊት ማተርፉን አስታወቀ (Ahadu Bank records 1.07 billion birr pre-tax profit)",
+  "በቤኒሻንጉል ጉሙዝ ክልል በተፈጸመ ጥቃት 52 ሰዎች መገደላቸውን ፖሊስ አስታወቀ (በቤኒሻንጉል ጉሙዝ ክልል ቡልዲግሉ ወረዳ በታጣቂዎች ጥቃት ከ50 በላይ ሰዎች መገደላቸውን ፖሊስ ገለፀ)"
  ],
  "posted_at": [
   1793878644.9643986,
@@ -2659,6 +2659,7 @@
   1794031969.8859353,
   1794036984.0955586,
   1794036987.6700892,
-  1794046124.9489412
+  1794046124.9489412,
+  1794051323.4431565
  ]
 }
