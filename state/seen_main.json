@@ -1,10 +1,5 @@
 {
  "seen": {
-  "2b0e5077001ab5ea": 1792834768.1452284,
-  "6e3962671d09681e": 1792834768.1452284,
-  "db5561f6a3ace9c8": 1792834768.1452284,
-  "c235858571194ccf": 1792834768.1452284,
-  "cad7bea29a51d1e3": 1792834768.1452284,
   "3499822b6d7b8c5b": 1792836679.9279556,
   "65a86d9953501022": 1792836679.9279556,
   "a870f29e1724bc95": 1792836679.9279556,
@@ -2564,10 +2559,13 @@
   "81e962e67e5530f2": 1794040490.4845822,
   "960168babc29d7d2": 1794042501.1205575,
   "428ea43a87dfe6ae": 1794042501.1205575,
-  "afc30a3e82dbb96e": 1794044116.3515592
+  "afc30a3e82dbb96e": 1794044116.3515592,
+  "c48c27fb21cf0024": 1794046080.8697002,
+  "8afc0dfea2fb3cd0": 1794046080.8697002,
+  "d07b701051e4bba1": 1794046080.8697002,
+  "eb609884b97ad909": 1794046080.8697002
  },
  "recent_headlines": [
-  "ሳፋሪኮም በኢትዮጵያ ያጋጠመው ኪሳራ በከፍተኛ ሁኔታ መቀነሱን አስታወቀ (Daily_Brief: #Safaricom reports sharp reduction in #Ethiopia losses, 40% rise in group earnings)",
   "ሜላኒያ ትራምፕ የሩሲያ እና ዩክሬን ልዑካንን በኋይት ሀውስ አስተናገዱ (Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials)",
   "የሳዑዲ ጥምረት በሀገሪቱ የመዲና ክልል ላይ የተተኮሰን ባሊስቲክ ሚሳይል ማክሸፉን አስታወቀ (Saudi coalition intercepts missile fired towards Medina)",
   "በደቡብ ኢትዮጵያ በተቀሰቀሰ ግጭት በአስር ሺዎች የሚቆጠሩ ሰዎች ወደ ኬንያ ተሰደዱ (Nigeria court bars opposition candidate two months before election)",
@@ -2606,7 +2604,8 @@
   "የእስራኤል ፕሬዝዳንት Isaac Herzog መንግሥት የማዋቀር ኃላፊነት የሚሰጡትን አካል ሊሰይሙ ነው (President Herzog faces key choice as Israel struggles to form government)",
   "የስታንፎርድ ተመራማሪዎች የሰው አንጎል ህዋሳትን በአይጦች ውስጥ በመትከል ስኬታማ ሙከራ አከናወኑ (‘Alien-cortical’ mice: Can human brain cells grow inside animals?)",
   "የፓራጓይ ፕሬዝዳንት Santiago Peña በባንክ ውድቀት ምክንያት ከሥልጣን ተነሱ (Paraguay's President Santiago Peña impeached and arrested after bank collapse)",
-  "የብልፅግና ፓርቲ የአፍሪካ ፖለቲካ ፓርቲዎች ኢኒሼቲቭን በሊቀመንበርነት እንዲመራ ተመረጠ (Ethiopia’s Ruling Prosperity Party Unanimously Elected to Lead African Political Parties Initiative)"
+  "የብልፅግና ፓርቲ የአፍሪካ ፖለቲካ ፓርቲዎች ኢኒሼቲቭን በሊቀመንበርነት እንዲመራ ተመረጠ (Ethiopia’s Ruling Prosperity Party Unanimously Elected to Lead African Political Parties Initiative)",
+  "አሃዱ ባንክ በበጀት ዓመቱ 1.07 ቢሊዮን ብር ከታክስ በፊት ማተርፉን አስታወቀ (Ahadu Bank records 1.07 billion birr pre-tax profit)"
  ],
  "posted_at": [
   1793878644.9643986,
@@ -2662,6 +2661,7 @@
   1794029741.5572388,
   1794031969.8859353,
   1794036984.0955586,
-  1794036987.6700892
+  1794036987.6700892,
+  1794046124.9489412
  ]
 }

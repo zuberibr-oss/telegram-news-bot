@@ -1425,10 +1425,14 @@
   "3937259faba2a685": 1794044047.2316523,
   "3de45aea88ba49ae": 1794044047.2316523,
   "224dbca8a86f31c0": 1794044047.2316523,
-  "8219aa9c7d8a1097": 1794044047.2316523
+  "8219aa9c7d8a1097": 1794044047.2316523,
+  "c48c27fb21cf0024": 1794045986.4895976,
+  "8cbafa131302c642": 1794045986.4895976,
+  "7a3eab0dcdcc4036": 1794045986.4895976,
+  "da0506c8dff1dfae": 1794045986.4895976,
+  "eb609884b97ad909": 1794045986.4895976
  },
  "recent_headlines": [
-  "ሳፋሪኮም የቴሌኮም ጣቢያዎቹን በፀሐይ ኃይል ለማንቀሳቀስ የ5,000 ጣቢያዎች ግብ አስቀመጠ (Safaricom Drops Diesel for Solar Power, Explains 5,000 Network Sites Target)",
   "ኬንያ ከ2022 ወዲህ ከ30 ሺህ ኪሎሜትር በላይ የፋይበር መሠረተ ልማት ዘረጋች (Kenya Rolls Out 30,000 Kilometres of Fibre Infrastructure Since 2022)",
   "ዳሸን ባንክ ከኢትዮጵያ አየር መንገድ እና Mastercard ጋር በመተባበር የፕላቲነም ካርድ አስተዋወቀ (Dashen Bank, Ethiopian Airlines and Mastercard Launch Travel-Linked Platinum Card)",
   "ባይናንስ የ6.3 ቢሊዮን ዶላር የክሪፕቶፕረንሲ ሳይበር ጥቃት አስተናገደ (Binance hit by $6.3bn crypto-currency hack)",
@@ -1467,10 +1471,10 @@
   "ሳፋሪኮም ኢትዮጵያ 193 ሚሊዮን ዶላር አዲስ የካፒታል ፈንድ አገኘ (Safaricom Ethiopia raises $193M, lifting it into Ethiopia's top 8% of growth rounds)",
   "ኬንያ 500 ሚሊዮን USD የሚይዝ የስታርታፕ ፈንድ ልታቋቁም ነው (Kenya targets Sh65 billion in startup financing as venture capital funding falls 45 percent)",
   "ኢቲዮ ቴሌኮም የ43.1 ቢሊዮን ብር የትርፍ ክፍፍል ለመክፈል ማቀዱን አስታወቀ (Ethio Telecom Projects ETB43.1bn Dividend Payout)",
-  "የኬንያ ማዕከላዊ ባንክ በ AI የሚመሩ የዲጂታል ብድር ውሳኔዎችን የሚቆጣጠር አዲስ መመሪያ አወጣ (Kenya’s new lending rules put AI-driven credit decisions and borrower assessments under scrutiny)"
+  "የኬንያ ማዕከላዊ ባንክ በ AI የሚመሩ የዲጂታል ብድር ውሳኔዎችን የሚቆጣጠር አዲስ መመሪያ አወጣ (Kenya’s new lending rules put AI-driven credit decisions and borrower assessments under scrutiny)",
+  "Ahadu Bank ከታክስ በፊት 1.07 ቢሊዮን ብር ትርፍ ማግኘቱን አስታወቀ (Ahadu Bank records 1.07 billion birr pre-tax profit)"
  ],
  "posted_at": [
-  1793871329.235776,
   1793878589.3791413,
   1793945706.6803288,
   1793948989.6220534,
@@ -1480,6 +1484,7 @@
   1793999299.841665,
   1794002955.7665052,
   1794042500.9501035,
-  1794044116.1177542
+  1794044116.1177542,
+  1794046080.6593003
  ]
 }
