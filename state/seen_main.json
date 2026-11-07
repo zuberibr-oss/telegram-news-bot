@@ -1,8 +1,5 @@
 {
  "seen": {
-  "3c308865d85b27fd": 1792856245.970007,
-  "e7051165340166c7": 1792856245.970007,
-  "5eed4a2dbd438882": 1792856245.970007,
   "05ca7138c3a5e02f": 1792858304.35532,
   "129faa9d1d2c4863": 1792858304.35532,
   "ff7d15262f2618a4": 1792858304.35532,
@@ -2549,12 +2546,14 @@
   "90ddde18eb489b34": 1794064023.1801286,
   "e358badb3695a92d": 1794065682.356946,
   "6c855dfeee92974d": 1794065682.356946,
-  "93345b8649dc82fa": 1794065682.356946
+  "93345b8649dc82fa": 1794065682.356946,
+  "d1a28836c272b858": 1794067713.240575,
+  "5bbf1d0d7dd52cea": 1794067713.240575,
+  "fb8cd3415204570c": 1794067713.240575,
+  "614f33ff367b6fab": 1794067713.240575,
+  "08690ec094ea2811": 1794067713.240575
  },
  "recent_headlines": [
-  "በኢትዮጵያ የተወለደችው Melat Kiros ወደ አሜሪካ ኮንግረስ ተመረጠች (Generation Z and diversity redefine US politics in groundbreaking election)",
-  "ዶናልድ ትራምፕ አሜሪካ የቀረውን የኢራን ክፍል ልታጠፋ ትችላለች ሲሉ አስጠነቀቁ (Iran war live: Trump warns US may have to ‘destroy’ rest of Iran)",
-  "Donald Trump ከሩሲያ መልዕክተኛ ጋር ከተወያዩ በኋላ የሰላም ስምምነት ተቃርቧል አሉ (Trump met Russian envoy after he appeared with Melania Trump and Ukrainians)",
   "የቱርክ ፓርላማ ከሳዑዲ ዓረቢያ እና ፓኪስታን ጋር የተደረገውን የጋራ መከላከያ ስምምነት አጸደቀ (Turkiye’s parliament ratifies Mecca defence agreement)",
   "የአሜሪካን ምርጫ ተከተሎ የዓለም አቀፍ የቴክኖሎጂ ኩባንያዎች አክሲዮን በከፍተኛ ሁኔታ ወደቀ (Global tech stocks plunge as US midterms add to AI slowdown fears)",
   "የኢራን የደኅንነት ኃላፊ ለቪላዲሚር ፑቲን የሞጅታባ ኻመነይን መልእክት አደረሱ (Iran’s security chief meets Putin, delivers message from Khamenei)",
@@ -2591,10 +2590,12 @@
   "በቤኒሻንጉል ጉሙዝ ክልል በተፈጸመ ጥቃት 52 ሰዎች መገደላቸውን ፖሊስ አስታወቀ (በቤኒሻንጉል ጉሙዝ ክልል ቡልዲግሉ ወረዳ በታጣቂዎች ጥቃት ከ50 በላይ ሰዎች መገደላቸውን ፖሊስ ገለፀ)",
   "ሩሲያ በዩክሬን የኃይል መሠረተ ልማቶች ላይ ባደረሰችው ጥቃት በርካታ ክልሎች ከኤሌክትሪክ ውጪ ሆኑ (Ukraine's power network suffers further damage after fresh Russian strikes)",
   "በጋዛ በተጣለ ብርቱ ዝናብ የ70 ሺህ ተፈናቃዮች ድንኳኖች በውኃ መሸፈናቸው ተገለጸ (Rains flood 70,000 displaced families’ tents in Gaza)",
-  "የኢራቅ የውጭ ጉዳይ ሚኒስትር የሀገራቸው ግዛት ጎረቤቶችን ለማጥቃት እየዋለ መሆኑን ገለጹ (Iraq’s FM says external parties using Iraqi soil to attack neighbours)"
+  "የኢራቅ የውጭ ጉዳይ ሚኒስትር የሀገራቸው ግዛት ጎረቤቶችን ለማጥቃት እየዋለ መሆኑን ገለጹ (Iraq’s FM says external parties using Iraqi soil to attack neighbours)",
+  "በፖላንድ ክራኮው ከተማ በተፈጸመ የተኩስ ጥቃት የ5 ሰዎች ሕይወት አለፈ (Casualties reported after shooting in Poland’s Krakow)",
+  "ኢራን ከመሬት በታች የሚሳይል ማምረቻ እና ማከማቻ ማዕከላትን እየገነባች መሆኑን ገለጸች (Iran’s IRGC says building underground sites for weapons production, storage)",
+  "በአዲስ አበባ የተካሄደው የአፍሪካ ፖለቲካ ፓርቲዎች ጉባኤ የ«አዲስ አበባ መግለጫ»ን በማጽደቅ ተጠናቀቀ (African Political Parties Adopt Addis Ababa Declaration, Commit to Advancing Economic Transformation)"
  ],
  "posted_at": [
-  1793892990.5631123,
   1793896608.2151358,
   1793898540.7083712,
   1793900181.1970289,
@@ -2645,6 +2646,9 @@
   1794051323.4431565,
   1794056937.2600014,
   1794058524.1970603,
-  1794064062.6632845
+  1794064062.6632845,
+  1794067788.1915755,
+  1794067791.7907422,
+  1794067795.3261173
  ]
 }
