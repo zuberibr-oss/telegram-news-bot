@@ -1,11 +1,5 @@
 {
  "seen": {
-  "c9fbffa7eee5e1bf": 1792876193.9221628,
-  "5e52f046d51402a0": 1792876193.9221628,
-  "d02c11b10b71277e": 1792876193.9221628,
-  "ad1959b9202add1a": 1792876193.9221628,
-  "34236a011967c29b": 1792876193.9221628,
-  "97565b757e5ede7c": 1792876193.9221628,
   "88ae0bfc71e9ed69": 1792877866.2410018,
   "187f3c7c4a3ffa3b": 1792877866.2410018,
   "1d41e4b91401cf5a": 1792877866.2410018,
@@ -2561,10 +2555,14 @@
   "f274e387f38f2fc6": 1794083701.6656127,
   "4ff15c41e54cb204": 1794083701.6656127,
   "0ee48dfd89b8be01": 1794083701.6656127,
-  "34a5255c9be2e6bb": 1794085702.0964265
+  "34a5255c9be2e6bb": 1794085702.0964265,
+  "42ef6a5069f2f504": 1794087321.1399562,
+  "b7a473f6d5c15cf7": 1794087321.1399562,
+  "40ffb60c9f56df27": 1794087321.1399562,
+  "482e30610f097503": 1794087321.1399562,
+  "ebca70b3ecaf08a9": 1794087321.1399562
  },
  "recent_headlines": [
-  "ኢራን ከአራት ሀገራት የሚነሱ መርከቦች በሆርሙዝ ወሰን እንዲያልፉ ፈቀደች (Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?)",
   "ኢራን በሚሳይል ጣቢያዎቿ አቅራቢያ አዳዲስ ከመሬት በታች ግንባታዎችን እያካሄደች ነው ተባለ (Major construction ongoing near Iran missile bases, satellite images suggest)",
   "መከላከያ በመቀሌ የተሽከርካሪዎች የሰዓት እላፊ ገደብ ጣለ፤ ሕገወጥ መሣሪያ እንዲያስረክቡ አዘዘ (በመቀለ ከዛሬ ጀምሮ የተሽከርካሪ እንቅስቃሴ ላይ የሰዓት እላፊ ገደብ ተጣለ)",
   "የሶማሊያ ጠቅላይ ፍርድ ቤት የፕሬዝዳንቱን የሥልጣን ዘመን ማራዘም ውድቅ አደረገ (Somalia's top court rejects president's term extension amid political crisis)",
@@ -2603,7 +2601,8 @@
   "እስራኤል በደቡብ ሊባኖስ የወታደራዊ መንገዶች እና ካምፖች አውታር እየገነባች ነው ተባለ (Israel builds 90km network of military roads across southern Lebanon)",
   "በየመን በተፈጸመ የአየር ጥቃት ቢያንስ 25 ሰዎች መገደላቸውን ሁቲዎች አስታወቁ (Houthis report 25 killed in Yemen strikes)",
   "አሜሪካ ስለ ኢራን የኑክሌር ፕሮግራም መረጃ ለሚሰጥ የ20 ሚሊዮን USD ሽልማት አዘጋጀች (US offers $20m reward for information about Iran's nuclear programme)",
-  "የእስራኤል ፕሬዝዳንት Isaac Herzog አዲሱን መንግሥት የማዋቀር ኃላፊነት ለGadi Eisenkot ሰጡ (Israel’s president picks Eisenkot over Netanyahu to form next government)"
+  "የእስራኤል ፕሬዝዳንት Isaac Herzog አዲሱን መንግሥት የማዋቀር ኃላፊነት ለGadi Eisenkot ሰጡ (Israel’s president picks Eisenkot over Netanyahu to form next government)",
+  "የተባበሩት መንግሥታት ወደ ኬንያ ለተፈናቀሉ 50 ሺህ ኢትዮጵያውያን 8.9 ሚሊዮን ዶላር ጠየቀ (Daily_Brief: #UN agencies seek $8.9 million to assist up to 50,000 #Ethiopians displaced into #Kenya)"
  ],
  "posted_at": [
   1793914641.87855,
@@ -2655,6 +2654,7 @@
   1794071229.9689734,
   1794074952.6953716,
   1794076559.0015392,
-  1794085733.101651
+  1794085733.101651,
+  1794087355.1546853
  ]
 }
