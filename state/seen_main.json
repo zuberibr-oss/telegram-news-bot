@@ -1,14 +1,5 @@
 {
  "seen": {
-  "3b2f3fd0bd60e67c": 1792825948.3010056,
-  "72b43eeb7a34c354": 1792825948.3010056,
-  "640be6d9a2f4b935": 1792825948.3010056,
-  "22ec6ff7ffd40d10": 1792825948.3010056,
-  "e1ae7500c73d0166": 1792825948.3010056,
-  "dae0863a597387b2": 1792825948.3010056,
-  "c63b0c6e92441f1d": 1792825948.3010056,
-  "43f735fca62a29e9": 1792825948.3010056,
-  "96c92246104da084": 1792825948.3010056,
   "22fa1582a2612218": 1792827575.9609942,
   "e5e6c9369eaadb77": 1792827575.9609942,
   "f7c38bc199d3a2d4": 1792827575.9609942,
@@ -2579,11 +2570,12 @@
   "0da229695160edf6": 1794035306.9443443,
   "1117f4c04627c8b0": 1794035306.9443443,
   "585e616e5cf9c70c": 1794035306.9443443,
-  "00ddf02e01bda520": 1794035306.9443443
+  "00ddf02e01bda520": 1794035306.9443443,
+  "505ab73ad17488d9": 1794036932.9674997,
+  "f9a6eb6d2c8b63c4": 1794036932.9674997,
+  "69be5c45509d9d36": 1794036932.9674997
  },
  "recent_headlines": [
-  "ኢትዮጵያ ከፈረንሳይ እና ከቻይና ጋር ያላትን የወታደራዊ ትብብር ለማስፋፋት እየሰራች ነው (Daily_Brief: After #Russia, #Ethiopia seeks expanded military cooperation with #France, #China)",
-  "ግብፅ በሱዳን ግጭት ተጠቃሚ ሆናለች ሲሉ የውኃ እና ኢነርጂ ሚኒስትሩ ገለጹ (Egypt Benefits from Sudanese People’s Suffering amid Ongoing Conflict: Minister)",
   "ሳፋሪኮም በኢትዮጵያ ያጋጠመው ኪሳራ በከፍተኛ ሁኔታ መቀነሱን አስታወቀ (Daily_Brief: #Safaricom reports sharp reduction in #Ethiopia losses, 40% rise in group earnings)",
   "ሜላኒያ ትራምፕ የሩሲያ እና ዩክሬን ልዑካንን በኋይት ሀውስ አስተናገዱ (Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials)",
   "የሳዑዲ ጥምረት በሀገሪቱ የመዲና ክልል ላይ የተተኮሰን ባሊስቲክ ሚሳይል ማክሸፉን አስታወቀ (Saudi coalition intercepts missile fired towards Medina)",
@@ -2621,10 +2613,11 @@
   "ኳታር አሜሪካ እና ኢራን ጦርነቱን ለማቆም አፋጣኝ የሰላም ስምምነት እንዲያደርጉ ጠየቀች (Iran war live: Qatar says US, Iran should not wait to reach a peace deal)",
   "Donald Trump አሜሪካ በኢራን Qeshm ደሴት ላይ ጥቃት መፈጸሟን አረጋገጡ (Trump confirms new US strikes on Iran’s Qeshm Island)",
   "የእስራኤል ፕሬዝዳንት Isaac Herzog መንግሥት የማዋቀር ኃላፊነት የሚሰጡትን አካል ሊሰይሙ ነው (President Herzog faces key choice as Israel struggles to form government)",
-  "የስታንፎርድ ተመራማሪዎች የሰው አንጎል ህዋሳትን በአይጦች ውስጥ በመትከል ስኬታማ ሙከራ አከናወኑ (‘Alien-cortical’ mice: Can human brain cells grow inside animals?)"
+  "የስታንፎርድ ተመራማሪዎች የሰው አንጎል ህዋሳትን በአይጦች ውስጥ በመትከል ስኬታማ ሙከራ አከናወኑ (‘Alien-cortical’ mice: Can human brain cells grow inside animals?)",
+  "የፓራጓይ ፕሬዝዳንት Santiago Peña በባንክ ውድቀት ምክንያት ከሥልጣን ተነሱ (Paraguay's President Santiago Peña impeached and arrested after bank collapse)",
+  "የብልፅግና ፓርቲ የአፍሪካ ፖለቲካ ፓርቲዎች ኢኒሼቲቭን በሊቀመንበርነት እንዲመራ ተመረጠ (Ethiopia’s Ruling Prosperity Party Unanimously Elected to Lead African Political Parties Initiative)"
  ],
  "posted_at": [
-  1793862642.423239,
   1793878644.9643986,
   1793878648.451553,
   1793885880.5283737,
@@ -2676,6 +2669,8 @@
   1794010746.929912,
   1794024599.3170857,
   1794029741.5572388,
-  1794031969.8859353
+  1794031969.8859353,
+  1794036984.0955586,
+  1794036987.6700892
  ]
 }
