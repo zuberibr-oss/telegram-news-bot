@@ -1369,10 +1369,13 @@
   "b7b359a6a35c4f1e": 1794090840.4586093,
   "8772fcc6f9c716ec": 1794092757.6205366,
   "8d69327e4014912d": 1794098909.0606859,
-  "560ee99b0f124567": 1794105243.1898608
+  "560ee99b0f124567": 1794105243.1898608,
+  "b3acdaff12afb247": 1794107367.8348463,
+  "01eece192d12e7a9": 1794107367.8348463,
+  "34f98a0fb5c8814c": 1794107367.8348463,
+  "aa3408086092b3b6": 1794107367.8348463
  },
  "recent_headlines": [
-  "ዳሸን ባንክ ከኢትዮጵያ አየር መንገድ እና Mastercard ጋር በመተባበር የፕላቲነም ካርድ አስተዋወቀ (Dashen Bank, Ethiopian Airlines and Mastercard Launch Travel-Linked Platinum Card)",
   "ባይናንስ የ6.3 ቢሊዮን ዶላር የክሪፕቶፕረንሲ ሳይበር ጥቃት አስተናገደ (Binance hit by $6.3bn crypto-currency hack)",
   "የAirtel Africa የግማሽ ዓመት የተጣራ ትርፍ በ20 በመቶ አድጎ 452 ሚሊዮን ዶላር ደረሰ (Airtel Africa half-year profit rises 20% to $452m)",
   "ኢትዮጵያ 1.4 ሚሊዮን አምራቾችን የሚያቅፍ የዲጂታል ቡና ፍለጋ ሥርዓት ዘረጋች (Ethiopia Rolls Out Digital Coffee Traceability System Covering 1.4 Million Producers Ahead of EU Deforestation Rules)",
@@ -1411,7 +1414,8 @@
   "ኢቲዮ ቴሌኮም የ43.1 ቢሊዮን ብር የትርፍ ክፍፍል ለመክፈል ማቀዱን አስታወቀ (Ethio Telecom Projects ETB43.1bn Dividend Payout)",
   "የኬንያ ማዕከላዊ ባንክ በ AI የሚመሩ የዲጂታል ብድር ውሳኔዎችን የሚቆጣጠር አዲስ መመሪያ አወጣ (Kenya’s new lending rules put AI-driven credit decisions and borrower assessments under scrutiny)",
   "Ahadu Bank ከታክስ በፊት 1.07 ቢሊዮን ብር ትርፍ ማግኘቱን አስታወቀ (Ahadu Bank records 1.07 billion birr pre-tax profit)",
-  "ኢቲዮ ቴሌኮም በ AI ማሻሻያ አማካኝነት የ4G ፍጥነትን በ40 በመቶ አሻሻለ (Ethio Telecom Reports 40% Faster Peak-Hour 4G After AI Upgrade)"
+  "ኢቲዮ ቴሌኮም በ AI ማሻሻያ አማካኝነት የ4G ፍጥነትን በ40 በመቶ አሻሻለ (Ethio Telecom Reports 40% Faster Peak-Hour 4G After AI Upgrade)",
+  "ተቆጣጣሪዎች ባንኮች የውጭ ኢንቨስተሮችን ሀብት በንዑስ ኩባንያ ሳይደራጁ እንዲጠብቁ ሊፈቅዱ ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)"
  ],
  "posted_at": [
   1793945706.6803288,
@@ -1424,6 +1428,7 @@
   1794042500.9501035,
   1794044116.1177542,
   1794046080.6593003,
-  1794085701.892151
+  1794085701.892151,
+  1794107452.2580428
  ]
 }

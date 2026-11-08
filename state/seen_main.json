@@ -1,6 +1,5 @@
 {
  "seen": {
-  "b550219425d7a7c2": 1792896325.6478164,
   "b3efcca5cab8737d": 1792898096.0935874,
   "980bbccfb2b27e40": 1792898096.0935874,
   "005db2536ce6bd0d": 1792898096.0935874,
@@ -2550,13 +2549,16 @@
   "2e792f833748cb73": 1794097336.995632,
   "6e8db4c77ad67d78": 1794098980.9118927,
   "7df87c94410d4592": 1794100133.229389,
-  "3491d4f185fe80e6": 1794103905.047061
+  "3491d4f185fe80e6": 1794103905.047061,
+  "01eece192d12e7a9": 1794107452.508704,
+  "a513d887c4710fd8": 1794107452.508704,
+  "085bb0733c474144": 1794107452.508704,
+  "75f4401d5871cf6c": 1794107452.508704,
+  "aa3408086092b3b6": 1794107452.508704,
+  "34f98a0fb5c8814c": 1794107452.508704,
+  "b3acdaff12afb247": 1794107452.508704
  },
  "recent_headlines": [
-  "መከላከያ በመቀሌ የተሽከርካሪዎች የሰዓት እላፊ ገደብ ጣለ፤ ሕገወጥ መሣሪያ እንዲያስረክቡ አዘዘ (በመቀለ ከዛሬ ጀምሮ የተሽከርካሪ እንቅስቃሴ ላይ የሰዓት እላፊ ገደብ ተጣለ)",
-  "የሶማሊያ ጠቅላይ ፍርድ ቤት የፕሬዝዳንቱን የሥልጣን ዘመን ማራዘም ውድቅ አደረገ (Somalia's top court rejects president's term extension amid political crisis)",
-  "በኬንያ የ191 ሰዎችን ሕይወት ያጠፋው የሃይማኖት ቡድን መሪ Paul Mackenzie የቅጣት ውሳኔ ሊሰጠው ነው (Kenyan court sentencing doomsday cult leader Paul Mackenzie)",
-  "የተባበሩት መንግሥታት ድርጅት ሪፖርት፡ የኤምሬትስ ኩባንያ በሱዳን የኮሎምቢያ ቅጥረኛ ወታደሮችን አሰማርቷል (UN report says UAE firm hired Colombian mercenaries to fight in Sudan, raising questions over Abu Dhabi’s UN chief bid)",
   "የሱዳን ጦር ከኢትዮጵያ ድንበር አቅራቢያ የሚገኝ ስልታዊ ወታደራዊ ካምፕ መልሶ ተቆጣጠረ (Daily_Brief: #Sudanese army recaptures strategic base near #Ethiopian border from RSF-SPLM-N alliance)",
   "ሩሲያ ለኢራን 90 የላቁ የሮኬት ማስወንጨፊያዎችን ለመሸጥ መስማማቷ ተገለጸ (Rocket launcher deal illustrates deepening Russia-Iran relations)",
   "በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈጸመ ጥቃት የ38 ሰዎች ሕይወት ማለፉ ተገለጸ (በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈፀመ ጥቃት 38 ሰዎች መገደላቸውን የተጎጂ ቤተሰቦች እና ነዋሪዎች ተናገሩ)",
@@ -2592,10 +2594,13 @@
   "አሜሪካ ስለ ኢራን የኑክሌር ፕሮግራም መረጃ ለሚሰጥ የ20 ሚሊዮን USD ሽልማት አዘጋጀች (US offers $20m reward for information about Iran's nuclear programme)",
   "የእስራኤል ፕሬዝዳንት Isaac Herzog አዲሱን መንግሥት የማዋቀር ኃላፊነት ለGadi Eisenkot ሰጡ (Israel’s president picks Eisenkot over Netanyahu to form next government)",
   "የተባበሩት መንግሥታት ወደ ኬንያ ለተፈናቀሉ 50 ሺህ ኢትዮጵያውያን 8.9 ሚሊዮን ዶላር ጠየቀ (Daily_Brief: #UN agencies seek $8.9 million to assist up to 50,000 #Ethiopians displaced into #Kenya)",
-  "OLA Energy እና TotalEnergies ያደረጉት የውህደት ስምምነት በ COMESA እየተመረመረ ነው (COMESA review looms over OLA–TotalEnergies Ethiopia deal)"
+  "OLA Energy እና TotalEnergies ያደረጉት የውህደት ስምምነት በ COMESA እየተመረመረ ነው (COMESA review looms over OLA–TotalEnergies Ethiopia deal)",
+  "አሜሪካ የኢራንን የምድር የጦር መሳሪያ እና ቁሳቁስ ማጓጓዣ መስመሮች የሚዘጋ ግብር ሃይል አቋቋመች (US launches task force to disrupt Iran’s land-based supply routes)",
+  "ባንኮች የውጭ ኢንቨስተሮችን ሀብት በሞግዚትነት እንዲያስተዳድሩ ሊፈቀድላቸው ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)",
+  "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ከመቀላቀሏ በፊት የጥራት ሥርዓቷ ፈተና ተጋረጠበት (Before WTO Entry, Ethiopia’s Quality System Faces a Test)",
+  "ከወርቅ ሽያጭ የተገኘው ገቢ የትሬዠሪ ቢል የወለድ ምጣኔን ከፖሊሲ ተመኑ በእጅጉ ያነሰ አደረገው (Gold-fed Cash Drags Treasury Yields Far Below the Policy Rate)"
  ],
  "posted_at": [
-  1793934623.7116418,
   1793936170.1978438,
   1793943373.1054697,
   1793947240.1891038,
@@ -2639,6 +2644,10 @@
   1794076559.0015392,
   1794085733.101651,
   1794087355.1546853,
-  1794089292.775093
+  1794089292.775093,
+  1794107513.398077,
+  1794107516.8992066,
+  1794107520.4217758,
+  1794107523.9385521
  ]
 }
