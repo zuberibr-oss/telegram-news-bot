@@ -1,7 +1,5 @@
 {
  "seen": {
-  "cd80bbc751996cda": 1792959056.3191142,
-  "93a56ba7a7c10461": 1792959056.3191142,
   "620bbe92fea29a85": 1792960722.2184148,
   "200b7186d34e2c7b": 1792960722.2184148,
   "cbbd24d323a7a745": 1792960722.2184148,
@@ -2520,10 +2518,10 @@
   "33aa4b9f4bc10be8": 1794166515.260158,
   "93e43e4296f5e8f0": 1794166515.260158,
   "eaaec464457080f0": 1794168475.084259,
-  "0b50849ea934b9ed": 1794168475.084259
+  "0b50849ea934b9ed": 1794168475.084259,
+  "6a0ad1853b06d1b1": 1794170100.1236887
  },
  "recent_headlines": [
-  "በአውሮፓ በርካታ ሀገራት በተስተዋሉ የቦምብ ዛቻዎች የአየር ትራንስፖርት መስተጓጎል አጋጠመ (Hoax or bomb threats? What we know about flight disruptions across Europe)",
   "የታንዛኒያ ፍርድ ቤት በተቃዋሚው መሪ Tundu Lissu ላይ የ4 ዓመት እስራት ፈረደ (Tanzania court jails opposition leader for incitement, lifts treason charge)",
   "በደቡብ ሱዳን በተቀናቃኝ ቡድኖች ግጭት የ70 ሰዎች ሕይወት አለፈ (Daily_Brief: Clashes between rival groups leave about 70 dead in #South_Sudan’s Lakes state)",
   "በዩክሬን ዛፖሪዝያ በእርዳታ ማዕከል ላይ በተሰነዘረ ጥቃት የሟቾች ቁጥር 53 ደረሰ (Ukraine raises Zaporizhia aid strike death toll to at least 50)",
@@ -2562,7 +2560,8 @@
   "ሳዑዲ ዓረቢያ በሪያድ እና በምሥራቃዊ ግዛቷ ላይ የተተኮሱ የሁቲ ሚሳይሎችን ማክሸፏን አስታወቀች (Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province)",
   "የአሜሪካ ጦር በኦማን ባሕረ ሰላጤ በሚገኝ የጭነት መርከብ ላይ ጥቃት ፈጸመ (US military attacks cargo ship in the Gulf of Oman)",
   "በሪያድ የሚገኘው የ Saudi Aramco ሕንፃ በየመን በኩል በተሰነዘረ ጥቃት ጉዳት ደረሰበት (Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen)",
-  "በደቡብ አፍሪካ የአካባቢ ምርጫ ገዥው ፓርቲ ANC ከፍተኛ የድምፅ ቅናሽ ገጠመው (South Africa’s ANC suffers setback in local elections)"
+  "በደቡብ አፍሪካ የአካባቢ ምርጫ ገዥው ፓርቲ ANC ከፍተኛ የድምፅ ቅናሽ ገጠመው (South Africa’s ANC suffers setback in local elections)",
+  "ኢራን አሜሪካ ጥቃቷን ካልገታች «ከባድ አደጋ» እንደሚያጋጥማት ማስጠንቀቂያ ሰጠች (Iran threatens to ‘rain down hell’ if US escalates war)"
  ],
  "posted_at": [
   1794010746.929912,
@@ -2593,6 +2592,7 @@
   1794125460.7181094,
   1794128955.9883792,
   1794130534.2263558,
-  1794143272.5678203
+  1794143272.5678203,
+  1794170134.9897978
  ]
 }
