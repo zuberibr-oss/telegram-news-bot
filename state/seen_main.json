@@ -1,10 +1,5 @@
 {
  "seen": {
-  "daaba2ae5b0eebe4": 1792913992.7826767,
-  "d5a90764d311bd9a": 1792913992.7826767,
-  "507996ea93b1fcfb": 1792913992.7826767,
-  "4e164ace834ca3d3": 1792913992.7826767,
-  "74f56543f08cdcd9": 1792913992.7826767,
   "ba7c4933ce1654df": 1792916083.5228806,
   "121dd99ea93c6a0a": 1792916083.5228806,
   "70d5c49488b7e86a": 1792917712.1640139,
@@ -2545,10 +2540,10 @@
   "8e4de3b4dfaba014": 1794121779.0892472,
   "a58929953edea3f9": 1794121779.0892472,
   "cb781576a3fad4fd": 1794121779.0892472,
-  "3031c148fc79582a": 1794121779.0892472
+  "3031c148fc79582a": 1794121779.0892472,
+  "f3cd59843999b92e": 1794125431.7643335
  },
  "recent_headlines": [
-  "ሩሲያ ለኢራን 90 የላቁ የሮኬት ማስወንጨፊያዎችን ለመሸጥ መስማማቷ ተገለጸ (Rocket launcher deal illustrates deepening Russia-Iran relations)",
   "በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈጸመ ጥቃት የ38 ሰዎች ሕይወት ማለፉ ተገለጸ (በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈፀመ ጥቃት 38 ሰዎች መገደላቸውን የተጎጂ ቤተሰቦች እና ነዋሪዎች ተናገሩ)",
   "በኬንያ የሃይማኖት ቡድን መሪ Paul Mackenzie የ200 ዓመት እስራት ተፈረደበት (Kenyan doomsday cult leader given life sentence for murdering 191 people)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ ላይ ሁለት ሀሳቦችን አቀረቡ (PM Abiy Identifies Producing Leadership Succession and Development Continuity as Key to Overcoming Africa’s Political Challenges)",
@@ -2587,7 +2582,8 @@
   "ባንኮች የውጭ ኢንቨስተሮችን ሀብት በሞግዚትነት እንዲያስተዳድሩ ሊፈቀድላቸው ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)",
   "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ከመቀላቀሏ በፊት የጥራት ሥርዓቷ ፈተና ተጋረጠበት (Before WTO Entry, Ethiopia’s Quality System Faces a Test)",
   "ከወርቅ ሽያጭ የተገኘው ገቢ የትሬዠሪ ቢል የወለድ ምጣኔን ከፖሊሲ ተመኑ በእጅጉ ያነሰ አደረገው (Gold-fed Cash Drags Treasury Yields Far Below the Policy Rate)",
-  "በየመን በሳዑዲ መሪነት በተፈጸመ የአየር ጥቃት ቢያንስ 33 ሰዎች መገደላቸው ተገለጸ (Houthis say at least 33 killed in Saudi air strike)"
+  "በየመን በሳዑዲ መሪነት በተፈጸመ የአየር ጥቃት ቢያንስ 33 ሰዎች መገደላቸው ተገለጸ (Houthis say at least 33 killed in Saudi air strike)",
+  "ሳዑዲ ዓረቢያ በሪያድ እና በምሥራቃዊ ግዛቷ ላይ የተተኮሱ የሁቲ ሚሳይሎችን ማክሸፏን አስታወቀች (Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province)"
  ],
  "posted_at": [
   1793952787.0381923,
@@ -2635,6 +2631,7 @@
   1794107516.8992066,
   1794107520.4217758,
   1794107523.9385521,
-  1794110959.997429
+  1794110959.997429,
+  1794125460.7181094
  ]
 }
