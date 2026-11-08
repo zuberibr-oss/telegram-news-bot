@@ -1,8 +1,5 @@
 {
  "seen": {
-  "b6a6a96bcf4fa509": 1792919532.9599752,
-  "bed3a77df817a9cf": 1792919532.9599752,
-  "77a4d6cd901bbd80": 1792919532.9599752,
   "8e4b4951da4d8426": 1792921170.6472821,
   "249d9dd5ea6fbd7f": 1792921170.6472821,
   "32e519fbb4c1be3c": 1792921170.6472821,
@@ -2545,10 +2542,13 @@
   "162f13418f51bec8": 1794128912.2347531,
   "7cd031029427a356": 1794128912.2347531,
   "80e253a9b77e071b": 1794128912.2347531,
-  "04bc225192885e11": 1794128912.2347531
+  "04bc225192885e11": 1794128912.2347531,
+  "70d5c49488b7e86a": 1794130510.9636257,
+  "090444168211f5ac": 1794130510.9636257,
+  "0a7bc936ef8c8b5d": 1794130510.9636257,
+  "555b7d9a9ba927b7": 1794130510.9636257
  },
  "recent_headlines": [
-  "በኬንያ የሃይማኖት ቡድን መሪ Paul Mackenzie የ200 ዓመት እስራት ተፈረደበት (Kenyan doomsday cult leader given life sentence for murdering 191 people)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ ላይ ሁለት ሀሳቦችን አቀረቡ (PM Abiy Identifies Producing Leadership Succession and Development Continuity as Key to Overcoming Africa’s Political Challenges)",
   "በአውሮፓ በርካታ ሀገራት በተስተዋሉ የቦምብ ዛቻዎች የአየር ትራንስፖርት መስተጓጎል አጋጠመ (Hoax or bomb threats? What we know about flight disruptions across Europe)",
   "የታንዛኒያ ፍርድ ቤት በተቃዋሚው መሪ Tundu Lissu ላይ የ4 ዓመት እስራት ፈረደ (Tanzania court jails opposition leader for incitement, lifts treason charge)",
@@ -2587,11 +2587,10 @@
   "ከወርቅ ሽያጭ የተገኘው ገቢ የትሬዠሪ ቢል የወለድ ምጣኔን ከፖሊሲ ተመኑ በእጅጉ ያነሰ አደረገው (Gold-fed Cash Drags Treasury Yields Far Below the Policy Rate)",
   "በየመን በሳዑዲ መሪነት በተፈጸመ የአየር ጥቃት ቢያንስ 33 ሰዎች መገደላቸው ተገለጸ (Houthis say at least 33 killed in Saudi air strike)",
   "ሳዑዲ ዓረቢያ በሪያድ እና በምሥራቃዊ ግዛቷ ላይ የተተኮሱ የሁቲ ሚሳይሎችን ማክሸፏን አስታወቀች (Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province)",
-  "የአሜሪካ ጦር በኦማን ባሕረ ሰላጤ በሚገኝ የጭነት መርከብ ላይ ጥቃት ፈጸመ (US military attacks cargo ship in the Gulf of Oman)"
+  "የአሜሪካ ጦር በኦማን ባሕረ ሰላጤ በሚገኝ የጭነት መርከብ ላይ ጥቃት ፈጸመ (US military attacks cargo ship in the Gulf of Oman)",
+  "በሪያድ የሚገኘው የ Saudi Aramco ሕንፃ በየመን በኩል በተሰነዘረ ጥቃት ጉዳት ደረሰበት (Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen)"
  ],
  "posted_at": [
-  1793956281.209043,
-  1793957724.8255665,
   1793959810.212983,
   1793967277.7578838,
   1793967281.208243,
@@ -2634,6 +2633,7 @@
   1794107523.9385521,
   1794110959.997429,
   1794125460.7181094,
-  1794128955.9883792
+  1794128955.9883792,
+  1794130534.2263558
  ]
 }
