@@ -1,9 +1,5 @@
 {
  "seen": {
-  "b7c83b1c7dd7b731": 1792966193.8734217,
-  "4b3262a7c4d839db": 1792966193.8734217,
-  "7cbd62117a44c568": 1792966193.8734217,
-  "0e7d6ceb793bece5": 1792966193.8734217,
   "4ff793dca209d984": 1792967810.843755,
   "6ab342152bbdb4e7": 1792967810.843755,
   "2bff1169ffb0ed22": 1792967810.843755,
@@ -2518,11 +2514,13 @@
   "39f726e42057d402": 1794172015.208149,
   "666de808c0702999": 1794173700.873242,
   "80cf3771b24e7e8e": 1794173700.873242,
-  "710e9674c8bd3e32": 1794173700.873242
+  "710e9674c8bd3e32": 1794173700.873242,
+  "395f96c16cfac699": 1794177309.0048,
+  "aa73cb275b7e1bac": 1794177309.0048,
+  "6c3844406488ffc2": 1794177309.0048,
+  "7347ef130ce49e49": 1794177309.0048
  },
  "recent_headlines": [
-  "የታንዛኒያ ፍርድ ቤት በተቃዋሚው መሪ Tundu Lissu ላይ የ4 ዓመት እስራት ፈረደ (Tanzania court jails opposition leader for incitement, lifts treason charge)",
-  "በደቡብ ሱዳን በተቀናቃኝ ቡድኖች ግጭት የ70 ሰዎች ሕይወት አለፈ (Daily_Brief: Clashes between rival groups leave about 70 dead in #South_Sudan’s Lakes state)",
   "በዩክሬን ዛፖሪዝያ በእርዳታ ማዕከል ላይ በተሰነዘረ ጥቃት የሟቾች ቁጥር 53 ደረሰ (Ukraine raises Zaporizhia aid strike death toll to at least 50)",
   "ኢትዮጵያ የሀገር ውስጥ ጠቅላላ ምርትን በየሩብ ዓመቱ ለመዘገብ አቅዳለች (Ethiopia plans quarterly GDP reporting under updated economic statistics framework)",
   "በዩክሬን የተኩስ አቁም ከተደረገ በኋላ ወታደሮችን ለማሰማራት የሚያስችል ልምምድ በፖላንድ እየተካሄደ ነው (European troops prepare for possible post-ceasefire deployment to Ukraine)",
@@ -2560,7 +2558,9 @@
   "የአሜሪካ ጦር በኦማን ባሕረ ሰላጤ በሚገኝ የጭነት መርከብ ላይ ጥቃት ፈጸመ (US military attacks cargo ship in the Gulf of Oman)",
   "በሪያድ የሚገኘው የ Saudi Aramco ሕንፃ በየመን በኩል በተሰነዘረ ጥቃት ጉዳት ደረሰበት (Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen)",
   "በደቡብ አፍሪካ የአካባቢ ምርጫ ገዥው ፓርቲ ANC ከፍተኛ የድምፅ ቅናሽ ገጠመው (South Africa’s ANC suffers setback in local elections)",
-  "ኢራን አሜሪካ ጥቃቷን ካልገታች «ከባድ አደጋ» እንደሚያጋጥማት ማስጠንቀቂያ ሰጠች (Iran threatens to ‘rain down hell’ if US escalates war)"
+  "ኢራን አሜሪካ ጥቃቷን ካልገታች «ከባድ አደጋ» እንደሚያጋጥማት ማስጠንቀቂያ ሰጠች (Iran threatens to ‘rain down hell’ if US escalates war)",
+  "Nvidia ዋና ሥራ አስፈጻሚውን Jensen Huangን መመርመር መጀመሩን አስታወቀ (US chipmaker Nvidia investigates CEO Jensen Huang over affair)",
+  "ፓፕ ሊዮ 14ኛ በ40 ዓመታት ውስጥ ለመጀመሪያ ጊዜ አርጀንቲናን ጎበኙ (President Milei welcomes Pope Leo during historic visit to Argentina)"
  ],
  "posted_at": [
   1794010746.929912,
@@ -2592,6 +2592,8 @@
   1794128955.9883792,
   1794130534.2263558,
   1794143272.5678203,
-  1794170134.9897978
+  1794170134.9897978,
+  1794177367.900055,
+  1794177371.474526
  ]
 }
