@@ -1,9 +1,5 @@
 {
  "seen": {
-  "70d5c49488b7e86a": 1792917712.1640139,
-  "c9075a2633f0a5e5": 1792917712.1640139,
-  "c5aa207989bff5c0": 1792917712.1640139,
-  "3b471ce739cdfaee": 1792917712.1640139,
   "b6a6a96bcf4fa509": 1792919532.9599752,
   "bed3a77df817a9cf": 1792919532.9599752,
   "77a4d6cd901bbd80": 1792919532.9599752,
@@ -2541,10 +2537,17 @@
   "3031c148fc79582a": 1794121779.0892472,
   "f3cd59843999b92e": 1794125431.7643335,
   "cab464b8e03f819c": 1794126906.361164,
-  "e92ad4852893239c": 1794126906.361164
+  "e92ad4852893239c": 1794126906.361164,
+  "3b99d34a1c87a60f": 1794128912.2347531,
+  "182ac225fee4d383": 1794128912.2347531,
+  "82efb020121a80ee": 1794128912.2347531,
+  "243d88813f0e2a5c": 1794128912.2347531,
+  "162f13418f51bec8": 1794128912.2347531,
+  "7cd031029427a356": 1794128912.2347531,
+  "80e253a9b77e071b": 1794128912.2347531,
+  "04bc225192885e11": 1794128912.2347531
  },
  "recent_headlines": [
-  "በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈጸመ ጥቃት የ38 ሰዎች ሕይወት ማለፉ ተገለጸ (በአርሲ ሮቤ ወረዳ በታጣቂዎች በተፈፀመ ጥቃት 38 ሰዎች መገደላቸውን የተጎጂ ቤተሰቦች እና ነዋሪዎች ተናገሩ)",
   "በኬንያ የሃይማኖት ቡድን መሪ Paul Mackenzie የ200 ዓመት እስራት ተፈረደበት (Kenyan doomsday cult leader given life sentence for murdering 191 people)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ ላይ ሁለት ሀሳቦችን አቀረቡ (PM Abiy Identifies Producing Leadership Succession and Development Continuity as Key to Overcoming Africa’s Political Challenges)",
   "በአውሮፓ በርካታ ሀገራት በተስተዋሉ የቦምብ ዛቻዎች የአየር ትራንስፖርት መስተጓጎል አጋጠመ (Hoax or bomb threats? What we know about flight disruptions across Europe)",
@@ -2583,7 +2586,8 @@
   "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ከመቀላቀሏ በፊት የጥራት ሥርዓቷ ፈተና ተጋረጠበት (Before WTO Entry, Ethiopia’s Quality System Faces a Test)",
   "ከወርቅ ሽያጭ የተገኘው ገቢ የትሬዠሪ ቢል የወለድ ምጣኔን ከፖሊሲ ተመኑ በእጅጉ ያነሰ አደረገው (Gold-fed Cash Drags Treasury Yields Far Below the Policy Rate)",
   "በየመን በሳዑዲ መሪነት በተፈጸመ የአየር ጥቃት ቢያንስ 33 ሰዎች መገደላቸው ተገለጸ (Houthis say at least 33 killed in Saudi air strike)",
-  "ሳዑዲ ዓረቢያ በሪያድ እና በምሥራቃዊ ግዛቷ ላይ የተተኮሱ የሁቲ ሚሳይሎችን ማክሸፏን አስታወቀች (Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province)"
+  "ሳዑዲ ዓረቢያ በሪያድ እና በምሥራቃዊ ግዛቷ ላይ የተተኮሱ የሁቲ ሚሳይሎችን ማክሸፏን አስታወቀች (Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province)",
+  "የአሜሪካ ጦር በኦማን ባሕረ ሰላጤ በሚገኝ የጭነት መርከብ ላይ ጥቃት ፈጸመ (US military attacks cargo ship in the Gulf of Oman)"
  ],
  "posted_at": [
   1793956281.209043,
@@ -2629,6 +2633,7 @@
   1794107520.4217758,
   1794107523.9385521,
   1794110959.997429,
-  1794125460.7181094
+  1794125460.7181094,
+  1794128955.9883792
  ]
 }
