@@ -1,7 +1,5 @@
 {
  "seen": {
-  "c13f64933eacf425": 1792932243.4033403,
-  "3f899a6453c48b1b": 1792932243.4033403,
   "3817d3c13efb89ea": 1792933810.9793427,
   "b403087d1b5432ab": 1792933810.9793427,
   "7814ba9b2779cefb": 1792933810.9793427,
@@ -2527,10 +2525,12 @@
   "d1ca3ef010183243": 1794136040.6607525,
   "131f628f9d48ef20": 1794136040.6607525,
   "1f6598dd5ad3ce2f": 1794139848.6312253,
-  "573a7b97a6be9ed8": 1794139848.6312253
+  "573a7b97a6be9ed8": 1794139848.6312253,
+  "165632ad5f0ba69d": 1794143237.6166782,
+  "b93ac269dbd47a41": 1794143237.6166782,
+  "cf8273d804a84882": 1794143237.6166782
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአፍሪካ የፖለቲካ ፓርቲዎች ጉባኤ ላይ ሁለት ሀሳቦችን አቀረቡ (PM Abiy Identifies Producing Leadership Succession and Development Continuity as Key to Overcoming Africa’s Political Challenges)",
   "በአውሮፓ በርካታ ሀገራት በተስተዋሉ የቦምብ ዛቻዎች የአየር ትራንስፖርት መስተጓጎል አጋጠመ (Hoax or bomb threats? What we know about flight disruptions across Europe)",
   "የታንዛኒያ ፍርድ ቤት በተቃዋሚው መሪ Tundu Lissu ላይ የ4 ዓመት እስራት ፈረደ (Tanzania court jails opposition leader for incitement, lifts treason charge)",
   "በደቡብ ሱዳን በተቀናቃኝ ቡድኖች ግጭት የ70 ሰዎች ሕይወት አለፈ (Daily_Brief: Clashes between rival groups leave about 70 dead in #South_Sudan’s Lakes state)",
@@ -2569,11 +2569,10 @@
   "በየመን በሳዑዲ መሪነት በተፈጸመ የአየር ጥቃት ቢያንስ 33 ሰዎች መገደላቸው ተገለጸ (Houthis say at least 33 killed in Saudi air strike)",
   "ሳዑዲ ዓረቢያ በሪያድ እና በምሥራቃዊ ግዛቷ ላይ የተተኮሱ የሁቲ ሚሳይሎችን ማክሸፏን አስታወቀች (Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province)",
   "የአሜሪካ ጦር በኦማን ባሕረ ሰላጤ በሚገኝ የጭነት መርከብ ላይ ጥቃት ፈጸመ (US military attacks cargo ship in the Gulf of Oman)",
-  "በሪያድ የሚገኘው የ Saudi Aramco ሕንፃ በየመን በኩል በተሰነዘረ ጥቃት ጉዳት ደረሰበት (Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen)"
+  "በሪያድ የሚገኘው የ Saudi Aramco ሕንፃ በየመን በኩል በተሰነዘረ ጥቃት ጉዳት ደረሰበት (Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen)",
+  "በደቡብ አፍሪካ የአካባቢ ምርጫ ገዥው ፓርቲ ANC ከፍተኛ የድምፅ ቅናሽ ገጠመው (South Africa’s ANC suffers setback in local elections)"
  ],
  "posted_at": [
-  1793968713.4619207,
-  1793968716.9706,
   1793972205.8634179,
   1793974242.2943811,
   1793982987.6131408,
@@ -2610,6 +2609,7 @@
   1794110959.997429,
   1794125460.7181094,
   1794128955.9883792,
-  1794130534.2263558
+  1794130534.2263558,
+  1794143272.5678203
  ]
 }
