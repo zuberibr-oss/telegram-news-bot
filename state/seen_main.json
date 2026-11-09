@@ -1,6 +1,5 @@
 {
  "seen": {
-  "de4fc7816f3e3f54": 1793008416.7348843,
   "1d44667322861eb6": 1793009792.6474874,
   "9d4d08c923f327dc": 1793009792.6474874,
   "b95e8e419daa2909": 1793009792.6474874,
@@ -2516,10 +2515,11 @@
   "1128df95f88d9e3a": 1794215536.139916,
   "7f6e2a3780302447": 1794215536.139916,
   "965273e2f2b70b84": 1794216901.6640825,
-  "c46fa3468f72f8ae": 1794216901.6640825
+  "c46fa3468f72f8ae": 1794216901.6640825,
+  "d807e33c2bd2dbfa": 1794218994.8615544,
+  "3c03a1cb4bf5052e": 1794218994.8615544
  },
  "recent_headlines": [
-  "ኳታር አሜሪካ እና ኢራን ጦርነቱን ለማቆም አፋጣኝ የሰላም ስምምነት እንዲያደርጉ ጠየቀች (Iran war live: Qatar says US, Iran should not wait to reach a peace deal)",
   "Donald Trump አሜሪካ በኢራን Qeshm ደሴት ላይ ጥቃት መፈጸሟን አረጋገጡ (Trump confirms new US strikes on Iran’s Qeshm Island)",
   "የእስራኤል ፕሬዝዳንት Isaac Herzog መንግሥት የማዋቀር ኃላፊነት የሚሰጡትን አካል ሊሰይሙ ነው (President Herzog faces key choice as Israel struggles to form government)",
   "የስታንፎርድ ተመራማሪዎች የሰው አንጎል ህዋሳትን በአይጦች ውስጥ በመትከል ስኬታማ ሙከራ አከናወኑ (‘Alien-cortical’ mice: Can human brain cells grow inside animals?)",
@@ -2558,10 +2558,10 @@
   "Marco Rubio በኢራን ላይ የተከፈተው ጦርነት የኑክሌር ሥጋትን ለመግታት አስፈላጊ ነው አሉ (Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat)",
   "ግብጽ፣ ሶማሊያ እና ጅቡቲ በቀይ ባሕር ደኅንነት ላይ ያላቸውን አቋም ገለጹ (Daily_Brief: #Egypt, #Somalia, #Djibouti reaffirm littoral states’ exclusive role in #Red_Sea security)",
   "ኢትዮጵያ 1 ሺህ 584 ዜጎቿን ከሳዑዲ ዓረቢያ መመለሷን ገለጸች (Ethiopia Repatriates 1,584 Citizens from Saudi Arabia in Latest Citizens-First Diplomatic Effort)",
-  "በቱርክ በተካሄደው COP31 ጉባኤ የኢትዮጵያ ፓቪሊዮን በይፋ ተከፈተ (Ethiopia Pavilion Opens at COP31 in Antalya)"
+  "በቱርክ በተካሄደው COP31 ጉባኤ የኢትዮጵያ ፓቪሊዮን በይፋ ተከፈተ (Ethiopia Pavilion Opens at COP31 in Antalya)",
+  "የኳታር ጠቅላይ ሚኒስትር ከDonald Trump ጋር ስለ ኢራን ጉዳይ ሊመክሩ ነው (Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?)"
  ],
  "posted_at": [
-  1794046124.9489412,
   1794051323.4431565,
   1794056937.2600014,
   1794058524.1970603,
@@ -2594,6 +2594,7 @@
   1794198966.3969395,
   1794206865.9877238,
   1794208311.5138936,
-  1794216940.6177454
+  1794216940.6177454,
+  1794219063.7590861
  ]
 }

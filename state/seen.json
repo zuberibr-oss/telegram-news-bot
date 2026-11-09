@@ -1,11 +1,5 @@
 {
  "seen": {
-  "3d87cde32a8e0d34": 1793008245.1176322,
-  "6e8eb0686e1232e9": 1793008245.1176322,
-  "0871951fa5168780": 1793008245.1176322,
-  "36edbc62cb375b11": 1793008245.1176322,
-  "1a2df78a6d9e6691": 1793008245.1176322,
-  "5871f2e91b0a935b": 1793008245.1176322,
   "906fee0620879726": 1793009633.7507257,
   "d0c204a049466a15": 1793009633.7507257,
   "50811d909cc47817": 1793009633.7507257,
@@ -1400,10 +1394,11 @@
   "d9cdbdf049bc827b": 1794215464.0138874,
   "b488192215ed18b6": 1794216844.0948973,
   "c46fa3468f72f8ae": 1794216844.0948973,
-  "965273e2f2b70b84": 1794216844.0948973
+  "965273e2f2b70b84": 1794216844.0948973,
+  "db833deb36cdd07d": 1794218887.448247,
+  "bc3d81edca04dcd5": 1794218887.448247
  },
  "recent_headlines": [
-  "ኢትዮጵያ 1.4 ሚሊዮን አምራቾችን የሚያቅፍ የዲጂታል ቡና ፍለጋ ሥርዓት ዘረጋች (Ethiopia Rolls Out Digital Coffee Traceability System Covering 1.4 Million Producers Ahead of EU Deforestation Rules)",
   "የኢትዮጵያ ኤሌክትሪክ አገልግሎት 11 አዳዲስ የኤሌክትሪክ ተሽከርካሪ ማቻረጃ ጣቢያዎችን አስመረቀ (Ethiopian Electric Utility Opens 11 EV Charging Stations, Expanding Network to 14)",
   "Cooperative Bank of Oromia እና Kifiya «Michu Mizan» የተሰኘ ከወለድ ነፃ የዲጂታል ብድር አቀረቡ (Cooperative Bank of Oromia, Kifiya Launch Sharia-Compliant Digital Financing Product)",
   "ኤርቴል ኬንያ የ5G ፍሪኩዌንሲ ፈቃድ ለማግኘት 65 ሚሊዮን ዶላር ከፈለ (Airtel Kenya spends Sh8.4 billion to secure 100 MHz of 5G spectrum for 25 years)",
@@ -1442,14 +1437,14 @@
   "ኢቲዮ ቴሌኮም በ AI ማሻሻያ አማካኝነት የ4G ፍጥነትን በ40 በመቶ አሻሻለ (Ethio Telecom Reports 40% Faster Peak-Hour 4G After AI Upgrade)",
   "ተቆጣጣሪዎች ባንኮች የውጭ ኢንቨስተሮችን ሀብት በንዑስ ኩባንያ ሳይደራጁ እንዲጠብቁ ሊፈቅዱ ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)",
   "Seacom አፍሪካን ከአስያ የሚያገናኝ የ2 ቢሊዮን ዶላር የባህር ስር ካብል ሊዘረጋ ነው (Kenya’s AI plans hinge on new $2bn Africa-Asia subsea cable)",
-  "የMTN Group የሶስተኛው ሩብ ዓመት ትርፍ በ23 በመቶ አደገ (MTN Group Earnings Outpace Revenue by 22.9% as Nigeria and Ghana Drive Q3 Growth)"
+  "የMTN Group የሶስተኛው ሩብ ዓመት ትርፍ በ23 በመቶ አደገ (MTN Group Earnings Outpace Revenue by 22.9% as Nigeria and Ghana Drive Q3 Growth)",
+  "ኢትዮጵያ የዲጂታል ፋይናንስ እድገትን ያካተተ አዲስ የ GDP ስሌት ይፋ አደረገች (Ethiopia’s GDP Rebase Captures Growth in Digital Financial Services)"
  ],
  "posted_at": [
-  1794044116.1177542,
-  1794046080.6593003,
   1794085701.892151,
   1794107452.2580428,
   1794205140.5625577,
-  1794208266.523115
+  1794208266.523115,
+  1794218994.6043804
  ]
 }
