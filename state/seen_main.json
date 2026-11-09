@@ -1,10 +1,5 @@
 {
  "seen": {
-  "6153b00f9471968b": 1793006537.5910776,
-  "31d98ca628e50a84": 1793006537.5910776,
-  "bc9d6a6749cb4085": 1793006537.5910776,
-  "abe6a7c8cf18e38c": 1793006537.5910776,
-  "645ff15bbc162bab": 1793006537.5910776,
   "de4fc7816f3e3f54": 1793008416.7348843,
   "1d44667322861eb6": 1793009792.6474874,
   "9d4d08c923f327dc": 1793009792.6474874,
@@ -2519,10 +2514,11 @@
   "76e2eacd236302ed": 1794215536.139916,
   "ce448d9c9b539702": 1794215536.139916,
   "1128df95f88d9e3a": 1794215536.139916,
-  "7f6e2a3780302447": 1794215536.139916
+  "7f6e2a3780302447": 1794215536.139916,
+  "965273e2f2b70b84": 1794216901.6640825,
+  "c46fa3468f72f8ae": 1794216901.6640825
  },
  "recent_headlines": [
-  "ዶናልድ ትራምፕ Stephen Millerን የኋይት ሀውስ የጽሕፈት ቤት ኃላፊ አድርገው ሾሙ (Trump says making adviser Stephen Miller White House chief of staff)",
   "ኳታር አሜሪካ እና ኢራን ጦርነቱን ለማቆም አፋጣኝ የሰላም ስምምነት እንዲያደርጉ ጠየቀች (Iran war live: Qatar says US, Iran should not wait to reach a peace deal)",
   "Donald Trump አሜሪካ በኢራን Qeshm ደሴት ላይ ጥቃት መፈጸሟን አረጋገጡ (Trump confirms new US strikes on Iran’s Qeshm Island)",
   "የእስራኤል ፕሬዝዳንት Isaac Herzog መንግሥት የማዋቀር ኃላፊነት የሚሰጡትን አካል ሊሰይሙ ነው (President Herzog faces key choice as Israel struggles to form government)",
@@ -2561,7 +2557,8 @@
   "Donald Trump ከቻይና እና ሩሲያ መሪዎች ጋር ስለ ኢራን ጉዳይ ሊመክሩ ነው (Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’)",
   "Marco Rubio በኢራን ላይ የተከፈተው ጦርነት የኑክሌር ሥጋትን ለመግታት አስፈላጊ ነው አሉ (Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat)",
   "ግብጽ፣ ሶማሊያ እና ጅቡቲ በቀይ ባሕር ደኅንነት ላይ ያላቸውን አቋም ገለጹ (Daily_Brief: #Egypt, #Somalia, #Djibouti reaffirm littoral states’ exclusive role in #Red_Sea security)",
-  "ኢትዮጵያ 1 ሺህ 584 ዜጎቿን ከሳዑዲ ዓረቢያ መመለሷን ገለጸች (Ethiopia Repatriates 1,584 Citizens from Saudi Arabia in Latest Citizens-First Diplomatic Effort)"
+  "ኢትዮጵያ 1 ሺህ 584 ዜጎቿን ከሳዑዲ ዓረቢያ መመለሷን ገለጸች (Ethiopia Repatriates 1,584 Citizens from Saudi Arabia in Latest Citizens-First Diplomatic Effort)",
+  "በቱርክ በተካሄደው COP31 ጉባኤ የኢትዮጵያ ፓቪሊዮን በይፋ ተከፈተ (Ethiopia Pavilion Opens at COP31 in Antalya)"
  ],
  "posted_at": [
   1794046124.9489412,
@@ -2596,6 +2593,7 @@
   1794193909.893701,
   1794198966.3969395,
   1794206865.9877238,
-  1794208311.5138936
+  1794208311.5138936,
+  1794216940.6177454
  ]
 }
