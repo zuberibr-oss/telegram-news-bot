@@ -1,7 +1,5 @@
 {
  "seen": {
-  "70c3cfb44db7833f": 1792983045.4733326,
-  "a9d091e9434e599d": 1792983045.4733326,
   "84cd6a854b548d3b": 1792984643.5204644,
   "e9f28b7c1e2f8b37": 1792984643.5204644,
   "77591a141363f887": 1792984643.5204644,
@@ -2515,10 +2513,11 @@
   "831c6c22bdd837cc": 1794186588.3953123,
   "0852178e0fe97b9e": 1794186588.3953123,
   "c8027d1785eed5f6": 1794188228.5725253,
-  "3f1d9bd64873d3ba": 1794191727.8958395
+  "3f1d9bd64873d3ba": 1794191727.8958395,
+  "bad0d2b63a5de45e": 1794193887.0134325,
+  "4b2f5bd4560805c5": 1794193887.0134325
  },
  "recent_headlines": [
-  "በሱዳን በግጭት ከተፈናቀሉ ሚሊዮኖች መካከል አብዛኞቹ የመጠለያ እርዳታ ሊያጡ እንደሚችሉ ተገለጸ (Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns)",
   "በየመኗ ታኢዝ ግዛት በገበያ ላይ በተሰነዘረ ጥቃት ቢያንስ 30 ሰዎች ተገደሉ (Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market)",
   "ሩሲያ በዩክሬን የምታደርገው የወታደራዊ ግስጋሴ በከፍተኛ ሁኔታ መቀነሱ ተገለጸ (Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold)",
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ ታጣቂዎች በተፈጸመ ጥቃት ቢያንስ 33 ሰዎች ተገደሉ (Armed men kill at least 33 in village in Ebola-hit eastern DRC)",
@@ -2557,7 +2556,8 @@
   "ፓፕ ሊዮ 14ኛ በ40 ዓመታት ውስጥ ለመጀመሪያ ጊዜ አርጀንቲናን ጎበኙ (President Milei welcomes Pope Leo during historic visit to Argentina)",
   "በኢራን እና አሜሪካ ድርድር ላይ ምንም ዓይነት እድገት አለመኖሩን ኢራን ገለጸች (Iran waiting to resume talks after US midterms ‘shock’)",
   "የጀርመኑ ቻንስለር Friedrich Merz Ilse Aignerን የመጀመሪያዋ የሀገሪቱ ሴት ፕሬዝዳንት አድርገው አጩ (Chancellor Merz to nominate Aigner as Germany’s first woman president)",
-  "በሰሜን ኢራቅ በጋዝ ማዕከል ላይ በተፈጸመ ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ (Iran war live: Trump says land blockade in effect; drone cuts power in Iraq)"
+  "በሰሜን ኢራቅ በጋዝ ማዕከል ላይ በተፈጸመ ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ (Iran war live: Trump says land blockade in effect; drone cuts power in Iraq)",
+  "Donald Trump ከቻይና እና ሩሲያ መሪዎች ጋር ስለ ኢራን ጉዳይ ሊመክሩ ነው (Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’)"
  ],
  "posted_at": [
   1794024599.3170857,
@@ -2593,6 +2593,7 @@
   1794177371.474526,
   1794183841.972966,
   1794183845.3945773,
-  1794183848.7920656
+  1794183848.7920656,
+  1794193909.893701
  ]
 }
