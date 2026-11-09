@@ -1,7 +1,5 @@
 {
  "seen": {
-  "90d3700b6b4fe8b8": 1792995986.4079452,
-  "b2975aa23d75c742": 1792995986.4079452,
   "09465284f8399208": 1792998606.9757795,
   "38690cfa91782c8f": 1792998606.9757795,
   "2ffe0e2ff945df21": 1792998606.9757795,
@@ -2510,10 +2508,10 @@
   "6678f62109a2cc68": 1794205140.8035545,
   "26ddb2e0cf0350b3": 1794205140.8035545,
   "f449855e090cecd3": 1794205140.8035545,
-  "a3a39448b4054064": 1794205140.8035545
+  "a3a39448b4054064": 1794205140.8035545,
+  "d5375c27c3db977c": 1794206847.7487204
  },
  "recent_headlines": [
-  "ሩሲያ በዩክሬን የምታደርገው የወታደራዊ ግስጋሴ በከፍተኛ ሁኔታ መቀነሱ ተገለጸ (Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold)",
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ ታጣቂዎች በተፈጸመ ጥቃት ቢያንስ 33 ሰዎች ተገደሉ (Armed men kill at least 33 in village in Ebola-hit eastern DRC)",
   "ዶናልድ ትራምፕ Stephen Millerን የኋይት ሀውስ የጽሕፈት ቤት ኃላፊ አድርገው ሾሙ (Trump says making adviser Stephen Miller White House chief of staff)",
   "ኳታር አሜሪካ እና ኢራን ጦርነቱን ለማቆም አፋጣኝ የሰላም ስምምነት እንዲያደርጉ ጠየቀች (Iran war live: Qatar says US, Iran should not wait to reach a peace deal)",
@@ -2552,7 +2550,8 @@
   "የጀርመኑ ቻንስለር Friedrich Merz Ilse Aignerን የመጀመሪያዋ የሀገሪቱ ሴት ፕሬዝዳንት አድርገው አጩ (Chancellor Merz to nominate Aigner as Germany’s first woman president)",
   "በሰሜን ኢራቅ በጋዝ ማዕከል ላይ በተፈጸመ ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ (Iran war live: Trump says land blockade in effect; drone cuts power in Iraq)",
   "Donald Trump ከቻይና እና ሩሲያ መሪዎች ጋር ስለ ኢራን ጉዳይ ሊመክሩ ነው (Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’)",
-  "Marco Rubio በኢራን ላይ የተከፈተው ጦርነት የኑክሌር ሥጋትን ለመግታት አስፈላጊ ነው አሉ (Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat)"
+  "Marco Rubio በኢራን ላይ የተከፈተው ጦርነት የኑክሌር ሥጋትን ለመግታት አስፈላጊ ነው አሉ (Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat)",
+  "ግብጽ፣ ሶማሊያ እና ጅቡቲ በቀይ ባሕር ደኅንነት ላይ ያላቸውን አቋም ገለጹ (Daily_Brief: #Egypt, #Somalia, #Djibouti reaffirm littoral states’ exclusive role in #Red_Sea security)"
  ],
  "posted_at": [
   1794036984.0955586,
@@ -2587,6 +2586,7 @@
   1794183845.3945773,
   1794183848.7920656,
   1794193909.893701,
-  1794198966.3969395
+  1794198966.3969395,
+  1794206865.9877238
  ]
 }
