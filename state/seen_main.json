@@ -1,25 +1,5 @@
 {
  "seen": {
-  "d6d51d4991e6cc5c": 1793022127.5744722,
-  "6d9fe13083dbba96": 1793022127.5744722,
-  "2b9d58f58dcb0ee3": 1793022127.5744722,
-  "d467f204d72050c8": 1793022127.5744722,
-  "d1c0ec8b39a9c1f2": 1793022127.5744722,
-  "70209d474ff793f6": 1793022127.5744722,
-  "a1543fbaa7e62a54": 1793022127.5744722,
-  "9ada6d0ab01c846e": 1793022127.5744722,
-  "79c5a3b42b4b1fb8": 1793022127.5744722,
-  "894aaff8d8759347": 1793022127.5744722,
-  "29d31f1c3ba2a668": 1793022127.5744722,
-  "3c2bb819aca524f8": 1793022127.5744722,
-  "809a5d64b6ee37be": 1793022127.5744722,
-  "100e48effb050e4d": 1793022127.5744722,
-  "2cc1d6652f88062b": 1793022127.5744722,
-  "91fd43c5dd1f9f7b": 1793022127.5744722,
-  "141a7540ca7db89c": 1793022127.5744722,
-  "7a3946f6ff86b15c": 1793022127.5744722,
-  "186d8ce11b956132": 1793022127.5744722,
-  "90765eb332878b89": 1793022127.5744722,
   "bd87e22fe2e555fa": 1793026964.629822,
   "804d540da420a8ef": 1793026964.629822,
   "0cfc84b38e930739": 1793026964.629822,
@@ -2522,10 +2502,14 @@
   "1e1e274c96629966": 1794227831.36303,
   "a92f3f0daa9408ef": 1794227831.36303,
   "cadaa0d6eca29586": 1794231323.1450908,
-  "c2f09792c537a3c0": 1794231323.1450908
+  "c2f09792c537a3c0": 1794231323.1450908,
+  "14ded419339278b0": 1794233402.2183862,
+  "7f06d2d3a782bb7b": 1794233402.2183862,
+  "a7c5e28e89ec7de1": 1794233402.2183862,
+  "818299631fc036eb": 1794233402.2183862,
+  "6c5ed1e003ec01d5": 1794233402.2183862
  },
  "recent_headlines": [
-  "የእስራኤል ፕሬዝዳንት Isaac Herzog መንግሥት የማዋቀር ኃላፊነት የሚሰጡትን አካል ሊሰይሙ ነው (President Herzog faces key choice as Israel struggles to form government)",
   "የስታንፎርድ ተመራማሪዎች የሰው አንጎል ህዋሳትን በአይጦች ውስጥ በመትከል ስኬታማ ሙከራ አከናወኑ (‘Alien-cortical’ mice: Can human brain cells grow inside animals?)",
   "የፓራጓይ ፕሬዝዳንት Santiago Peña በባንክ ውድቀት ምክንያት ከሥልጣን ተነሱ (Paraguay's President Santiago Peña impeached and arrested after bank collapse)",
   "የብልፅግና ፓርቲ የአፍሪካ ፖለቲካ ፓርቲዎች ኢኒሼቲቭን በሊቀመንበርነት እንዲመራ ተመረጠ (Ethiopia’s Ruling Prosperity Party Unanimously Elected to Lead African Political Parties Initiative)",
@@ -2564,7 +2548,8 @@
   "ኢትዮጵያ 1 ሺህ 584 ዜጎቿን ከሳዑዲ ዓረቢያ መመለሷን ገለጸች (Ethiopia Repatriates 1,584 Citizens from Saudi Arabia in Latest Citizens-First Diplomatic Effort)",
   "በቱርክ በተካሄደው COP31 ጉባኤ የኢትዮጵያ ፓቪሊዮን በይፋ ተከፈተ (Ethiopia Pavilion Opens at COP31 in Antalya)",
   "የኳታር ጠቅላይ ሚኒስትር ከDonald Trump ጋር ስለ ኢራን ጉዳይ ሊመክሩ ነው (Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?)",
-  "ሩሲያ እና ዩክሬን በሰነዘሯቸው የሌሊት ጥቃቶች የሩሲያ ሁለተኛው ትልቅ የነዳጅ ማጣሪያ ተመታ (At least four killed as Russia and Ukraine trade strikes overnight)"
+  "ሩሲያ እና ዩክሬን በሰነዘሯቸው የሌሊት ጥቃቶች የሩሲያ ሁለተኛው ትልቅ የነዳጅ ማጣሪያ ተመታ (At least four killed as Russia and Ukraine trade strikes overnight)",
+  "ሶሪያ ወደ ሳዑዲ ዓረቢያ ወታደራዊ አማካሪዎችን እና ልዩ ኃይሎችን መላኳ ተገለጸ (Syria confirms sending troops to Saudi Arabia amid battle against Houthis)"
  ],
  "posted_at": [
   1794064062.6632845,
@@ -2598,6 +2583,7 @@
   1794208311.5138936,
   1794216940.6177454,
   1794219063.7590861,
-  1794224154.179849
+  1794224154.179849,
+  1794233449.6599529
  ]
 }
