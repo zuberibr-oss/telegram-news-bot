@@ -1384,10 +1384,12 @@
   "2184bece438451ee": 1794191669.8936708,
   "876538737c8113ed": 1794195276.8504105,
   "7333a26c6b5b9710": 1794198866.5832474,
-  "38bd20357e076ac4": 1794202477.4732642
+  "38bd20357e076ac4": 1794202477.4732642,
+  "67f6f0fb80a7f471": 1794205030.985988,
+  "4779d0e25cdf20c1": 1794205030.985988,
+  "63f307fb80e16d60": 1794205030.985988
  },
  "recent_headlines": [
-  "ባይናንስ የ6.3 ቢሊዮን ዶላር የክሪፕቶፕረንሲ ሳይበር ጥቃት አስተናገደ (Binance hit by $6.3bn crypto-currency hack)",
   "የAirtel Africa የግማሽ ዓመት የተጣራ ትርፍ በ20 በመቶ አድጎ 452 ሚሊዮን ዶላር ደረሰ (Airtel Africa half-year profit rises 20% to $452m)",
   "ኢትዮጵያ 1.4 ሚሊዮን አምራቾችን የሚያቅፍ የዲጂታል ቡና ፍለጋ ሥርዓት ዘረጋች (Ethiopia Rolls Out Digital Coffee Traceability System Covering 1.4 Million Producers Ahead of EU Deforestation Rules)",
   "የኢትዮጵያ ኤሌክትሪክ አገልግሎት 11 አዳዲስ የኤሌክትሪክ ተሽከርካሪ ማቻረጃ ጣቢያዎችን አስመረቀ (Ethiopian Electric Utility Opens 11 EV Charging Stations, Expanding Network to 14)",
@@ -1426,13 +1428,15 @@
   "የኬንያ ማዕከላዊ ባንክ በ AI የሚመሩ የዲጂታል ብድር ውሳኔዎችን የሚቆጣጠር አዲስ መመሪያ አወጣ (Kenya’s new lending rules put AI-driven credit decisions and borrower assessments under scrutiny)",
   "Ahadu Bank ከታክስ በፊት 1.07 ቢሊዮን ብር ትርፍ ማግኘቱን አስታወቀ (Ahadu Bank records 1.07 billion birr pre-tax profit)",
   "ኢቲዮ ቴሌኮም በ AI ማሻሻያ አማካኝነት የ4G ፍጥነትን በ40 በመቶ አሻሻለ (Ethio Telecom Reports 40% Faster Peak-Hour 4G After AI Upgrade)",
-  "ተቆጣጣሪዎች ባንኮች የውጭ ኢንቨስተሮችን ሀብት በንዑስ ኩባንያ ሳይደራጁ እንዲጠብቁ ሊፈቅዱ ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)"
+  "ተቆጣጣሪዎች ባንኮች የውጭ ኢንቨስተሮችን ሀብት በንዑስ ኩባንያ ሳይደራጁ እንዲጠብቁ ሊፈቅዱ ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)",
+  "Seacom አፍሪካን ከአስያ የሚያገናኝ የ2 ቢሊዮን ዶላር የባህር ስር ካብል ሊዘረጋ ነው (Kenya’s AI plans hinge on new $2bn Africa-Asia subsea cable)"
  ],
  "posted_at": [
   1794042500.9501035,
   1794044116.1177542,
   1794046080.6593003,
   1794085701.892151,
-  1794107452.2580428
+  1794107452.2580428,
+  1794205140.5625577
  ]
 }
