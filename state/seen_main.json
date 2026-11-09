@@ -1,12 +1,5 @@
 {
  "seen": {
-  "480c3bd0542eb227": 1793033083.3921332,
-  "ebea4f11bb5657d5": 1793033083.3921332,
-  "0b85beaca7288dbf": 1793033083.3921332,
-  "6b900f6778ae960a": 1793033083.3921332,
-  "4b001047367660f3": 1793033083.3921332,
-  "037d74ae3afbd18e": 1793033083.3921332,
-  "137f3c39acacae04": 1793033083.3921332,
   "c2323c1890ee9f32": 1793034707.0385342,
   "94f3a3d0711f4fb0": 1793034707.0385342,
   "b4d4c04fbb61b240": 1793034707.0385342,
@@ -2506,10 +2499,17 @@
   "3addeb734ede592c": 1794240582.572878,
   "8b8ae1b006855487": 1794240582.572878,
   "5ca2123511522a55": 1794240582.572878,
-  "686256a0f8886026": 1794242094.1249352
+  "686256a0f8886026": 1794242094.1249352,
+  "5e934bfc1ab88116": 1794244087.642072,
+  "053d47a9359b4a88": 1794244087.642072,
+  "4bc1c09bbff4df8f": 1794244087.642072,
+  "8721e31784205476": 1794244087.642072,
+  "dd9f925276729bfb": 1794244087.642072,
+  "c49026ab6d83fcb5": 1794244087.642072,
+  "d0b7ffaab37cfe95": 1794244087.642072,
+  "4509e542fe579d32": 1794244087.642072
  },
  "recent_headlines": [
-  "ሩሲያ በዩክሬን የኃይል መሠረተ ልማቶች ላይ ባደረሰችው ጥቃት በርካታ ክልሎች ከኤሌክትሪክ ውጪ ሆኑ (Ukraine's power network suffers further damage after fresh Russian strikes)",
   "በጋዛ በተጣለ ብርቱ ዝናብ የ70 ሺህ ተፈናቃዮች ድንኳኖች በውኃ መሸፈናቸው ተገለጸ (Rains flood 70,000 displaced families’ tents in Gaza)",
   "የኢራቅ የውጭ ጉዳይ ሚኒስትር የሀገራቸው ግዛት ጎረቤቶችን ለማጥቃት እየዋለ መሆኑን ገለጹ (Iraq’s FM says external parties using Iraqi soil to attack neighbours)",
   "በፖላንድ ክራኮው ከተማ በተፈጸመ የተኩስ ጥቃት የ5 ሰዎች ሕይወት አለፈ (Casualties reported after shooting in Poland’s Krakow)",
@@ -2548,10 +2548,10 @@
   "ኢትዮጵያ COP32ን ለማስተናገድ እና የአየር ንብረት ኢንቨስትመንትን ለማሳደግ እየሰራች መሆኑ ተገለጸ (Ethiopia Building Global Confidence, Mobilizing Climate Investment Ahead of COP32: Finance Minister)",
   "ኢትዮጵያ በዓባይ እና በቀይ ባሕር ጉዳዮች ላይ ብሔራዊ ጥቅሟን የሚያስጠብቅ የመጀመሪያውን ፎረም አቋቋመች (Itoophiyaan dhimmoota Abbayyaa fi Galaana Diimaa irratti fedhii ishee guddisuuf Fooramii jalqabaa galmeessifte)",
   "ኢራን በሆርሙዝ ሰርጥ አቅራቢያ በሚገኙ ሦስት የነዳጅ ጫኝ መርከቦች ላይ ጥቃት ፈጸመች (IRGC strikes three tankers near Hormuz over ‘US links’)",
-  "በሞያሌ በተከሰተ ግጭት ከ50 ሺህ በላይ ሰዎች ወደ ኬንያ መፈናቀላቸው ተገለጸ (More than 50,000 displaced by deadly Ethiopia border clashes)"
+  "በሞያሌ በተከሰተ ግጭት ከ50 ሺህ በላይ ሰዎች ወደ ኬንያ መፈናቀላቸው ተገለጸ (More than 50,000 displaced by deadly Ethiopia border clashes)",
+  "ፈረንሳይ ኢራን በሱፐርማርኬቶቿ ላይ የሳይበር ጥቃት ፈጽማለች ስትል ከሰሰች (France accuses Iran of supermarket fridge hacking)"
  ],
  "posted_at": [
-  1794071229.9689734,
   1794074952.6953716,
   1794076559.0015392,
   1794085733.101651,
@@ -2584,6 +2584,7 @@
   1794235039.7556014,
   1794238591.2221646,
   1794238594.5760477,
-  1794242125.69745
+  1794242125.69745,
+  1794244147.8667817
  ]
 }
