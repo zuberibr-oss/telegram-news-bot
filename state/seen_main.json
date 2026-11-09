@@ -1,6 +1,5 @@
 {
  "seen": {
-  "ad9d959bf3e92639": 1792971341.4032962,
   "8f025e3c8c5d1c0a": 1792974674.0400388,
   "c1217fbc9236f1e1": 1792974674.0400388,
   "87c0ab09c6bc737f": 1792974674.0400388,
@@ -2514,12 +2513,17 @@
   "6c3844406488ffc2": 1794177309.0048,
   "7347ef130ce49e49": 1794177309.0048,
   "cb955b273db01061": 1794180896.3126554,
-  "f8a33e32c8e50eca": 1794180896.3126554
+  "f8a33e32c8e50eca": 1794180896.3126554,
+  "bb0154199c7d8429": 1794183768.0467277,
+  "11edd95395d89f67": 1794183768.0467277,
+  "15ed40e7a0c834dd": 1794183768.0467277,
+  "b2dbb7b8ed263659": 1794183768.0467277,
+  "1385bc4b423f0bdf": 1794183768.0467277,
+  "3e2634d92209f1bc": 1794183768.0467277,
+  "94d7d6c88286ae1b": 1794183768.0467277,
+  "2444c2d785c4229a": 1794183768.0467277
  },
  "recent_headlines": [
-  "በዩክሬን ዛፖሪዝያ በእርዳታ ማዕከል ላይ በተሰነዘረ ጥቃት የሟቾች ቁጥር 53 ደረሰ (Ukraine raises Zaporizhia aid strike death toll to at least 50)",
-  "ኢትዮጵያ የሀገር ውስጥ ጠቅላላ ምርትን በየሩብ ዓመቱ ለመዘገብ አቅዳለች (Ethiopia plans quarterly GDP reporting under updated economic statistics framework)",
-  "በዩክሬን የተኩስ አቁም ከተደረገ በኋላ ወታደሮችን ለማሰማራት የሚያስችል ልምምድ በፖላንድ እየተካሄደ ነው (European troops prepare for possible post-ceasefire deployment to Ukraine)",
   "በሱዳን በግጭት ከተፈናቀሉ ሚሊዮኖች መካከል አብዛኞቹ የመጠለያ እርዳታ ሊያጡ እንደሚችሉ ተገለጸ (Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns)",
   "በየመኗ ታኢዝ ግዛት በገበያ ላይ በተሰነዘረ ጥቃት ቢያንስ 30 ሰዎች ተገደሉ (Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market)",
   "ሩሲያ በዩክሬን የምታደርገው የወታደራዊ ግስጋሴ በከፍተኛ ሁኔታ መቀነሱ ተገለጸ (Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold)",
@@ -2556,10 +2560,12 @@
   "በደቡብ አፍሪካ የአካባቢ ምርጫ ገዥው ፓርቲ ANC ከፍተኛ የድምፅ ቅናሽ ገጠመው (South Africa’s ANC suffers setback in local elections)",
   "ኢራን አሜሪካ ጥቃቷን ካልገታች «ከባድ አደጋ» እንደሚያጋጥማት ማስጠንቀቂያ ሰጠች (Iran threatens to ‘rain down hell’ if US escalates war)",
   "Nvidia ዋና ሥራ አስፈጻሚውን Jensen Huangን መመርመር መጀመሩን አስታወቀ (US chipmaker Nvidia investigates CEO Jensen Huang over affair)",
-  "ፓፕ ሊዮ 14ኛ በ40 ዓመታት ውስጥ ለመጀመሪያ ጊዜ አርጀንቲናን ጎበኙ (President Milei welcomes Pope Leo during historic visit to Argentina)"
+  "ፓፕ ሊዮ 14ኛ በ40 ዓመታት ውስጥ ለመጀመሪያ ጊዜ አርጀንቲናን ጎበኙ (President Milei welcomes Pope Leo during historic visit to Argentina)",
+  "በኢራን እና አሜሪካ ድርድር ላይ ምንም ዓይነት እድገት አለመኖሩን ኢራን ገለጸች (Iran waiting to resume talks after US midterms ‘shock’)",
+  "የጀርመኑ ቻንስለር Friedrich Merz Ilse Aignerን የመጀመሪያዋ የሀገሪቱ ሴት ፕሬዝዳንት አድርገው አጩ (Chancellor Merz to nominate Aigner as Germany’s first woman president)",
+  "በሰሜን ኢራቅ በጋዝ ማዕከል ላይ በተፈጸመ ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ (Iran war live: Trump says land blockade in effect; drone cuts power in Iraq)"
  ],
  "posted_at": [
-  1794010746.929912,
   1794024599.3170857,
   1794029741.5572388,
   1794031969.8859353,
@@ -2590,6 +2596,9 @@
   1794143272.5678203,
   1794170134.9897978,
   1794177367.900055,
-  1794177371.474526
+  1794177371.474526,
+  1794183841.972966,
+  1794183845.3945773,
+  1794183848.7920656
  ]
 }
