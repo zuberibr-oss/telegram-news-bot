@@ -1,6 +1,5 @@
 {
  "seen": {
-  "c1c0cbae3a30de25": 1793054451.6615365,
   "465c08a72337838b": 1793057888.4164789,
   "81c08b0d648887e2": 1793060995.8921611,
   "951f8479bd9fac6a": 1793060995.8921611,
@@ -2509,10 +2508,14 @@
   "863430a00ca1a892": 1794262059.4324574,
   "9f154e6703fe8dc7": 1794262059.4324574,
   "879bfb0f9348da56": 1794263700.8865316,
-  "a28c4181e4ee0b37": 1794263700.8865316
+  "a28c4181e4ee0b37": 1794263700.8865316,
+  "b4ae2cb7106c7ef8": 1794265621.57928,
+  "009c6381e23c55a7": 1794265621.57928,
+  "9bf32d9f41447adc": 1794265621.57928,
+  "eb4a1ae28ad76476": 1794265621.57928,
+  "6e6046f883456d52": 1794265621.57928
  },
  "recent_headlines": [
-  "የኢራቅ የውጭ ጉዳይ ሚኒስትር የሀገራቸው ግዛት ጎረቤቶችን ለማጥቃት እየዋለ መሆኑን ገለጹ (Iraq’s FM says external parties using Iraqi soil to attack neighbours)",
   "በፖላንድ ክራኮው ከተማ በተፈጸመ የተኩስ ጥቃት የ5 ሰዎች ሕይወት አለፈ (Casualties reported after shooting in Poland’s Krakow)",
   "ኢራን ከመሬት በታች የሚሳይል ማምረቻ እና ማከማቻ ማዕከላትን እየገነባች መሆኑን ገለጸች (Iran’s IRGC says building underground sites for weapons production, storage)",
   "በአዲስ አበባ የተካሄደው የአፍሪካ ፖለቲካ ፓርቲዎች ጉባኤ የ«አዲስ አበባ መግለጫ»ን በማጽደቅ ተጠናቀቀ (African Political Parties Adopt Addis Ababa Declaration, Commit to Advancing Economic Transformation)",
@@ -2551,7 +2554,8 @@
   "ኢራን በሆርሙዝ ሰርጥ አቅራቢያ በሚገኙ ሦስት የነዳጅ ጫኝ መርከቦች ላይ ጥቃት ፈጸመች (IRGC strikes three tankers near Hormuz over ‘US links’)",
   "በሞያሌ በተከሰተ ግጭት ከ50 ሺህ በላይ ሰዎች ወደ ኬንያ መፈናቀላቸው ተገለጸ (More than 50,000 displaced by deadly Ethiopia border clashes)",
   "ፈረንሳይ ኢራን በሱፐርማርኬቶቿ ላይ የሳይበር ጥቃት ፈጽማለች ስትል ከሰሰች (France accuses Iran of supermarket fridge hacking)",
-  "በሳዑዲ ዓረቢያ የምሥራቅ-ምዕራብ የነዳጅ ማስተላለፊያ መስመር ላይ ጥቃት ተፈጸመ (Saudi Arabia reports new attack on key East-West pipeline)"
+  "በሳዑዲ ዓረቢያ የምሥራቅ-ምዕራብ የነዳጅ ማስተላለፊያ መስመር ላይ ጥቃት ተፈጸመ (Saudi Arabia reports new attack on key East-West pipeline)",
+  "Donald Trump ከኢራን ጋር ያለው ጦርነት «በአንድ በኩል መጠናቀቁን» አስታወቁ (Trump calls Iran war ‘effectively over’ after talks with Qatar PM)"
  ],
  "posted_at": [
   1794107513.398077,
@@ -2583,6 +2587,7 @@
   1794238594.5760477,
   1794242125.69745,
   1794244147.8667817,
-  1794263731.77529
+  1794263731.77529,
+  1794265661.4129605
  ]
 }
