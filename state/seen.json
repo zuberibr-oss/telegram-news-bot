@@ -1,7 +1,5 @@
 {
  "seen": {
-  "cc41186587ce854b": 1792998529.7540607,
-  "dff71ba5d97be787": 1792998529.7540607,
   "3103b78911642fd6": 1793001410.591212,
   "de201029b3d86000": 1793001410.591212,
   "a6f676b424d63461": 1793003587.9207106,
@@ -1389,10 +1387,12 @@
   "63f307fb80e16d60": 1794205030.985988,
   "2d112391e1de0ee8": 1794206783.5020747,
   "6678f62109a2cc68": 1794206783.5020747,
-  "0c1ac5a7ce098b70": 1794206783.5020747
+  "0c1ac5a7ce098b70": 1794206783.5020747,
+  "97d02b142d61e837": 1794208184.1124327,
+  "5ca914efdc9418cd": 1794208184.1124327,
+  "1e020c4d65cc59c8": 1794208184.1124327
  },
  "recent_headlines": [
-  "የAirtel Africa የግማሽ ዓመት የተጣራ ትርፍ በ20 በመቶ አድጎ 452 ሚሊዮን ዶላር ደረሰ (Airtel Africa half-year profit rises 20% to $452m)",
   "ኢትዮጵያ 1.4 ሚሊዮን አምራቾችን የሚያቅፍ የዲጂታል ቡና ፍለጋ ሥርዓት ዘረጋች (Ethiopia Rolls Out Digital Coffee Traceability System Covering 1.4 Million Producers Ahead of EU Deforestation Rules)",
   "የኢትዮጵያ ኤሌክትሪክ አገልግሎት 11 አዳዲስ የኤሌክትሪክ ተሽከርካሪ ማቻረጃ ጣቢያዎችን አስመረቀ (Ethiopian Electric Utility Opens 11 EV Charging Stations, Expanding Network to 14)",
   "Cooperative Bank of Oromia እና Kifiya «Michu Mizan» የተሰኘ ከወለድ ነፃ የዲጂታል ብድር አቀረቡ (Cooperative Bank of Oromia, Kifiya Launch Sharia-Compliant Digital Financing Product)",
@@ -1431,7 +1431,8 @@
   "Ahadu Bank ከታክስ በፊት 1.07 ቢሊዮን ብር ትርፍ ማግኘቱን አስታወቀ (Ahadu Bank records 1.07 billion birr pre-tax profit)",
   "ኢቲዮ ቴሌኮም በ AI ማሻሻያ አማካኝነት የ4G ፍጥነትን በ40 በመቶ አሻሻለ (Ethio Telecom Reports 40% Faster Peak-Hour 4G After AI Upgrade)",
   "ተቆጣጣሪዎች ባንኮች የውጭ ኢንቨስተሮችን ሀብት በንዑስ ኩባንያ ሳይደራጁ እንዲጠብቁ ሊፈቅዱ ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)",
-  "Seacom አፍሪካን ከአስያ የሚያገናኝ የ2 ቢሊዮን ዶላር የባህር ስር ካብል ሊዘረጋ ነው (Kenya’s AI plans hinge on new $2bn Africa-Asia subsea cable)"
+  "Seacom አፍሪካን ከአስያ የሚያገናኝ የ2 ቢሊዮን ዶላር የባህር ስር ካብል ሊዘረጋ ነው (Kenya’s AI plans hinge on new $2bn Africa-Asia subsea cable)",
+  "የMTN Group የሶስተኛው ሩብ ዓመት ትርፍ በ23 በመቶ አደገ (MTN Group Earnings Outpace Revenue by 22.9% as Nigeria and Ghana Drive Q3 Growth)"
  ],
  "posted_at": [
   1794042500.9501035,
@@ -1439,6 +1440,7 @@
   1794046080.6593003,
   1794085701.892151,
   1794107452.2580428,
-  1794205140.5625577
+  1794205140.5625577,
+  1794208266.523115
  ]
 }
