@@ -1,7 +1,5 @@
 {
  "seen": {
-  "71183a60b070f8f7": 1793063537.596948,
-  "8498b9c6b2f1e016": 1793063537.596948,
   "31f04e9e8fa6e29d": 1793066007.746973,
   "8abeffae84594ecf": 1793066007.746973,
   "3d323f42038bbc09": 1793066007.746973,
@@ -2523,10 +2521,13 @@
   "d42b8ea99460d0b0": 1794272909.7934167,
   "a0a93ebc8e1da354": 1794272909.7934167,
   "1c393d5b2187948f": 1794272909.7934167,
-  "865a8fc061be88b3": 1794272909.7934167
+  "865a8fc061be88b3": 1794272909.7934167,
+  "df832058022a6ca6": 1794274633.9759328,
+  "d041346697eb540a": 1794274633.9759328,
+  "f39e41a9b8948047": 1794274633.9759328,
+  "28c2cb5fbd51d20d": 1794274633.9759328
  },
  "recent_headlines": [
-  "በፖላንድ ክራኮው ከተማ በተፈጸመ የተኩስ ጥቃት የ5 ሰዎች ሕይወት አለፈ (Casualties reported after shooting in Poland’s Krakow)",
   "ኢራን ከመሬት በታች የሚሳይል ማምረቻ እና ማከማቻ ማዕከላትን እየገነባች መሆኑን ገለጸች (Iran’s IRGC says building underground sites for weapons production, storage)",
   "በአዲስ አበባ የተካሄደው የአፍሪካ ፖለቲካ ፓርቲዎች ጉባኤ የ«አዲስ አበባ መግለጫ»ን በማጽደቅ ተጠናቀቀ (African Political Parties Adopt Addis Ababa Declaration, Commit to Advancing Economic Transformation)",
   "እስራኤል በደቡብ ሊባኖስ የወታደራዊ መንገዶች እና ካምፖች አውታር እየገነባች ነው ተባለ (Israel builds 90km network of military roads across southern Lebanon)",
@@ -2565,7 +2566,8 @@
   "በሞያሌ በተከሰተ ግጭት ከ50 ሺህ በላይ ሰዎች ወደ ኬንያ መፈናቀላቸው ተገለጸ (More than 50,000 displaced by deadly Ethiopia border clashes)",
   "ፈረንሳይ ኢራን በሱፐርማርኬቶቿ ላይ የሳይበር ጥቃት ፈጽማለች ስትል ከሰሰች (France accuses Iran of supermarket fridge hacking)",
   "በሳዑዲ ዓረቢያ የምሥራቅ-ምዕራብ የነዳጅ ማስተላለፊያ መስመር ላይ ጥቃት ተፈጸመ (Saudi Arabia reports new attack on key East-West pipeline)",
-  "Donald Trump ከኢራን ጋር ያለው ጦርነት «በአንድ በኩል መጠናቀቁን» አስታወቁ (Trump calls Iran war ‘effectively over’ after talks with Qatar PM)"
+  "Donald Trump ከኢራን ጋር ያለው ጦርነት «በአንድ በኩል መጠናቀቁን» አስታወቁ (Trump calls Iran war ‘effectively over’ after talks with Qatar PM)",
+  "በአሶሳ ዞን በተፈጸመ ጥቃት ከ65 በላይ ሰዎች መገደላቸውን ነዋሪዎች ገለጹ (Oduu: Haleellaa hidhattoonni Godina Asoosaa keessatti raawwataniin namoonni 65 ol ajjeefamuu jiraattonni himan)"
  ],
  "posted_at": [
   1794107513.398077,
@@ -2598,6 +2600,7 @@
   1794242125.69745,
   1794244147.8667817,
   1794263731.77529,
-  1794265661.4129605
+  1794265661.4129605,
+  1794274666.551404
  ]
 }
