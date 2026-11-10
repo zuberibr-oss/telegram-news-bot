@@ -1,8 +1,5 @@
 {
  "seen": {
-  "b43d577f740d8b2c": 1793079747.156629,
-  "7f55259b9d487ae4": 1793079747.156629,
-  "be2e4ede5128fba5": 1793079747.156629,
   "407d4d44d88ebdaf": 1793082087.033003,
   "0fa38a06a44c549a": 1793082087.033003,
   "cb5510e65a4336b8": 1793084217.8121676,
@@ -2520,10 +2517,14 @@
   "f84f4770512cb5ff": 1794288956.222974,
   "b4c4f2cf4db81943": 1794288956.222974,
   "7f57fec728b0373f": 1794288956.222974,
-  "1ed6da3c6dcbc751": 1794288956.222974
+  "1ed6da3c6dcbc751": 1794288956.222974,
+  "d49b07ca075c0874": 1794291218.4015539,
+  "06bf18b63a49540a": 1794291218.4015539,
+  "3d6aadd6127f1c74": 1794291218.4015539,
+  "d8908e0b059fc864": 1794291218.4015539,
+  "63cf4a9ed326e2fc": 1794291218.4015539
  },
  "recent_headlines": [
-  "ኢራን ከመሬት በታች የሚሳይል ማምረቻ እና ማከማቻ ማዕከላትን እየገነባች መሆኑን ገለጸች (Iran’s IRGC says building underground sites for weapons production, storage)",
   "በአዲስ አበባ የተካሄደው የአፍሪካ ፖለቲካ ፓርቲዎች ጉባኤ የ«አዲስ አበባ መግለጫ»ን በማጽደቅ ተጠናቀቀ (African Political Parties Adopt Addis Ababa Declaration, Commit to Advancing Economic Transformation)",
   "እስራኤል በደቡብ ሊባኖስ የወታደራዊ መንገዶች እና ካምፖች አውታር እየገነባች ነው ተባለ (Israel builds 90km network of military roads across southern Lebanon)",
   "በየመን በተፈጸመ የአየር ጥቃት ቢያንስ 25 ሰዎች መገደላቸውን ሁቲዎች አስታወቁ (Houthis report 25 killed in Yemen strikes)",
@@ -2562,7 +2563,8 @@
   "ፈረንሳይ ኢራን በሱፐርማርኬቶቿ ላይ የሳይበር ጥቃት ፈጽማለች ስትል ከሰሰች (France accuses Iran of supermarket fridge hacking)",
   "በሳዑዲ ዓረቢያ የምሥራቅ-ምዕራብ የነዳጅ ማስተላለፊያ መስመር ላይ ጥቃት ተፈጸመ (Saudi Arabia reports new attack on key East-West pipeline)",
   "Donald Trump ከኢራን ጋር ያለው ጦርነት «በአንድ በኩል መጠናቀቁን» አስታወቁ (Trump calls Iran war ‘effectively over’ after talks with Qatar PM)",
-  "በአሶሳ ዞን በተፈጸመ ጥቃት ከ65 በላይ ሰዎች መገደላቸውን ነዋሪዎች ገለጹ (Oduu: Haleellaa hidhattoonni Godina Asoosaa keessatti raawwataniin namoonni 65 ol ajjeefamuu jiraattonni himan)"
+  "በአሶሳ ዞን በተፈጸመ ጥቃት ከ65 በላይ ሰዎች መገደላቸውን ነዋሪዎች ገለጹ (Oduu: Haleellaa hidhattoonni Godina Asoosaa keessatti raawwataniin namoonni 65 ol ajjeefamuu jiraattonni himan)",
+  "የአውሮፓ የውጭ ጉዳይ ሚኒስትሮች በሩሲያ እና ዩክሬን የሰላም ውይይት ላይ ድርሻ እንዲኖራቸው አሜሪካን ጠየቁ (European diplomats press Rubio for a role in Russia-Ukraine talks)"
  ],
  "posted_at": [
   1794125460.7181094,
@@ -2591,6 +2593,7 @@
   1794244147.8667817,
   1794263731.77529,
   1794265661.4129605,
-  1794274666.551404
+  1794274666.551404,
+  1794291260.153814
  ]
 }
