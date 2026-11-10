@@ -1,12 +1,5 @@
 {
  "seen": {
-  "ca510c39ccfee3a4": 1793128124.4090545,
-  "17b6c298bf88430a": 1793128124.4090545,
-  "cb78d5c0b81f3951": 1793128124.4090545,
-  "0beff385898782ea": 1793128124.4090545,
-  "facd558d582115cf": 1793128124.4090545,
-  "1355081b96906ca5": 1793128124.4090545,
-  "82e6b661b7087b59": 1793128124.4090545,
   "5120dca8b77c3052": 1793129764.1693933,
   "3029fe4e1c7d6cd4": 1793129764.1693933,
   "448f16fb6c95619f": 1793129764.1693933,
@@ -2506,12 +2499,14 @@
   "c0cf565d5eccbae2": 1794337638.4952986,
   "d23ea3502e7e127b": 1794337638.4952986,
   "acb62b94a6bc7658": 1794337638.4952986,
-  "eeb58c79afa9fe7c": 1794337638.4952986
+  "eeb58c79afa9fe7c": 1794337638.4952986,
+  "f9ceb6356b9e3942": 1794339292.9951284,
+  "61cc3b79f4e5a69c": 1794339292.9951284,
+  "c8a515d296b43dc5": 1794339292.9951284,
+  "3c0af6affa566c53": 1794339292.9951284,
+  "b08f64b951384a1d": 1794339292.9951284
  },
  "recent_headlines": [
-  "በደቡብ አፍሪካ የአካባቢ ምርጫ ገዥው ፓርቲ ANC ከፍተኛ የድምፅ ቅናሽ ገጠመው (South Africa’s ANC suffers setback in local elections)",
-  "ኢራን አሜሪካ ጥቃቷን ካልገታች «ከባድ አደጋ» እንደሚያጋጥማት ማስጠንቀቂያ ሰጠች (Iran threatens to ‘rain down hell’ if US escalates war)",
-  "Nvidia ዋና ሥራ አስፈጻሚውን Jensen Huangን መመርመር መጀመሩን አስታወቀ (US chipmaker Nvidia investigates CEO Jensen Huang over affair)",
   "ፓፕ ሊዮ 14ኛ በ40 ዓመታት ውስጥ ለመጀመሪያ ጊዜ አርጀንቲናን ጎበኙ (President Milei welcomes Pope Leo during historic visit to Argentina)",
   "በኢራን እና አሜሪካ ድርድር ላይ ምንም ዓይነት እድገት አለመኖሩን ኢራን ገለጸች (Iran waiting to resume talks after US midterms ‘shock’)",
   "የጀርመኑ ቻንስለር Friedrich Merz Ilse Aignerን የመጀመሪያዋ የሀገሪቱ ሴት ፕሬዝዳንት አድርገው አጩ (Chancellor Merz to nominate Aigner as Germany’s first woman president)",
@@ -2548,7 +2543,10 @@
   "የትራምፕ «የሰላም ቦርድ» እስራኤል ለጋዛ ያደረገችው ሰብዓዊ ምላሽ «በቂ አይደለም» አለ (Board of Peace says Israel's aid response after Gaza floods 'insufficent')",
   "የሶማሊያ የደኅንነት ኃይሎች ጠቅላይ ፍርድ ቤቱን መቆጣጠራቸውን የቀድሞው ዋና ዳኛ ተናገሩ (Security forces seized top court, Somalia’s ex-chief justice says)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከቱርክ ፕሬዝዳንት ኤርዶጋን ጋር ተወያዩ (🇪🇹🇹🇷 PM Abiy Arrives in Antalya, Holds Talks with Turkish President Erdoğan Ahead of COP31)",
-  "ኢራን በኑክሌር ያልሆኑ ሀገራት ስምምነት ላይ ጸንታ እንደምትቀጥል አስታወቀች (Iran backs nuclear treaty even as hardliners raise prospect of bomb)"
+  "ኢራን በኑክሌር ያልሆኑ ሀገራት ስምምነት ላይ ጸንታ እንደምትቀጥል አስታወቀች (Iran backs nuclear treaty even as hardliners raise prospect of bomb)",
+  "የካናዳው Allied Gold በቤኒሻንጉል ጉሙዝ በሚገኘው ኮርሙክ ፕሮጀክት የመጀመሪያውን ወርቅ አመረተ (Ethiopia’s Kurmuk project moves into production, targets commercial operations by year-end)",
+  "የኢትዮጵያ ብሔራዊ ባንክ ባካሄደው 32ኛው የውጭ ምንዛሬ ጨረታ የብር ዋጋ መሸርሸሩ ቀጠለ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
+  "Marco Rubio አሜሪካ በኢራን ላይ ተጨማሪ ከፍተኛ ወታደራዊ ጥቃት ማካሄድ አያስፈልጋትም አሉ (Rubio says no need for major combat operations against Iran)"
  ],
  "posted_at": [
   1794170134.9897978,
@@ -2589,6 +2587,9 @@
   1794332200.7847357,
   1794332204.16819,
   1794332207.568728,
-  1794334189.5748124
+  1794334189.5748124,
+  1794339349.1912267,
+  1794339352.588489,
+  1794339356.0364883
  ]
 }
