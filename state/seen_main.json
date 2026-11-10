@@ -1,11 +1,5 @@
 {
  "seen": {
-  "96bb3c6071937397": 1793087244.495808,
-  "e17abdaea997da9f": 1793087244.495808,
-  "ccfb009d56fc5452": 1793087244.495808,
-  "d8e5f233ff5e7fc4": 1793087244.495808,
-  "bf8049e16a95d2d0": 1793087244.495808,
-  "102a92481f9126e1": 1793087244.495808,
   "e2ebb8cf5d24f35e": 1793089121.967128,
   "ae74e84d8b3124d0": 1793089121.967128,
   "45969e028accdd53": 1793090940.903516,
@@ -2519,11 +2513,11 @@
   "f15282d678ca9a5c": 1794294554.1131592,
   "a858b33d9ac55c01": 1794294554.1131592,
   "1290196462e21d54": 1794296163.702108,
-  "292617c953036e94": 1794296163.702108
+  "292617c953036e94": 1794296163.702108,
+  "e3b8176cfd65b8f8": 1794298321.077286,
+  "4c9843fd1f1c3f34": 1794298321.077286
  },
  "recent_headlines": [
-  "እስራኤል በደቡብ ሊባኖስ የወታደራዊ መንገዶች እና ካምፖች አውታር እየገነባች ነው ተባለ (Israel builds 90km network of military roads across southern Lebanon)",
-  "በየመን በተፈጸመ የአየር ጥቃት ቢያንስ 25 ሰዎች መገደላቸውን ሁቲዎች አስታወቁ (Houthis report 25 killed in Yemen strikes)",
   "አሜሪካ ስለ ኢራን የኑክሌር ፕሮግራም መረጃ ለሚሰጥ የ20 ሚሊዮን USD ሽልማት አዘጋጀች (US offers $20m reward for information about Iran's nuclear programme)",
   "የእስራኤል ፕሬዝዳንት Isaac Herzog አዲሱን መንግሥት የማዋቀር ኃላፊነት ለGadi Eisenkot ሰጡ (Israel’s president picks Eisenkot over Netanyahu to form next government)",
   "የተባበሩት መንግሥታት ወደ ኬንያ ለተፈናቀሉ 50 ሺህ ኢትዮጵያውያን 8.9 ሚሊዮን ዶላር ጠየቀ (Daily_Brief: #UN agencies seek $8.9 million to assist up to 50,000 #Ethiopians displaced into #Kenya)",
@@ -2561,10 +2555,11 @@
   "Donald Trump ከኢራን ጋር ያለው ጦርነት «በአንድ በኩል መጠናቀቁን» አስታወቁ (Trump calls Iran war ‘effectively over’ after talks with Qatar PM)",
   "በአሶሳ ዞን በተፈጸመ ጥቃት ከ65 በላይ ሰዎች መገደላቸውን ነዋሪዎች ገለጹ (Oduu: Haleellaa hidhattoonni Godina Asoosaa keessatti raawwataniin namoonni 65 ol ajjeefamuu jiraattonni himan)",
   "የአውሮፓ የውጭ ጉዳይ ሚኒስትሮች በሩሲያ እና ዩክሬን የሰላም ውይይት ላይ ድርሻ እንዲኖራቸው አሜሪካን ጠየቁ (European diplomats press Rubio for a role in Russia-Ukraine talks)",
-  "ኢትዮጵያ በኦኤሲፒኤስ እና በአውሮፓ ህብረት መካከል ያለው ትብብር ለዕዳ ማቃለያ እና ኢንቨስትመንት ትኩረት እንዲሰጥ ጠየቀች (Ethiopia Presses for OACPS–EU Partnership That Delivers Debt Solutions, Development Finance and Investment)"
+  "ኢትዮጵያ በኦኤሲፒኤስ እና በአውሮፓ ህብረት መካከል ያለው ትብብር ለዕዳ ማቃለያ እና ኢንቨስትመንት ትኩረት እንዲሰጥ ጠየቀች (Ethiopia Presses for OACPS–EU Partnership That Delivers Debt Solutions, Development Finance and Investment)",
+  "የኢትዮጵያ አየር መንገድ ከናይጄሪያው Air Peace ጋር የጋራ የበረራ ስምምነት ተፈራረመ (Ethiopian Airlines and Nigeria’s Air Peace Forge Partnership to Expand Air Connectivity Across Africa and Global Markets)",
+  "ዲሞክራቲክ ሪፐብሊክ ኮንጎ በ66 ወታደሮች ላይ የሞት ፍርድ አስተላለፈች (DR Congo sentences 66 soldiers to death for being 'cowards')"
  ],
  "posted_at": [
-  1794125460.7181094,
   1794128955.9883792,
   1794130534.2263558,
   1794143272.5678203,
@@ -2592,6 +2587,8 @@
   1794265661.4129605,
   1794274666.551404,
   1794291260.153814,
-  1794294595.2798529
+  1794294595.2798529,
+  1794298421.7115288,
+  1794298425.2087
  ]
 }
