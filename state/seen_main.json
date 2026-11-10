@@ -1,9 +1,5 @@
 {
  "seen": {
-  "62a743009f3ede5b": 1793122582.7819064,
-  "f999ca50c0af752e": 1793122582.7819064,
-  "af601a6ce6a5963e": 1793122582.7819064,
-  "94bc25d6f3bbdf15": 1793122582.7819064,
   "aebcbd1194b0dd89": 1793124672.0624716,
   "44b03d19a3ad9642": 1793124672.0624716,
   "31bdf944e12c8bc4": 1793126158.2695124,
@@ -2494,12 +2490,15 @@
   "e1fe5e41ed3157f6": 1794330461.0645838,
   "975b8b15b5e7c41d": 1794330461.0645838,
   "dfb7dc4566a18f12": 1794330461.0645838,
-  "12f191148efe097b": 1794330461.0645838
+  "12f191148efe097b": 1794330461.0645838,
+  "06cfe21680f632be": 1794332133.9520686,
+  "5a152b81370d0214": 1794332133.9520686,
+  "c78a971a30729af2": 1794332133.9520686,
+  "84b70c4114158a71": 1794332133.9520686,
+  "2f8ee38ba769f122": 1794332133.9520686,
+  "303996958120de53": 1794332133.9520686
  },
  "recent_headlines": [
-  "በየመን በሳዑዲ መሪነት በተፈጸመ የአየር ጥቃት ቢያንስ 33 ሰዎች መገደላቸው ተገለጸ (Houthis say at least 33 killed in Saudi air strike)",
-  "ሳዑዲ ዓረቢያ በሪያድ እና በምሥራቃዊ ግዛቷ ላይ የተተኮሱ የሁቲ ሚሳይሎችን ማክሸፏን አስታወቀች (Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province)",
-  "የአሜሪካ ጦር በኦማን ባሕረ ሰላጤ በሚገኝ የጭነት መርከብ ላይ ጥቃት ፈጸመ (US military attacks cargo ship in the Gulf of Oman)",
   "በሪያድ የሚገኘው የ Saudi Aramco ሕንፃ በየመን በኩል በተሰነዘረ ጥቃት ጉዳት ደረሰበት (Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen)",
   "በደቡብ አፍሪካ የአካባቢ ምርጫ ገዥው ፓርቲ ANC ከፍተኛ የድምፅ ቅናሽ ገጠመው (South Africa’s ANC suffers setback in local elections)",
   "ኢራን አሜሪካ ጥቃቷን ካልገታች «ከባድ አደጋ» እንደሚያጋጥማት ማስጠንቀቂያ ሰጠች (Iran threatens to ‘rain down hell’ if US escalates war)",
@@ -2536,7 +2535,10 @@
   "የአዲስ አበባ ከተማ አስተዳደር ከዩኤን-ሀቢታት ጋር የተፈራረመውን የትብብር ስምምነት ወደ ተግባር ሊቀይር ነው (Addis Ababa and UN-Habitat Agree to Turn Urban Development Partnership, Identify Priority Projects into Action)",
   "በአቡ ዳቢ የተካሄደው የሩሲያ፣ ዩክሬን እና አሜሪካ የመጀመሪያ ቀን የሰላም ውይይት መጠናቀቁ ተገለጸ (First day of Ukraine peace talks 'very productive', US says)",
   "በእስራኤል በጋዛ በተፈጸመ ጥቃት ህጻንን ጨምሮ ስድስት ፍልስጤማውያን ተገደሉ (Father, child among six Palestinians killed in Israeli attacks on Gaza)",
-  "አዋሽ ኢንሹራንስ አክሲዮኖቹን በ ESX በመመዝገብ የመጀመሪያው የኢንሹራንስ ኩባንያ ሆነ (Awash insurance joins ESX main market with 6.75 million listed shares)"
+  "አዋሽ ኢንሹራንስ አክሲዮኖቹን በ ESX በመመዝገብ የመጀመሪያው የኢንሹራንስ ኩባንያ ሆነ (Awash insurance joins ESX main market with 6.75 million listed shares)",
+  "የትራምፕ «የሰላም ቦርድ» እስራኤል ለጋዛ ያደረገችው ሰብዓዊ ምላሽ «በቂ አይደለም» አለ (Board of Peace says Israel's aid response after Gaza floods 'insufficent')",
+  "የሶማሊያ የደኅንነት ኃይሎች ጠቅላይ ፍርድ ቤቱን መቆጣጠራቸውን የቀድሞው ዋና ዳኛ ተናገሩ (Security forces seized top court, Somalia’s ex-chief justice says)",
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከቱርክ ፕሬዝዳንት ኤርዶጋን ጋር ተወያዩ (🇪🇹🇹🇷 PM Abiy Arrives in Antalya, Holds Talks with Turkish President Erdoğan Ahead of COP31)"
  ],
  "posted_at": [
   1794170134.9897978,
@@ -2573,6 +2575,9 @@
   1794321393.722081,
   1794323339.3935492,
   1794327046.496096,
-  1794328534.2176292
+  1794328534.2176292,
+  1794332200.7847357,
+  1794332204.16819,
+  1794332207.568728
  ]
 }
