@@ -1,12 +1,5 @@
 {
  "seen": {
-  "cb5510e65a4336b8": 1793084217.8121676,
-  "6ab2bcd062488d42": 1793084217.8121676,
-  "d70a55df20b5d3b3": 1793084217.8121676,
-  "c74fa1ef46bd1b18": 1793084217.8121676,
-  "f5eaffe90f287b1f": 1793084217.8121676,
-  "e1d614be59fa1274": 1793084217.8121676,
-  "d2e76d4863d8ce69": 1793084217.8121676,
   "a8c43bed1c9352a3": 1793085780.1261127,
   "527608a85ff0775a": 1793085780.1261127,
   "fbb894ec68ef069a": 1793085780.1261127,
@@ -2527,10 +2520,12 @@
   "a8fd5e8aad5c4005": 1794292746.9201822,
   "16540a71d8472bc4": 1794292746.9201822,
   "2205e301f7cd5399": 1794292746.9201822,
-  "c7885dedaa022e4b": 1794292746.9201822
+  "c7885dedaa022e4b": 1794292746.9201822,
+  "412f0d844f234010": 1794294554.1131592,
+  "f15282d678ca9a5c": 1794294554.1131592,
+  "a858b33d9ac55c01": 1794294554.1131592
  },
  "recent_headlines": [
-  "በአዲስ አበባ የተካሄደው የአፍሪካ ፖለቲካ ፓርቲዎች ጉባኤ የ«አዲስ አበባ መግለጫ»ን በማጽደቅ ተጠናቀቀ (African Political Parties Adopt Addis Ababa Declaration, Commit to Advancing Economic Transformation)",
   "እስራኤል በደቡብ ሊባኖስ የወታደራዊ መንገዶች እና ካምፖች አውታር እየገነባች ነው ተባለ (Israel builds 90km network of military roads across southern Lebanon)",
   "በየመን በተፈጸመ የአየር ጥቃት ቢያንስ 25 ሰዎች መገደላቸውን ሁቲዎች አስታወቁ (Houthis report 25 killed in Yemen strikes)",
   "አሜሪካ ስለ ኢራን የኑክሌር ፕሮግራም መረጃ ለሚሰጥ የ20 ሚሊዮን USD ሽልማት አዘጋጀች (US offers $20m reward for information about Iran's nuclear programme)",
@@ -2569,7 +2564,8 @@
   "በሳዑዲ ዓረቢያ የምሥራቅ-ምዕራብ የነዳጅ ማስተላለፊያ መስመር ላይ ጥቃት ተፈጸመ (Saudi Arabia reports new attack on key East-West pipeline)",
   "Donald Trump ከኢራን ጋር ያለው ጦርነት «በአንድ በኩል መጠናቀቁን» አስታወቁ (Trump calls Iran war ‘effectively over’ after talks with Qatar PM)",
   "በአሶሳ ዞን በተፈጸመ ጥቃት ከ65 በላይ ሰዎች መገደላቸውን ነዋሪዎች ገለጹ (Oduu: Haleellaa hidhattoonni Godina Asoosaa keessatti raawwataniin namoonni 65 ol ajjeefamuu jiraattonni himan)",
-  "የአውሮፓ የውጭ ጉዳይ ሚኒስትሮች በሩሲያ እና ዩክሬን የሰላም ውይይት ላይ ድርሻ እንዲኖራቸው አሜሪካን ጠየቁ (European diplomats press Rubio for a role in Russia-Ukraine talks)"
+  "የአውሮፓ የውጭ ጉዳይ ሚኒስትሮች በሩሲያ እና ዩክሬን የሰላም ውይይት ላይ ድርሻ እንዲኖራቸው አሜሪካን ጠየቁ (European diplomats press Rubio for a role in Russia-Ukraine talks)",
+  "ኢትዮጵያ በኦኤሲፒኤስ እና በአውሮፓ ህብረት መካከል ያለው ትብብር ለዕዳ ማቃለያ እና ኢንቨስትመንት ትኩረት እንዲሰጥ ጠየቀች (Ethiopia Presses for OACPS–EU Partnership That Delivers Debt Solutions, Development Finance and Investment)"
  ],
  "posted_at": [
   1794125460.7181094,
@@ -2599,6 +2595,7 @@
   1794263731.77529,
   1794265661.4129605,
   1794274666.551404,
-  1794291260.153814
+  1794291260.153814,
+  1794294595.2798529
  ]
 }
