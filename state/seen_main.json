@@ -1,11 +1,5 @@
 {
  "seen": {
-  "49a98ee85c3e3325": 1793117491.4226427,
-  "53fc70bfbd52b89e": 1793117491.4226427,
-  "dc3c211e5f10bb0b": 1793117491.4226427,
-  "3b14641e302af620": 1793117491.4226427,
-  "8e63acf383efa729": 1793117491.4226427,
-  "ce8657a1225b808f": 1793117491.4226427,
   "0d45a81877ad016f": 1793119076.422783,
   "3852d7ece03e0287": 1793119076.422783,
   "6a53ae2da84e9911": 1793119076.422783,
@@ -2497,10 +2491,11 @@
   "76b69a4102a0c280": 1794326983.192134,
   "d6220379f7363e06": 1794326983.192134,
   "ef39f968b6f933f4": 1794326983.192134,
-  "55e5df780966c172": 1794326983.192134
+  "55e5df780966c172": 1794326983.192134,
+  "7eb1bac1288d2e8a": 1794328498.211079,
+  "b54fe00a36424acb": 1794328498.211079
  },
  "recent_headlines": [
-  "ከወርቅ ሽያጭ የተገኘው ገቢ የትሬዠሪ ቢል የወለድ ምጣኔን ከፖሊሲ ተመኑ በእጅጉ ያነሰ አደረገው (Gold-fed Cash Drags Treasury Yields Far Below the Policy Rate)",
   "በየመን በሳዑዲ መሪነት በተፈጸመ የአየር ጥቃት ቢያንስ 33 ሰዎች መገደላቸው ተገለጸ (Houthis say at least 33 killed in Saudi air strike)",
   "ሳዑዲ ዓረቢያ በሪያድ እና በምሥራቃዊ ግዛቷ ላይ የተተኮሱ የሁቲ ሚሳይሎችን ማክሸፏን አስታወቀች (Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province)",
   "የአሜሪካ ጦር በኦማን ባሕረ ሰላጤ በሚገኝ የጭነት መርከብ ላይ ጥቃት ፈጸመ (US military attacks cargo ship in the Gulf of Oman)",
@@ -2539,7 +2534,8 @@
   "ኢራን በባሊስቲክ ሚሳይሎቿ ላይ ጥላው የነበረውን የ2 ሺህ ኪሎሜትር የርቀት ገደብ አነሳች (Iran lifts 2,000km limit on its ballistic missiles: What that means)",
   "የአዲስ አበባ ከተማ አስተዳደር ከዩኤን-ሀቢታት ጋር የተፈራረመውን የትብብር ስምምነት ወደ ተግባር ሊቀይር ነው (Addis Ababa and UN-Habitat Agree to Turn Urban Development Partnership, Identify Priority Projects into Action)",
   "በአቡ ዳቢ የተካሄደው የሩሲያ፣ ዩክሬን እና አሜሪካ የመጀመሪያ ቀን የሰላም ውይይት መጠናቀቁ ተገለጸ (First day of Ukraine peace talks 'very productive', US says)",
-  "በእስራኤል በጋዛ በተፈጸመ ጥቃት ህጻንን ጨምሮ ስድስት ፍልስጤማውያን ተገደሉ (Father, child among six Palestinians killed in Israeli attacks on Gaza)"
+  "በእስራኤል በጋዛ በተፈጸመ ጥቃት ህጻንን ጨምሮ ስድስት ፍልስጤማውያን ተገደሉ (Father, child among six Palestinians killed in Israeli attacks on Gaza)",
+  "አዋሽ ኢንሹራንስ አክሲዮኖቹን በ ESX በመመዝገብ የመጀመሪያው የኢንሹራንስ ኩባንያ ሆነ (Awash insurance joins ESX main market with 6.75 million listed shares)"
  ],
  "posted_at": [
   1794170134.9897978,
@@ -2575,6 +2571,7 @@
   1794316182.0204635,
   1794321393.722081,
   1794323339.3935492,
-  1794327046.496096
+  1794327046.496096,
+  1794328534.2176292
  ]
 }
