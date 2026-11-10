@@ -1,13 +1,5 @@
 {
  "seen": {
-  "f789e0de4fb0e059": 1793103542.6281023,
-  "d65c747bc307546a": 1793103542.6281023,
-  "79d5dfcf198fb99b": 1793103542.6281023,
-  "b7cbe676d6099f83": 1793103542.6281023,
-  "df384067a887a721": 1793103542.6281023,
-  "3836fb4202cae843": 1793103542.6281023,
-  "436d34b2ee04d96b": 1793103542.6281023,
-  "6ae152b687980a61": 1793103542.6281023,
   "75fb23862f234dee": 1793105533.2100613,
   "3111f18a7b7450b8": 1793105533.2100613,
   "a993cd9bd23b2659": 1793105533.2100613,
@@ -2504,10 +2496,13 @@
   "748d35b6898f2609": 1794312686.7916124,
   "fa616edb46fa6cb8": 1794312686.7916124,
   "abd09caf433dce1d": 1794312686.7916124,
-  "8d842c76db1d62db": 1794312686.7916124
+  "8d842c76db1d62db": 1794312686.7916124,
+  "2b312b53cb7fe2c8": 1794314171.118272,
+  "bf47bb64987ec70d": 1794314171.118272,
+  "ff34ca5984b27ce8": 1794314171.118272,
+  "d13803e2c62a1558": 1794314171.118272
  },
  "recent_headlines": [
-  "የእስራኤል ፕሬዝዳንት Isaac Herzog አዲሱን መንግሥት የማዋቀር ኃላፊነት ለGadi Eisenkot ሰጡ (Israel’s president picks Eisenkot over Netanyahu to form next government)",
   "የተባበሩት መንግሥታት ወደ ኬንያ ለተፈናቀሉ 50 ሺህ ኢትዮጵያውያን 8.9 ሚሊዮን ዶላር ጠየቀ (Daily_Brief: #UN agencies seek $8.9 million to assist up to 50,000 #Ethiopians displaced into #Kenya)",
   "OLA Energy እና TotalEnergies ያደረጉት የውህደት ስምምነት በ COMESA እየተመረመረ ነው (COMESA review looms over OLA–TotalEnergies Ethiopia deal)",
   "አሜሪካ የኢራንን የምድር የጦር መሳሪያ እና ቁሳቁስ ማጓጓዣ መስመሮች የሚዘጋ ግብር ሃይል አቋቋመች (US launches task force to disrupt Iran’s land-based supply routes)",
@@ -2546,7 +2541,8 @@
   "ኢትዮጵያ በኦኤሲፒኤስ እና በአውሮፓ ህብረት መካከል ያለው ትብብር ለዕዳ ማቃለያ እና ኢንቨስትመንት ትኩረት እንዲሰጥ ጠየቀች (Ethiopia Presses for OACPS–EU Partnership That Delivers Debt Solutions, Development Finance and Investment)",
   "የኢትዮጵያ አየር መንገድ ከናይጄሪያው Air Peace ጋር የጋራ የበረራ ስምምነት ተፈራረመ (Ethiopian Airlines and Nigeria’s Air Peace Forge Partnership to Expand Air Connectivity Across Africa and Global Markets)",
   "ዲሞክራቲክ ሪፐብሊክ ኮንጎ በ66 ወታደሮች ላይ የሞት ፍርድ አስተላለፈች (DR Congo sentences 66 soldiers to death for being 'cowards')",
-  "ኢትዮጵያ የጂዲፒ ስሌቷን ማዘመኗን ተከትሎ በአፍሪካ 5ኛዋ ግዙፍ ኢኮኖሚ ሆነች (ኢትዮጵያን በአፍሪካ 5ኛዋ ግዙፍ የኢኮኖሚ ባለቤት ያደረጋት የጂዲፒ ስሌት ለውጥ ለምን አስፈለገ?)"
+  "ኢትዮጵያ የጂዲፒ ስሌቷን ማዘመኗን ተከትሎ በአፍሪካ 5ኛዋ ግዙፍ ኢኮኖሚ ሆነች (ኢትዮጵያን በአፍሪካ 5ኛዋ ግዙፍ የኢኮኖሚ ባለቤት ያደረጋት የጂዲፒ ስሌት ለውጥ ለምን አስፈለገ?)",
+  "Donald Trump አሜሪካ በኢራን ጦርነት ያወጣችውን ወጪ እስራኤል እና የባህረ ሰላጤው ሀገራት እንዲተኩ ጠየቁ (Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?)"
  ],
  "posted_at": [
   1794143272.5678203,
@@ -2577,6 +2573,7 @@
   1794294595.2798529,
   1794298421.7115288,
   1794298425.2087,
-  1794306965.8662915
+  1794306965.8662915,
+  1794314205.7745283
  ]
 }
