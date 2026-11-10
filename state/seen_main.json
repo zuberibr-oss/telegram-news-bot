@@ -1,8 +1,5 @@
 {
  "seen": {
-  "75fb23862f234dee": 1793105533.2100613,
-  "3111f18a7b7450b8": 1793105533.2100613,
-  "a993cd9bd23b2659": 1793105533.2100613,
   "38687433ca06feed": 1793107037.5557392,
   "5640ab0ec77c3397": 1793107037.5557392,
   "96c2090e05c42dcf": 1793108645.4394581,
@@ -2500,11 +2497,15 @@
   "2b312b53cb7fe2c8": 1794314171.118272,
   "bf47bb64987ec70d": 1794314171.118272,
   "ff34ca5984b27ce8": 1794314171.118272,
-  "d13803e2c62a1558": 1794314171.118272
+  "d13803e2c62a1558": 1794314171.118272,
+  "51987c55570e42eb": 1794316115.6885028,
+  "7c1119caf54073cc": 1794316115.6885028,
+  "1c09ebbf5c5df0d8": 1794316115.6885028,
+  "167a61d3ba75b3d0": 1794316115.6885028,
+  "b2ae3b7bc5c10e78": 1794316115.6885028,
+  "5a2ee732af9505b9": 1794316115.6885028
  },
  "recent_headlines": [
-  "የተባበሩት መንግሥታት ወደ ኬንያ ለተፈናቀሉ 50 ሺህ ኢትዮጵያውያን 8.9 ሚሊዮን ዶላር ጠየቀ (Daily_Brief: #UN agencies seek $8.9 million to assist up to 50,000 #Ethiopians displaced into #Kenya)",
-  "OLA Energy እና TotalEnergies ያደረጉት የውህደት ስምምነት በ COMESA እየተመረመረ ነው (COMESA review looms over OLA–TotalEnergies Ethiopia deal)",
   "አሜሪካ የኢራንን የምድር የጦር መሳሪያ እና ቁሳቁስ ማጓጓዣ መስመሮች የሚዘጋ ግብር ሃይል አቋቋመች (US launches task force to disrupt Iran’s land-based supply routes)",
   "ባንኮች የውጭ ኢንቨስተሮችን ሀብት በሞግዚትነት እንዲያስተዳድሩ ሊፈቀድላቸው ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)",
   "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ከመቀላቀሏ በፊት የጥራት ሥርዓቷ ፈተና ተጋረጠበት (Before WTO Entry, Ethiopia’s Quality System Faces a Test)",
@@ -2542,10 +2543,11 @@
   "የኢትዮጵያ አየር መንገድ ከናይጄሪያው Air Peace ጋር የጋራ የበረራ ስምምነት ተፈራረመ (Ethiopian Airlines and Nigeria’s Air Peace Forge Partnership to Expand Air Connectivity Across Africa and Global Markets)",
   "ዲሞክራቲክ ሪፐብሊክ ኮንጎ በ66 ወታደሮች ላይ የሞት ፍርድ አስተላለፈች (DR Congo sentences 66 soldiers to death for being 'cowards')",
   "ኢትዮጵያ የጂዲፒ ስሌቷን ማዘመኗን ተከትሎ በአፍሪካ 5ኛዋ ግዙፍ ኢኮኖሚ ሆነች (ኢትዮጵያን በአፍሪካ 5ኛዋ ግዙፍ የኢኮኖሚ ባለቤት ያደረጋት የጂዲፒ ስሌት ለውጥ ለምን አስፈለገ?)",
-  "Donald Trump አሜሪካ በኢራን ጦርነት ያወጣችውን ወጪ እስራኤል እና የባህረ ሰላጤው ሀገራት እንዲተኩ ጠየቁ (Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?)"
+  "Donald Trump አሜሪካ በኢራን ጦርነት ያወጣችውን ወጪ እስራኤል እና የባህረ ሰላጤው ሀገራት እንዲተኩ ጠየቁ (Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?)",
+  "የባሕረ ሰላጤው ሀገራት በኩዌት የጋራ ወታደራዊ ዕዝ መሥሪያ ቤት ለማቋቋም ተስማሙ (Why the GCC is setting up an advanced military command base in Kuwait)",
+  "ኢራን በባሊስቲክ ሚሳይሎቿ ላይ ጥላው የነበረውን የ2 ሺህ ኪሎሜትር የርቀት ገደብ አነሳች (Iran lifts 2,000km limit on its ballistic missiles: What that means)"
  ],
  "posted_at": [
-  1794143272.5678203,
   1794170134.9897978,
   1794177367.900055,
   1794177371.474526,
@@ -2574,6 +2576,8 @@
   1794298421.7115288,
   1794298425.2087,
   1794306965.8662915,
-  1794314205.7745283
+  1794314205.7745283,
+  1794316178.6213741,
+  1794316182.0204635
  ]
 }
