@@ -1,7 +1,5 @@
 {
  "seen": {
-  "e6619cf87de3786e": 1793135243.4132657,
-  "af35652a7d4382a9": 1793135243.4132657,
   "e119f4b2c7062a23": 1793140476.288791,
   "5a962f2929d67fb4": 1793140476.288791,
   "4a6e9e867cf72882": 1793144080.8325138,
@@ -1349,10 +1347,12 @@
   "e5e0b21002d594fa": 1794328450.1549556,
   "4d4b22c19758fa77": 1794330393.7376769,
   "3735f754a28f5de3": 1794330393.7376769,
-  "65803cba6c7892fc": 1794332073.7394664
+  "65803cba6c7892fc": 1794332073.7394664,
+  "3aa6669508e6acb9": 1794344802.1856937,
+  "e485b4dd3eba2436": 1794344802.1856937,
+  "3c0af6affa566c53": 1794344802.1856937
  },
  "recent_headlines": [
-  "በደቡብ አፍሪካ በራንድ የተደገፈው eZAR የስቴብልኮይን አገልግሎት ለህዝብ ክፍት ሆነ (eZAR opens rand stablecoin to SA public)",
   "የናይጄሪያው OPay በኒውዮርክ ሊያካሂደው የነበረው የ4 ቢሊዮን ዶላር IPO ተሰረዘ (The Next Wave: The problem with putting an African fintech on Wall Street)",
   "የኤምቲኤን ናይጄሪያ የፊንቴክ ገቢ በ26% ቀነሰ፤ MoMo ወደ አዲስ መድረክ ተዛወረ (MTN Nigeria moves MoMo to new platform as fintech revenue falls 26%)",
   "ስማርት አፍሪካ ሀገራት አቀፍ የዲጂታል መታወቂያዎችን የሚያገናኝ የሙከራ ፕሮጀክት አጠናቀቀ (The Infrastructure Mechanics of Africa’s First Interoperable Digital Identity Framework)",
@@ -1391,7 +1391,8 @@
   "የVodacom የትርፍ መጠን በ26 በመቶ አደገ (Vodacom profit jumps 26% as Safaricom gains boost earnings)",
   "አዋሽ ኢንሹራንስ በኢትዮጵያ ሰነደ መዋለ ንዋይ ገበያ የተመዘገበ የመጀመሪያው የኢንሹራንስ ተቋም ሆነ (Awash Insurance Becomes First Insurer to List on the Ethiopian Securities Exchange)",
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የገንዘብ ፖሊሲ ማዕቀፍ የሚመራበትን አዲስ መመሪያ አወጣ (NBE’s New Liquidity Rules Open Path Towards Islamic Treasury Instruments)",
-  "ጊኒ በ Mojaloop ቴክኖሎጂ የሚመራውን አገራዊ የቅጽበታዊ ክፍያ ስርዓት ይፋ አደረገች (Guinea Launches National Instant Payment System Powered by Mojaloop)"
+  "ጊኒ በ Mojaloop ቴክኖሎጂ የሚመራውን አገራዊ የቅጽበታዊ ክፍያ ስርዓት ይፋ አደረገች (Guinea Launches National Instant Payment System Powered by Mojaloop)",
+  "በብሔራዊ ባንክ 32ኛው የውጭ ምንዛሬ ሐራጅ የዶላር የምንዛሬ ተመን 159.18 ብር ደረሰ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)"
  ],
  "posted_at": [
   1794205140.5625577,
@@ -1403,6 +1404,7 @@
   1794291218.2329726,
   1794299734.423231,
   1794301794.716436,
-  1794306909.075039
+  1794306909.075039,
+  1794344880.9817212
  ]
 }
