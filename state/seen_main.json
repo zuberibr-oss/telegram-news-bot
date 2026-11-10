@@ -1,7 +1,5 @@
 {
  "seen": {
-  "755c6390393e7672": 1793096000.8736882,
-  "3f145fa86b9bbb11": 1793096000.8736882,
   "15e10789ff1eb61c": 1793097739.4896007,
   "40493270a36af5fc": 1793097739.4896007,
   "dff857a6834f69da": 1793097739.4896007,
@@ -2511,10 +2509,17 @@
   "a3e2cdac82f98a0e": 1794305354.5611231,
   "ab1af5db899ce151": 1794305354.5611231,
   "aab4c9ceaf5c7ab1": 1794305354.5611231,
-  "b04568828678bca7": 1794305354.5611231
+  "b04568828678bca7": 1794305354.5611231,
+  "ad379f24477971d2": 1794306909.2328672,
+  "a3a3cb6960b9cc14": 1794306909.2328672,
+  "4292f1a07bf1ab15": 1794306909.2328672,
+  "e8ed4c5536fca518": 1794306909.2328672,
+  "ca999da5f9fc389b": 1794306909.2328672,
+  "1373b0aed65b10be": 1794306909.2328672,
+  "b566d26b270585a3": 1794306909.2328672,
+  "0843d86d56d72c25": 1794306909.2328672
  },
  "recent_headlines": [
-  "አሜሪካ ስለ ኢራን የኑክሌር ፕሮግራም መረጃ ለሚሰጥ የ20 ሚሊዮን USD ሽልማት አዘጋጀች (US offers $20m reward for information about Iran's nuclear programme)",
   "የእስራኤል ፕሬዝዳንት Isaac Herzog አዲሱን መንግሥት የማዋቀር ኃላፊነት ለGadi Eisenkot ሰጡ (Israel’s president picks Eisenkot over Netanyahu to form next government)",
   "የተባበሩት መንግሥታት ወደ ኬንያ ለተፈናቀሉ 50 ሺህ ኢትዮጵያውያን 8.9 ሚሊዮን ዶላር ጠየቀ (Daily_Brief: #UN agencies seek $8.9 million to assist up to 50,000 #Ethiopians displaced into #Kenya)",
   "OLA Energy እና TotalEnergies ያደረጉት የውህደት ስምምነት በ COMESA እየተመረመረ ነው (COMESA review looms over OLA–TotalEnergies Ethiopia deal)",
@@ -2553,7 +2558,8 @@
   "የአውሮፓ የውጭ ጉዳይ ሚኒስትሮች በሩሲያ እና ዩክሬን የሰላም ውይይት ላይ ድርሻ እንዲኖራቸው አሜሪካን ጠየቁ (European diplomats press Rubio for a role in Russia-Ukraine talks)",
   "ኢትዮጵያ በኦኤሲፒኤስ እና በአውሮፓ ህብረት መካከል ያለው ትብብር ለዕዳ ማቃለያ እና ኢንቨስትመንት ትኩረት እንዲሰጥ ጠየቀች (Ethiopia Presses for OACPS–EU Partnership That Delivers Debt Solutions, Development Finance and Investment)",
   "የኢትዮጵያ አየር መንገድ ከናይጄሪያው Air Peace ጋር የጋራ የበረራ ስምምነት ተፈራረመ (Ethiopian Airlines and Nigeria’s Air Peace Forge Partnership to Expand Air Connectivity Across Africa and Global Markets)",
-  "ዲሞክራቲክ ሪፐብሊክ ኮንጎ በ66 ወታደሮች ላይ የሞት ፍርድ አስተላለፈች (DR Congo sentences 66 soldiers to death for being 'cowards')"
+  "ዲሞክራቲክ ሪፐብሊክ ኮንጎ በ66 ወታደሮች ላይ የሞት ፍርድ አስተላለፈች (DR Congo sentences 66 soldiers to death for being 'cowards')",
+  "ኢትዮጵያ የጂዲፒ ስሌቷን ማዘመኗን ተከትሎ በአፍሪካ 5ኛዋ ግዙፍ ኢኮኖሚ ሆነች (ኢትዮጵያን በአፍሪካ 5ኛዋ ግዙፍ የኢኮኖሚ ባለቤት ያደረጋት የጂዲፒ ስሌት ለውጥ ለምን አስፈለገ?)"
  ],
  "posted_at": [
   1794143272.5678203,
@@ -2583,6 +2589,7 @@
   1794291260.153814,
   1794294595.2798529,
   1794298421.7115288,
-  1794298425.2087
+  1794298425.2087,
+  1794306965.8662915
  ]
 }
