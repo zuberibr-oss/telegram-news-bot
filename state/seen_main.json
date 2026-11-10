@@ -1,12 +1,5 @@
 {
  "seen": {
-  "383aef385f78273e": 1793110485.1619656,
-  "6585838b6adfe770": 1793110485.1619656,
-  "e15f2c8b44947488": 1793110485.1619656,
-  "d2f8f39179fd987e": 1793110485.1619656,
-  "a91a7845629c416a": 1793110485.1619656,
-  "6b523451f3d8cade": 1793110485.1619656,
-  "476d1bc28947406d": 1793110485.1619656,
   "37bdcce091d7e5d8": 1793112340.0678253,
   "2ed13033553ccc45": 1793112340.0678253,
   "f3ce2406acf79501": 1793112340.0678253,
@@ -2509,10 +2502,19 @@
   "9c51efa1f8c79a4c": 1794319738.6071975,
   "8d23ece3ba789f84": 1794319738.6071975,
   "e934126a53f5f514": 1794319738.6071975,
-  "e619b9ea89990f45": 1794319738.6071975
+  "e619b9ea89990f45": 1794319738.6071975,
+  "840632a3b1591339": 1794321332.7746396,
+  "454458b6f61fd20b": 1794321332.7746396,
+  "9c599f4e995a84d7": 1794321332.7746396,
+  "42ba5cd84b3cb695": 1794321332.7746396,
+  "d1fc2f964973ded7": 1794321332.7746396,
+  "237161d62ecd8065": 1794321332.7746396,
+  "be858756252bf3db": 1794321332.7746396,
+  "db9a022b75625d56": 1794321332.7746396,
+  "07c795ab3e7d7c69": 1794321332.7746396,
+  "cf5da04b6ba57906": 1794321332.7746396
  },
  "recent_headlines": [
-  "አሜሪካ የኢራንን የምድር የጦር መሳሪያ እና ቁሳቁስ ማጓጓዣ መስመሮች የሚዘጋ ግብር ሃይል አቋቋመች (US launches task force to disrupt Iran’s land-based supply routes)",
   "ባንኮች የውጭ ኢንቨስተሮችን ሀብት በሞግዚትነት እንዲያስተዳድሩ ሊፈቀድላቸው ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)",
   "ኢትዮጵያ ወደ ዓለም የንግድ ድርጅት ከመቀላቀሏ በፊት የጥራት ሥርዓቷ ፈተና ተጋረጠበት (Before WTO Entry, Ethiopia’s Quality System Faces a Test)",
   "ከወርቅ ሽያጭ የተገኘው ገቢ የትሬዠሪ ቢል የወለድ ምጣኔን ከፖሊሲ ተመኑ በእጅጉ ያነሰ አደረገው (Gold-fed Cash Drags Treasury Yields Far Below the Policy Rate)",
@@ -2551,7 +2553,8 @@
   "ኢትዮጵያ የጂዲፒ ስሌቷን ማዘመኗን ተከትሎ በአፍሪካ 5ኛዋ ግዙፍ ኢኮኖሚ ሆነች (ኢትዮጵያን በአፍሪካ 5ኛዋ ግዙፍ የኢኮኖሚ ባለቤት ያደረጋት የጂዲፒ ስሌት ለውጥ ለምን አስፈለገ?)",
   "Donald Trump አሜሪካ በኢራን ጦርነት ያወጣችውን ወጪ እስራኤል እና የባህረ ሰላጤው ሀገራት እንዲተኩ ጠየቁ (Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?)",
   "የባሕረ ሰላጤው ሀገራት በኩዌት የጋራ ወታደራዊ ዕዝ መሥሪያ ቤት ለማቋቋም ተስማሙ (Why the GCC is setting up an advanced military command base in Kuwait)",
-  "ኢራን በባሊስቲክ ሚሳይሎቿ ላይ ጥላው የነበረውን የ2 ሺህ ኪሎሜትር የርቀት ገደብ አነሳች (Iran lifts 2,000km limit on its ballistic missiles: What that means)"
+  "ኢራን በባሊስቲክ ሚሳይሎቿ ላይ ጥላው የነበረውን የ2 ሺህ ኪሎሜትር የርቀት ገደብ አነሳች (Iran lifts 2,000km limit on its ballistic missiles: What that means)",
+  "የአዲስ አበባ ከተማ አስተዳደር ከዩኤን-ሀቢታት ጋር የተፈራረመውን የትብብር ስምምነት ወደ ተግባር ሊቀይር ነው (Addis Ababa and UN-Habitat Agree to Turn Urban Development Partnership, Identify Priority Projects into Action)"
  ],
  "posted_at": [
   1794170134.9897978,
@@ -2584,6 +2587,7 @@
   1794306965.8662915,
   1794314205.7745283,
   1794316178.6213741,
-  1794316182.0204635
+  1794316182.0204635,
+  1794321393.722081
  ]
 }
