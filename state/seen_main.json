@@ -2493,10 +2493,12 @@
   "552c0e081b61ff76": 1794350137.8952003,
   "a1d2a2e6c1f6561f": 1794350137.8952003,
   "7dd89ac225e7a3fd": 1794350137.8952003,
-  "6699b6e7068921c6": 1794350137.8952003
+  "6699b6e7068921c6": 1794350137.8952003,
+  "a4e8372807f34472": 1794352027.5896528,
+  "69adb644557e8520": 1794352027.5896528,
+  "05101f4bda0b99bd": 1794352027.5896528
  },
  "recent_headlines": [
-  "ፓፕ ሊዮ 14ኛ በ40 ዓመታት ውስጥ ለመጀመሪያ ጊዜ አርጀንቲናን ጎበኙ (President Milei welcomes Pope Leo during historic visit to Argentina)",
   "በኢራን እና አሜሪካ ድርድር ላይ ምንም ዓይነት እድገት አለመኖሩን ኢራን ገለጸች (Iran waiting to resume talks after US midterms ‘shock’)",
   "የጀርመኑ ቻንስለር Friedrich Merz Ilse Aignerን የመጀመሪያዋ የሀገሪቱ ሴት ፕሬዝዳንት አድርገው አጩ (Chancellor Merz to nominate Aigner as Germany’s first woman president)",
   "በሰሜን ኢራቅ በጋዝ ማዕከል ላይ በተፈጸመ ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ (Iran war live: Trump says land blockade in effect; drone cuts power in Iraq)",
@@ -2535,11 +2537,10 @@
   "ኢራን በኑክሌር ያልሆኑ ሀገራት ስምምነት ላይ ጸንታ እንደምትቀጥል አስታወቀች (Iran backs nuclear treaty even as hardliners raise prospect of bomb)",
   "የካናዳው Allied Gold በቤኒሻንጉል ጉሙዝ በሚገኘው ኮርሙክ ፕሮጀክት የመጀመሪያውን ወርቅ አመረተ (Ethiopia’s Kurmuk project moves into production, targets commercial operations by year-end)",
   "የኢትዮጵያ ብሔራዊ ባንክ ባካሄደው 32ኛው የውጭ ምንዛሬ ጨረታ የብር ዋጋ መሸርሸሩ ቀጠለ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
-  "Marco Rubio አሜሪካ በኢራን ላይ ተጨማሪ ከፍተኛ ወታደራዊ ጥቃት ማካሄድ አያስፈልጋትም አሉ (Rubio says no need for major combat operations against Iran)"
+  "Marco Rubio አሜሪካ በኢራን ላይ ተጨማሪ ከፍተኛ ወታደራዊ ጥቃት ማካሄድ አያስፈልጋትም አሉ (Rubio says no need for major combat operations against Iran)",
+  "የNvidia መሪ ከቻይና ሰላይ ጋር አላቸው በተባለው ግንኙነት ላይ ምርመራ ተጀመረ (Nvidia hires major US law firm to investigate alleged Chinese spy affair)"
  ],
  "posted_at": [
-  1794177367.900055,
-  1794177371.474526,
   1794183841.972966,
   1794183845.3945773,
   1794183848.7920656,
@@ -2578,6 +2579,7 @@
   1794334189.5748124,
   1794339349.1912267,
   1794339352.588489,
-  1794339356.0364883
+  1794339356.0364883,
+  1794352067.0340798
  ]
 }
