@@ -1,11 +1,5 @@
 {
  "seen": {
-  "5b0b546b776b52c0": 1793090779.3071673,
-  "5675ddbeda248786": 1793090779.3071673,
-  "cf477a29c33bf84b": 1793090779.3071673,
-  "e678a3dab26c7e96": 1793090779.3071673,
-  "79ed130702a577f3": 1793090779.3071673,
-  "8db210ce9ee0c478": 1793090779.3071673,
   "78771d65d34fe96a": 1793092406.47648,
   "5d44482c4770b6a2": 1793092406.47648,
   "778737d9ca561ed1": 1793092406.47648,
@@ -1408,10 +1402,10 @@
   "8b34843556e75cd7": 1794298231.6270564,
   "e3b8176cfd65b8f8": 1794298231.6270564,
   "5255b5f954ea6465": 1794299660.4468813,
-  "3bbe5df8ead62a17": 1794299660.4468813
+  "3bbe5df8ead62a17": 1794299660.4468813,
+  "c8b1eaa0fd813884": 1794301713.3123713
  },
  "recent_headlines": [
-  "የሜሶብ የአንድ ማዕከል የመንግሥት አገልግሎት ወደ መቀሌ ሊስፋፋ ነው (Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance)",
   "Enza Capital ለአፍሪካ የሰው ሰራሽ አስተዋይነት (AI) ስታርታፖች አዲስ ፈንድ ይፋ አደረገ (Enza Capital wants Africa to build its AI with its new fund)",
   "በደቡብ አፍሪካ በራንድ የተደገፈው eZAR የስቴብልኮይን አገልግሎት ለህዝብ ክፍት ሆነ (eZAR opens rand stablecoin to SA public)",
   "የናይጄሪያው OPay በኒውዮርክ ሊያካሂደው የነበረው የ4 ቢሊዮን ዶላር IPO ተሰረዘ (The Next Wave: The problem with putting an African fintech on Wall Street)",
@@ -1450,7 +1444,8 @@
   "የደቡብ አፍሪካው ፊንቴክ Yoco 100 ሚሊዮን ዶላር የብድር ፈንድ አገኘ (Yoco secures $100 million credit to fuel its merchant lending expansion)",
   "ኢትዮጵያ የመንግሥት ተቋማት መሠረተ ልማታቸውን በብሔራዊ የክላውድ ስትራቴጂ ሥር እንዲያዋህዱ አሳሰበች (Ethiopia presses public institutions to consolidate infrastructure under national cloud strategy)",
   "የVodacom የትርፍ መጠን በ26 በመቶ አደገ (Vodacom profit jumps 26% as Safaricom gains boost earnings)",
-  "አዋሽ ኢንሹራንስ በኢትዮጵያ ሰነደ መዋለ ንዋይ ገበያ የተመዘገበ የመጀመሪያው የኢንሹራንስ ተቋም ሆነ (Awash Insurance Becomes First Insurer to List on the Ethiopian Securities Exchange)"
+  "አዋሽ ኢንሹራንስ በኢትዮጵያ ሰነደ መዋለ ንዋይ ገበያ የተመዘገበ የመጀመሪያው የኢንሹራንስ ተቋም ሆነ (Awash Insurance Becomes First Insurer to List on the Ethiopian Securities Exchange)",
+  "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የገንዘብ ፖሊሲ ማዕቀፍ የሚመራበትን አዲስ መመሪያ አወጣ (NBE’s New Liquidity Rules Open Path Towards Islamic Treasury Instruments)"
  ],
  "posted_at": [
   1794205140.5625577,
@@ -1460,6 +1455,7 @@
   1794238558.07118,
   1794288955.9931018,
   1794291218.2329726,
-  1794299734.423231
+  1794299734.423231,
+  1794301794.716436
  ]
 }
