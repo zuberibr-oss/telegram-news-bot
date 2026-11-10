@@ -1,7 +1,5 @@
 {
  "seen": {
-  "8d3639bcd02388f9": 1793072747.0847242,
-  "6412cb87eaae9d3f": 1793072747.0847242,
   "f4c3778e1cea30bf": 1793074396.1652462,
   "43ad8f3180dea9ce": 1793074396.1652462,
   "c8a1f12ab8945a34": 1793076221.0192432,
@@ -2521,7 +2519,9 @@
   "d11809dd99a3d536": 1794281734.1842039,
   "7d09b02016fa55e7": 1794281734.1842039,
   "236b818bd4ab5cdb": 1794281734.1842039,
-  "efd39d4d181b9aeb": 1794281734.1842039
+  "efd39d4d181b9aeb": 1794281734.1842039,
+  "d4f3e3f393044f22": 1794283758.6895196,
+  "c86afeb21071d26e": 1794283758.6895196
  },
  "recent_headlines": [
   "ኢራን ከመሬት በታች የሚሳይል ማምረቻ እና ማከማቻ ማዕከላትን እየገነባች መሆኑን ገለጸች (Iran’s IRGC says building underground sites for weapons production, storage)",
@@ -2566,7 +2566,6 @@
   "በአሶሳ ዞን በተፈጸመ ጥቃት ከ65 በላይ ሰዎች መገደላቸውን ነዋሪዎች ገለጹ (Oduu: Haleellaa hidhattoonni Godina Asoosaa keessatti raawwataniin namoonni 65 ol ajjeefamuu jiraattonni himan)"
  ],
  "posted_at": [
-  1794110959.997429,
   1794125460.7181094,
   1794128955.9883792,
   1794130534.2263558,
