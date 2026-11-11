@@ -1,7 +1,5 @@
 {
  "seen": {
-  "8e66fe5d55eac2a2": 1793158711.188168,
-  "2047eae5aa1a3a9c": 1793158711.188168,
   "43fad457175d7190": 1793160697.6134748,
   "e921f353fe64a8da": 1793160697.6134748,
   "0b976f48e16bfb06": 1793162235.377206,
@@ -2486,10 +2484,16 @@
   "c6f497fb5ace0c19": 1794366604.4464455,
   "db73fb0266bd7876": 1794368131.0896838,
   "3fbc1df8d231d77b": 1794368131.0896838,
-  "6ce14c3bb8824cd7": 1794368131.0896838
+  "6ce14c3bb8824cd7": 1794368131.0896838,
+  "9dadcaf83c244c3f": 1794370176.1948462,
+  "f09fade8b0d821db": 1794370176.1948462,
+  "91c8c903edeb9e78": 1794370176.1948462,
+  "54ebf9e0f7dd0e5e": 1794370176.1948462,
+  "778329abf012ed54": 1794370176.1948462,
+  "9779720f926bd226": 1794370176.1948462,
+  "1e935549b3e0572a": 1794370176.1948462
  },
  "recent_headlines": [
-  "የጀርመኑ ቻንስለር Friedrich Merz Ilse Aignerን የመጀመሪያዋ የሀገሪቱ ሴት ፕሬዝዳንት አድርገው አጩ (Chancellor Merz to nominate Aigner as Germany’s first woman president)",
   "በሰሜን ኢራቅ በጋዝ ማዕከል ላይ በተፈጸመ ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ (Iran war live: Trump says land blockade in effect; drone cuts power in Iraq)",
   "Donald Trump ከቻይና እና ሩሲያ መሪዎች ጋር ስለ ኢራን ጉዳይ ሊመክሩ ነው (Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’)",
   "Marco Rubio በኢራን ላይ የተከፈተው ጦርነት የኑክሌር ሥጋትን ለመግታት አስፈላጊ ነው አሉ (Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat)",
@@ -2528,7 +2532,8 @@
   "የኢትዮጵያ ብሔራዊ ባንክ ባካሄደው 32ኛው የውጭ ምንዛሬ ጨረታ የብር ዋጋ መሸርሸሩ ቀጠለ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
   "Marco Rubio አሜሪካ በኢራን ላይ ተጨማሪ ከፍተኛ ወታደራዊ ጥቃት ማካሄድ አያስፈልጋትም አሉ (Rubio says no need for major combat operations against Iran)",
   "የNvidia መሪ ከቻይና ሰላይ ጋር አላቸው በተባለው ግንኙነት ላይ ምርመራ ተጀመረ (Nvidia hires major US law firm to investigate alleged Chinese spy affair)",
-  "በትግራይ የሚገኙ ተፈናቃዮች ወደ ቀያቸው የመመለስ ተስፋቸው እየመነመነ መሆኑን ገለጹ (Tigray displaced families fear renewed war as hopes of returning home fade)"
+  "በትግራይ የሚገኙ ተፈናቃዮች ወደ ቀያቸው የመመለስ ተስፋቸው እየመነመነ መሆኑን ገለጹ (Tigray displaced families fear renewed war as hopes of returning home fade)",
+  "Donald Trump አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ለማቆም ማቀዳቸውን አስታወቁ (Section 219: the future of US-Israeli defence partnership)"
  ],
  "posted_at": [
   1794198966.3969395,
@@ -2567,6 +2572,7 @@
   1794339352.588489,
   1794339356.0364883,
   1794352067.0340798,
-  1794361067.817171
+  1794361067.817171,
+  1794370225.6881766
  ]
 }
