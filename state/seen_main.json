@@ -2539,13 +2539,14 @@
   "6d8a13f7e5348a7e": 1794400628.2374425,
   "5a498998980a209e": 1794400628.2374425,
   "b6156c70c123e267": 1794400628.2374425,
-  "7c25fd2ca32db99a": 1794400628.2374425
+  "7c25fd2ca32db99a": 1794400628.2374425,
+  "3087ef823a94d440": 1794402576.93295,
+  "9abb4a8a7602eca4": 1794402576.93295,
+  "9ca6ac07138c5318": 1794402576.93295,
+  "4ba5bccd5e1e720b": 1794402576.93295,
+  "d2df451f7cff9dba": 1794402576.93295
  },
  "recent_headlines": [
-  "Donald Trump ከኢራን ጋር ያለው ጦርነት «በአንድ በኩል መጠናቀቁን» አስታወቁ (Trump calls Iran war ‘effectively over’ after talks with Qatar PM)",
-  "በአሶሳ ዞን በተፈጸመ ጥቃት ከ65 በላይ ሰዎች መገደላቸውን ነዋሪዎች ገለጹ (Oduu: Haleellaa hidhattoonni Godina Asoosaa keessatti raawwataniin namoonni 65 ol ajjeefamuu jiraattonni himan)",
-  "የአውሮፓ የውጭ ጉዳይ ሚኒስትሮች በሩሲያ እና ዩክሬን የሰላም ውይይት ላይ ድርሻ እንዲኖራቸው አሜሪካን ጠየቁ (European diplomats press Rubio for a role in Russia-Ukraine talks)",
-  "ኢትዮጵያ በኦኤሲፒኤስ እና በአውሮፓ ህብረት መካከል ያለው ትብብር ለዕዳ ማቃለያ እና ኢንቨስትመንት ትኩረት እንዲሰጥ ጠየቀች (Ethiopia Presses for OACPS–EU Partnership That Delivers Debt Solutions, Development Finance and Investment)",
   "የኢትዮጵያ አየር መንገድ ከናይጄሪያው Air Peace ጋር የጋራ የበረራ ስምምነት ተፈራረመ (Ethiopian Airlines and Nigeria’s Air Peace Forge Partnership to Expand Air Connectivity Across Africa and Global Markets)",
   "ዲሞክራቲክ ሪፐብሊክ ኮንጎ በ66 ወታደሮች ላይ የሞት ፍርድ አስተላለፈች (DR Congo sentences 66 soldiers to death for being 'cowards')",
   "ኢትዮጵያ የጂዲፒ ስሌቷን ማዘመኗን ተከትሎ በአፍሪካ 5ኛዋ ግዙፍ ኢኮኖሚ ሆነች (ኢትዮጵያን በአፍሪካ 5ኛዋ ግዙፍ የኢኮኖሚ ባለቤት ያደረጋት የጂዲፒ ስሌት ለውጥ ለምን አስፈለገ?)",
@@ -2581,7 +2582,11 @@
   "በሱዳን ከሁለት ሦስተኛ በላይ የሕፃናት ጉዳት በድሮን ጥቃት መከሰቱን ተባበሩት መንግሥታት አስታወቀ (#Daily_Brief: UN says drone strikes account for two-thirds of child casualties in Sudan)",
   "ኢትዮጵያ የአየር ንብረት አደጋዎችን ለመተንበይ ሳተላይት እና አርቲፊሻል ኢንተሊጀንስን እየተጠቀመች መሆኑ ተገለጸ (Satellite Monitoring and Artificial Intelligence Strengthen Ethiopia’s Climate Forecasting – PM Abiy Ahmed)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ2027 በአዲስ አበባ ለሚካሄደው COP32 ጉባኤ ጥሪ አቀረቡ (PM Abiy Extends Official Invitation to Global Community for COP32)",
-  "ኢትዮጵያ የተከለቻቸው ችግኞች ቁጥር 56.8 ቢሊዮን መድረሱን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia’s 56 Billion Seedlings Reflect the Power of Collective Action in Restoring Nature: Prime Minister)"
+  "ኢትዮጵያ የተከለቻቸው ችግኞች ቁጥር 56.8 ቢሊዮን መድረሱን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia’s 56 Billion Seedlings Reflect the Power of Collective Action in Restoring Nature: Prime Minister)",
+  "የአፍሪካ ሕብረት እና ተባበሩት መንግሥታት በሱዳን የተኩስ አቁም ለማውረድ የሚያደርጉትን ቅንጅት ለማጠናከር ተስማሙ (African Union and the UN Intensify Coordination on Ceasefire and Political Resolution of Sudan Crisis)",
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከኳታሩ አሚር ሼክ ታሚም ቢን ሀማድ አል ഥኒ ጋር ተወያዩ (PM Abiy and Qatar’s Amir Review Ways to Advance Longstanding Bilateral Ties and Cooperation)",
+  "ኬንያ የመጨረሻውን የኢቦላ ታካሚ በማዳን ከቫይረሱ ነፃ ለመባል የ42 ቀናት ቆጠራ ጀመረች (Kenya discharges last Ebola patient in major milestone towards virus-free status)",
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከቦትስዋናው ፕሬዝዳንት ዱማ ቦኮ ጋር ተወያዩ (Ethiopia and Botswana Leaders Place Shared Climate Challenges and African Priorities at Centre of COP31 Talks)"
  ],
  "posted_at": [
   1794233449.6599529,
@@ -2631,6 +2636,10 @@
   1794396989.744697,
   1794399236.7522619,
   1794399240.204658,
-  1794400680.0652938
+  1794400680.0652938,
+  1794402668.74247,
+  1794402672.425577,
+  1794402676.1389692,
+  1794402679.7602928
  ]
 }

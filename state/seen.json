@@ -1450,10 +1450,18 @@
   "d7e3468eb19797e7": 1794400552.3714612,
   "2e0ac08335a71eb4": 1794400552.3714612,
   "5e4f2e9a5b5d95fc": 1794400552.3714612,
-  "539d53e41ebc87f9": 1794400552.3714612
+  "539d53e41ebc87f9": 1794400552.3714612,
+  "f19cd059c13646e3": 1794402476.4842155,
+  "d2df451f7cff9dba": 1794402476.4842155,
+  "0c51279cd691b3f7": 1794402476.4842155,
+  "35ed1e52817ffd9b": 1794402476.4842155,
+  "9c0c3f18121e7405": 1794402476.4842155,
+  "9ca6ac07138c5318": 1794402476.4842155,
+  "40ad2e7be96c60ee": 1794402476.4842155,
+  "7adc279386a4bab1": 1794402476.4842155,
+  "0ad1761f4ff876a3": 1794402476.4842155
  },
  "recent_headlines": [
-  "DSRV የኢትዮጵያን ዲጂታል መታወቂያ ከብሎክቼይን ቴክኖሎጂ ጋር ለማያያዝ ከኢትዮጵያ ጋር ተባበረ (DSRV Partners With Ethiopia to Link Digital ID and Blockchain Services)",
   "ጉግል 3 ሚሊዮን አፍሪካውያንን በ AI ለማሰልጠን የሚያስችል አዲስ መድረክ አስመረቀ (Google launches Skilling Africa hub to train 3m in AI by 2030)",
   "Rise of Fearless የቪዲዮ ጨዋታ የ 1 ሚሊዮን USD ኢንቨስትመንት አገኘ (Rise of Fearless raises $1 million ahead of a relaunch)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ተመኑን በ16% እንዳጸና አቆየ (Inflation at 14.9%, and Single Digits Won’t Come in the Next Six Months)",
@@ -1492,7 +1500,8 @@
   "በብሔራዊ ባንክ 32ኛው የውጭ ምንዛሬ ሐራጅ የዶላር የምንዛሬ ተመን 159.18 ብር ደረሰ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
   "ሳምሰንግ በአፍሪካ የስማርትፎን ገበያ ለመጀመሪያ ጊዜ አንደኛ ደረጃን ያዘ (Samsung tops Africa’s smartphone market for the first time)",
   "የቮዳኮም የ1.6 ቢሊዮን ዶላር የሳፋሪኮም አክሲዮን ግዢ ክስ ወደ ይግባኝ ሰሚ ችሎት አመራ (Vodacom’s $1.6bn Safaricom stake heads to appeal)",
-  "Enza Capital በአፍሪካ AI ስታርታፖች ላይ የሚያፈስ የ60 ሚሊዮን USD ፈንድ መሠረተ (African AI startups are starved of funding. Enza Capital is betting $60 million on them)"
+  "Enza Capital በአፍሪካ AI ስታርታፖች ላይ የሚያፈስ የ60 ሚሊዮን USD ፈንድ መሠረተ (African AI startups are starved of funding. Enza Capital is betting $60 million on them)",
+  "የገቢዎች ሚኒስቴር ከ50 ሺህ ብር በላይ በሚያገኙ የዲጂታል ይዘት ፈጣሪዎች ላይ የገቢ ግብር ጣለ (Ministry of Revenues Imposes Income Tax on Digital Content Creators Earning Above 50,000 Birr)"
  ],
  "posted_at": [
   1794231322.9704566,
@@ -1505,6 +1514,7 @@
   1794344880.9817212,
   1794380976.7345345,
   1794388213.6492934,
-  1794393359.0985684
+  1794393359.0985684,
+  1794402576.68149
  ]
 }
