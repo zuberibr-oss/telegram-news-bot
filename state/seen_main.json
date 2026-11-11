@@ -1,13 +1,5 @@
 {
  "seen": {
-  "00356e2ced123b2a": 1793168152.21549,
-  "c32bf2870bb9795a": 1793168152.21549,
-  "87b3ecc4194d53da": 1793168152.21549,
-  "7c813b1955cefab4": 1793168152.21549,
-  "e008a989ea9c88c8": 1793168152.21549,
-  "208a477a170893cb": 1793168152.21549,
-  "395c71f2a5773f5f": 1793168152.21549,
-  "eca9b5bc14f5e0c0": 1793168152.21549,
   "4c6c9bab50547fe0": 1793169775.7562757,
   "76069a8ed5f600a7": 1793169775.7562757,
   "963f74bdbbae6f12": 1793169775.7562757,
@@ -2494,10 +2486,11 @@
   "830683216091a9ad": 1794375336.3904843,
   "ad8e9020724b45b7": 1794375336.3904843,
   "f268980de22db2d0": 1794377626.9057124,
-  "0859369123969d2d": 1794377626.9057124
+  "0859369123969d2d": 1794377626.9057124,
+  "c1eef3a228195473": 1794379186.707036,
+  "29a82f04e5482ba8": 1794379186.707036
  },
  "recent_headlines": [
-  "Marco Rubio በኢራን ላይ የተከፈተው ጦርነት የኑክሌር ሥጋትን ለመግታት አስፈላጊ ነው አሉ (Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat)",
   "ግብጽ፣ ሶማሊያ እና ጅቡቲ በቀይ ባሕር ደኅንነት ላይ ያላቸውን አቋም ገለጹ (Daily_Brief: #Egypt, #Somalia, #Djibouti reaffirm littoral states’ exclusive role in #Red_Sea security)",
   "ኢትዮጵያ 1 ሺህ 584 ዜጎቿን ከሳዑዲ ዓረቢያ መመለሷን ገለጸች (Ethiopia Repatriates 1,584 Citizens from Saudi Arabia in Latest Citizens-First Diplomatic Effort)",
   "በቱርክ በተካሄደው COP31 ጉባኤ የኢትዮጵያ ፓቪሊዮን በይፋ ተከፈተ (Ethiopia Pavilion Opens at COP31 in Antalya)",
@@ -2536,7 +2529,8 @@
   "በትግራይ የሚገኙ ተፈናቃዮች ወደ ቀያቸው የመመለስ ተስፋቸው እየመነመነ መሆኑን ገለጹ (Tigray displaced families fear renewed war as hopes of returning home fade)",
   "Donald Trump አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ለማቆም ማቀዳቸውን አስታወቁ (Section 219: the future of US-Israeli defence partnership)",
   "ሩሲያ በሌኒንግራድ ክልል የተሰነዘሩ 146 የድሮን ጥቃቶችን ማክሸፏን ገለጸች (Russia claims interception of 146 drones in Leningrad region)",
-  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ በኢቦላ ቫይረስ የተያዙ ሰዎች ቁጥር ከ11 ሺህ አለፈ (Ebola cases in DR Congo pass 11,000, with 5,387 deaths)"
+  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ በኢቦላ ቫይረስ የተያዙ ሰዎች ቁጥር ከ11 ሺህ አለፈ (Ebola cases in DR Congo pass 11,000, with 5,387 deaths)",
+  "ሴናተር Ted Cruz የአሜሪካ አምባሳደር ተሿሚው ሶማሊላንድን እንዲያውቁ ጫና አደረጉ (Daily_Brief: Senator Ted Cruz pressures #US ambassador nominee to back #Somaliland recognition)"
  ],
  "posted_at": [
   1794206865.9877238,
@@ -2577,6 +2571,7 @@
   1794361067.817171,
   1794370225.6881766,
   1794373766.014085,
-  1794373769.467754
+  1794373769.467754,
+  1794379212.5244515
  ]
 }
