@@ -1,10 +1,5 @@
 {
  "seen": {
-  "21c62eae51ba0e0f": 1793171667.9332669,
-  "791c59a6ca332aff": 1793171667.9332669,
-  "82187421a92d5270": 1793171667.9332669,
-  "1ff68325864f23b9": 1793171667.9332669,
-  "4f89e44150406dd5": 1793171667.9332669,
   "806674357c059b52": 1793187713.1966336,
   "8e6a8f4be8383b27": 1793207688.0653465,
   "978beed8bdda4cd6": 1793213028.7665904,
@@ -2483,10 +2478,12 @@
   "0859369123969d2d": 1794377626.9057124,
   "c1eef3a228195473": 1794379186.707036,
   "29a82f04e5482ba8": 1794379186.707036,
-  "de80fbe28964a242": 1794380976.987482
+  "de80fbe28964a242": 1794380976.987482,
+  "82a59a0517895f06": 1794382525.901803,
+  "43e50769d2966a71": 1794382525.901803,
+  "6a3cd9859bf18485": 1794382525.901803
  },
  "recent_headlines": [
-  "ግብጽ፣ ሶማሊያ እና ጅቡቲ በቀይ ባሕር ደኅንነት ላይ ያላቸውን አቋም ገለጹ (Daily_Brief: #Egypt, #Somalia, #Djibouti reaffirm littoral states’ exclusive role in #Red_Sea security)",
   "ኢትዮጵያ 1 ሺህ 584 ዜጎቿን ከሳዑዲ ዓረቢያ መመለሷን ገለጸች (Ethiopia Repatriates 1,584 Citizens from Saudi Arabia in Latest Citizens-First Diplomatic Effort)",
   "በቱርክ በተካሄደው COP31 ጉባኤ የኢትዮጵያ ፓቪሊዮን በይፋ ተከፈተ (Ethiopia Pavilion Opens at COP31 in Antalya)",
   "የኳታር ጠቅላይ ሚኒስትር ከDonald Trump ጋር ስለ ኢራን ጉዳይ ሊመክሩ ነው (Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?)",
@@ -2525,10 +2522,10 @@
   "Donald Trump አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ለማቆም ማቀዳቸውን አስታወቁ (Section 219: the future of US-Israeli defence partnership)",
   "ሩሲያ በሌኒንግራድ ክልል የተሰነዘሩ 146 የድሮን ጥቃቶችን ማክሸፏን ገለጸች (Russia claims interception of 146 drones in Leningrad region)",
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ በኢቦላ ቫይረስ የተያዙ ሰዎች ቁጥር ከ11 ሺህ አለፈ (Ebola cases in DR Congo pass 11,000, with 5,387 deaths)",
-  "ሴናተር Ted Cruz የአሜሪካ አምባሳደር ተሿሚው ሶማሊላንድን እንዲያውቁ ጫና አደረጉ (Daily_Brief: Senator Ted Cruz pressures #US ambassador nominee to back #Somaliland recognition)"
+  "ሴናተር Ted Cruz የአሜሪካ አምባሳደር ተሿሚው ሶማሊላንድን እንዲያውቁ ጫና አደረጉ (Daily_Brief: Senator Ted Cruz pressures #US ambassador nominee to back #Somaliland recognition)",
+  "ኢትዮጵያ በቻይና እና ደቡብ አሜሪካ መካከል የአየር ጭነት ማጓጓዣ ማዕከል ሆነች (Daily_Brief: #Ethiopia becomes key link in new #China–#South_America cargo routes through Addis Abeba)"
  ],
  "posted_at": [
-  1794208311.5138936,
   1794216940.6177454,
   1794219063.7590861,
   1794224154.179849,
@@ -2566,6 +2563,7 @@
   1794370225.6881766,
   1794373766.014085,
   1794373769.467754,
-  1794379212.5244515
+  1794379212.5244515,
+  1794382558.2409475
  ]
 }
