@@ -1,7 +1,5 @@
 {
  "seen": {
-  "2de9b5ccf2378cea": 1793226952.2566404,
-  "48449938dd3d0001": 1793226952.2566404,
   "b6c2b8092f9ee23a": 1793228964.5071685,
   "0134af7636038f6d": 1793230585.242596,
   "7ae183f27d635080": 1793233421.5306258,
@@ -2535,10 +2533,13 @@
   "6edb90da072b90d0": 1794432946.8042858,
   "1e3ccc9686463a63": 1794432946.8042858,
   "fbdd4ab291ebbc1d": 1794432946.8042858,
-  "0e4ced543643be19": 1794434895.6410947
+  "0e4ced543643be19": 1794434895.6410947,
+  "9391a12fd15415b4": 1794438450.5408244,
+  "5fd7a0e6665e833d": 1794438450.5408244,
+  "bba919ff9b13cae1": 1794438450.5408244,
+  "87f71cbfcdf8e18d": 1794438450.5408244
  },
  "recent_headlines": [
-  "የአዲስ አበባ ከተማ አስተዳደር ከዩኤን-ሀቢታት ጋር የተፈራረመውን የትብብር ስምምነት ወደ ተግባር ሊቀይር ነው (Addis Ababa and UN-Habitat Agree to Turn Urban Development Partnership, Identify Priority Projects into Action)",
   "በአቡ ዳቢ የተካሄደው የሩሲያ፣ ዩክሬን እና አሜሪካ የመጀመሪያ ቀን የሰላም ውይይት መጠናቀቁ ተገለጸ (First day of Ukraine peace talks 'very productive', US says)",
   "በእስራኤል በጋዛ በተፈጸመ ጥቃት ህጻንን ጨምሮ ስድስት ፍልስጤማውያን ተገደሉ (Father, child among six Palestinians killed in Israeli attacks on Gaza)",
   "አዋሽ ኢንሹራንስ አክሲዮኖቹን በ ESX በመመዝገብ የመጀመሪያው የኢንሹራንስ ኩባንያ ሆነ (Awash insurance joins ESX main market with 6.75 million listed shares)",
@@ -2577,11 +2578,10 @@
   "ሱዳን በኬንያ ሻይ ላይ ጥላው የነበረውን የ20 ወራት እግድ አነሳች (Daily_Brief - #Sudan lifts 20-month ban on Kenyan tea imports due to #Nairobi’s alleged support for #RSF)",
   "በኢትዮጵያ እና በኤርትራ መካከል ያለው ውጥረት ቀጠናውን እንዳያደፈርሰው ጂ7 አሳሰበ (Walitti bu’iinsi Itoophiyaa fi Eertiraa naannawaa tasgabbii dhabsiisuu danda’a jechuun G7 akeekkachiise)",
   "የኦፔክ አባል ሀገራት የነዳጅ ምርት ከኢራን ጦርነት በፊት ወደነበረበት ደረጃ መጠጋቱ ተገለጸ (Oil production nears pre-Iran war levels, OPEC says)",
-  "የሆርሙዝ ሰርጥ ወደ ነበረበት ሁኔታ አይመለስም ሲሉ የኢራን ምክር ቤት አፈ ጉባኤ ተናገሩ (Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says)"
+  "የሆርሙዝ ሰርጥ ወደ ነበረበት ሁኔታ አይመለስም ሲሉ የኢራን ምክር ቤት አፈ ጉባኤ ተናገሩ (Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says)",
+  "ኢትዮጵያ ኤርትራ እና ሱዳን የታጠቁ ቡድኖችን እየደገፉ መሆኑን ለተባበሩት መንግሥታት አስታወቀች (News: Ethiopia tells UN envoy Eritrea, Sudan backing armed groups and drone attacks)"
  ],
  "posted_at": [
-  1794263731.77529,
-  1794265661.4129605,
   1794274666.551404,
   1794291260.153814,
   1794294595.2798529,
@@ -2630,6 +2630,7 @@
   1794406157.6077735,
   1794413407.783568,
   1794431229.68681,
-  1794432985.578945
+  1794432985.578945,
+  1794438484.3596385
  ]
 }
