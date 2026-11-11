@@ -1,6 +1,5 @@
 {
  "seen": {
-  "a0de211d7fed3c70": 1793149859.43201,
   "8b32e97d0ae43c6f": 1793151479.451315,
   "fda39921592bda6b": 1793153601.4648268,
   "f1bf840a2ee26426": 1793153601.4648268,
@@ -2486,10 +2485,10 @@
   "75a0f9dae551106d": 1794357986.6767902,
   "3d388cc1824383f9": 1794359333.637833,
   "7cfcc1f7ba78ab35": 1794359333.637833,
-  "e8c60cf1d63db3b1": 1794359333.637833
+  "e8c60cf1d63db3b1": 1794359333.637833,
+  "2b6219da9c0ca376": 1794361034.7879257
  },
  "recent_headlines": [
-  "በኢራን እና አሜሪካ ድርድር ላይ ምንም ዓይነት እድገት አለመኖሩን ኢራን ገለጸች (Iran waiting to resume talks after US midterms ‘shock’)",
   "የጀርመኑ ቻንስለር Friedrich Merz Ilse Aignerን የመጀመሪያዋ የሀገሪቱ ሴት ፕሬዝዳንት አድርገው አጩ (Chancellor Merz to nominate Aigner as Germany’s first woman president)",
   "በሰሜን ኢራቅ በጋዝ ማዕከል ላይ በተፈጸመ ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ (Iran war live: Trump says land blockade in effect; drone cuts power in Iraq)",
   "Donald Trump ከቻይና እና ሩሲያ መሪዎች ጋር ስለ ኢራን ጉዳይ ሊመክሩ ነው (Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’)",
@@ -2528,7 +2527,8 @@
   "የካናዳው Allied Gold በቤኒሻንጉል ጉሙዝ በሚገኘው ኮርሙክ ፕሮጀክት የመጀመሪያውን ወርቅ አመረተ (Ethiopia’s Kurmuk project moves into production, targets commercial operations by year-end)",
   "የኢትዮጵያ ብሔራዊ ባንክ ባካሄደው 32ኛው የውጭ ምንዛሬ ጨረታ የብር ዋጋ መሸርሸሩ ቀጠለ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
   "Marco Rubio አሜሪካ በኢራን ላይ ተጨማሪ ከፍተኛ ወታደራዊ ጥቃት ማካሄድ አያስፈልጋትም አሉ (Rubio says no need for major combat operations against Iran)",
-  "የNvidia መሪ ከቻይና ሰላይ ጋር አላቸው በተባለው ግንኙነት ላይ ምርመራ ተጀመረ (Nvidia hires major US law firm to investigate alleged Chinese spy affair)"
+  "የNvidia መሪ ከቻይና ሰላይ ጋር አላቸው በተባለው ግንኙነት ላይ ምርመራ ተጀመረ (Nvidia hires major US law firm to investigate alleged Chinese spy affair)",
+  "በትግራይ የሚገኙ ተፈናቃዮች ወደ ቀያቸው የመመለስ ተስፋቸው እየመነመነ መሆኑን ገለጹ (Tigray displaced families fear renewed war as hopes of returning home fade)"
  ],
  "posted_at": [
   1794193909.893701,
@@ -2567,6 +2567,7 @@
   1794339349.1912267,
   1794339352.588489,
   1794339356.0364883,
-  1794352067.0340798
+  1794352067.0340798,
+  1794361067.817171
  ]
 }
