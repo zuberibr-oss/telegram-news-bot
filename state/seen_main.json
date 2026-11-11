@@ -1,6 +1,5 @@
 {
  "seen": {
-  "806674357c059b52": 1793187713.1966336,
   "8e6a8f4be8383b27": 1793207688.0653465,
   "978beed8bdda4cd6": 1793213028.7665904,
   "081b308befccfa7d": 1793214534.780678,
@@ -2528,11 +2527,16 @@
   "3a856f3e57da9854": 1794396922.3820436,
   "5ba65378e7e0d960": 1794396922.3820436,
   "375d8ffe0e059bd2": 1794396922.3820436,
-  "f12c06f821bbc088": 1794396922.3820436
+  "f12c06f821bbc088": 1794396922.3820436,
+  "01fe4f0bf453d5f8": 1794399167.6244206,
+  "3cb8d309e71b5fe8": 1794399167.6244206,
+  "8fa352a49ac379c9": 1794399167.6244206,
+  "f259d627a17b2bf1": 1794399167.6244206,
+  "b554e9a1a3dbdbfa": 1794399167.6244206,
+  "7b65aef8fff2f98e": 1794399167.6244206,
+  "6fc1671bdd8598d5": 1794399167.6244206
  },
  "recent_headlines": [
-  "በሞያሌ በተከሰተ ግጭት ከ50 ሺህ በላይ ሰዎች ወደ ኬንያ መፈናቀላቸው ተገለጸ (More than 50,000 displaced by deadly Ethiopia border clashes)",
-  "ፈረንሳይ ኢራን በሱፐርማርኬቶቿ ላይ የሳይበር ጥቃት ፈጽማለች ስትል ከሰሰች (France accuses Iran of supermarket fridge hacking)",
   "በሳዑዲ ዓረቢያ የምሥራቅ-ምዕራብ የነዳጅ ማስተላለፊያ መስመር ላይ ጥቃት ተፈጸመ (Saudi Arabia reports new attack on key East-West pipeline)",
   "Donald Trump ከኢራን ጋር ያለው ጦርነት «በአንድ በኩል መጠናቀቁን» አስታወቁ (Trump calls Iran war ‘effectively over’ after talks with Qatar PM)",
   "በአሶሳ ዞን በተፈጸመ ጥቃት ከ65 በላይ ሰዎች መገደላቸውን ነዋሪዎች ገለጹ (Oduu: Haleellaa hidhattoonni Godina Asoosaa keessatti raawwataniin namoonni 65 ol ajjeefamuu jiraattonni himan)",
@@ -2570,7 +2574,9 @@
   "በቱርክ የሚካሄደው የCOP31 የመሪዎች ጉባኤ በይፋ ተከፈተ (COP31 Leaders’ Summit Opens in Antalya with Focus on Global Climate Commitments and Cooperation)",
   "በሱዳን ብሉ ናይል ክልል በድሮን ጥቃት ዘጠኝ ሰላማውያን ሰዎች ተገደሉ (#Daily_Brief: RSF drone strike kills nine civilians in #Sudan’s #Blue_Nile region)",
   "ጠቅላይ ሚኒስትር ዐቢይ በCOP31 ጉባኤ ለአየር ንብረት ፋይናንስ ሦስት መስፈርቶችን አቀረቡ (PM Abiy Sets Three Tests for Climate Finance at COP31 Leaders’ Summit: How Much, By When and on What Terms)",
-  "በሱዳን ከሁለት ሦስተኛ በላይ የሕፃናት ጉዳት በድሮን ጥቃት መከሰቱን ተባበሩት መንግሥታት አስታወቀ (#Daily_Brief: UN says drone strikes account for two-thirds of child casualties in Sudan)"
+  "በሱዳን ከሁለት ሦስተኛ በላይ የሕፃናት ጉዳት በድሮን ጥቃት መከሰቱን ተባበሩት መንግሥታት አስታወቀ (#Daily_Brief: UN says drone strikes account for two-thirds of child casualties in Sudan)",
+  "ኢትዮጵያ የአየር ንብረት አደጋዎችን ለመተንበይ ሳተላይት እና አርቲፊሻል ኢንተሊጀንስን እየተጠቀመች መሆኑ ተገለጸ (Satellite Monitoring and Artificial Intelligence Strengthen Ethiopia’s Climate Forecasting – PM Abiy Ahmed)",
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ2027 በአዲስ አበባ ለሚካሄደው COP32 ጉባኤ ጥሪ አቀረቡ (PM Abiy Extends Official Invitation to Global Community for COP32)"
  ],
  "posted_at": [
   1794233449.6599529,
@@ -2617,6 +2623,8 @@
   1794391854.6040952,
   1794396982.99022,
   1794396986.351347,
-  1794396989.744697
+  1794396989.744697,
+  1794399236.7522619,
+  1794399240.204658
  ]
 }
