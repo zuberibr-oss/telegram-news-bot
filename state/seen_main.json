@@ -1,10 +1,5 @@
 {
  "seen": {
-  "09603c4b2e9d1491": 1793221751.8075674,
-  "63e376cd14e34658": 1793221751.8075674,
-  "5c9414c31f611405": 1793221751.8075674,
-  "e72a42e20ed5d17a": 1793221751.8075674,
-  "41f776ca89b2fd4d": 1793221751.8075674,
   "fd401c546c4da0e5": 1793223445.0807161,
   "b5675e2fe72e1f63": 1793223445.0807161,
   "0d89ad351c0575fe": 1793223445.0807161,
@@ -2548,10 +2543,13 @@
   "9d5c5045214df0b3": 1794431168.4755986,
   "365e08a84de240ea": 1794431168.4755986,
   "c8cea5ca4549dffa": 1794431168.4755986,
-  "5c5fcbecfc42457e": 1794431168.4755986
+  "5c5fcbecfc42457e": 1794431168.4755986,
+  "791a887ba6e5ec9f": 1794432946.8042858,
+  "6edb90da072b90d0": 1794432946.8042858,
+  "1e3ccc9686463a63": 1794432946.8042858,
+  "fbdd4ab291ebbc1d": 1794432946.8042858
  },
  "recent_headlines": [
-  "ኢራን በባሊስቲክ ሚሳይሎቿ ላይ ጥላው የነበረውን የ2 ሺህ ኪሎሜትር የርቀት ገደብ አነሳች (Iran lifts 2,000km limit on its ballistic missiles: What that means)",
   "የአዲስ አበባ ከተማ አስተዳደር ከዩኤን-ሀቢታት ጋር የተፈራረመውን የትብብር ስምምነት ወደ ተግባር ሊቀይር ነው (Addis Ababa and UN-Habitat Agree to Turn Urban Development Partnership, Identify Priority Projects into Action)",
   "በአቡ ዳቢ የተካሄደው የሩሲያ፣ ዩክሬን እና አሜሪካ የመጀመሪያ ቀን የሰላም ውይይት መጠናቀቁ ተገለጸ (First day of Ukraine peace talks 'very productive', US says)",
   "በእስራኤል በጋዛ በተፈጸመ ጥቃት ህጻንን ጨምሮ ስድስት ፍልስጤማውያን ተገደሉ (Father, child among six Palestinians killed in Israeli attacks on Gaza)",
@@ -2590,7 +2588,8 @@
   "በአቡ ዳቢ የተካሄደው የሩሲያ እና ዩክሬን ውይይት በእስረኞች ልውውጥ ስምምነት ተጠናቀቀ (Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement)",
   "ሱዳን በኬንያ ሻይ ላይ ጥላው የነበረውን የ20 ወራት እግድ አነሳች (Daily_Brief - #Sudan lifts 20-month ban on Kenyan tea imports due to #Nairobi’s alleged support for #RSF)",
   "በኢትዮጵያ እና በኤርትራ መካከል ያለው ውጥረት ቀጠናውን እንዳያደፈርሰው ጂ7 አሳሰበ (Walitti bu’iinsi Itoophiyaa fi Eertiraa naannawaa tasgabbii dhabsiisuu danda’a jechuun G7 akeekkachiise)",
-  "የኦፔክ አባል ሀገራት የነዳጅ ምርት ከኢራን ጦርነት በፊት ወደነበረበት ደረጃ መጠጋቱ ተገለጸ (Oil production nears pre-Iran war levels, OPEC says)"
+  "የኦፔክ አባል ሀገራት የነዳጅ ምርት ከኢራን ጦርነት በፊት ወደነበረበት ደረጃ መጠጋቱ ተገለጸ (Oil production nears pre-Iran war levels, OPEC says)",
+  "የሆርሙዝ ሰርጥ ወደ ነበረበት ሁኔታ አይመለስም ሲሉ የኢራን ምክር ቤት አፈ ጉባኤ ተናገሩ (Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says)"
  ],
  "posted_at": [
   1794263731.77529,
@@ -2642,6 +2641,7 @@
   1794404223.182254,
   1794406157.6077735,
   1794413407.783568,
-  1794431229.68681
+  1794431229.68681,
+  1794432985.578945
  ]
 }
