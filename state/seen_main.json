@@ -1,7 +1,5 @@
 {
  "seen": {
-  "0b976f48e16bfb06": 1793162235.377206,
-  "732fab35c557d3f1": 1793162235.377206,
   "27da0cd4c2243ae6": 1793164201.55453,
   "ee3b54efc1e1d387": 1793164201.55453,
   "7e56d0fd6d709ab4": 1793165739.8420248,
@@ -2491,11 +2489,12 @@
   "9779720f926bd226": 1794370176.1948462,
   "1e935549b3e0572a": 1794370176.1948462,
   "7ceedc6bd53890bc": 1794371713.044662,
-  "77af92eac488de76": 1794371713.044662
+  "77af92eac488de76": 1794371713.044662,
+  "55b833cddafebb3c": 1794373724.3703215,
+  "f7374e6f44ebb893": 1794373724.3703215,
+  "652938006fbc42db": 1794373724.3703215
  },
  "recent_headlines": [
-  "በሰሜን ኢራቅ በጋዝ ማዕከል ላይ በተፈጸመ ጥቃት የኤሌክትሪክ ኃይል ተቋረጠ (Iran war live: Trump says land blockade in effect; drone cuts power in Iraq)",
-  "Donald Trump ከቻይና እና ሩሲያ መሪዎች ጋር ስለ ኢራን ጉዳይ ሊመክሩ ነው (Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’)",
   "Marco Rubio በኢራን ላይ የተከፈተው ጦርነት የኑክሌር ሥጋትን ለመግታት አስፈላጊ ነው አሉ (Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat)",
   "ግብጽ፣ ሶማሊያ እና ጅቡቲ በቀይ ባሕር ደኅንነት ላይ ያላቸውን አቋም ገለጹ (Daily_Brief: #Egypt, #Somalia, #Djibouti reaffirm littoral states’ exclusive role in #Red_Sea security)",
   "ኢትዮጵያ 1 ሺህ 584 ዜጎቿን ከሳዑዲ ዓረቢያ መመለሷን ገለጸች (Ethiopia Repatriates 1,584 Citizens from Saudi Arabia in Latest Citizens-First Diplomatic Effort)",
@@ -2533,10 +2532,11 @@
   "Marco Rubio አሜሪካ በኢራን ላይ ተጨማሪ ከፍተኛ ወታደራዊ ጥቃት ማካሄድ አያስፈልጋትም አሉ (Rubio says no need for major combat operations against Iran)",
   "የNvidia መሪ ከቻይና ሰላይ ጋር አላቸው በተባለው ግንኙነት ላይ ምርመራ ተጀመረ (Nvidia hires major US law firm to investigate alleged Chinese spy affair)",
   "በትግራይ የሚገኙ ተፈናቃዮች ወደ ቀያቸው የመመለስ ተስፋቸው እየመነመነ መሆኑን ገለጹ (Tigray displaced families fear renewed war as hopes of returning home fade)",
-  "Donald Trump አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ለማቆም ማቀዳቸውን አስታወቁ (Section 219: the future of US-Israeli defence partnership)"
+  "Donald Trump አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ለማቆም ማቀዳቸውን አስታወቁ (Section 219: the future of US-Israeli defence partnership)",
+  "ሩሲያ በሌኒንግራድ ክልል የተሰነዘሩ 146 የድሮን ጥቃቶችን ማክሸፏን ገለጸች (Russia claims interception of 146 drones in Leningrad region)",
+  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ በኢቦላ ቫይረስ የተያዙ ሰዎች ቁጥር ከ11 ሺህ አለፈ (Ebola cases in DR Congo pass 11,000, with 5,387 deaths)"
  ],
  "posted_at": [
-  1794198966.3969395,
   1794206865.9877238,
   1794208311.5138936,
   1794216940.6177454,
@@ -2573,6 +2573,8 @@
   1794339356.0364883,
   1794352067.0340798,
   1794361067.817171,
-  1794370225.6881766
+  1794370225.6881766,
+  1794373766.014085,
+  1794373769.467754
  ]
 }
