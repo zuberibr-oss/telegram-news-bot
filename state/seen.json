@@ -1,6 +1,5 @@
 {
  "seen": {
-  "adb05bd6e1fa04e4": 1793176616.6385822,
   "2627f2ab23d07188": 1793180082.4285064,
   "468693d96595b26a": 1793180082.4285064,
   "a3eefa01d27d3970": 1793183700.4673746,
@@ -1403,10 +1402,17 @@
   "1dd9da255ef5d260": 1794386059.6235728,
   "ccfc25e208a19fe4": 1794386059.6235728,
   "786c0387251bcc26": 1794386059.6235728,
-  "0d790fa69d331b5c": 1794386059.6235728
+  "0d790fa69d331b5c": 1794386059.6235728,
+  "ba8c80e0ace8d9a4": 1794388098.361963,
+  "c81dac98b058a714": 1794388098.361963,
+  "2e57d899b7f78185": 1794388098.361963,
+  "4e5b49ece1d321c2": 1794388098.361963,
+  "589a804d217f0e38": 1794388098.361963,
+  "d36e7ace7a2b4ce7": 1794388098.361963,
+  "e3c2a99b517874ef": 1794388098.361963,
+  "2ff873d289c8c865": 1794388098.361963
  },
  "recent_headlines": [
-  "የኤምቲኤን ናይጄሪያ የፊንቴክ ገቢ በ26% ቀነሰ፤ MoMo ወደ አዲስ መድረክ ተዛወረ (MTN Nigeria moves MoMo to new platform as fintech revenue falls 26%)",
   "ስማርት አፍሪካ ሀገራት አቀፍ የዲጂታል መታወቂያዎችን የሚያገናኝ የሙከራ ፕሮጀክት አጠናቀቀ (The Infrastructure Mechanics of Africa’s First Interoperable Digital Identity Framework)",
   "DSRV የኢትዮጵያን ዲጂታል መታወቂያ ከብሎክቼይን ቴክኖሎጂ ጋር ለማያያዝ ከኢትዮጵያ ጋር ተባበረ (DSRV Partners With Ethiopia to Link Digital ID and Blockchain Services)",
   "ጉግል 3 ሚሊዮን አፍሪካውያንን በ AI ለማሰልጠን የሚያስችል አዲስ መድረክ አስመረቀ (Google launches Skilling Africa hub to train 3m in AI by 2030)",
@@ -1445,7 +1451,8 @@
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የገንዘብ ፖሊሲ ማዕቀፍ የሚመራበትን አዲስ መመሪያ አወጣ (NBE’s New Liquidity Rules Open Path Towards Islamic Treasury Instruments)",
   "ጊኒ በ Mojaloop ቴክኖሎጂ የሚመራውን አገራዊ የቅጽበታዊ ክፍያ ስርዓት ይፋ አደረገች (Guinea Launches National Instant Payment System Powered by Mojaloop)",
   "በብሔራዊ ባንክ 32ኛው የውጭ ምንዛሬ ሐራጅ የዶላር የምንዛሬ ተመን 159.18 ብር ደረሰ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
-  "ሳምሰንግ በአፍሪካ የስማርትፎን ገበያ ለመጀመሪያ ጊዜ አንደኛ ደረጃን ያዘ (Samsung tops Africa’s smartphone market for the first time)"
+  "ሳምሰንግ በአፍሪካ የስማርትፎን ገበያ ለመጀመሪያ ጊዜ አንደኛ ደረጃን ያዘ (Samsung tops Africa’s smartphone market for the first time)",
+  "የቮዳኮም የ1.6 ቢሊዮን ዶላር የሳፋሪኮም አክሲዮን ግዢ ክስ ወደ ይግባኝ ሰሚ ችሎት አመራ (Vodacom’s $1.6bn Safaricom stake heads to appeal)"
  ],
  "posted_at": [
   1794218994.6043804,
@@ -1457,6 +1464,7 @@
   1794301794.716436,
   1794306909.075039,
   1794344880.9817212,
-  1794380976.7345345
+  1794380976.7345345,
+  1794388213.6492934
  ]
 }
