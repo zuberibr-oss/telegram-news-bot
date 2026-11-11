@@ -1,6 +1,5 @@
 {
  "seen": {
-  "a3eefa01d27d3970": 1793183700.4673746,
   "f19cd059c13646e3": 1793189579.5697,
   "361477a5b3609735": 1793196550.3603177,
   "ebf48a72252e8a1b": 1793198089.2525845,
@@ -1430,10 +1429,10 @@
   "c54753c6ddac7bb7": 1794391679.279043,
   "bbc0d3d0c1eddf08": 1794391679.279043,
   "e0221373dc808455": 1794391679.279043,
-  "6b46d88b999e5b2e": 1794391679.279043
+  "6b46d88b999e5b2e": 1794391679.279043,
+  "334abcda5fae13ee": 1794393273.3982973
  },
  "recent_headlines": [
-  "ስማርት አፍሪካ ሀገራት አቀፍ የዲጂታል መታወቂያዎችን የሚያገናኝ የሙከራ ፕሮጀክት አጠናቀቀ (The Infrastructure Mechanics of Africa’s First Interoperable Digital Identity Framework)",
   "DSRV የኢትዮጵያን ዲጂታል መታወቂያ ከብሎክቼይን ቴክኖሎጂ ጋር ለማያያዝ ከኢትዮጵያ ጋር ተባበረ (DSRV Partners With Ethiopia to Link Digital ID and Blockchain Services)",
   "ጉግል 3 ሚሊዮን አፍሪካውያንን በ AI ለማሰልጠን የሚያስችል አዲስ መድረክ አስመረቀ (Google launches Skilling Africa hub to train 3m in AI by 2030)",
   "Rise of Fearless የቪዲዮ ጨዋታ የ 1 ሚሊዮን USD ኢንቨስትመንት አገኘ (Rise of Fearless raises $1 million ahead of a relaunch)",
@@ -1472,10 +1471,10 @@
   "ጊኒ በ Mojaloop ቴክኖሎጂ የሚመራውን አገራዊ የቅጽበታዊ ክፍያ ስርዓት ይፋ አደረገች (Guinea Launches National Instant Payment System Powered by Mojaloop)",
   "በብሔራዊ ባንክ 32ኛው የውጭ ምንዛሬ ሐራጅ የዶላር የምንዛሬ ተመን 159.18 ብር ደረሰ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
   "ሳምሰንግ በአፍሪካ የስማርትፎን ገበያ ለመጀመሪያ ጊዜ አንደኛ ደረጃን ያዘ (Samsung tops Africa’s smartphone market for the first time)",
-  "የቮዳኮም የ1.6 ቢሊዮን ዶላር የሳፋሪኮም አክሲዮን ግዢ ክስ ወደ ይግባኝ ሰሚ ችሎት አመራ (Vodacom’s $1.6bn Safaricom stake heads to appeal)"
+  "የቮዳኮም የ1.6 ቢሊዮን ዶላር የሳፋሪኮም አክሲዮን ግዢ ክስ ወደ ይግባኝ ሰሚ ችሎት አመራ (Vodacom’s $1.6bn Safaricom stake heads to appeal)",
+  "Enza Capital በአፍሪካ AI ስታርታፖች ላይ የሚያፈስ የ60 ሚሊዮን USD ፈንድ መሠረተ (African AI startups are starved of funding. Enza Capital is betting $60 million on them)"
  ],
  "posted_at": [
-  1794218994.6043804,
   1794231322.9704566,
   1794238558.07118,
   1794288955.9931018,
@@ -1485,6 +1484,7 @@
   1794306909.075039,
   1794344880.9817212,
   1794380976.7345345,
-  1794388213.6492934
+  1794388213.6492934,
+  1794393359.0985684
  ]
 }
