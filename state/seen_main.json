@@ -1,9 +1,5 @@
 {
  "seen": {
-  "c89f7b582ace0116": 1793268578.8229985,
-  "a0eba44a3d4913da": 1793268578.8229985,
-  "fda58100ebc24e87": 1793268578.8229985,
-  "5b21eed710c01ffb": 1793268578.8229985,
   "f4f3c4ca68101b4e": 1793270153.2782645,
   "ff5950df1bd046db": 1793270153.2782645,
   "eb66c840969e2013": 1793270153.2782645,
@@ -2515,11 +2511,14 @@
   "4d131a3165450954": 1794476175.7525384,
   "b37d6abc1b45ce59": 1794476175.7525384,
   "572c74ef1de15e41": 1794476175.7525384,
-  "3b78a791476816de": 1794476175.7525384
+  "3b78a791476816de": 1794476175.7525384,
+  "494a171fb4bbdd19": 1794478139.1477964,
+  "d3543ab6f837088a": 1794478139.1477964,
+  "053a6295b95fbe07": 1794478139.1477964,
+  "f793e2865363195f": 1794478139.1477964,
+  "9451beb65390e9a2": 1794478139.1477964
  },
  "recent_headlines": [
-  "Marco Rubio አሜሪካ በኢራን ላይ ተጨማሪ ከፍተኛ ወታደራዊ ጥቃት ማካሄድ አያስፈልጋትም አሉ (Rubio says no need for major combat operations against Iran)",
-  "የNvidia መሪ ከቻይና ሰላይ ጋር አላቸው በተባለው ግንኙነት ላይ ምርመራ ተጀመረ (Nvidia hires major US law firm to investigate alleged Chinese spy affair)",
   "በትግራይ የሚገኙ ተፈናቃዮች ወደ ቀያቸው የመመለስ ተስፋቸው እየመነመነ መሆኑን ገለጹ (Tigray displaced families fear renewed war as hopes of returning home fade)",
   "Donald Trump አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ለማቆም ማቀዳቸውን አስታወቁ (Section 219: the future of US-Israeli defence partnership)",
   "ሩሲያ በሌኒንግራድ ክልል የተሰነዘሩ 146 የድሮን ጥቃቶችን ማክሸፏን ገለጸች (Russia claims interception of 146 drones in Leningrad region)",
@@ -2557,7 +2556,9 @@
   "በየመን በሁቲዎች እና በሳዑዲ በሚደገፉ ኃይሎች መካከል ያለው ውጊያ ተፋፋመ (Fighting intensifies in Yemen as Houthis deny targeting Mecca)",
   "የአሜሪካ ሴናተሮች በኢትዮጵያ ያለውን ግጭት ለማስቆም እርምጃ እንዲወሰድ ለMarco Rubio ደብዳቤ ላኩ (News: U.S. senators send second letter to Rubio urging action to avert widening conflict in Ethiopia)",
   "ኢራን አሜሪካ ከበዛ ጥያቄ ከተቆጠበች ስምምነት ለማድረግ ዝግጁ መሆኗን ገለጸች (Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf)",
-  "የአሜሪካ መልዕክተኞች ከVladimir Putin ጋር ለመወያየት ሞስኮ ገቡ (US envoys arrive in Moscow for Russia-Ukraine talks with Putin)"
+  "የአሜሪካ መልዕክተኞች ከVladimir Putin ጋር ለመወያየት ሞስኮ ገቡ (US envoys arrive in Moscow for Russia-Ukraine talks with Putin)",
+  "ኢትዮጵያ እና ብሪታንያ በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ ተወያዩ (Ethiopia and UK Chart Path for Stronger Climate Partnership Towards COP32)",
+  "በአሜሪካ ሚሲሲፒ ከ150 ዓመታት በኋላ የመጀመሪያው ጥቁር ሴናተር ተመረጡ (Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years)"
  ],
  "posted_at": [
   1794306965.8662915,
@@ -2613,6 +2614,8 @@
   1794460182.782784,
   1794461770.4464898,
   1794471127.9724264,
-  1794476213.2346122
+  1794476213.2346122,
+  1794478193.8128219,
+  1794478197.2587037
  ]
 }
