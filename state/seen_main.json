@@ -1,18 +1,5 @@
 {
  "seen": {
-  "85b64816ea4305a7": 1793286641.7776315,
-  "6472b680b7a2ce96": 1793286641.7776315,
-  "4b096dec86508ecb": 1793286641.7776315,
-  "f560985bb6f2f3ca": 1793286641.7776315,
-  "469ee8c7c9851afc": 1793286641.7776315,
-  "1670c0839507adbe": 1793286641.7776315,
-  "f81c0a165d0249b5": 1793286641.7776315,
-  "13d7ee2c0b0bbff5": 1793286641.7776315,
-  "18d90aa5fa56f877": 1793286641.7776315,
-  "14953175fccf5c99": 1793288163.9402122,
-  "d05dc8d3139c7082": 1793288163.9402122,
-  "69546e2a3fc5a0f5": 1793288163.9402122,
-  "fdc685feeb7bffad": 1793288163.9402122,
   "2b06e4a0526a915e": 1793290248.3097653,
   "bee4919d208d9a9c": 1793290248.3097653,
   "6abe823edd2c2622": 1793290248.3097653,
@@ -2511,11 +2498,20 @@
   "a9b7ff31c3f74ef0": 1794496136.782385,
   "0bbcd7a5045cf2b2": 1794496136.782385,
   "d5b4a170375b3b12": 1794496136.782385,
-  "6b29075251fb5e70": 1794496136.782385
+  "6b29075251fb5e70": 1794496136.782385,
+  "7543b1b77ecfdfa4": 1794497704.4350526,
+  "68b94972be92ad71": 1794497704.4350526,
+  "97ac6b89387fb136": 1794497704.4350526,
+  "4b6fa72d63b97fbf": 1794497704.4350526,
+  "a7ddb9821a99d917": 1794497704.4350526,
+  "da01e3ea09afd365": 1794497704.4350526,
+  "54cfacf5be14df6b": 1794497704.4350526,
+  "e1a65725c1657b53": 1794497704.4350526,
+  "3c9567616240c16b": 1794497704.4350526,
+  "b99fb4eb3f1bed9d": 1794497704.4350526,
+  "1d33abcf8ecc8265": 1794497704.4350526
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከፊንላንዱ ፕሬዝዳንት Alexander Stubb ጋር ተወያዩ (Ethiopia’s Abiy Ahmed and Finland’s Alexander Stubb Confer on Global Security and COP32 Cooperation)",
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከኖርዌዩ ጠቅላይ ሚኒስትር Jonas Gahr Støre ጋር ተወያዩ (Ethiopian and Norwegian Prime Ministers Discuss Green Legacy, Clean Energy Investment and COP32 Preparations)",
   "ኢራን ከአሜሪካ ጋር ውይይት ማድረጓን አስተበለየች፤ የሆርሙዝ ሰርጥ ክፍት እንደማይሆን ገለጸች (Iran denies talks with US, says Hormuz will stay shut until demands are met)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከሶማሊያው ፕሬዝዳንት ሀሰን ሼክ መሀሙድ ጋር ተወያዩ (Leaders of Ethiopia and Somalia Review Security Developments and Regional Stability)",
   "በቱርክ የሚካሄደው የCOP31 የመሪዎች ጉባኤ በይፋ ተከፈተ (COP31 Leaders’ Summit Opens in Antalya with Focus on Global Climate Commitments and Cooperation)",
@@ -2553,7 +2549,9 @@
   "የኢትዮጵያ ወጣት አትሌቶች በዳካር የላቀ ውጤት በማስመዝገባቸው ተመስገን ጥሩነህ አደነቁ (Deputy PM Salutes Young Champions for Placing Ethiopia at the Summit of Dakar 2026 Athletics)",
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ ለኢቦላ ወረርሽኝ ከተመደበው ገንዘብ በሚሊዮን የሚቆጠሩ ዶላሮች መጥፋታቸው ተገለጸ (Millions of Ebola dollars going missing as virus spreads, medical charity warns)",
   "የቻይና አየር መንገድ በጓንግዙ እና አዲስ አበባ መካከል አዲስ የበረራ መስመር ጀመረ (Dhaabbanni xiyyaaraa #Chaayinaa daandii balallii #Gaawungzhoo–#Finfinnee, karaa #Chaangshaa jalqabe)",
-  "የNvidia ዋና ሥራ አስፈጻሚ Jensen Huang ከኃላፊነታቸው ለቀቁ (Nvidia CEO Jensen Huang steps down amid spy scandal and market loss)"
+  "የNvidia ዋና ሥራ አስፈጻሚ Jensen Huang ከኃላፊነታቸው ለቀቁ (Nvidia CEO Jensen Huang steps down amid spy scandal and market loss)",
+  "ኢትዮጵያ እና ቻይና በባህላዊ መድኃኒቶች ልማት በጋራ ለመሥራት ተወያዩ (Daily_Brief: #Ethiopia, #China explore cooperation to develop traditional and herbal medicines)",
+  "በሱዳን ከ64 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እና ጥገኝነት ጠያቂዎች እንደሚገኙ ተገለጸ (News: More than 64, 000 Ethiopian refugees, asylum-seekers remain in war-hit Sudan, UN data shows)"
  ],
  "posted_at": [
   1794327046.496096,
@@ -2612,6 +2610,8 @@
   1794485599.028258,
   1794489037.630037,
   1794492641.6578524,
-  1794492645.1874783
+  1794492645.1874783,
+  1794497797.6420093,
+  1794497800.9917085
  ]
 }
