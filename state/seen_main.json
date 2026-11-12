@@ -1,12 +1,5 @@
 {
  "seen": {
-  "b4f254d8235d8408": 1793273743.2830963,
-  "7f91b64915f62593": 1793273743.2830963,
-  "d1732dd5efee313f": 1793273743.2830963,
-  "58cb0c4e0db77356": 1793273743.2830963,
-  "aefd74d4fb8b37f3": 1793273743.2830963,
-  "79ff2cdc897d54ee": 1793273743.2830963,
-  "4e93d8323f62f2d7": 1793273743.2830963,
   "b86a37d2e6808039": 1793276075.0542858,
   "82f7ea41b9e63e74": 1793276075.0542858,
   "0842c72aa9d8deef": 1793276075.0542858,
@@ -2518,10 +2511,11 @@
   "84315b4d6b55c2c4": 1794481703.9672766,
   "bb35892f4b0651ea": 1794481703.9672766,
   "9c4e000fed7e6e2d": 1794481703.9672766,
-  "cb30d39134a5f38d": 1794481703.9672766
+  "cb30d39134a5f38d": 1794481703.9672766,
+  "66ed59c71d4d1c8f": 1794483314.5945997,
+  "98beaa246b1bccfd": 1794483314.5945997
  },
  "recent_headlines": [
-  "ሩሲያ በሌኒንግራድ ክልል የተሰነዘሩ 146 የድሮን ጥቃቶችን ማክሸፏን ገለጸች (Russia claims interception of 146 drones in Leningrad region)",
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ በኢቦላ ቫይረስ የተያዙ ሰዎች ቁጥር ከ11 ሺህ አለፈ (Ebola cases in DR Congo pass 11,000, with 5,387 deaths)",
   "ሴናተር Ted Cruz የአሜሪካ አምባሳደር ተሿሚው ሶማሊላንድን እንዲያውቁ ጫና አደረጉ (Daily_Brief: Senator Ted Cruz pressures #US ambassador nominee to back #Somaliland recognition)",
   "ኢትዮጵያ በቻይና እና ደቡብ አሜሪካ መካከል የአየር ጭነት ማጓጓዣ ማዕከል ሆነች (Daily_Brief: #Ethiopia becomes key link in new #China–#South_America cargo routes through Addis Abeba)",
@@ -2560,7 +2554,8 @@
   "ኢትዮጵያ እና ብሪታንያ በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ ተወያዩ (Ethiopia and UK Chart Path for Stronger Climate Partnership Towards COP32)",
   "በአሜሪካ ሚሲሲፒ ከ150 ዓመታት በኋላ የመጀመሪያው ጥቁር ሴናተር ተመረጡ (Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years)",
   "በኢትዮጵያ ለዲጂታል ይዘት ፈጣሪዎች እና ኦንላይን ፍሪላንሰሮች አዲስ የገቢ ግብር ደንብ ወጣ (Ethiopia introduces new tax rules for digital content creators)",
-  "የዴሞክራቲክ ሪፐብሊክ ኮንጎ ፕሬዝዳንት የሕዝበ ውሳኔ ሕግ አጸደቁ (DR Congo's Tshisekedi signs referendum law amid fears of third-term bid)"
+  "የዴሞክራቲክ ሪፐብሊክ ኮንጎ ፕሬዝዳንት የሕዝበ ውሳኔ ሕግ አጸደቁ (DR Congo's Tshisekedi signs referendum law amid fears of third-term bid)",
+  "ቻይና አሜሪካ በNvidia ዋና ስራ አስፈጻሚ ዙሪያ የሰላይነት ክስ ፈብርካለች ስትል ኮነነች (China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’)"
  ],
  "posted_at": [
   1794314205.7745283,
@@ -2619,6 +2614,7 @@
   1794478193.8128219,
   1794478197.2587037,
   1794481760.3414767,
-  1794481763.6982088
+  1794481763.6982088,
+  1794483343.6182806
  ]
 }
