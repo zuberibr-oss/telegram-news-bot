@@ -1,21 +1,5 @@
 {
  "seen": {
-  "b510a82fd45b91c5": 1793280945.0119426,
-  "19966450c1bf03ed": 1793280945.0119426,
-  "88b90a706719bcc2": 1793280945.0119426,
-  "f2d0032777824fa1": 1793280945.0119426,
-  "e123aa9c490bc170": 1793280945.0119426,
-  "cb8037818bd9e6c3": 1793280945.0119426,
-  "edb26796b85541f2": 1793280945.0119426,
-  "64d588a687974fd1": 1793283038.790274,
-  "cd13d46fbe9c529a": 1793283038.790274,
-  "9b8903080d9e1375": 1793283038.790274,
-  "dfc94878cd6a14f0": 1793283038.790274,
-  "89a5736e91a5543f": 1793283038.790274,
-  "0beefe88c775462b": 1793283038.790274,
-  "e5e43d826da93bee": 1793283038.790274,
-  "274f585aa9a2eeb0": 1793283038.790274,
-  "ddb2d5b72ad6c58f": 1793283038.790274,
   "b3f96bf862367cac": 1793284592.3279905,
   "69f3697d0db4543d": 1793284592.3279905,
   "298edd653e4ed888": 1793284592.3279905,
@@ -2515,11 +2499,16 @@
   "c8e4a8b7be83b91f": 1794488966.392931,
   "fac3f48b8209460b": 1794488966.392931,
   "bc64182d172e26ba": 1794488966.392931,
-  "24f21aefddb7e224": 1794490529.753795
+  "24f21aefddb7e224": 1794490529.753795,
+  "ce41a9e90ea08ce5": 1794492589.0887275,
+  "66414a5be1b62a2e": 1794492589.0887275,
+  "ad268d7823c0f506": 1794492589.0887275,
+  "4f994559dcd25d97": 1794492589.0887275,
+  "ea354e414376c94a": 1794492589.0887275,
+  "def3e1da32f33b26": 1794492589.0887275,
+  "d29a0db72e0a9517": 1794492589.0887275
  },
  "recent_headlines": [
-  "ኢትዮጵያ በቻይና እና ደቡብ አሜሪካ መካከል የአየር ጭነት ማጓጓዣ ማዕከል ሆነች (Daily_Brief: #Ethiopia becomes key link in new #China–#South_America cargo routes through Addis Abeba)",
-  "በኬንያ ማንዴራ በአልሸባብ ተፈጽሟል በተባለ ጥቃት ስምንት ሰዎች ተገደሉ (Daily_Brief: Eight killed in suspected #Al_Shabaab ambush targeting road construction team in #Kenya’s #Mandera)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከፊንላንዱ ፕሬዝዳንት Alexander Stubb ጋር ተወያዩ (Ethiopia’s Abiy Ahmed and Finland’s Alexander Stubb Confer on Global Security and COP32 Cooperation)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከኖርዌዩ ጠቅላይ ሚኒስትር Jonas Gahr Støre ጋር ተወያዩ (Ethiopian and Norwegian Prime Ministers Discuss Green Legacy, Clean Energy Investment and COP32 Preparations)",
   "ኢራን ከአሜሪካ ጋር ውይይት ማድረጓን አስተበለየች፤ የሆርሙዝ ሰርጥ ክፍት እንደማይሆን ገለጸች (Iran denies talks with US, says Hormuz will stay shut until demands are met)",
@@ -2557,7 +2546,9 @@
   "የዴሞክራቲክ ሪፐብሊክ ኮንጎ ፕሬዝዳንት የሕዝበ ውሳኔ ሕግ አጸደቁ (DR Congo's Tshisekedi signs referendum law amid fears of third-term bid)",
   "ቻይና አሜሪካ በNvidia ዋና ስራ አስፈጻሚ ዙሪያ የሰላይነት ክስ ፈብርካለች ስትል ኮነነች (China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’)",
   "የኢትዮጵያ ወጣት አትሌቶች በዳካር የላቀ ውጤት በማስመዝገባቸው ተመስገን ጥሩነህ አደነቁ (Deputy PM Salutes Young Champions for Placing Ethiopia at the Summit of Dakar 2026 Athletics)",
-  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ ለኢቦላ ወረርሽኝ ከተመደበው ገንዘብ በሚሊዮን የሚቆጠሩ ዶላሮች መጥፋታቸው ተገለጸ (Millions of Ebola dollars going missing as virus spreads, medical charity warns)"
+  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ ለኢቦላ ወረርሽኝ ከተመደበው ገንዘብ በሚሊዮን የሚቆጠሩ ዶላሮች መጥፋታቸው ተገለጸ (Millions of Ebola dollars going missing as virus spreads, medical charity warns)",
+  "የቻይና አየር መንገድ በጓንግዙ እና አዲስ አበባ መካከል አዲስ የበረራ መስመር ጀመረ (Dhaabbanni xiyyaaraa #Chaayinaa daandii balallii #Gaawungzhoo–#Finfinnee, karaa #Chaangshaa jalqabe)",
+  "የNvidia ዋና ሥራ አስፈጻሚ Jensen Huang ከኃላፊነታቸው ለቀቁ (Nvidia CEO Jensen Huang steps down amid spy scandal and market loss)"
  ],
  "posted_at": [
   1794321393.722081,
@@ -2616,6 +2607,8 @@
   1794481763.6982088,
   1794483343.6182806,
   1794485599.028258,
-  1794489037.630037
+  1794489037.630037,
+  1794492641.6578524,
+  1794492645.1874783
  ]
 }
