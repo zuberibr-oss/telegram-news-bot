@@ -1,20 +1,5 @@
 {
  "seen": {
-  "42244703d0a622d0": 1793265037.7808533,
-  "ea7c4d3615e18206": 1793265037.7808533,
-  "4c165b0fe029d99d": 1793265037.7808533,
-  "494a171fb4bbdd19": 1793266531.9337542,
-  "ac3599a68c011c84": 1793266531.9337542,
-  "6ef66936c3bb2b64": 1793266531.9337542,
-  "862e7f8c72d0d4d9": 1793266531.9337542,
-  "67c70dc077a2da66": 1793266531.9337542,
-  "f7352f82ddcafec4": 1793266531.9337542,
-  "6f3c8983c23d744a": 1793266531.9337542,
-  "b1b3a9e5df614dc7": 1793266531.9337542,
-  "c756f3b1ccd6f7bf": 1793266531.9337542,
-  "7d1624d990006fe8": 1793266531.9337542,
-  "81c5fb820a57d0f0": 1793266531.9337542,
-  "46dca6836d53e28c": 1793266531.9337542,
   "c89f7b582ace0116": 1793268578.8229985,
   "a0eba44a3d4913da": 1793268578.8229985,
   "fda58100ebc24e87": 1793268578.8229985,
@@ -2526,10 +2511,13 @@
   "0b06eebd9a78a897": 1794474591.8821619,
   "3e9f1a4f70e919c9": 1794474591.8821619,
   "0af7f88e1c9a10ee": 1794474591.8821619,
-  "5fe0a753ae857c42": 1794474591.8821619
+  "5fe0a753ae857c42": 1794474591.8821619,
+  "4d131a3165450954": 1794476175.7525384,
+  "b37d6abc1b45ce59": 1794476175.7525384,
+  "572c74ef1de15e41": 1794476175.7525384,
+  "3b78a791476816de": 1794476175.7525384
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ ባካሄደው 32ኛው የውጭ ምንዛሬ ጨረታ የብር ዋጋ መሸርሸሩ ቀጠለ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
   "Marco Rubio አሜሪካ በኢራን ላይ ተጨማሪ ከፍተኛ ወታደራዊ ጥቃት ማካሄድ አያስፈልጋትም አሉ (Rubio says no need for major combat operations against Iran)",
   "የNvidia መሪ ከቻይና ሰላይ ጋር አላቸው በተባለው ግንኙነት ላይ ምርመራ ተጀመረ (Nvidia hires major US law firm to investigate alleged Chinese spy affair)",
   "በትግራይ የሚገኙ ተፈናቃዮች ወደ ቀያቸው የመመለስ ተስፋቸው እየመነመነ መሆኑን ገለጹ (Tigray displaced families fear renewed war as hopes of returning home fade)",
@@ -2568,7 +2556,8 @@
   "አምነስቲ፡ በደቡብ ሱዳን ከ200 በላይ ሰዎች የተገደሉበትን ጥቃት መከላከል አልተቻለም አለ (Amnesty says UN, South Sudan officials failed to prevent village massacre)",
   "በየመን በሁቲዎች እና በሳዑዲ በሚደገፉ ኃይሎች መካከል ያለው ውጊያ ተፋፋመ (Fighting intensifies in Yemen as Houthis deny targeting Mecca)",
   "የአሜሪካ ሴናተሮች በኢትዮጵያ ያለውን ግጭት ለማስቆም እርምጃ እንዲወሰድ ለMarco Rubio ደብዳቤ ላኩ (News: U.S. senators send second letter to Rubio urging action to avert widening conflict in Ethiopia)",
-  "ኢራን አሜሪካ ከበዛ ጥያቄ ከተቆጠበች ስምምነት ለማድረግ ዝግጁ መሆኗን ገለጸች (Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf)"
+  "ኢራን አሜሪካ ከበዛ ጥያቄ ከተቆጠበች ስምምነት ለማድረግ ዝግጁ መሆኗን ገለጸች (Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf)",
+  "የአሜሪካ መልዕክተኞች ከVladimir Putin ጋር ለመወያየት ሞስኮ ገቡ (US envoys arrive in Moscow for Russia-Ukraine talks with Putin)"
  ],
  "posted_at": [
   1794306965.8662915,
@@ -2623,6 +2612,7 @@
   1794458184.9743602,
   1794460182.782784,
   1794461770.4464898,
-  1794471127.9724264
+  1794471127.9724264,
+  1794476213.2346122
  ]
 }
