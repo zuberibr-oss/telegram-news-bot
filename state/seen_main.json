@@ -1,6 +1,5 @@
 {
  "seen": {
-  "0134af7636038f6d": 1793230585.242596,
   "7ae183f27d635080": 1793233421.5306258,
   "616e5a4139454dbd": 1793233421.5306258,
   "e1a12671755ce14e": 1793233421.5306258,
@@ -2539,10 +2538,16 @@
   "87f71cbfcdf8e18d": 1794438450.5408244,
   "1f4a00488af38797": 1794440100.6671479,
   "c94892d0a20f9f57": 1794440100.6671479,
-  "6b5e9abeb8b82117": 1794440100.6671479
+  "6b5e9abeb8b82117": 1794440100.6671479,
+  "8b16983f75145099": 1794442848.9366944,
+  "d562861ac7983751": 1794442848.9366944,
+  "a0e052de5c80e540": 1794442848.9366944,
+  "aa50a16443256bbd": 1794442848.9366944,
+  "971125f8d425a82f": 1794442848.9366944,
+  "e8f8480cac07bedb": 1794442848.9366944,
+  "20570f96fdff1db9": 1794442848.9366944
  },
  "recent_headlines": [
-  "በአቡ ዳቢ የተካሄደው የሩሲያ፣ ዩክሬን እና አሜሪካ የመጀመሪያ ቀን የሰላም ውይይት መጠናቀቁ ተገለጸ (First day of Ukraine peace talks 'very productive', US says)",
   "በእስራኤል በጋዛ በተፈጸመ ጥቃት ህጻንን ጨምሮ ስድስት ፍልስጤማውያን ተገደሉ (Father, child among six Palestinians killed in Israeli attacks on Gaza)",
   "አዋሽ ኢንሹራንስ አክሲዮኖቹን በ ESX በመመዝገብ የመጀመሪያው የኢንሹራንስ ኩባንያ ሆነ (Awash insurance joins ESX main market with 6.75 million listed shares)",
   "የትራምፕ «የሰላም ቦርድ» እስራኤል ለጋዛ ያደረገችው ሰብዓዊ ምላሽ «በቂ አይደለም» አለ (Board of Peace says Israel's aid response after Gaza floods 'insufficent')",
@@ -2581,7 +2586,8 @@
   "በኢትዮጵያ እና በኤርትራ መካከል ያለው ውጥረት ቀጠናውን እንዳያደፈርሰው ጂ7 አሳሰበ (Walitti bu’iinsi Itoophiyaa fi Eertiraa naannawaa tasgabbii dhabsiisuu danda’a jechuun G7 akeekkachiise)",
   "የኦፔክ አባል ሀገራት የነዳጅ ምርት ከኢራን ጦርነት በፊት ወደነበረበት ደረጃ መጠጋቱ ተገለጸ (Oil production nears pre-Iran war levels, OPEC says)",
   "የሆርሙዝ ሰርጥ ወደ ነበረበት ሁኔታ አይመለስም ሲሉ የኢራን ምክር ቤት አፈ ጉባኤ ተናገሩ (Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says)",
-  "ኢትዮጵያ ኤርትራ እና ሱዳን የታጠቁ ቡድኖችን እየደገፉ መሆኑን ለተባበሩት መንግሥታት አስታወቀች (News: Ethiopia tells UN envoy Eritrea, Sudan backing armed groups and drone attacks)"
+  "ኢትዮጵያ ኤርትራ እና ሱዳን የታጠቁ ቡድኖችን እየደገፉ መሆኑን ለተባበሩት መንግሥታት አስታወቀች (News: Ethiopia tells UN envoy Eritrea, Sudan backing armed groups and drone attacks)",
+  "ኬንያ ኢትዮጵያን በመብለጥ በሦስተኛ ደረጃ ትልቋ የአፍሪካ የክሪፕቶረንሲ ገበያ ሆነች (#Daily_Brief: #Kenya overtakes #Ethiopia as Africa’s third-largest cryptocurrency market)"
  ],
  "posted_at": [
   1794274666.551404,
@@ -2633,6 +2639,7 @@
   1794413407.783568,
   1794431229.68681,
   1794432985.578945,
-  1794438484.3596385
+  1794438484.3596385,
+  1794442899.4177973
  ]
 }
