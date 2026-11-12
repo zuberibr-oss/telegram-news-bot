@@ -1,6 +1,5 @@
 {
  "seen": {
-  "f0e86ca40add7e79": 1793280887.2157855,
   "cb99dc31d39ca609": 1793288106.1857402,
   "b5da52efd5a9c303": 1793293680.0884953,
   "b63c84d5fd21e646": 1793308084.9702282,
@@ -1474,10 +1473,11 @@
   "c975952c311be146": 1794488874.6498153,
   "c6a01ed87b88837b": 1794488874.6498153,
   "eaf0597448cf1b0f": 1794488874.6498153,
-  "1c18929d9dd69ae6": 1794488874.6498153
+  "1c18929d9dd69ae6": 1794488874.6498153,
+  "6058929ecbf5e292": 1794490459.942608,
+  "9ac586ee6b51889e": 1794490459.942608
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ተመኑን በ16% እንዳጸና አቆየ (Inflation at 14.9%, and Single Digits Won’t Come in the Next Six Months)",
   "የሳፋሪኮም በኢትዮጵያ የነበረው ኪሳራ በ92% ሊቀንስ እንደሚችል ተገለጸ (Safaricom HY2027 results: Analysts expect stronger earnings as Ethiopia losses shrink)",
   "የኬንያ የክሪፕቶፕረንሲ ግብይት 5.7 ቢሊዮን ዶላር በመድረስ ኢትዮጵያን በልጦ 3ኛ ደረጃን ያዘ (Kenya’s crypto market records KSh740bn as stablecoins drive activity)",
   "Nedbank የኬንያውን NCBA ባንክ 66 በመቶ ድርሻ በ107.7 ቢሊዮን ሺሊንግ ገዛ (Nedbank takes control of NCBA as 1.087 billion shares change hands in KSh107.7 billion NSE transaction)",
@@ -1516,7 +1516,8 @@
   "Enza Capital በአፍሪካ AI ስታርታፖች ላይ የሚያፈስ የ60 ሚሊዮን USD ፈንድ መሠረተ (African AI startups are starved of funding. Enza Capital is betting $60 million on them)",
   "የገቢዎች ሚኒስቴር ከ50 ሺህ ብር በላይ በሚያገኙ የዲጂታል ይዘት ፈጣሪዎች ላይ የገቢ ግብር ጣለ (Ministry of Revenues Imposes Income Tax on Digital Content Creators Earning Above 50,000 Birr)",
   "አፍሪካ በሳይበር ጥቃት በዓለም የመጀመሪያዋ ክልል መሆኗን ቼክ ፖይንት ገለጸ (Africa now the most attacked region for cyber threats, Check Point)",
-  "ኤም-ፔሳ ኢትዮጵያ ከያጉትፔ ጋር የሳውንድቦክስ ስምምነት ተፈራረመ (M-PESA Ethiopia, YagoutPay Sign Soundbox Deal to Speed up)"
+  "ኤም-ፔሳ ኢትዮጵያ ከያጉትፔ ጋር የሳውንድቦክስ ስምምነት ተፈራረመ (M-PESA Ethiopia, YagoutPay Sign Soundbox Deal to Speed up)",
+  "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የባንኮች መካከል የገንዘብ ገበያ መመሪያ አወጣ (EPD/02/2026 – INTEREST-FREE INTERBANK MONEY MARKET DIRECTIVE)"
  ],
  "posted_at": [
   1794344880.9817212,
@@ -1525,6 +1526,7 @@
   1794393359.0985684,
   1794402576.68149,
   1794467394.1561134,
-  1794485553.3933537
+  1794485553.3933537,
+  1794490529.551956
  ]
 }
