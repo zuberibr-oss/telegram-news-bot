@@ -1,9 +1,5 @@
 {
  "seen": {
-  "e62245f635279ebe": 1793247070.206607,
-  "309fd9a5f575a274": 1793247070.206607,
-  "d65cacd6bf3b59ae": 1793247070.206607,
-  "c91a579cf538b8ad": 1793247070.206607,
   "69c0237ff6194f19": 1793248591.2222004,
   "a30fe7fa4c7948e5": 1793250606.621299,
   "55cca2d0c103e9cf": 1793252149.2763188,
@@ -2546,11 +2542,14 @@
   "fc8d391f670612da": 1794456572.0348423,
   "b461bad79ea2b076": 1794456572.0348423,
   "bf87465c69fe5189": 1794456572.0348423,
-  "cf96e203d6094ab7": 1794456572.0348423
+  "cf96e203d6094ab7": 1794456572.0348423,
+  "9747ce6d3272ef58": 1794458122.6670105,
+  "ef0c82c0348f67db": 1794458122.6670105,
+  "3fa48d2c7187b904": 1794458122.6670105,
+  "df95263e9a95d3ea": 1794458122.6670105,
+  "828bb5f9b54f66d4": 1794458122.6670105
  },
  "recent_headlines": [
-  "የትራምፕ «የሰላም ቦርድ» እስራኤል ለጋዛ ያደረገችው ሰብዓዊ ምላሽ «በቂ አይደለም» አለ (Board of Peace says Israel's aid response after Gaza floods 'insufficent')",
-  "የሶማሊያ የደኅንነት ኃይሎች ጠቅላይ ፍርድ ቤቱን መቆጣጠራቸውን የቀድሞው ዋና ዳኛ ተናገሩ (Security forces seized top court, Somalia’s ex-chief justice says)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከቱርክ ፕሬዝዳንት ኤርዶጋን ጋር ተወያዩ (🇪🇹🇹🇷 PM Abiy Arrives in Antalya, Holds Talks with Turkish President Erdoğan Ahead of COP31)",
   "ኢራን በኑክሌር ያልሆኑ ሀገራት ስምምነት ላይ ጸንታ እንደምትቀጥል አስታወቀች (Iran backs nuclear treaty even as hardliners raise prospect of bomb)",
   "የካናዳው Allied Gold በቤኒሻንጉል ጉሙዝ በሚገኘው ኮርሙክ ፕሮጀክት የመጀመሪያውን ወርቅ አመረተ (Ethiopia’s Kurmuk project moves into production, targets commercial operations by year-end)",
@@ -2588,7 +2587,9 @@
   "ኢትዮጵያ ኤርትራ እና ሱዳን የታጠቁ ቡድኖችን እየደገፉ መሆኑን ለተባበሩት መንግሥታት አስታወቀች (News: Ethiopia tells UN envoy Eritrea, Sudan backing armed groups and drone attacks)",
   "ኬንያ ኢትዮጵያን በመብለጥ በሦስተኛ ደረጃ ትልቋ የአፍሪካ የክሪፕቶረንሲ ገበያ ሆነች (#Daily_Brief: #Kenya overtakes #Ethiopia as Africa’s third-largest cryptocurrency market)",
   "በጋዛ ናሰር ሆስፒታል ላይ በእስራኤል በተፈጸመ ጥቃት ቢያንስ ስድስት ሰዎች ተገደሉ (Israel strikes intensive care at Gaza’s Nasser Hospital)",
-  "በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈጸመ የድሮን ጥቃት 36 ሰዎች መገደላቸው ተገለጸ (በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈፀመ የድሮን ጥቃት በርካቶች መገደላቸውን እማኞች ተናገሩ)"
+  "በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈጸመ የድሮን ጥቃት 36 ሰዎች መገደላቸው ተገለጸ (በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈፀመ የድሮን ጥቃት በርካቶች መገደላቸውን እማኞች ተናገሩ)",
+  "እስራኤል በኢራን ላይ ጥቃት ለመሰንዘር ዝግጅት እንድታደርግ መታዘዙ ተገለጸ (Iran warns of expanded retaliation as Israel reportedly readies to attack)",
+  "አምነስቲ፡ በደቡብ ሱዳን ከ200 በላይ ሰዎች የተገደሉበትን ጥቃት መከላከል አልተቻለም አለ (Amnesty says UN, South Sudan officials failed to prevent village massacre)"
  ],
  "posted_at": [
   1794291260.153814,
@@ -2642,6 +2643,8 @@
   1794438484.3596385,
   1794442899.4177973,
   1794447449.4463954,
-  1794456610.0389333
+  1794456610.0389333,
+  1794458181.6292787,
+  1794458184.9743602
  ]
 }
