@@ -1,10 +1,5 @@
 {
  "seen": {
-  "0521f1586aa7d8d0": 1793311792.3426507,
-  "411a695e98210052": 1793311792.3426507,
-  "68204182278fd0a1": 1793311792.3426507,
-  "2be83cbe8119963c": 1793311792.3426507,
-  "193a44088f0391a9": 1793311792.3426507,
   "9943f04592c88ac5": 1793315360.6818552,
   "88273be3f15ddafe": 1793315360.6818552,
   "5c1f4559eed887a2": 1793317016.5897863,
@@ -2516,10 +2511,13 @@
   "df50fc4430bb04b3": 1794519413.8591514,
   "53b949d908900d70": 1794519413.8591514,
   "8683eb9cbb291f8f": 1794519413.8591514,
-  "914add986e5ae6a3": 1794521300.0358639
+  "914add986e5ae6a3": 1794521300.0358639,
+  "fa323a676027e7f9": 1794522927.573759,
+  "7a0f19663b6f5c55": 1794522927.573759,
+  "d9cb3722af70d7be": 1794522927.573759,
+  "69584b0035695c27": 1794522927.573759
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከሶማሊያው ፕሬዝዳንት ሀሰን ሼክ መሀሙድ ጋር ተወያዩ (Leaders of Ethiopia and Somalia Review Security Developments and Regional Stability)",
   "በቱርክ የሚካሄደው የCOP31 የመሪዎች ጉባኤ በይፋ ተከፈተ (COP31 Leaders’ Summit Opens in Antalya with Focus on Global Climate Commitments and Cooperation)",
   "በሱዳን ብሉ ናይል ክልል በድሮን ጥቃት ዘጠኝ ሰላማውያን ሰዎች ተገደሉ (#Daily_Brief: RSF drone strike kills nine civilians in #Sudan’s #Blue_Nile region)",
   "ጠቅላይ ሚኒስትር ዐቢይ በCOP31 ጉባኤ ለአየር ንብረት ፋይናንስ ሦስት መስፈርቶችን አቀረቡ (PM Abiy Sets Three Tests for Climate Finance at COP31 Leaders’ Summit: How Much, By When and on What Terms)",
@@ -2558,7 +2556,8 @@
   "የNvidia ዋና ሥራ አስፈጻሚ Jensen Huang ከኃላፊነታቸው ለቀቁ (Nvidia CEO Jensen Huang steps down amid spy scandal and market loss)",
   "ኢትዮጵያ እና ቻይና በባህላዊ መድኃኒቶች ልማት በጋራ ለመሥራት ተወያዩ (Daily_Brief: #Ethiopia, #China explore cooperation to develop traditional and herbal medicines)",
   "በሱዳን ከ64 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እና ጥገኝነት ጠያቂዎች እንደሚገኙ ተገለጸ (News: More than 64, 000 Ethiopian refugees, asylum-seekers remain in war-hit Sudan, UN data shows)",
-  "የዩክሬን ድሮኖች በፊንላንድ ወሽመጥ የሩሲያን የጦር መርከብ መቱ (Russian warship hit by Ukrainian drone in Gulf of Finland)"
+  "የዩክሬን ድሮኖች በፊንላንድ ወሽመጥ የሩሲያን የጦር መርከብ መቱ (Russian warship hit by Ukrainian drone in Gulf of Finland)",
+  "የአሜሪካ መልዕክተኞች ከሩሲያው ፕሬዝዳንት ጋር ከተወያዩ በኋላ ከዛሌንስኪ ጋር በደብሊን ተገናኙ (US envoys meet Zelensky in Dublin after talks with Putin in Moscow)"
  ],
  "posted_at": [
   1794352067.0340798,
@@ -2611,6 +2610,7 @@
   1794492645.1874783,
   1794497797.6420093,
   1794497800.9917085,
-  1794515788.2390347
+  1794515788.2390347,
+  1794522966.075805
  ]
 }
