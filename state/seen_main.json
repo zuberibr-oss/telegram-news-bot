@@ -1,23 +1,5 @@
 {
  "seen": {
-  "a3eb5cb5b85d4124": 1793277665.623206,
-  "aef984b27ced9ea7": 1793277665.623206,
-  "a2c2c18e924d76f9": 1793277665.623206,
-  "d78258fe1d3e3d7c": 1793277665.623206,
-  "5f0bee12774f9976": 1793277665.623206,
-  "ac3494442edbca2d": 1793277665.623206,
-  "d466fa9eacebd9fd": 1793279411.5510192,
-  "503cb0f0aaa13bf6": 1793279411.5510192,
-  "318a3d3da219146b": 1793279411.5510192,
-  "ef9caca8b474b3ca": 1793279411.5510192,
-  "b5f88b99c74af36d": 1793279411.5510192,
-  "050f357f7101aa0c": 1793279411.5510192,
-  "0aaef927e395f461": 1793279411.5510192,
-  "a64d388bcd1c34af": 1793279411.5510192,
-  "2503850534a541d2": 1793279411.5510192,
-  "8cbc4445855ad316": 1793279411.5510192,
-  "e995048434be0835": 1793279411.5510192,
-  "86bd9c91b0bed0d7": 1793279411.5510192,
   "b510a82fd45b91c5": 1793280945.0119426,
   "19966450c1bf03ed": 1793280945.0119426,
   "88b90a706719bcc2": 1793280945.0119426,
@@ -2521,10 +2503,20 @@
   "5b180522c71aa247": 1794487098.12213,
   "a6b7bee886d034bf": 1794487098.12213,
   "e2ef0ef484ba1b62": 1794487098.12213,
-  "076741cf16fe8724": 1794487098.12213
+  "076741cf16fe8724": 1794487098.12213,
+  "a579b6b4b589b9a5": 1794488966.392931,
+  "b86a37d2e6808039": 1794488966.392931,
+  "b8bfd8542e41b0e9": 1794488966.392931,
+  "25d3dfe03674a318": 1794488966.392931,
+  "12bad15044c86e46": 1794488966.392931,
+  "888f2131df6607a9": 1794488966.392931,
+  "ea171a1e380201b2": 1794488966.392931,
+  "774a8a5c8263c601": 1794488966.392931,
+  "c8e4a8b7be83b91f": 1794488966.392931,
+  "fac3f48b8209460b": 1794488966.392931,
+  "bc64182d172e26ba": 1794488966.392931
  },
  "recent_headlines": [
-  "ሴናተር Ted Cruz የአሜሪካ አምባሳደር ተሿሚው ሶማሊላንድን እንዲያውቁ ጫና አደረጉ (Daily_Brief: Senator Ted Cruz pressures #US ambassador nominee to back #Somaliland recognition)",
   "ኢትዮጵያ በቻይና እና ደቡብ አሜሪካ መካከል የአየር ጭነት ማጓጓዣ ማዕከል ሆነች (Daily_Brief: #Ethiopia becomes key link in new #China–#South_America cargo routes through Addis Abeba)",
   "በኬንያ ማንዴራ በአልሸባብ ተፈጽሟል በተባለ ጥቃት ስምንት ሰዎች ተገደሉ (Daily_Brief: Eight killed in suspected #Al_Shabaab ambush targeting road construction team in #Kenya’s #Mandera)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከፊንላንዱ ፕሬዝዳንት Alexander Stubb ጋር ተወያዩ (Ethiopia’s Abiy Ahmed and Finland’s Alexander Stubb Confer on Global Security and COP32 Cooperation)",
@@ -2563,11 +2555,10 @@
   "በኢትዮጵያ ለዲጂታል ይዘት ፈጣሪዎች እና ኦንላይን ፍሪላንሰሮች አዲስ የገቢ ግብር ደንብ ወጣ (Ethiopia introduces new tax rules for digital content creators)",
   "የዴሞክራቲክ ሪፐብሊክ ኮንጎ ፕሬዝዳንት የሕዝበ ውሳኔ ሕግ አጸደቁ (DR Congo's Tshisekedi signs referendum law amid fears of third-term bid)",
   "ቻይና አሜሪካ በNvidia ዋና ስራ አስፈጻሚ ዙሪያ የሰላይነት ክስ ፈብርካለች ስትል ኮነነች (China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’)",
-  "የኢትዮጵያ ወጣት አትሌቶች በዳካር የላቀ ውጤት በማስመዝገባቸው ተመስገን ጥሩነህ አደነቁ (Deputy PM Salutes Young Champions for Placing Ethiopia at the Summit of Dakar 2026 Athletics)"
+  "የኢትዮጵያ ወጣት አትሌቶች በዳካር የላቀ ውጤት በማስመዝገባቸው ተመስገን ጥሩነህ አደነቁ (Deputy PM Salutes Young Champions for Placing Ethiopia at the Summit of Dakar 2026 Athletics)",
+  "በዴሞክራቲክ ሪፐብሊክ ኮንጎ ለኢቦላ ወረርሽኝ ከተመደበው ገንዘብ በሚሊዮን የሚቆጠሩ ዶላሮች መጥፋታቸው ተገለጸ (Millions of Ebola dollars going missing as virus spreads, medical charity warns)"
  ],
  "posted_at": [
-  1794316178.6213741,
-  1794316182.0204635,
   1794321393.722081,
   1794323339.3935492,
   1794327046.496096,
@@ -2623,6 +2614,7 @@
   1794481760.3414767,
   1794481763.6982088,
   1794483343.6182806,
-  1794485599.028258
+  1794485599.028258,
+  1794489037.630037
  ]
 }
