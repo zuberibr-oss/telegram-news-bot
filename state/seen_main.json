@@ -1,10 +1,5 @@
 {
  "seen": {
-  "030d33044f892bd2": 1793304603.399716,
-  "d2a97cc56c5b68b4": 1793304603.399716,
-  "b8cea13a4ad9b3de": 1793304603.399716,
-  "69b40a05dd1a2230": 1793304603.399716,
-  "dda4dcf0a077409a": 1793306138.3222926,
   "1818e83b9f0310f3": 1793308204.4191,
   "043e4bfaf105a5bc": 1793308204.4191,
   "70f95828481c902b": 1793308204.4191,
@@ -2511,10 +2506,16 @@
   "e0d4801dc3b1d63f": 1794514117.175093,
   "c4d4f8684bdce92e": 1794514117.175093,
   "4af14a71a1b2d0b8": 1794514117.175093,
-  "433e59b62093e39d": 1794514117.175093
+  "433e59b62093e39d": 1794514117.175093,
+  "bde0ca7ef19d0bbf": 1794515735.581158,
+  "f19c2a34cc1c5a85": 1794515735.581158,
+  "e82c49b0e97b2fe6": 1794515735.581158,
+  "f6876c6cf6a31e66": 1794515735.581158,
+  "5ff923d5fde1477c": 1794515735.581158,
+  "d23c840a6638c3c8": 1794515735.581158,
+  "1e3d61ae9881ce3b": 1794515735.581158
  },
  "recent_headlines": [
-  "ኢራን ከአሜሪካ ጋር ውይይት ማድረጓን አስተበለየች፤ የሆርሙዝ ሰርጥ ክፍት እንደማይሆን ገለጸች (Iran denies talks with US, says Hormuz will stay shut until demands are met)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከሶማሊያው ፕሬዝዳንት ሀሰን ሼክ መሀሙድ ጋር ተወያዩ (Leaders of Ethiopia and Somalia Review Security Developments and Regional Stability)",
   "በቱርክ የሚካሄደው የCOP31 የመሪዎች ጉባኤ በይፋ ተከፈተ (COP31 Leaders’ Summit Opens in Antalya with Focus on Global Climate Commitments and Cooperation)",
   "በሱዳን ብሉ ናይል ክልል በድሮን ጥቃት ዘጠኝ ሰላማውያን ሰዎች ተገደሉ (#Daily_Brief: RSF drone strike kills nine civilians in #Sudan’s #Blue_Nile region)",
@@ -2553,7 +2554,8 @@
   "የቻይና አየር መንገድ በጓንግዙ እና አዲስ አበባ መካከል አዲስ የበረራ መስመር ጀመረ (Dhaabbanni xiyyaaraa #Chaayinaa daandii balallii #Gaawungzhoo–#Finfinnee, karaa #Chaangshaa jalqabe)",
   "የNvidia ዋና ሥራ አስፈጻሚ Jensen Huang ከኃላፊነታቸው ለቀቁ (Nvidia CEO Jensen Huang steps down amid spy scandal and market loss)",
   "ኢትዮጵያ እና ቻይና በባህላዊ መድኃኒቶች ልማት በጋራ ለመሥራት ተወያዩ (Daily_Brief: #Ethiopia, #China explore cooperation to develop traditional and herbal medicines)",
-  "በሱዳን ከ64 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እና ጥገኝነት ጠያቂዎች እንደሚገኙ ተገለጸ (News: More than 64, 000 Ethiopian refugees, asylum-seekers remain in war-hit Sudan, UN data shows)"
+  "በሱዳን ከ64 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እና ጥገኝነት ጠያቂዎች እንደሚገኙ ተገለጸ (News: More than 64, 000 Ethiopian refugees, asylum-seekers remain in war-hit Sudan, UN data shows)",
+  "የዩክሬን ድሮኖች በፊንላንድ ወሽመጥ የሩሲያን የጦር መርከብ መቱ (Russian warship hit by Ukrainian drone in Gulf of Finland)"
  ],
  "posted_at": [
   1794352067.0340798,
@@ -2605,6 +2607,7 @@
   1794492641.6578524,
   1794492645.1874783,
   1794497797.6420093,
-  1794497800.9917085
+  1794497800.9917085,
+  1794515788.2390347
  ]
 }
