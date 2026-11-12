@@ -1,18 +1,5 @@
 {
  "seen": {
-  "2f9ab2c2ed7c92fc": 1793309699.7905195,
-  "18d90aa5fa56f877": 1793309699.7905195,
-  "2208097179b2c9a1": 1793309699.7905195,
-  "e65e4df0871c71c6": 1793309699.7905195,
-  "56502aec50650b56": 1793309699.7905195,
-  "4b096dec86508ecb": 1793309699.7905195,
-  "13d7ee2c0b0bbff5": 1793309699.7905195,
-  "d6966a206af69a7e": 1793309699.7905195,
-  "1bcf21f3d43bdb90": 1793309699.7905195,
-  "b3f96bf862367cac": 1793309699.7905195,
-  "915cb355635d2f68": 1793309699.7905195,
-  "7ab2650f9a0e7e77": 1793309699.7905195,
-  "bc1412cb813d27b5": 1793309699.7905195,
   "d198aecfcc25ac1a": 1793311714.3537796,
   "a8c827174674c73d": 1793313296.6416795,
   "a5cfabcd78797fb3": 1793313296.6416795,
@@ -1472,10 +1459,30 @@
   "cb99dc31d39ca609": 1794501255.7025323,
   "b5da52efd5a9c303": 1794506940.3861349,
   "71dfce50faf8c155": 1794517613.060431,
-  "433e59b62093e39d": 1794517613.060431
+  "433e59b62093e39d": 1794517613.060431,
+  "5c4274ada5c95813": 1794519270.2611165,
+  "d6284f11f0928602": 1794519270.2611165,
+  "0de47692e9dd1470": 1794519270.2611165,
+  "3ad703de5de83eeb": 1794519270.2611165,
+  "61cfe1046f3bf2b9": 1794519270.2611165,
+  "d92a09bb75a1267d": 1794519270.2611165,
+  "b41cbd927baa5282": 1794519270.2611165,
+  "ca3514f368466450": 1794519270.2611165,
+  "d9835c5f73dd79f1": 1794519270.2611165,
+  "41660195538721cf": 1794519270.2611165,
+  "7e5b18f54baba90e": 1794519270.2611165,
+  "2401a849eeedef7a": 1794519270.2611165,
+  "a35d0585d398cd89": 1794519270.2611165,
+  "db539a162ca3ff76": 1794519270.2611165,
+  "bc7971eab4a57af1": 1794519270.2611165,
+  "ee1d013bc792fb96": 1794519270.2611165,
+  "a9b7ff31c3f74ef0": 1794519270.2611165,
+  "6e81822655199798": 1794519270.2611165,
+  "cf78f96b935fa886": 1794519270.2611165,
+  "ad623c4b0cd6180c": 1794519270.2611165,
+  "6e8b5d0bc3c45715": 1794519270.2611165
  },
  "recent_headlines": [
-  "ኢቲዮ ቴሌኮም እና ZTE በኢትዮጵያ የመጀመሪያውን የAIR RAN ቴክኖሎጂ ተገበሩ (ZTE and Ethio Telecom Successfully Deployed Ethiopia's First Pre-Commercial AIR RAN)",
   "Yellow Card ወደ ደቡብ አሜሪካ ገበያ ለመግባት የብራዚሉን GoMoney ኩባንያ ገዛ (Yellow Card acquires GoMoney to enter Brazil)",
   "ኬንያ Meta፣ TikTok እና X ህገወጥ ይዘቶችን እንዲያሳውቁ የሚያስገድድ የህግ ረቂቅ አዘጋጀች (Kenya wants Meta, TikTok and X to report unlawful content under proposed social media law)",
   "IFC በአፍሪካ የግብርና ቴክኖሎጂ እና የባንክ ብድርን የሚያስተናግድ አዲስ የፋይናንስ መዋቅር ይፋ አደረገ (The 20-year experiment: Why IFC thinks African agritech has finally come of age)",
@@ -1514,7 +1521,8 @@
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የባንኮች መካከል የገንዘብ ገበያ መመሪያ አወጣ (EPD/02/2026 – INTEREST-FREE INTERBANK MONEY MARKET DIRECTIVE)",
   "የNVIDIA ዋና ሥራ አስፈጻሚ ጄንሰን ሁዋንግ ከኃላፊነታቸው ለቀቁ (NVIDIA CEO Jensen Huang Resigns as Colette Kress Takes Over)",
   "የግብፁ ፊንቴክ MNT-Halan በካይሮ ሰነደ መዋለ ንዋይ ገበያ ትልቅ IPO አከናወነ (MNT-Halan Lists Egyptian Business on Cairo Stock Exchange in Major IPO)",
-  "Wegagen Bank እና ShebaMiles በጋራ የተዘጋጀ የክፍያ ካርድ ይፋ አደረጉ (Wegagen Bank, ShebaMiles launch co-branded payment card)"
+  "Wegagen Bank እና ShebaMiles በጋራ የተዘጋጀ የክፍያ ካርድ ይፋ አደረጉ (Wegagen Bank, ShebaMiles launch co-branded payment card)",
+  "ኢትዮጵያ እና IFC የ100 ቢሊዮን ብር የቤት መግዣ ብድር ኩባንያ ሊመሠርቱ ነው (Ethiopia, IFC Partner to Launch 100 Billion Birr Mortgage Refinance Company)"
  ],
  "posted_at": [
   1794380976.7345345,
@@ -1526,6 +1534,7 @@
   1794490529.551956,
   1794494141.9871511,
   1794496136.5192466,
-  1794517691.7560618
+  1794517691.7560618,
+  1794519413.6035233
  ]
 }
