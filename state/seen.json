@@ -1,9 +1,5 @@
 {
  "seen": {
-  "435dcedc0ffbf914": 1793256105.131844,
-  "a8b15b5da11f272c": 1793256105.131844,
-  "0c63f86d4862cab3": 1793257781.706367,
-  "c12d8b481c2e5422": 1793257781.706367,
   "06cb4203d031b76d": 1793268527.5761414,
   "f8606fbe41a249b6": 1793272083.40356,
   "3fc77863b59a356e": 1793276013.8545156,
@@ -1412,10 +1408,15 @@
   "0d336d2fbce3e93d": 1794440042.66267,
   "9df6dbb232189212": 1794442793.4172554,
   "5b1fd322536d9167": 1794444435.995768,
-  "cc8bfc99d17fe243": 1794449418.7633972
+  "cc8bfc99d17fe243": 1794449418.7633972,
+  "b68805b18daeaf19": 1794467300.8220658,
+  "72975c75435841b7": 1794467300.8220658,
+  "922683cba9bc03bf": 1794467300.8220658,
+  "966fb2c4dc022b6c": 1794467300.8220658,
+  "37fcce6a96c60b67": 1794467300.8220658,
+  "943899d6af9e8990": 1794467300.8220658
  },
  "recent_headlines": [
-  "ጉግል 3 ሚሊዮን አፍሪካውያንን በ AI ለማሰልጠን የሚያስችል አዲስ መድረክ አስመረቀ (Google launches Skilling Africa hub to train 3m in AI by 2030)",
   "Rise of Fearless የቪዲዮ ጨዋታ የ 1 ሚሊዮን USD ኢንቨስትመንት አገኘ (Rise of Fearless raises $1 million ahead of a relaunch)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፖሊሲ ወለድ ተመኑን በ16% እንዳጸና አቆየ (Inflation at 14.9%, and Single Digits Won’t Come in the Next Six Months)",
   "የሳፋሪኮም በኢትዮጵያ የነበረው ኪሳራ በ92% ሊቀንስ እንደሚችል ተገለጸ (Safaricom HY2027 results: Analysts expect stronger earnings as Ethiopia losses shrink)",
@@ -1454,7 +1455,8 @@
   "ሳምሰንግ በአፍሪካ የስማርትፎን ገበያ ለመጀመሪያ ጊዜ አንደኛ ደረጃን ያዘ (Samsung tops Africa’s smartphone market for the first time)",
   "የቮዳኮም የ1.6 ቢሊዮን ዶላር የሳፋሪኮም አክሲዮን ግዢ ክስ ወደ ይግባኝ ሰሚ ችሎት አመራ (Vodacom’s $1.6bn Safaricom stake heads to appeal)",
   "Enza Capital በአፍሪካ AI ስታርታፖች ላይ የሚያፈስ የ60 ሚሊዮን USD ፈንድ መሠረተ (African AI startups are starved of funding. Enza Capital is betting $60 million on them)",
-  "የገቢዎች ሚኒስቴር ከ50 ሺህ ብር በላይ በሚያገኙ የዲጂታል ይዘት ፈጣሪዎች ላይ የገቢ ግብር ጣለ (Ministry of Revenues Imposes Income Tax on Digital Content Creators Earning Above 50,000 Birr)"
+  "የገቢዎች ሚኒስቴር ከ50 ሺህ ብር በላይ በሚያገኙ የዲጂታል ይዘት ፈጣሪዎች ላይ የገቢ ግብር ጣለ (Ministry of Revenues Imposes Income Tax on Digital Content Creators Earning Above 50,000 Birr)",
+  "አፍሪካ በሳይበር ጥቃት በዓለም የመጀመሪያዋ ክልል መሆኗን ቼክ ፖይንት ገለጸ (Africa now the most attacked region for cyber threats, Check Point)"
  ],
  "posted_at": [
   1794299734.423231,
@@ -1464,6 +1466,7 @@
   1794380976.7345345,
   1794388213.6492934,
   1794393359.0985684,
-  1794402576.68149
+  1794402576.68149,
+  1794467394.1561134
  ]
 }
