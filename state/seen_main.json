@@ -1,10 +1,5 @@
 {
  "seen": {
-  "1db1897c3fb59440": 1793245038.7829206,
-  "bdb42c765816ca61": 1793245038.7829206,
-  "4d3bb6c2f9d618c1": 1793245038.7829206,
-  "e914c5ca58eead79": 1793245038.7829206,
-  "04bee1ba6d11c65a": 1793245038.7829206,
   "e62245f635279ebe": 1793247070.206607,
   "309fd9a5f575a274": 1793247070.206607,
   "d65cacd6bf3b59ae": 1793247070.206607,
@@ -2545,10 +2540,15 @@
   "cf20b76ae1ac4d14": 1794450913.6193864,
   "473f268ef23dd12f": 1794450913.6193864,
   "61056f7fffb32b65": 1794452990.645475,
-  "d1d72f5c0311f66a": 1794452990.645475
+  "d1d72f5c0311f66a": 1794452990.645475,
+  "5efc6e4ba472abd6": 1794456572.0348423,
+  "9fedfac1d32cce62": 1794456572.0348423,
+  "fc8d391f670612da": 1794456572.0348423,
+  "b461bad79ea2b076": 1794456572.0348423,
+  "bf87465c69fe5189": 1794456572.0348423,
+  "cf96e203d6094ab7": 1794456572.0348423
  },
  "recent_headlines": [
-  "አዋሽ ኢንሹራንስ አክሲዮኖቹን በ ESX በመመዝገብ የመጀመሪያው የኢንሹራንስ ኩባንያ ሆነ (Awash insurance joins ESX main market with 6.75 million listed shares)",
   "የትራምፕ «የሰላም ቦርድ» እስራኤል ለጋዛ ያደረገችው ሰብዓዊ ምላሽ «በቂ አይደለም» አለ (Board of Peace says Israel's aid response after Gaza floods 'insufficent')",
   "የሶማሊያ የደኅንነት ኃይሎች ጠቅላይ ፍርድ ቤቱን መቆጣጠራቸውን የቀድሞው ዋና ዳኛ ተናገሩ (Security forces seized top court, Somalia’s ex-chief justice says)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከቱርክ ፕሬዝዳንት ኤርዶጋን ጋር ተወያዩ (🇪🇹🇹🇷 PM Abiy Arrives in Antalya, Holds Talks with Turkish President Erdoğan Ahead of COP31)",
@@ -2587,7 +2587,8 @@
   "የሆርሙዝ ሰርጥ ወደ ነበረበት ሁኔታ አይመለስም ሲሉ የኢራን ምክር ቤት አፈ ጉባኤ ተናገሩ (Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says)",
   "ኢትዮጵያ ኤርትራ እና ሱዳን የታጠቁ ቡድኖችን እየደገፉ መሆኑን ለተባበሩት መንግሥታት አስታወቀች (News: Ethiopia tells UN envoy Eritrea, Sudan backing armed groups and drone attacks)",
   "ኬንያ ኢትዮጵያን በመብለጥ በሦስተኛ ደረጃ ትልቋ የአፍሪካ የክሪፕቶረንሲ ገበያ ሆነች (#Daily_Brief: #Kenya overtakes #Ethiopia as Africa’s third-largest cryptocurrency market)",
-  "በጋዛ ናሰር ሆስፒታል ላይ በእስራኤል በተፈጸመ ጥቃት ቢያንስ ስድስት ሰዎች ተገደሉ (Israel strikes intensive care at Gaza’s Nasser Hospital)"
+  "በጋዛ ናሰር ሆስፒታል ላይ በእስራኤል በተፈጸመ ጥቃት ቢያንስ ስድስት ሰዎች ተገደሉ (Israel strikes intensive care at Gaza’s Nasser Hospital)",
+  "በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈጸመ የድሮን ጥቃት 36 ሰዎች መገደላቸው ተገለጸ (በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈፀመ የድሮን ጥቃት በርካቶች መገደላቸውን እማኞች ተናገሩ)"
  ],
  "posted_at": [
   1794291260.153814,
@@ -2640,6 +2641,7 @@
   1794432985.578945,
   1794438484.3596385,
   1794442899.4177973,
-  1794447449.4463954
+  1794447449.4463954,
+  1794456610.0389333
  ]
 }
