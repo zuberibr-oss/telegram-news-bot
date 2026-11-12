@@ -1,12 +1,5 @@
 {
  "seen": {
-  "3fa40236a7098324": 1793272139.6314201,
-  "d4defed2977a30ee": 1793272139.6314201,
-  "4b70baf7f04354bd": 1793272139.6314201,
-  "64470ffdc2510ab2": 1793272139.6314201,
-  "12372b7efe8e95a4": 1793272139.6314201,
-  "89b8a18630d7cce5": 1793272139.6314201,
-  "40fdfc9083842699": 1793272139.6314201,
   "b4f254d8235d8408": 1793273743.2830963,
   "7f91b64915f62593": 1793273743.2830963,
   "d1732dd5efee313f": 1793273743.2830963,
@@ -2517,11 +2510,17 @@
   "b3c4f05fa37e7c5e": 1794479756.673965,
   "97e6703745ef5918": 1794479756.673965,
   "fb5454b36f3f6787": 1794479756.673965,
-  "4064788432460fec": 1794479756.673965
+  "4064788432460fec": 1794479756.673965,
+  "1b3e30ff1db8fd74": 1794481703.9672766,
+  "9330263e92008826": 1794481703.9672766,
+  "933d5779710f78af": 1794481703.9672766,
+  "20ac6975d75f5a41": 1794481703.9672766,
+  "84315b4d6b55c2c4": 1794481703.9672766,
+  "bb35892f4b0651ea": 1794481703.9672766,
+  "9c4e000fed7e6e2d": 1794481703.9672766,
+  "cb30d39134a5f38d": 1794481703.9672766
  },
  "recent_headlines": [
-  "በትግራይ የሚገኙ ተፈናቃዮች ወደ ቀያቸው የመመለስ ተስፋቸው እየመነመነ መሆኑን ገለጹ (Tigray displaced families fear renewed war as hopes of returning home fade)",
-  "Donald Trump አሜሪካ ለእስራኤል የምትሰጠውን ወታደራዊ እርዳታ ለማቆም ማቀዳቸውን አስታወቁ (Section 219: the future of US-Israeli defence partnership)",
   "ሩሲያ በሌኒንግራድ ክልል የተሰነዘሩ 146 የድሮን ጥቃቶችን ማክሸፏን ገለጸች (Russia claims interception of 146 drones in Leningrad region)",
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ በኢቦላ ቫይረስ የተያዙ ሰዎች ቁጥር ከ11 ሺህ አለፈ (Ebola cases in DR Congo pass 11,000, with 5,387 deaths)",
   "ሴናተር Ted Cruz የአሜሪካ አምባሳደር ተሿሚው ሶማሊላንድን እንዲያውቁ ጫና አደረጉ (Daily_Brief: Senator Ted Cruz pressures #US ambassador nominee to back #Somaliland recognition)",
@@ -2559,7 +2558,9 @@
   "ኢራን አሜሪካ ከበዛ ጥያቄ ከተቆጠበች ስምምነት ለማድረግ ዝግጁ መሆኗን ገለጸች (Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf)",
   "የአሜሪካ መልዕክተኞች ከVladimir Putin ጋር ለመወያየት ሞስኮ ገቡ (US envoys arrive in Moscow for Russia-Ukraine talks with Putin)",
   "ኢትዮጵያ እና ብሪታንያ በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ ተወያዩ (Ethiopia and UK Chart Path for Stronger Climate Partnership Towards COP32)",
-  "በአሜሪካ ሚሲሲፒ ከ150 ዓመታት በኋላ የመጀመሪያው ጥቁር ሴናተር ተመረጡ (Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years)"
+  "በአሜሪካ ሚሲሲፒ ከ150 ዓመታት በኋላ የመጀመሪያው ጥቁር ሴናተር ተመረጡ (Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years)",
+  "በኢትዮጵያ ለዲጂታል ይዘት ፈጣሪዎች እና ኦንላይን ፍሪላንሰሮች አዲስ የገቢ ግብር ደንብ ወጣ (Ethiopia introduces new tax rules for digital content creators)",
+  "የዴሞክራቲክ ሪፐብሊክ ኮንጎ ፕሬዝዳንት የሕዝበ ውሳኔ ሕግ አጸደቁ (DR Congo's Tshisekedi signs referendum law amid fears of third-term bid)"
  ],
  "posted_at": [
   1794314205.7745283,
@@ -2616,6 +2617,8 @@
   1794471127.9724264,
   1794476213.2346122,
   1794478193.8128219,
-  1794478197.2587037
+  1794478197.2587037,
+  1794481760.3414767,
+  1794481763.6982088
  ]
 }
