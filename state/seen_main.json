@@ -1,9 +1,5 @@
 {
  "seen": {
-  "a30fe7fa4c7948e5": 1793250606.621299,
-  "55cca2d0c103e9cf": 1793252149.2763188,
-  "0d6bf06f69f97d44": 1793252149.2763188,
-  "6c35e163da980d8f": 1793252149.2763188,
   "43051003b016ffa6": 1793254542.7778435,
   "e9603e14ef4778dc": 1793254542.7778435,
   "35a53b5ff733e456": 1793254542.7778435,
@@ -2550,10 +2546,16 @@
   "7aeb7982ec9a600a": 1794460139.8553998,
   "4679f7525d59f805": 1794460139.8553998,
   "80c4b13acc3d4d66": 1794460139.8553998,
-  "92c3fbb7dd5c3b56": 1794460139.8553998
+  "92c3fbb7dd5c3b56": 1794460139.8553998,
+  "3a3166e32c0cf7eb": 1794461730.209789,
+  "40aad8db2b1ee447": 1794461730.209789,
+  "48e30f5733aa21c3": 1794461730.209789,
+  "59299a9714e675f3": 1794461730.209789,
+  "b6681682c0182589": 1794461730.209789,
+  "699811a70240a56d": 1794461730.209789,
+  "8747f9153a45945d": 1794461730.209789
  },
  "recent_headlines": [
-  "ኢራን በኑክሌር ያልሆኑ ሀገራት ስምምነት ላይ ጸንታ እንደምትቀጥል አስታወቀች (Iran backs nuclear treaty even as hardliners raise prospect of bomb)",
   "የካናዳው Allied Gold በቤኒሻንጉል ጉሙዝ በሚገኘው ኮርሙክ ፕሮጀክት የመጀመሪያውን ወርቅ አመረተ (Ethiopia’s Kurmuk project moves into production, targets commercial operations by year-end)",
   "የኢትዮጵያ ብሔራዊ ባንክ ባካሄደው 32ኛው የውጭ ምንዛሬ ጨረታ የብር ዋጋ መሸርሸሩ ቀጠለ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
   "Marco Rubio አሜሪካ በኢራን ላይ ተጨማሪ ከፍተኛ ወታደራዊ ጥቃት ማካሄድ አያስፈልጋትም አሉ (Rubio says no need for major combat operations against Iran)",
@@ -2592,7 +2594,8 @@
   "በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈጸመ የድሮን ጥቃት 36 ሰዎች መገደላቸው ተገለጸ (በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈፀመ የድሮን ጥቃት በርካቶች መገደላቸውን እማኞች ተናገሩ)",
   "እስራኤል በኢራን ላይ ጥቃት ለመሰንዘር ዝግጅት እንድታደርግ መታዘዙ ተገለጸ (Iran warns of expanded retaliation as Israel reportedly readies to attack)",
   "አምነስቲ፡ በደቡብ ሱዳን ከ200 በላይ ሰዎች የተገደሉበትን ጥቃት መከላከል አልተቻለም አለ (Amnesty says UN, South Sudan officials failed to prevent village massacre)",
-  "በየመን በሁቲዎች እና በሳዑዲ በሚደገፉ ኃይሎች መካከል ያለው ውጊያ ተፋፋመ (Fighting intensifies in Yemen as Houthis deny targeting Mecca)"
+  "በየመን በሁቲዎች እና በሳዑዲ በሚደገፉ ኃይሎች መካከል ያለው ውጊያ ተፋፋመ (Fighting intensifies in Yemen as Houthis deny targeting Mecca)",
+  "የአሜሪካ ሴናተሮች በኢትዮጵያ ያለውን ግጭት ለማስቆም እርምጃ እንዲወሰድ ለMarco Rubio ደብዳቤ ላኩ (News: U.S. senators send second letter to Rubio urging action to avert widening conflict in Ethiopia)"
  ],
  "posted_at": [
   1794291260.153814,
@@ -2649,6 +2652,7 @@
   1794456610.0389333,
   1794458181.6292787,
   1794458184.9743602,
-  1794460182.782784
+  1794460182.782784,
+  1794461770.4464898
  ]
 }
