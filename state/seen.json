@@ -1,29 +1,5 @@
 {
  "seen": {
-  "a4d69afd023af251": 1793394396.9954317,
-  "4c3fef8370b24c80": 1793394396.9954317,
-  "ddb5c82ddecfc441": 1793394396.9954317,
-  "da88bef2801e2ba4": 1793394396.9954317,
-  "c4f7ad8c2b6558ce": 1793394396.9954317,
-  "be5bf5b044329a3d": 1793394396.9954317,
-  "1d9d42dba71aabef": 1793394396.9954317,
-  "5ad6201f3d0ad9a8": 1793394396.9954317,
-  "cbb9d4a59705460a": 1793394396.9954317,
-  "0572e886eb841db4": 1793394396.9954317,
-  "9ff92143eb1f80b7": 1793394396.9954317,
-  "1d6d13530ea87757": 1793394396.9954317,
-  "650c8762b489d597": 1793394396.9954317,
-  "b373d1911502237b": 1793394396.9954317,
-  "a5950bba10f10250": 1793394396.9954317,
-  "17194ff1fc6f63a6": 1793394396.9954317,
-  "ed952fbef00c7ef2": 1793394396.9954317,
-  "ac84e8c9c2dca0c9": 1793394396.9954317,
-  "25448d7f6fb179b2": 1793394396.9954317,
-  "dd10b2cd9ad95440": 1793394396.9954317,
-  "e91414c1f7a11139": 1793394396.9954317,
-  "edf8657b9568fcc6": 1793394396.9954317,
-  "8faec03080242c07": 1793394396.9954317,
-  "94ca4bb5dcfe9261": 1793394396.9954317,
   "f54223fb347844c4": 1793396061.1636722,
   "b0efd49fbdcc218c": 1793396061.1636722,
   "3752530b88e0297c": 1793398060.8189335,
@@ -1472,10 +1448,11 @@
   "02ffe457861ddaa5": 1794576857.0020068,
   "e8a6e172cd7dc967": 1794589606.4509006,
   "1e25bf250452530d": 1794591244.7914686,
-  "eb6b13ce8f02c50f": 1794600465.221832
+  "eb6b13ce8f02c50f": 1794600465.221832,
+  "3b6c42fcad83541d": 1794603976.187159,
+  "2ebc267f91747b60": 1794603976.187159
  },
  "recent_headlines": [
-  "የሳፋሪኮም ትርፍ በ36 በመቶ አደገ፤ በኢትዮጵያ የሚያጋጥመው ኪሳራ ቀነሰ (Safaricom Grows Profit 36% as Ethiopia Business Losses Narrow)",
   "IFC የአፍሪካ የግብርና ፋይናንስን ለማስፋፋት በ Kifiya ላይ ኢንቨስት አደረገ (IFC Invests in Kifiya’s AI Platform to Expand Agricultural Finance Across Africa)",
   "ሳፋሪኮም ኢትዮጵያ ወደ ወጪና ገቢ ሚዛን (Break-even) ለመሸጋገር በመቃረብ ላይ ነው (Safaricom Ethiopia break even: price floor steps remain)",
   "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)",
@@ -1514,7 +1491,8 @@
   "ኢትዮጵያ እና IFC የ100 ቢሊዮን ብር የቤት መግዣ ብድር ኩባንያ ሊመሠርቱ ነው (Ethiopia, IFC Partner to Launch 100 Billion Birr Mortgage Refinance Company)",
   "ኢቲዮ ቴሌኮም teleStream የተሰኘ የዲጂታል መዝናኛ አገልግሎት ይፋ አደረገ (Ethio Telecom Launches teleStream Digital Entertainment Service to Advance Digital Ethiopia Strategy)",
   "ኢቲዮ ቴሌኮም የመንግሥት አገልግሎቶችን ለማቃለል teleSign የተሰኘ አገልግሎት ይፋ አደረገ (Ethio Telecom Debuts 'teleSign' to Revolutionize Government Services)",
-  "ECMA ለሁለት አዳዲስ የኢንቨስትመንት ባንኮች ፈቃድ ሰጠ (Breaking: ECMA Licenses Two New Investment Banks, Bringing Total to 11)"
+  "ECMA ለሁለት አዳዲስ የኢንቨስትመንት ባንኮች ፈቃድ ሰጠ (Breaking: ECMA Licenses Two New Investment Banks, Bringing Total to 11)",
+  "አዲስ ፎርቹን 'Doo-ka' የተሰኘ አገራዊ የባጀት መከታተያ ዲጂታል ፕላትፎርም ይፋ አደረገ (New Federal Budget Tracker Goes Live)"
  ],
  "posted_at": [
   1794467394.1561134,
@@ -1526,6 +1504,7 @@
   1794519413.6035233,
   1794521299.825382,
   1794530872.6573613,
-  1794564546.029592
+  1794564546.029592,
+  1794604054.5895522
  ]
 }
