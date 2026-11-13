@@ -1,6 +1,5 @@
 {
  "seen": {
-  "5c1f4559eed887a2": 1793317016.5897863,
   "f973ac8b195c266c": 1793319834.9796264,
   "a3f9180ccf2a59f8": 1793321698.4262366,
   "f582647bc0cca653": 1793321698.4262366,
@@ -2514,10 +2513,14 @@
   "7a0f19663b6f5c55": 1794522927.573759,
   "d9cb3722af70d7be": 1794522927.573759,
   "69584b0035695c27": 1794522927.573759,
-  "749524c76a47c5c1": 1794524847.2810295
+  "749524c76a47c5c1": 1794524847.2810295,
+  "bf7a1889172b305c": 1794529224.3464172,
+  "f35ecdb1e2172e31": 1794529224.3464172,
+  "aeb41df5d7394ec6": 1794529224.3464172,
+  "493b93ad30d0ff84": 1794529224.3464172,
+  "9838390e55e86e18": 1794529224.3464172
  },
  "recent_headlines": [
-  "በቱርክ የሚካሄደው የCOP31 የመሪዎች ጉባኤ በይፋ ተከፈተ (COP31 Leaders’ Summit Opens in Antalya with Focus on Global Climate Commitments and Cooperation)",
   "በሱዳን ብሉ ናይል ክልል በድሮን ጥቃት ዘጠኝ ሰላማውያን ሰዎች ተገደሉ (#Daily_Brief: RSF drone strike kills nine civilians in #Sudan’s #Blue_Nile region)",
   "ጠቅላይ ሚኒስትር ዐቢይ በCOP31 ጉባኤ ለአየር ንብረት ፋይናንስ ሦስት መስፈርቶችን አቀረቡ (PM Abiy Sets Three Tests for Climate Finance at COP31 Leaders’ Summit: How Much, By When and on What Terms)",
   "በሱዳን ከሁለት ሦስተኛ በላይ የሕፃናት ጉዳት በድሮን ጥቃት መከሰቱን ተባበሩት መንግሥታት አስታወቀ (#Daily_Brief: UN says drone strikes account for two-thirds of child casualties in Sudan)",
@@ -2556,7 +2559,8 @@
   "ኢትዮጵያ እና ቻይና በባህላዊ መድኃኒቶች ልማት በጋራ ለመሥራት ተወያዩ (Daily_Brief: #Ethiopia, #China explore cooperation to develop traditional and herbal medicines)",
   "በሱዳን ከ64 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እና ጥገኝነት ጠያቂዎች እንደሚገኙ ተገለጸ (News: More than 64, 000 Ethiopian refugees, asylum-seekers remain in war-hit Sudan, UN data shows)",
   "የዩክሬን ድሮኖች በፊንላንድ ወሽመጥ የሩሲያን የጦር መርከብ መቱ (Russian warship hit by Ukrainian drone in Gulf of Finland)",
-  "የአሜሪካ መልዕክተኞች ከሩሲያው ፕሬዝዳንት ጋር ከተወያዩ በኋላ ከዛሌንስኪ ጋር በደብሊን ተገናኙ (US envoys meet Zelensky in Dublin after talks with Putin in Moscow)"
+  "የአሜሪካ መልዕክተኞች ከሩሲያው ፕሬዝዳንት ጋር ከተወያዩ በኋላ ከዛሌንስኪ ጋር በደብሊን ተገናኙ (US envoys meet Zelensky in Dublin after talks with Putin in Moscow)",
+  "የሳዑዲ መሪነት ያለው ጦር ወደ ሪያድ ያመሩ የሁቲዎችን ድሮኖች ማክሸፉን አስታወቀ (Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks)"
  ],
  "posted_at": [
   1794361067.817171,
@@ -2609,6 +2613,7 @@
   1794497797.6420093,
   1794497800.9917085,
   1794515788.2390347,
-  1794522966.075805
+  1794522966.075805,
+  1794529256.1769202
  ]
 }
