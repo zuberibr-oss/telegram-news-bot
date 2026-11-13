@@ -1,14 +1,5 @@
 {
  "seen": {
-  "0383c15fe2be127e": 1793399639.3454494,
-  "df744d5d5d38a403": 1793399639.3454494,
-  "3dbdbe412705a847": 1793399639.3454494,
-  "ef585f424a50396d": 1793399639.3454494,
-  "26b547edd69a7508": 1793399639.3454494,
-  "185ad6b6c24a17ff": 1793399639.3454494,
-  "3bbbfe2a22dd5560": 1793399639.3454494,
-  "77dab61b6d948b18": 1793399639.3454494,
-  "3ea404e49cd36674": 1793399639.3454494,
   "463ae186224569e1": 1793401595.7998924,
   "44b1b48d9c25ee3c": 1793401595.7998924,
   "fab5be516a6a65b3": 1793401595.7998924,
@@ -1468,10 +1459,15 @@
   "264ce78d56d92d39": 1794607605.6297557,
   "3998194fa3577dd5": 1794607605.6297557,
   "4d7861f03274ca14": 1794607605.6297557,
-  "9b46f41a714b3ba6": 1794607605.6297557
+  "9b46f41a714b3ba6": 1794607605.6297557,
+  "10340671a4ac3960": 1794609241.155164,
+  "f2985ac63bceaf88": 1794609241.155164,
+  "f4da6cc4bed9934f": 1794609241.155164,
+  "f9a6c2d792105182": 1794609241.155164,
+  "d6543a9c346ff3f0": 1794609241.155164,
+  "90d789e994c350eb": 1794609241.155164
  },
  "recent_headlines": [
-  "ሳፋሪኮም ኢትዮጵያ ወደ ወጪና ገቢ ሚዛን (Break-even) ለመሸጋገር በመቃረብ ላይ ነው (Safaricom Ethiopia break even: price floor steps remain)",
   "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)",
   "የናይጄሪያ ማዕከላዊ ባንክ ለውጭ ስቴብልኮይን አውጪዎች የ11.16 ሚሊዮን ዶላር ዝቅተኛ ካፒታል ደነገገ (Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers)",
   "የናይጄሪያ ማዕከላዊ ባንክ የ P2P ክሪፕቶ ግብይቶች ከባንክ ሂሳቦች ጋር እንዲያያዙ ደነገገ (Nigeria’s Central Bank wants every crypto P2P payment linked to a bank transaction)",
@@ -1510,7 +1506,8 @@
   "ኢቲዮ ቴሌኮም የመንግሥት አገልግሎቶችን ለማቃለል teleSign የተሰኘ አገልግሎት ይፋ አደረገ (Ethio Telecom Debuts 'teleSign' to Revolutionize Government Services)",
   "ECMA ለሁለት አዳዲስ የኢንቨስትመንት ባንኮች ፈቃድ ሰጠ (Breaking: ECMA Licenses Two New Investment Banks, Bringing Total to 11)",
   "አዲስ ፎርቹን 'Doo-ka' የተሰኘ አገራዊ የባጀት መከታተያ ዲጂታል ፕላትፎርም ይፋ አደረገ (New Federal Budget Tracker Goes Live)",
-  "የMicrosoft አገልግሎት መቋረጥ በደቡብ አፍሪካ ዋና ዋና ተቋማት ላይ መስተጓጎል ፈጠረ (Microsoft’s 18-hour outage exposed South Africa’s dependence on Big Tech)"
+  "የMicrosoft አገልግሎት መቋረጥ በደቡብ አፍሪካ ዋና ዋና ተቋማት ላይ መስተጓጎል ፈጠረ (Microsoft’s 18-hour outage exposed South Africa’s dependence on Big Tech)",
+  "የ Claude አዘጋጅ Anthropic በ Nasdaq አክሲዮኖቹን ይፋዊ ሽያጭ (IPO) ለማድረግ ተዘጋጀ (Anthropic’s IPO is a test of whether AI can pay for itself)"
  ],
  "posted_at": [
   1794467394.1561134,
@@ -1524,6 +1521,7 @@
   1794530872.6573613,
   1794564546.029592,
   1794604054.5895522,
-  1794605762.5385032
+  1794605762.5385032,
+  1794609334.0598333
  ]
 }

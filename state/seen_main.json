@@ -1,10 +1,5 @@
 {
  "seen": {
-  "78b7b51ec69bc5c0": 1793398194.0165095,
-  "a63cd79e976aba32": 1793398194.0165095,
-  "c1d508e6af02d581": 1793398194.0165095,
-  "ee652298e95f73e2": 1793399746.8425295,
-  "c39ffa51f0735737": 1793399746.8425295,
   "7ca560fcb08169e1": 1793403307.6262138,
   "f9b2edfbccb16a02": 1793403307.6262138,
   "506c65ac1164b9fd": 1793403307.6262138,
@@ -2497,10 +2492,11 @@
   "28f100f0ebbdd6cc": 1794605762.7717896,
   "9a9364565b70dc5e": 1794605762.7717896,
   "8d06fd0622f08971": 1794607746.2680864,
-  "e985ec2bca984a32": 1794607746.2680864
+  "e985ec2bca984a32": 1794607746.2680864,
+  "c95e5fb7fe40aa53": 1794609334.322495,
+  "deec4f1551ed76a5": 1794609334.322495
  },
  "recent_headlines": [
-  "አምነስቲ፡ በደቡብ ሱዳን ከ200 በላይ ሰዎች የተገደሉበትን ጥቃት መከላከል አልተቻለም አለ (Amnesty says UN, South Sudan officials failed to prevent village massacre)",
   "በየመን በሁቲዎች እና በሳዑዲ በሚደገፉ ኃይሎች መካከል ያለው ውጊያ ተፋፋመ (Fighting intensifies in Yemen as Houthis deny targeting Mecca)",
   "የአሜሪካ ሴናተሮች በኢትዮጵያ ያለውን ግጭት ለማስቆም እርምጃ እንዲወሰድ ለMarco Rubio ደብዳቤ ላኩ (News: U.S. senators send second letter to Rubio urging action to avert widening conflict in Ethiopia)",
   "ኢራን አሜሪካ ከበዛ ጥያቄ ከተቆጠበች ስምምነት ለማድረግ ዝግጁ መሆኗን ገለጸች (Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf)",
@@ -2539,7 +2535,8 @@
   "ኤኤምጂ እና ናይልብሪጅ ኢንቨስትመንት ባንኮች ከካፒታል ማርኬት ባለሥልጣን የሥራ ፈቃድ አገኙ (AMG Investment Bank secures licence, targets Ethiopia’s emerging capital market)",
   "በሆርሙዝ ወሽመጥ የጋዝ መርከብ በፈንጂ ተመቶ እሳት መያዙን ኢራን አስታወቀች (IRGC says tanker caught fire after hitting mines in Strait of Hormuz)",
   "ናይጄሪያ የኢቦላ ተጋላጭ የነበሩ ሰዎችን የ21 ቀን ክትትል ያለተጨማሪ ስርጭት አጠናቀቀች (Nigeria ends 21-day Ebola contact monitoring with no secondary transmission)",
-  "በአሜሪካ የቴክኒክ ችግር በማጋጠሙ ሁሉም የሀገር ውስጥ የበረራ እንቅስቃሴዎች ተቋረጡ (US grounds all flights after ‘communication issue’)"
+  "በአሜሪካ የቴክኒክ ችግር በማጋጠሙ ሁሉም የሀገር ውስጥ የበረራ እንቅስቃሴዎች ተቋረጡ (US grounds all flights after ‘communication issue’)",
+  "የኢትዮጵያ ብሔራዊ ቡድን ሞዛምቢክን 1 ለ 0 በማሸነፍ የመጀመሪያ ድሉን አስመዘገበ (Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers)"
  ],
  "posted_at": [
   1794438484.3596385,
@@ -2586,6 +2583,7 @@
   1794600573.1256995,
   1794602179.5708163,
   1794602182.9218035,
-  1794607783.3101037
+  1794607783.3101037,
+  1794609374.9959555
  ]
 }
