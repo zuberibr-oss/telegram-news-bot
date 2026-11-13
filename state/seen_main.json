@@ -1,11 +1,5 @@
 {
  "seen": {
-  "91f07a1c07dd6e0c": 1793391486.7452886,
-  "6a347b3e0b1dc96f": 1793391486.7452886,
-  "674933f7b7241972": 1793391486.7452886,
-  "8ff5c8cd93d1fdea": 1793391486.7452886,
-  "579e06e8cfbe5cce": 1793391486.7452886,
-  "ef6bf16b90e0dbb6": 1793391486.7452886,
   "31bd3091d5536db7": 1793394545.432054,
   "3b935aea849c49a6": 1793394545.432054,
   "90284a18ca9572e1": 1793394545.432054,
@@ -2496,11 +2490,13 @@
   "e2cd0a109408942b": 1794600518.2291646,
   "78a30b80798a89c3": 1794600518.2291646,
   "b94583cf2f5b6ff7": 1794600518.2291646,
-  "00ad352184dd64c9": 1794600518.2291646
+  "00ad352184dd64c9": 1794600518.2291646,
+  "d71928c69f1a7292": 1794602131.3367207,
+  "38fb2a1d5c7db057": 1794602131.3367207,
+  "442e8e2f330b239c": 1794602131.3367207,
+  "95dc1d07922f1cc0": 1794602131.3367207
  },
  "recent_headlines": [
-  "በጋዛ ናሰር ሆስፒታል ላይ በእስራኤል በተፈጸመ ጥቃት ቢያንስ ስድስት ሰዎች ተገደሉ (Israel strikes intensive care at Gaza’s Nasser Hospital)",
-  "በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈጸመ የድሮን ጥቃት 36 ሰዎች መገደላቸው ተገለጸ (በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈፀመ የድሮን ጥቃት በርካቶች መገደላቸውን እማኞች ተናገሩ)",
   "እስራኤል በኢራን ላይ ጥቃት ለመሰንዘር ዝግጅት እንድታደርግ መታዘዙ ተገለጸ (Iran warns of expanded retaliation as Israel reportedly readies to attack)",
   "አምነስቲ፡ በደቡብ ሱዳን ከ200 በላይ ሰዎች የተገደሉበትን ጥቃት መከላከል አልተቻለም አለ (Amnesty says UN, South Sudan officials failed to prevent village massacre)",
   "በየመን በሁቲዎች እና በሳዑዲ በሚደገፉ ኃይሎች መካከል ያለው ውጊያ ተፋፋመ (Fighting intensifies in Yemen as Houthis deny targeting Mecca)",
@@ -2538,7 +2534,9 @@
   "ኢትዮጵያ ወደ WTO ለመቀላቀል ከሚደረጉት 17 ባለሁለት ወገን ድርድሮች 11ዱን አጠናቀቀች (Six bilateral deals left to finalize before Ethiopia’s WTO schedules move to verification)",
   "53 ሀገራት እስራኤል ወደ ጋዛ እርዳታ እንድታስገባ በጋራ ጠየቁ (Jerusalem Daily: Baby dies from cold in Gaza)",
   "በኢትዮጵያ እና ኤርትራ ድንበር በባድመ አካባቢ ተኩስ መፋፋሙ ተገለጸ (Diplomatic sources report escalating clashes near Badme on Ethiopia-Eritrea border as residents flee bombardment)",
-  "ኤኤምጂ እና ናይልብሪጅ ኢንቨስትመንት ባንኮች ከካፒታል ማርኬት ባለሥልጣን የሥራ ፈቃድ አገኙ (AMG Investment Bank secures licence, targets Ethiopia’s emerging capital market)"
+  "ኤኤምጂ እና ናይልብሪጅ ኢንቨስትመንት ባንኮች ከካፒታል ማርኬት ባለሥልጣን የሥራ ፈቃድ አገኙ (AMG Investment Bank secures licence, targets Ethiopia’s emerging capital market)",
+  "በሆርሙዝ ወሽመጥ የጋዝ መርከብ በፈንጂ ተመቶ እሳት መያዙን ኢራን አስታወቀች (IRGC says tanker caught fire after hitting mines in Strait of Hormuz)",
+  "ናይጄሪያ የኢቦላ ተጋላጭ የነበሩ ሰዎችን የ21 ቀን ክትትል ያለተጨማሪ ስርጭት አጠናቀቀች (Nigeria ends 21-day Ebola contact monitoring with no secondary transmission)"
  ],
  "posted_at": [
   1794431229.68681,
@@ -2584,6 +2582,8 @@
   1794589702.6320994,
   1794589705.97393,
   1794594947.2755728,
-  1794600573.1256995
+  1794600573.1256995,
+  1794602179.5708163,
+  1794602182.9218035
  ]
 }
