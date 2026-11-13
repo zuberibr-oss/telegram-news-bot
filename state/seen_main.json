@@ -1,18 +1,5 @@
 {
  "seen": {
-  "72dd6443cbc26f6d": 1793369408.5270405,
-  "b9c54f39713e4258": 1793369408.5270405,
-  "049c5791146fdc12": 1793369408.5270405,
-  "e91414c1f7a11139": 1793370947.6203632,
-  "594580bd882d716a": 1793370947.6203632,
-  "9514e3ace59ed700": 1793370947.6203632,
-  "7738cccfb768c46d": 1793370947.6203632,
-  "68ca1110422c3154": 1793370947.6203632,
-  "85459de99471ef42": 1793370947.6203632,
-  "5d5091b31da1a2ce": 1793370947.6203632,
-  "906ce354720821e6": 1793370947.6203632,
-  "f1beee9bbbe91413": 1793370947.6203632,
-  "ac84e8c9c2dca0c9": 1793370947.6203632,
   "49718f3207dae72c": 1793372947.8972278,
   "1a63d9f8466ccbe7": 1793372947.8972278,
   "17194ff1fc6f63a6": 1793372947.8972278,
@@ -2496,10 +2483,10 @@
   "297462ec9391e98a": 1794576912.5032248,
   "906c6cc718d749b8": 1794578930.1591914,
   "8faa058936b2bd1f": 1794578930.1591914,
-  "368e0fbe053434dc": 1794578930.1591914
+  "368e0fbe053434dc": 1794578930.1591914,
+  "197c94b0e512fe03": 1794580511.7578034
  },
  "recent_headlines": [
-  "በአቡ ዳቢ የተካሄደው የሩሲያ እና ዩክሬን ውይይት በእስረኞች ልውውጥ ስምምነት ተጠናቀቀ (Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement)",
   "ሱዳን በኬንያ ሻይ ላይ ጥላው የነበረውን የ20 ወራት እግድ አነሳች (Daily_Brief - #Sudan lifts 20-month ban on Kenyan tea imports due to #Nairobi’s alleged support for #RSF)",
   "በኢትዮጵያ እና በኤርትራ መካከል ያለው ውጥረት ቀጠናውን እንዳያደፈርሰው ጂ7 አሳሰበ (Walitti bu’iinsi Itoophiyaa fi Eertiraa naannawaa tasgabbii dhabsiisuu danda’a jechuun G7 akeekkachiise)",
   "የኦፔክ አባል ሀገራት የነዳጅ ምርት ከኢራን ጦርነት በፊት ወደነበረበት ደረጃ መጠጋቱ ተገለጸ (Oil production nears pre-Iran war levels, OPEC says)",
@@ -2538,10 +2525,10 @@
   "በአዲስ አበባ በ21 ቦታዎች የ100 ሺህ መኖሪያ ቤቶች ግንባታ እየተካሄደ ነው (Addis Ababa Advances Construction of 100,000 Homes Across 21 Sites, Mayor Discloses)",
   "በዓለም አቀፍ ደረጃ በMicrosoft አገልግሎቶች ላይ የተከሰተ የቴክኒክ ብልሽት በርካታ ተቋማትን አስተጓጎለ (What we know about the global Microsoft outage)",
   "በአሜሪካ የሰላም ጥረት መካከል ሩሲያ እና ዩክሬን በሌሊት ከፍተኛ ጥቃት ተለዋወጡ (Russia and Ukraine report overnight attacks amid US diplomatic push)",
-  "ዓለም አቀፉ የኒውክሌር ኤጀንሲ ኢራን ተቋማቷን ለኢንስፔክተሮች እንድትከፍት ጠየቀ (UN watchdog calls on Iran to reopen nuclear facilities to inspection)"
+  "ዓለም አቀፉ የኒውክሌር ኤጀንሲ ኢራን ተቋማቷን ለኢንስፔክተሮች እንድትከፍት ጠየቀ (UN watchdog calls on Iran to reopen nuclear facilities to inspection)",
+  "ፊልድ ማርሻል ብርሃኑ ጁላ በትግራይ ሰላምና መረጋጋት ዙሪያ ከመቀሌ ነዋሪዎች ጋር ተወያዩ (ENDF Chief of Staff Engages Mekelle Residents in Dialogue on Peace and Stability in Tigray Region)"
  ],
  "posted_at": [
-  1794406157.6077735,
   1794413407.783568,
   1794431229.68681,
   1794432985.578945,
@@ -2579,6 +2566,7 @@
   1794562537.1505747,
   1794564596.9754233,
   1794568141.9470952,
-  1794571921.5900278
+  1794571921.5900278,
+  1794580558.0933273
  ]
 }
