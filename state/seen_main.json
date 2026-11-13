@@ -1,25 +1,5 @@
 {
  "seen": {
-  "3bbbfe2a22dd5560": 1793356569.4259322,
-  "e68c32942e1fcfed": 1793356569.4259322,
-  "0b1ce1e3b3b17f46": 1793356569.4259322,
-  "76d257ccc87e06c9": 1793356569.4259322,
-  "c0a05ea83b09511c": 1793356569.4259322,
-  "588b38b07a8e58e2": 1793356569.4259322,
-  "dd01570dd4ee6ca9": 1793356569.4259322,
-  "f32ca2c4c6d613c6": 1793356569.4259322,
-  "77dab61b6d948b18": 1793356569.4259322,
-  "d3308739db576330": 1793358485.3257768,
-  "11288b3e34bab91f": 1793358485.3257768,
-  "ce16e54aee0c0aec": 1793358485.3257768,
-  "78b9b89a3088274e": 1793358485.3257768,
-  "82ae5bb5685a614c": 1793358485.3257768,
-  "d3249e9c9274abd1": 1793358485.3257768,
-  "d02bb3870232b957": 1793358485.3257768,
-  "19067e99f0d006cc": 1793358485.3257768,
-  "44fab12a4ed806b6": 1793358485.3257768,
-  "bf2d62d33e85455a": 1793358485.3257768,
-  "48f1baa722ce703b": 1793358485.3257768,
   "c4f142fcd25942d1": 1793360194.6290264,
   "e86806608d116b81": 1793360194.6290264,
   "185ad6b6c24a17ff": 1793360194.6290264,
@@ -2507,10 +2487,14 @@
   "602151e3522c6f12": 1794566112.1929352,
   "0698fe8801122b36": 1794566112.1929352,
   "a6ba24003d45ccb3": 1794566112.1929352,
-  "5c4710fbbba5e452": 1794566112.1929352
+  "5c4710fbbba5e452": 1794566112.1929352,
+  "ef5019876283a1fd": 1794568089.984305,
+  "abe5f5a48279f2ab": 1794568089.984305,
+  "917ac3626306ab24": 1794568089.984305,
+  "d1417ccc3b71c912": 1794568089.984305,
+  "316fdb2146b2b44b": 1794568089.984305
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከቦትስዋናው ፕሬዝዳንት ዱማ ቦኮ ጋር ተወያዩ (Ethiopia and Botswana Leaders Place Shared Climate Challenges and African Priorities at Centre of COP31 Talks)",
   "በሞያሌ እና ቦረና የተስፋፋው ግጭት የእንስሳት ንግድን አሰናከለ (Walitti bu’iinsi Moyyaalee irraa hanga Booranaatti babal’achuun gabaa beeyladaa biyya keessaa fi daangaa ce’aa dhaabe)",
   "በአቡ ዳቢ የተካሄደው የሩሲያ እና ዩክሬን ውይይት በእስረኞች ልውውጥ ስምምነት ተጠናቀቀ (Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement)",
   "ሱዳን በኬንያ ሻይ ላይ ጥላው የነበረውን የ20 ወራት እግድ አነሳች (Daily_Brief - #Sudan lifts 20-month ban on Kenyan tea imports due to #Nairobi’s alleged support for #RSF)",
@@ -2549,7 +2533,8 @@
   "ኢትዮጵያ የኮፕ32 ጉባኤን ለማዘጋጀት ከቱርክ ልምድ ለመውሰድ ተወያየች (Ethiopia Looks to Türkiye’s Experience Hosting COP31 to Strengthen Preparations for Addis Ababa Summit: PMO Press Secretary)",
   "ጠቅላይ ሚኒስትር ዐቢይ ለዜጎች ተመጣጣኝ መኖሪያ ቤቶችን የመገንባት ቃል እንደሚፈጸም አረጋገጡ (PM Abiy Says Relentless Efforts Underway to Fulfil Five-Year Promise of Building Decent, Affordable Homes for Ethiopians)",
   "በአዲስ አበባ በ21 ቦታዎች የ100 ሺህ መኖሪያ ቤቶች ግንባታ እየተካሄደ ነው (Addis Ababa Advances Construction of 100,000 Homes Across 21 Sites, Mayor Discloses)",
-  "በዓለም አቀፍ ደረጃ በMicrosoft አገልግሎቶች ላይ የተከሰተ የቴክኒክ ብልሽት በርካታ ተቋማትን አስተጓጎለ (What we know about the global Microsoft outage)"
+  "በዓለም አቀፍ ደረጃ በMicrosoft አገልግሎቶች ላይ የተከሰተ የቴክኒክ ብልሽት በርካታ ተቋማትን አስተጓጎለ (What we know about the global Microsoft outage)",
+  "በአሜሪካ የሰላም ጥረት መካከል ሩሲያ እና ዩክሬን በሌሊት ከፍተኛ ጥቃት ተለዋወጡ (Russia and Ukraine report overnight attacks amid US diplomatic push)"
  ],
  "posted_at": [
   1794396982.99022,
@@ -2600,6 +2585,7 @@
   1794558956.6539843,
   1794561016.2116954,
   1794562537.1505747,
-  1794564596.9754233
+  1794564596.9754233,
+  1794568141.9470952
  ]
 }
