@@ -1,9 +1,5 @@
 {
  "seen": {
-  "4ab71bda01cabcba": 1793329880.9038012,
-  "efd33051d5065b93": 1793329880.9038012,
-  "59f477d1c79a1085": 1793329880.9038012,
-  "d73e3c230b792b7c": 1793329880.9038012,
   "70dcf66b2298c6b1": 1793331430.094439,
   "7b767206fa7c57ef": 1793331430.094439,
   "c8b9ea08bb998d3c": 1793333465.4217174,
@@ -2519,10 +2515,12 @@
   "c2028d53595b50a8": 1794539370.3194437,
   "9eb86e9828d5c8d1": 1794539370.3194437,
   "c2748ed780402c17": 1794539370.3194437,
-  "9f17c0cefc6db4ff": 1794539370.3194437
+  "9f17c0cefc6db4ff": 1794539370.3194437,
+  "67cc7961431ac179": 1794540901.7641542,
+  "02d5e21adc5453ec": 1794540901.7641542,
+  "7de4f5ca64761ae1": 1794540901.7641542
  },
  "recent_headlines": [
-  "ኢትዮጵያ የአየር ንብረት አደጋዎችን ለመተንበይ ሳተላይት እና አርቲፊሻል ኢንተሊጀንስን እየተጠቀመች መሆኑ ተገለጸ (Satellite Monitoring and Artificial Intelligence Strengthen Ethiopia’s Climate Forecasting – PM Abiy Ahmed)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ2027 በአዲስ አበባ ለሚካሄደው COP32 ጉባኤ ጥሪ አቀረቡ (PM Abiy Extends Official Invitation to Global Community for COP32)",
   "ኢትዮጵያ የተከለቻቸው ችግኞች ቁጥር 56.8 ቢሊዮን መድረሱን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia’s 56 Billion Seedlings Reflect the Power of Collective Action in Restoring Nature: Prime Minister)",
   "የአፍሪካ ሕብረት እና ተባበሩት መንግሥታት በሱዳን የተኩስ አቁም ለማውረድ የሚያደርጉትን ቅንጅት ለማጠናከር ተስማሙ (African Union and the UN Intensify Coordination on Ceasefire and Political Resolution of Sudan Crisis)",
@@ -2561,7 +2559,8 @@
   "የሳዑዲ መሪነት ያለው ጦር ወደ ሪያድ ያመሩ የሁቲዎችን ድሮኖች ማክሸፉን አስታወቀ (Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks)",
   "ዶናልድ ትራምፕ የባህረ ሰላጤው ሀገራት በኢራን ላይ የሚፈጸመው ጥቃት እንዲቆም መጠየቃቸውን ገለጹ (Iran war live: Trump says Gulf allies urged pause in Iran strikes)",
   "ዛሌንስኪ የአውሮፓ ሕብረት በሩሲያ እና ዩክሬን የሰላም ውይይት እንዲካተት መወሰኑን ደገፉ (Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks)",
-  "ፕሬዝዳንት Donald Trump በኩባ ላይ ወታደራዊ እርምጃ ለመውሰድ ማሰባቸውን ገለጹ (Trump moots toppling Cuba authorities before leaving office)"
+  "ፕሬዝዳንት Donald Trump በኩባ ላይ ወታደራዊ እርምጃ ለመውሰድ ማሰባቸውን ገለጹ (Trump moots toppling Cuba authorities before leaving office)",
+  "ኢራን በባህሬን የሚገኘውን የአሜሪካ የቅድመ ማስጠንቀቂያ ራዳር መታሁ አለች (Iran says it targeted US radar site in Bahrain)"
  ],
  "posted_at": [
   1794370225.6881766,
@@ -2617,6 +2616,7 @@
   1794529256.1769202,
   1794532130.853146,
   1794535880.3243034,
-  1794539416.530794
+  1794539416.530794,
+  1794540937.1178179
  ]
 }
