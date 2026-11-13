@@ -1,8 +1,5 @@
 {
  "seen": {
-  "49718f3207dae72c": 1793372947.8972278,
-  "1a63d9f8466ccbe7": 1793372947.8972278,
-  "17194ff1fc6f63a6": 1793372947.8972278,
   "0ad8bbdffaefc4b9": 1793374665.6140888,
   "32ebccc71130e9cd": 1793374665.6140888,
   "bb14c0f427fd06c6": 1793374665.6140888,
@@ -2484,10 +2481,17 @@
   "906c6cc718d749b8": 1794578930.1591914,
   "8faa058936b2bd1f": 1794578930.1591914,
   "368e0fbe053434dc": 1794578930.1591914,
-  "197c94b0e512fe03": 1794580511.7578034
+  "197c94b0e512fe03": 1794580511.7578034,
+  "0137184b57250ae2": 1794582514.8981404,
+  "680812fd6bfce1ce": 1794582514.8981404,
+  "2e99042e7d6a1986": 1794582514.8981404,
+  "6bbc31508301cc2d": 1794582514.8981404,
+  "708a294b566a8921": 1794582514.8981404,
+  "f5596e4b1317570f": 1794582514.8981404,
+  "b16a8644e82122d4": 1794582514.8981404,
+  "cef64c8543a4725c": 1794582514.8981404
  },
  "recent_headlines": [
-  "ሱዳን በኬንያ ሻይ ላይ ጥላው የነበረውን የ20 ወራት እግድ አነሳች (Daily_Brief - #Sudan lifts 20-month ban on Kenyan tea imports due to #Nairobi’s alleged support for #RSF)",
   "በኢትዮጵያ እና በኤርትራ መካከል ያለው ውጥረት ቀጠናውን እንዳያደፈርሰው ጂ7 አሳሰበ (Walitti bu’iinsi Itoophiyaa fi Eertiraa naannawaa tasgabbii dhabsiisuu danda’a jechuun G7 akeekkachiise)",
   "የኦፔክ አባል ሀገራት የነዳጅ ምርት ከኢራን ጦርነት በፊት ወደነበረበት ደረጃ መጠጋቱ ተገለጸ (Oil production nears pre-Iran war levels, OPEC says)",
   "የሆርሙዝ ሰርጥ ወደ ነበረበት ሁኔታ አይመለስም ሲሉ የኢራን ምክር ቤት አፈ ጉባኤ ተናገሩ (Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says)",
@@ -2526,7 +2530,8 @@
   "በዓለም አቀፍ ደረጃ በMicrosoft አገልግሎቶች ላይ የተከሰተ የቴክኒክ ብልሽት በርካታ ተቋማትን አስተጓጎለ (What we know about the global Microsoft outage)",
   "በአሜሪካ የሰላም ጥረት መካከል ሩሲያ እና ዩክሬን በሌሊት ከፍተኛ ጥቃት ተለዋወጡ (Russia and Ukraine report overnight attacks amid US diplomatic push)",
   "ዓለም አቀፉ የኒውክሌር ኤጀንሲ ኢራን ተቋማቷን ለኢንስፔክተሮች እንድትከፍት ጠየቀ (UN watchdog calls on Iran to reopen nuclear facilities to inspection)",
-  "ፊልድ ማርሻል ብርሃኑ ጁላ በትግራይ ሰላምና መረጋጋት ዙሪያ ከመቀሌ ነዋሪዎች ጋር ተወያዩ (ENDF Chief of Staff Engages Mekelle Residents in Dialogue on Peace and Stability in Tigray Region)"
+  "ፊልድ ማርሻል ብርሃኑ ጁላ በትግራይ ሰላምና መረጋጋት ዙሪያ ከመቀሌ ነዋሪዎች ጋር ተወያዩ (ENDF Chief of Staff Engages Mekelle Residents in Dialogue on Peace and Stability in Tigray Region)",
+  "የኮይሻ የውኃ ኤሌክትሪክ ኃይል ማመንጫ ፕሮጀክት ግንባታ 78.36 በመቶ መድረሱ ተገለጸ (Ethiopia’s Second-Largest Hydropower Giant Nears Completion as Koysha Reaches 78.36%)"
  ],
  "posted_at": [
   1794413407.783568,
@@ -2567,6 +2572,7 @@
   1794564596.9754233,
   1794568141.9470952,
   1794571921.5900278,
-  1794580558.0933273
+  1794580558.0933273,
+  1794582576.7241898
  ]
 }
