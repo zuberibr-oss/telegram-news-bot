@@ -2514,10 +2514,14 @@
   "2482ac89f624408b": 1794533825.0195138,
   "8c32b4f664d2bd95": 1794535835.9446492,
   "64c3f83d4832daaf": 1794535835.9446492,
-  "f56a1f236a7585e6": 1794535835.9446492
+  "f56a1f236a7585e6": 1794535835.9446492,
+  "cc17eef5963ddbe0": 1794539370.3194437,
+  "c2028d53595b50a8": 1794539370.3194437,
+  "9eb86e9828d5c8d1": 1794539370.3194437,
+  "c2748ed780402c17": 1794539370.3194437,
+  "9f17c0cefc6db4ff": 1794539370.3194437
  },
  "recent_headlines": [
-  "በሱዳን ከሁለት ሦስተኛ በላይ የሕፃናት ጉዳት በድሮን ጥቃት መከሰቱን ተባበሩት መንግሥታት አስታወቀ (#Daily_Brief: UN says drone strikes account for two-thirds of child casualties in Sudan)",
   "ኢትዮጵያ የአየር ንብረት አደጋዎችን ለመተንበይ ሳተላይት እና አርቲፊሻል ኢንተሊጀንስን እየተጠቀመች መሆኑ ተገለጸ (Satellite Monitoring and Artificial Intelligence Strengthen Ethiopia’s Climate Forecasting – PM Abiy Ahmed)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ2027 በአዲስ አበባ ለሚካሄደው COP32 ጉባኤ ጥሪ አቀረቡ (PM Abiy Extends Official Invitation to Global Community for COP32)",
   "ኢትዮጵያ የተከለቻቸው ችግኞች ቁጥር 56.8 ቢሊዮን መድረሱን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia’s 56 Billion Seedlings Reflect the Power of Collective Action in Restoring Nature: Prime Minister)",
@@ -2556,7 +2560,8 @@
   "የአሜሪካ መልዕክተኞች ከሩሲያው ፕሬዝዳንት ጋር ከተወያዩ በኋላ ከዛሌንስኪ ጋር በደብሊን ተገናኙ (US envoys meet Zelensky in Dublin after talks with Putin in Moscow)",
   "የሳዑዲ መሪነት ያለው ጦር ወደ ሪያድ ያመሩ የሁቲዎችን ድሮኖች ማክሸፉን አስታወቀ (Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks)",
   "ዶናልድ ትራምፕ የባህረ ሰላጤው ሀገራት በኢራን ላይ የሚፈጸመው ጥቃት እንዲቆም መጠየቃቸውን ገለጹ (Iran war live: Trump says Gulf allies urged pause in Iran strikes)",
-  "ዛሌንስኪ የአውሮፓ ሕብረት በሩሲያ እና ዩክሬን የሰላም ውይይት እንዲካተት መወሰኑን ደገፉ (Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks)"
+  "ዛሌንስኪ የአውሮፓ ሕብረት በሩሲያ እና ዩክሬን የሰላም ውይይት እንዲካተት መወሰኑን ደገፉ (Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks)",
+  "ፕሬዝዳንት Donald Trump በኩባ ላይ ወታደራዊ እርምጃ ለመውሰድ ማሰባቸውን ገለጹ (Trump moots toppling Cuba authorities before leaving office)"
  ],
  "posted_at": [
   1794370225.6881766,
@@ -2611,6 +2616,7 @@
   1794522966.075805,
   1794529256.1769202,
   1794532130.853146,
-  1794535880.3243034
+  1794535880.3243034,
+  1794539416.530794
  ]
 }
