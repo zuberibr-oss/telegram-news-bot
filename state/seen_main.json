@@ -1,12 +1,5 @@
 {
  "seen": {
-  "ce190297d43fb741": 1793376609.8670504,
-  "2c1dc99343a330d9": 1793376609.8670504,
-  "6f5b4a92d93a7f56": 1793376609.8670504,
-  "0d968561f34ce9f1": 1793376609.8670504,
-  "3f49805187ecc459": 1793378134.0234246,
-  "090b271bb6f18f77": 1793378134.0234246,
-  "3e7279fd5a81d496": 1793378134.0234246,
   "ab41a6a8c6bbe60f": 1793380061.8201249,
   "bf52f86e1b38993c": 1793380061.8201249,
   "bba0e7ea404fe80d": 1793380061.8201249,
@@ -2490,10 +2483,11 @@
   "ca08aa47a070f825": 1794584101.41369,
   "e6a12a5021255b3f": 1794586156.1592336,
   "b312f4883d7cad7e": 1794586156.1592336,
-  "b823ef7d119055ca": 1794586156.1592336
+  "b823ef7d119055ca": 1794586156.1592336,
+  "0a614495bcf0fb62": 1794587726.3060353,
+  "be3a222d996ff3fd": 1794587726.3060353
  },
  "recent_headlines": [
-  "በኢትዮጵያ እና በኤርትራ መካከል ያለው ውጥረት ቀጠናውን እንዳያደፈርሰው ጂ7 አሳሰበ (Walitti bu’iinsi Itoophiyaa fi Eertiraa naannawaa tasgabbii dhabsiisuu danda’a jechuun G7 akeekkachiise)",
   "የኦፔክ አባል ሀገራት የነዳጅ ምርት ከኢራን ጦርነት በፊት ወደነበረበት ደረጃ መጠጋቱ ተገለጸ (Oil production nears pre-Iran war levels, OPEC says)",
   "የሆርሙዝ ሰርጥ ወደ ነበረበት ሁኔታ አይመለስም ሲሉ የኢራን ምክር ቤት አፈ ጉባኤ ተናገሩ (Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says)",
   "ኢትዮጵያ ኤርትራ እና ሱዳን የታጠቁ ቡድኖችን እየደገፉ መሆኑን ለተባበሩት መንግሥታት አስታወቀች (News: Ethiopia tells UN envoy Eritrea, Sudan backing armed groups and drone attacks)",
@@ -2532,10 +2526,10 @@
   "በአሜሪካ የሰላም ጥረት መካከል ሩሲያ እና ዩክሬን በሌሊት ከፍተኛ ጥቃት ተለዋወጡ (Russia and Ukraine report overnight attacks amid US diplomatic push)",
   "ዓለም አቀፉ የኒውክሌር ኤጀንሲ ኢራን ተቋማቷን ለኢንስፔክተሮች እንድትከፍት ጠየቀ (UN watchdog calls on Iran to reopen nuclear facilities to inspection)",
   "ፊልድ ማርሻል ብርሃኑ ጁላ በትግራይ ሰላምና መረጋጋት ዙሪያ ከመቀሌ ነዋሪዎች ጋር ተወያዩ (ENDF Chief of Staff Engages Mekelle Residents in Dialogue on Peace and Stability in Tigray Region)",
-  "የኮይሻ የውኃ ኤሌክትሪክ ኃይል ማመንጫ ፕሮጀክት ግንባታ 78.36 በመቶ መድረሱ ተገለጸ (Ethiopia’s Second-Largest Hydropower Giant Nears Completion as Koysha Reaches 78.36%)"
+  "የኮይሻ የውኃ ኤሌክትሪክ ኃይል ማመንጫ ፕሮጀክት ግንባታ 78.36 በመቶ መድረሱ ተገለጸ (Ethiopia’s Second-Largest Hydropower Giant Nears Completion as Koysha Reaches 78.36%)",
+  "ቱርክ እና ካታር የጋራ የመከላከያ ስምምነት ተፈራረሙ (Turkiye and Qatar sign mutual defence agreement)"
  ],
  "posted_at": [
-  1794413407.783568,
   1794431229.68681,
   1794432985.578945,
   1794438484.3596385,
@@ -2574,6 +2568,7 @@
   1794568141.9470952,
   1794571921.5900278,
   1794580558.0933273,
-  1794582576.7241898
+  1794582576.7241898,
+  1794587763.851163
  ]
 }
