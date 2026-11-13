@@ -1,13 +1,5 @@
 {
  "seen": {
-  "402d56da854741ee": 1793349452.7059975,
-  "8b91b75b791c040a": 1793349452.7059975,
-  "c0e4dcbb9cd39abc": 1793349452.7059975,
-  "402be2670229f151": 1793349452.7059975,
-  "81526e392d762dfb": 1793349452.7059975,
-  "e95adc67ef12ca65": 1793349452.7059975,
-  "e6bc8ee6cfc48171": 1793349452.7059975,
-  "d1d729e739e20755": 1793349452.7059975,
   "4f2ac4c310e8c53e": 1793351416.5254939,
   "71cb2c0208812f65": 1793351416.5254939,
   "668c2a6431f7d957": 1793352932.202089,
@@ -2509,10 +2501,12 @@
   "e770d54735658199": 1794558907.6990747,
   "86ae9eacb5f1819d": 1794558907.6990747,
   "b849b79b8ff36221": 1794558907.6990747,
-  "22f55550ff1aa515": 1794558907.6990747
+  "22f55550ff1aa515": 1794558907.6990747,
+  "7b7b6b5adcb19b1c": 1794560986.0236378,
+  "8f14c0651ed77928": 1794560986.0236378,
+  "1b54af02e5a3ca91": 1794560986.0236378
  },
  "recent_headlines": [
-  "የአፍሪካ ሕብረት እና ተባበሩት መንግሥታት በሱዳን የተኩስ አቁም ለማውረድ የሚያደርጉትን ቅንጅት ለማጠናከር ተስማሙ (African Union and the UN Intensify Coordination on Ceasefire and Political Resolution of Sudan Crisis)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከኳታሩ አሚር ሼክ ታሚም ቢን ሀማድ አል ഥኒ ጋር ተወያዩ (PM Abiy and Qatar’s Amir Review Ways to Advance Longstanding Bilateral Ties and Cooperation)",
   "ኬንያ የመጨረሻውን የኢቦላ ታካሚ በማዳን ከቫይረሱ ነፃ ለመባል የ42 ቀናት ቆጠራ ጀመረች (Kenya discharges last Ebola patient in major milestone towards virus-free status)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከቦትስዋናው ፕሬዝዳንት ዱማ ቦኮ ጋር ተወያዩ (Ethiopia and Botswana Leaders Place Shared Climate Challenges and African Priorities at Centre of COP31 Talks)",
@@ -2551,11 +2545,10 @@
   "ፕሬዝዳንት Donald Trump በኩባ ላይ ወታደራዊ እርምጃ ለመውሰድ ማሰባቸውን ገለጹ (Trump moots toppling Cuba authorities before leaving office)",
   "ኢራን በባህሬን የሚገኘውን የአሜሪካ የቅድመ ማስጠንቀቂያ ራዳር መታሁ አለች (Iran says it targeted US radar site in Bahrain)",
   "በእስዋቲኒ ሕግ የማያከብሩ ንግዶች ውስጥ የኢትዮጵያ እና የሶማሊያ ዜጎች ከፍተኛውን ድርሻ መያዛቸው ተገለጸ (Daily_Brief: #Ethiopians, #Somalis make up 60–70% of non-compliant businesses in #Eswatini, minister says)",
-  "ኢትዮጵያ የኮፕ32 ጉባኤን ለማዘጋጀት ከቱርክ ልምድ ለመውሰድ ተወያየች (Ethiopia Looks to Türkiye’s Experience Hosting COP31 to Strengthen Preparations for Addis Ababa Summit: PMO Press Secretary)"
+  "ኢትዮጵያ የኮፕ32 ጉባኤን ለማዘጋጀት ከቱርክ ልምድ ለመውሰድ ተወያየች (Ethiopia Looks to Türkiye’s Experience Hosting COP31 to Strengthen Preparations for Addis Ababa Summit: PMO Press Secretary)",
+  "ጠቅላይ ሚኒስትር ዐቢይ ለዜጎች ተመጣጣኝ መኖሪያ ቤቶችን የመገንባት ቃል እንደሚፈጸም አረጋገጡ (PM Abiy Says Relentless Efforts Underway to Fulfil Five-Year Promise of Building Decent, Affordable Homes for Ethiopians)"
  ],
  "posted_at": [
-  1794386172.748113,
-  1794386176.272934,
   1794388279.5307744,
   1794391851.0561028,
   1794391854.6040952,
@@ -2604,6 +2597,7 @@
   1794539416.530794,
   1794540937.1178179,
   1794557471.148451,
-  1794558956.6539843
+  1794558956.6539843,
+  1794561016.2116954
  ]
 }
