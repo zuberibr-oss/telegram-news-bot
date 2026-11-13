@@ -1,8 +1,5 @@
 {
  "seen": {
-  "1d86c976b841876a": 1793347939.5496042,
-  "87511c2960f9fd18": 1793347939.5496042,
-  "5e4122251296cc56": 1793347939.5496042,
   "402d56da854741ee": 1793349452.7059975,
   "8b91b75b791c040a": 1793349452.7059975,
   "c0e4dcbb9cd39abc": 1793349452.7059975,
@@ -2506,10 +2503,15 @@
   "d768f350a5d6e6e1": 1794555374.9920979,
   "de13c731c4edb1aa": 1794555374.9920979,
   "51b2be77424f12f2": 1794557448.9093933,
-  "514bf819e0e2b22b": 1794557448.9093933
+  "514bf819e0e2b22b": 1794557448.9093933,
+  "84901be97851bb50": 1794558907.6990747,
+  "7bfcb0c5ecf09963": 1794558907.6990747,
+  "e770d54735658199": 1794558907.6990747,
+  "86ae9eacb5f1819d": 1794558907.6990747,
+  "b849b79b8ff36221": 1794558907.6990747,
+  "22f55550ff1aa515": 1794558907.6990747
  },
  "recent_headlines": [
-  "ኢትዮጵያ የተከለቻቸው ችግኞች ቁጥር 56.8 ቢሊዮን መድረሱን ጠቅላይ ሚኒስትር ዐቢይ ገለጹ (Ethiopia’s 56 Billion Seedlings Reflect the Power of Collective Action in Restoring Nature: Prime Minister)",
   "የአፍሪካ ሕብረት እና ተባበሩት መንግሥታት በሱዳን የተኩስ አቁም ለማውረድ የሚያደርጉትን ቅንጅት ለማጠናከር ተስማሙ (African Union and the UN Intensify Coordination on Ceasefire and Political Resolution of Sudan Crisis)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ ከኳታሩ አሚር ሼክ ታሚም ቢን ሀማድ አል ഥኒ ጋር ተወያዩ (PM Abiy and Qatar’s Amir Review Ways to Advance Longstanding Bilateral Ties and Cooperation)",
   "ኬንያ የመጨረሻውን የኢቦላ ታካሚ በማዳን ከቫይረሱ ነፃ ለመባል የ42 ቀናት ቆጠራ ጀመረች (Kenya discharges last Ebola patient in major milestone towards virus-free status)",
@@ -2548,10 +2550,10 @@
   "ዛሌንስኪ የአውሮፓ ሕብረት በሩሲያ እና ዩክሬን የሰላም ውይይት እንዲካተት መወሰኑን ደገፉ (Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks)",
   "ፕሬዝዳንት Donald Trump በኩባ ላይ ወታደራዊ እርምጃ ለመውሰድ ማሰባቸውን ገለጹ (Trump moots toppling Cuba authorities before leaving office)",
   "ኢራን በባህሬን የሚገኘውን የአሜሪካ የቅድመ ማስጠንቀቂያ ራዳር መታሁ አለች (Iran says it targeted US radar site in Bahrain)",
-  "በእስዋቲኒ ሕግ የማያከብሩ ንግዶች ውስጥ የኢትዮጵያ እና የሶማሊያ ዜጎች ከፍተኛውን ድርሻ መያዛቸው ተገለጸ (Daily_Brief: #Ethiopians, #Somalis make up 60–70% of non-compliant businesses in #Eswatini, minister says)"
+  "በእስዋቲኒ ሕግ የማያከብሩ ንግዶች ውስጥ የኢትዮጵያ እና የሶማሊያ ዜጎች ከፍተኛውን ድርሻ መያዛቸው ተገለጸ (Daily_Brief: #Ethiopians, #Somalis make up 60–70% of non-compliant businesses in #Eswatini, minister says)",
+  "ኢትዮጵያ የኮፕ32 ጉባኤን ለማዘጋጀት ከቱርክ ልምድ ለመውሰድ ተወያየች (Ethiopia Looks to Türkiye’s Experience Hosting COP31 to Strengthen Preparations for Addis Ababa Summit: PMO Press Secretary)"
  ],
  "posted_at": [
-  1794384744.8263812,
   1794386172.748113,
   1794386176.272934,
   1794388279.5307744,
@@ -2601,6 +2603,7 @@
   1794535880.3243034,
   1794539416.530794,
   1794540937.1178179,
-  1794557471.148451
+  1794557471.148451,
+  1794558956.6539843
  ]
 }
