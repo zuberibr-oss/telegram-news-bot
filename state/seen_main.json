@@ -1,6 +1,5 @@
 {
  "seen": {
-  "1268b334a59b6a22": 1793324277.9254432,
   "a3091e2d2d54c2b1": 1793326389.072807,
   "4ab71bda01cabcba": 1793329880.9038012,
   "efd33051d5065b93": 1793329880.9038012,
@@ -2513,10 +2512,12 @@
   "9dc336995cb07c9b": 1794530872.867625,
   "828696f417e046c9": 1794532114.6044722,
   "9751a81d86c3b9ee": 1794533825.0195138,
-  "2482ac89f624408b": 1794533825.0195138
+  "2482ac89f624408b": 1794533825.0195138,
+  "8c32b4f664d2bd95": 1794535835.9446492,
+  "64c3f83d4832daaf": 1794535835.9446492,
+  "f56a1f236a7585e6": 1794535835.9446492
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ በCOP31 ጉባኤ ለአየር ንብረት ፋይናንስ ሦስት መስፈርቶችን አቀረቡ (PM Abiy Sets Three Tests for Climate Finance at COP31 Leaders’ Summit: How Much, By When and on What Terms)",
   "በሱዳን ከሁለት ሦስተኛ በላይ የሕፃናት ጉዳት በድሮን ጥቃት መከሰቱን ተባበሩት መንግሥታት አስታወቀ (#Daily_Brief: UN says drone strikes account for two-thirds of child casualties in Sudan)",
   "ኢትዮጵያ የአየር ንብረት አደጋዎችን ለመተንበይ ሳተላይት እና አርቲፊሻል ኢንተሊጀንስን እየተጠቀመች መሆኑ ተገለጸ (Satellite Monitoring and Artificial Intelligence Strengthen Ethiopia’s Climate Forecasting – PM Abiy Ahmed)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በ2027 በአዲስ አበባ ለሚካሄደው COP32 ጉባኤ ጥሪ አቀረቡ (PM Abiy Extends Official Invitation to Global Community for COP32)",
@@ -2555,10 +2556,10 @@
   "የዩክሬን ድሮኖች በፊንላንድ ወሽመጥ የሩሲያን የጦር መርከብ መቱ (Russian warship hit by Ukrainian drone in Gulf of Finland)",
   "የአሜሪካ መልዕክተኞች ከሩሲያው ፕሬዝዳንት ጋር ከተወያዩ በኋላ ከዛሌንስኪ ጋር በደብሊን ተገናኙ (US envoys meet Zelensky in Dublin after talks with Putin in Moscow)",
   "የሳዑዲ መሪነት ያለው ጦር ወደ ሪያድ ያመሩ የሁቲዎችን ድሮኖች ማክሸፉን አስታወቀ (Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks)",
-  "ዶናልድ ትራምፕ የባህረ ሰላጤው ሀገራት በኢራን ላይ የሚፈጸመው ጥቃት እንዲቆም መጠየቃቸውን ገለጹ (Iran war live: Trump says Gulf allies urged pause in Iran strikes)"
+  "ዶናልድ ትራምፕ የባህረ ሰላጤው ሀገራት በኢራን ላይ የሚፈጸመው ጥቃት እንዲቆም መጠየቃቸውን ገለጹ (Iran war live: Trump says Gulf allies urged pause in Iran strikes)",
+  "ዛሌንስኪ የአውሮፓ ሕብረት በሩሲያ እና ዩክሬን የሰላም ውይይት እንዲካተት መወሰኑን ደገፉ (Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks)"
  ],
  "posted_at": [
-  1794361067.817171,
   1794370225.6881766,
   1794373766.014085,
   1794373769.467754,
@@ -2610,6 +2611,7 @@
   1794515788.2390347,
   1794522966.075805,
   1794529256.1769202,
-  1794532130.853146
+  1794532130.853146,
+  1794535880.3243034
  ]
 }
