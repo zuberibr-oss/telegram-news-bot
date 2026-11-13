@@ -1,10 +1,5 @@
 {
  "seen": {
-  "a3f9180ccf2a59f8": 1793321698.4262366,
-  "f582647bc0cca653": 1793321698.4262366,
-  "b16443e77254372b": 1793321698.4262366,
-  "358950b722497a57": 1793321698.4262366,
-  "e6c5878fd72496bb": 1793321698.4262366,
   "4c426d256182ca91": 1793322670.7720761,
   "cbd0f811b9ceca4a": 1793322670.7720761,
   "22584b84fb2035ed": 1793322670.7720761,
@@ -2518,10 +2513,10 @@
   "aeb41df5d7394ec6": 1794529224.3464172,
   "493b93ad30d0ff84": 1794529224.3464172,
   "9838390e55e86e18": 1794529224.3464172,
-  "9dc336995cb07c9b": 1794530872.867625
+  "9dc336995cb07c9b": 1794530872.867625,
+  "828696f417e046c9": 1794532114.6044722
  },
  "recent_headlines": [
-  "በሱዳን ብሉ ናይል ክልል በድሮን ጥቃት ዘጠኝ ሰላማውያን ሰዎች ተገደሉ (#Daily_Brief: RSF drone strike kills nine civilians in #Sudan’s #Blue_Nile region)",
   "ጠቅላይ ሚኒስትር ዐቢይ በCOP31 ጉባኤ ለአየር ንብረት ፋይናንስ ሦስት መስፈርቶችን አቀረቡ (PM Abiy Sets Three Tests for Climate Finance at COP31 Leaders’ Summit: How Much, By When and on What Terms)",
   "በሱዳን ከሁለት ሦስተኛ በላይ የሕፃናት ጉዳት በድሮን ጥቃት መከሰቱን ተባበሩት መንግሥታት አስታወቀ (#Daily_Brief: UN says drone strikes account for two-thirds of child casualties in Sudan)",
   "ኢትዮጵያ የአየር ንብረት አደጋዎችን ለመተንበይ ሳተላይት እና አርቲፊሻል ኢንተሊጀንስን እየተጠቀመች መሆኑ ተገለጸ (Satellite Monitoring and Artificial Intelligence Strengthen Ethiopia’s Climate Forecasting – PM Abiy Ahmed)",
@@ -2560,7 +2555,8 @@
   "በሱዳን ከ64 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እና ጥገኝነት ጠያቂዎች እንደሚገኙ ተገለጸ (News: More than 64, 000 Ethiopian refugees, asylum-seekers remain in war-hit Sudan, UN data shows)",
   "የዩክሬን ድሮኖች በፊንላንድ ወሽመጥ የሩሲያን የጦር መርከብ መቱ (Russian warship hit by Ukrainian drone in Gulf of Finland)",
   "የአሜሪካ መልዕክተኞች ከሩሲያው ፕሬዝዳንት ጋር ከተወያዩ በኋላ ከዛሌንስኪ ጋር በደብሊን ተገናኙ (US envoys meet Zelensky in Dublin after talks with Putin in Moscow)",
-  "የሳዑዲ መሪነት ያለው ጦር ወደ ሪያድ ያመሩ የሁቲዎችን ድሮኖች ማክሸፉን አስታወቀ (Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks)"
+  "የሳዑዲ መሪነት ያለው ጦር ወደ ሪያድ ያመሩ የሁቲዎችን ድሮኖች ማክሸፉን አስታወቀ (Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks)",
+  "ዶናልድ ትራምፕ የባህረ ሰላጤው ሀገራት በኢራን ላይ የሚፈጸመው ጥቃት እንዲቆም መጠየቃቸውን ገለጹ (Iran war live: Trump says Gulf allies urged pause in Iran strikes)"
  ],
  "posted_at": [
   1794361067.817171,
@@ -2614,6 +2610,7 @@
   1794497800.9917085,
   1794515788.2390347,
   1794522966.075805,
-  1794529256.1769202
+  1794529256.1769202,
+  1794532130.853146
  ]
 }
