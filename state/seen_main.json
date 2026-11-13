@@ -1,8 +1,5 @@
 {
  "seen": {
-  "c4f142fcd25942d1": 1793360194.6290264,
-  "e86806608d116b81": 1793360194.6290264,
-  "185ad6b6c24a17ff": 1793360194.6290264,
   "83619938a571f054": 1793362459.4582314,
   "147b621df5930751": 1793362459.4582314,
   "7607fed5cf88c250": 1793362459.4582314,
@@ -2494,10 +2491,13 @@
   "d1417ccc3b71c912": 1794568089.984305,
   "316fdb2146b2b44b": 1794568089.984305,
   "5745b117136fea56": 1794569730.3458984,
-  "f380b2d2d730820c": 1794569730.3458984
+  "f380b2d2d730820c": 1794569730.3458984,
+  "9ec5a74eaeaa0872": 1794571882.0612535,
+  "f3dc79110889cf4f": 1794571882.0612535,
+  "27076b44024768c6": 1794571882.0612535,
+  "b841542aca57eaf2": 1794571882.0612535
  },
  "recent_headlines": [
-  "በሞያሌ እና ቦረና የተስፋፋው ግጭት የእንስሳት ንግድን አሰናከለ (Walitti bu’iinsi Moyyaalee irraa hanga Booranaatti babal’achuun gabaa beeyladaa biyya keessaa fi daangaa ce’aa dhaabe)",
   "በአቡ ዳቢ የተካሄደው የሩሲያ እና ዩክሬን ውይይት በእስረኞች ልውውጥ ስምምነት ተጠናቀቀ (Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement)",
   "ሱዳን በኬንያ ሻይ ላይ ጥላው የነበረውን የ20 ወራት እግድ አነሳች (Daily_Brief - #Sudan lifts 20-month ban on Kenyan tea imports due to #Nairobi’s alleged support for #RSF)",
   "በኢትዮጵያ እና በኤርትራ መካከል ያለው ውጥረት ቀጠናውን እንዳያደፈርሰው ጂ7 አሳሰበ (Walitti bu’iinsi Itoophiyaa fi Eertiraa naannawaa tasgabbii dhabsiisuu danda’a jechuun G7 akeekkachiise)",
@@ -2536,12 +2536,10 @@
   "ጠቅላይ ሚኒስትር ዐቢይ ለዜጎች ተመጣጣኝ መኖሪያ ቤቶችን የመገንባት ቃል እንደሚፈጸም አረጋገጡ (PM Abiy Says Relentless Efforts Underway to Fulfil Five-Year Promise of Building Decent, Affordable Homes for Ethiopians)",
   "በአዲስ አበባ በ21 ቦታዎች የ100 ሺህ መኖሪያ ቤቶች ግንባታ እየተካሄደ ነው (Addis Ababa Advances Construction of 100,000 Homes Across 21 Sites, Mayor Discloses)",
   "በዓለም አቀፍ ደረጃ በMicrosoft አገልግሎቶች ላይ የተከሰተ የቴክኒክ ብልሽት በርካታ ተቋማትን አስተጓጎለ (What we know about the global Microsoft outage)",
-  "በአሜሪካ የሰላም ጥረት መካከል ሩሲያ እና ዩክሬን በሌሊት ከፍተኛ ጥቃት ተለዋወጡ (Russia and Ukraine report overnight attacks amid US diplomatic push)"
+  "በአሜሪካ የሰላም ጥረት መካከል ሩሲያ እና ዩክሬን በሌሊት ከፍተኛ ጥቃት ተለዋወጡ (Russia and Ukraine report overnight attacks amid US diplomatic push)",
+  "ዓለም አቀፉ የኒውክሌር ኤጀንሲ ኢራን ተቋማቷን ለኢንስፔክተሮች እንድትከፍት ጠየቀ (UN watchdog calls on Iran to reopen nuclear facilities to inspection)"
  ],
  "posted_at": [
-  1794396982.99022,
-  1794396986.351347,
-  1794396989.744697,
   1794399236.7522619,
   1794399240.204658,
   1794400680.0652938,
@@ -2588,6 +2586,7 @@
   1794561016.2116954,
   1794562537.1505747,
   1794564596.9754233,
-  1794568141.9470952
+  1794568141.9470952,
+  1794571921.5900278
  ]
 }
