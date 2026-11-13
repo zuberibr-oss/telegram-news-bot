@@ -1,9 +1,5 @@
 {
  "seen": {
-  "76665b3c0b72c289": 1793388928.5766008,
-  "d8e52c6596672f8b": 1793388928.5766008,
-  "e0e7b88d1343c127": 1793388928.5766008,
-  "fcee04953833ce5b": 1793388928.5766008,
   "91f07a1c07dd6e0c": 1793391486.7452886,
   "6a347b3e0b1dc96f": 1793391486.7452886,
   "674933f7b7241972": 1793391486.7452886,
@@ -2495,10 +2491,14 @@
   "a51fc60acc2fe582": 1794598495.195193,
   "d50c06c783663dc3": 1794598495.195193,
   "e5d59f896716cf9b": 1794598495.195193,
-  "98c6bd66fd15a3fd": 1794598495.195193
+  "98c6bd66fd15a3fd": 1794598495.195193,
+  "db2462f25d0b8db4": 1794600518.2291646,
+  "e2cd0a109408942b": 1794600518.2291646,
+  "78a30b80798a89c3": 1794600518.2291646,
+  "b94583cf2f5b6ff7": 1794600518.2291646,
+  "00ad352184dd64c9": 1794600518.2291646
  },
  "recent_headlines": [
-  "ኬንያ ኢትዮጵያን በመብለጥ በሦስተኛ ደረጃ ትልቋ የአፍሪካ የክሪፕቶረንሲ ገበያ ሆነች (#Daily_Brief: #Kenya overtakes #Ethiopia as Africa’s third-largest cryptocurrency market)",
   "በጋዛ ናሰር ሆስፒታል ላይ በእስራኤል በተፈጸመ ጥቃት ቢያንስ ስድስት ሰዎች ተገደሉ (Israel strikes intensive care at Gaza’s Nasser Hospital)",
   "በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈጸመ የድሮን ጥቃት 36 ሰዎች መገደላቸው ተገለጸ (በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈፀመ የድሮን ጥቃት በርካቶች መገደላቸውን እማኞች ተናገሩ)",
   "እስራኤል በኢራን ላይ ጥቃት ለመሰንዘር ዝግጅት እንድታደርግ መታዘዙ ተገለጸ (Iran warns of expanded retaliation as Israel reportedly readies to attack)",
@@ -2537,7 +2537,8 @@
   "ቱርክ እና ካታር የጋራ የመከላከያ ስምምነት ተፈራረሙ (Turkiye and Qatar sign mutual defence agreement)",
   "ኢትዮጵያ ወደ WTO ለመቀላቀል ከሚደረጉት 17 ባለሁለት ወገን ድርድሮች 11ዱን አጠናቀቀች (Six bilateral deals left to finalize before Ethiopia’s WTO schedules move to verification)",
   "53 ሀገራት እስራኤል ወደ ጋዛ እርዳታ እንድታስገባ በጋራ ጠየቁ (Jerusalem Daily: Baby dies from cold in Gaza)",
-  "በኢትዮጵያ እና ኤርትራ ድንበር በባድመ አካባቢ ተኩስ መፋፋሙ ተገለጸ (Diplomatic sources report escalating clashes near Badme on Ethiopia-Eritrea border as residents flee bombardment)"
+  "በኢትዮጵያ እና ኤርትራ ድንበር በባድመ አካባቢ ተኩስ መፋፋሙ ተገለጸ (Diplomatic sources report escalating clashes near Badme on Ethiopia-Eritrea border as residents flee bombardment)",
+  "ኤኤምጂ እና ናይልብሪጅ ኢንቨስትመንት ባንኮች ከካፒታል ማርኬት ባለሥልጣን የሥራ ፈቃድ አገኙ (AMG Investment Bank secures licence, targets Ethiopia’s emerging capital market)"
  ],
  "posted_at": [
   1794431229.68681,
@@ -2582,6 +2583,7 @@
   1794587763.851163,
   1794589702.6320994,
   1794589705.97393,
-  1794594947.2755728
+  1794594947.2755728,
+  1794600573.1256995
  ]
 }
