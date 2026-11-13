@@ -1,8 +1,5 @@
 {
  "seen": {
-  "463ae186224569e1": 1793401595.7998924,
-  "44b1b48d9c25ee3c": 1793401595.7998924,
-  "fab5be516a6a65b3": 1793401595.7998924,
   "a7f1e432aee7a7a2": 1793416103.3845904,
   "33d226b9d4bd19ef": 1793448592.3328724,
   "c3b740690f3d7527": 1793448592.3328724,
@@ -1465,10 +1462,20 @@
   "f4da6cc4bed9934f": 1794609241.155164,
   "f9a6c2d792105182": 1794609241.155164,
   "d6543a9c346ff3f0": 1794609241.155164,
-  "90d789e994c350eb": 1794609241.155164
+  "90d789e994c350eb": 1794609241.155164,
+  "387eff11ce473f2f": 1794611224.5859027,
+  "c6aa2ebc50feabe9": 1794611224.5859027,
+  "0c1a6ad7f0d09c3c": 1794611224.5859027,
+  "39b31c8e316ba54d": 1794611224.5859027,
+  "9a2e5bd642e7312c": 1794611224.5859027,
+  "ef1548dda8c7272f": 1794611224.5859027,
+  "70ebf8561c8b4002": 1794611224.5859027,
+  "b789f3eb7f9ddb10": 1794611224.5859027,
+  "4dd384e7ed86da34": 1794611224.5859027,
+  "c63619b35db15809": 1794611224.5859027,
+  "0ee08eb592b588c4": 1794611224.5859027
  },
  "recent_headlines": [
-  "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)",
   "የናይጄሪያ ማዕከላዊ ባንክ ለውጭ ስቴብልኮይን አውጪዎች የ11.16 ሚሊዮን ዶላር ዝቅተኛ ካፒታል ደነገገ (Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers)",
   "የናይጄሪያ ማዕከላዊ ባንክ የ P2P ክሪፕቶ ግብይቶች ከባንክ ሂሳቦች ጋር እንዲያያዙ ደነገገ (Nigeria’s Central Bank wants every crypto P2P payment linked to a bank transaction)",
   "ኤም-ፔሳ ኢትዮጵያ በሶስት ወራት ውስጥ 510 ሺህ ንቁ ተጠቃሚዎችን አጣ (M-PESA Ethiopia lost 510,000 active users in three months as Safaricom Ethiopia neared break-even)",
@@ -1507,7 +1514,8 @@
   "ECMA ለሁለት አዳዲስ የኢንቨስትመንት ባንኮች ፈቃድ ሰጠ (Breaking: ECMA Licenses Two New Investment Banks, Bringing Total to 11)",
   "አዲስ ፎርቹን 'Doo-ka' የተሰኘ አገራዊ የባጀት መከታተያ ዲጂታል ፕላትፎርም ይፋ አደረገ (New Federal Budget Tracker Goes Live)",
   "የMicrosoft አገልግሎት መቋረጥ በደቡብ አፍሪካ ዋና ዋና ተቋማት ላይ መስተጓጎል ፈጠረ (Microsoft’s 18-hour outage exposed South Africa’s dependence on Big Tech)",
-  "የ Claude አዘጋጅ Anthropic በ Nasdaq አክሲዮኖቹን ይፋዊ ሽያጭ (IPO) ለማድረግ ተዘጋጀ (Anthropic’s IPO is a test of whether AI can pay for itself)"
+  "የ Claude አዘጋጅ Anthropic በ Nasdaq አክሲዮኖቹን ይፋዊ ሽያጭ (IPO) ለማድረግ ተዘጋጀ (Anthropic’s IPO is a test of whether AI can pay for itself)",
+  "የ OPay እና Standard Bank የ185 ሚሊዮን ዶላር ስምምነት በ IPO መቋረጥ ተፈታተነ (The bank OPay hoped would open up Africa)"
  ],
  "posted_at": [
   1794467394.1561134,
@@ -1522,6 +1530,7 @@
   1794564546.029592,
   1794604054.5895522,
   1794605762.5385032,
-  1794609334.0598333
+  1794609334.0598333,
+  1794611356.6661136
  ]
 }
