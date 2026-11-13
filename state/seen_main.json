@@ -1,14 +1,5 @@
 {
  "seen": {
-  "66e94d30503b7c53": 1793383781.6043766,
-  "514f9949419f8be8": 1793383781.6043766,
-  "d4999cf1049ab3e9": 1793383781.6043766,
-  "f8931c88a6a06d71": 1793383781.6043766,
-  "115285ab686a90e2": 1793383781.6043766,
-  "93c6b62bc77ba60a": 1793383781.6043766,
-  "f6171bf9ae5e3ccd": 1793383781.6043766,
-  "a54c61b37323e1d4": 1793383781.6043766,
-  "88539348acbf2759": 1793385293.4753797,
   "be5bf5b044329a3d": 1793387253.2962303,
   "76665b3c0b72c289": 1793388928.5766008,
   "d8e52c6596672f8b": 1793388928.5766008,
@@ -2494,10 +2485,12 @@
   "5f9d1d74ee5cf55b": 1794591305.8035712,
   "7e93f60e3bb4e304": 1794593342.2735207,
   "9bc75d6d13b43c9f": 1794593342.2735207,
-  "1bb20425372bf8ca": 1794593342.2735207
+  "1bb20425372bf8ca": 1794593342.2735207,
+  "ece05acb9ce58b9c": 1794594925.3552399,
+  "119c761aadf044c8": 1794594925.3552399,
+  "15bc57dbff4e2404": 1794594925.3552399
  },
  "recent_headlines": [
-  "ኢትዮጵያ ኤርትራ እና ሱዳን የታጠቁ ቡድኖችን እየደገፉ መሆኑን ለተባበሩት መንግሥታት አስታወቀች (News: Ethiopia tells UN envoy Eritrea, Sudan backing armed groups and drone attacks)",
   "ኬንያ ኢትዮጵያን በመብለጥ በሦስተኛ ደረጃ ትልቋ የአፍሪካ የክሪፕቶረንሲ ገበያ ሆነች (#Daily_Brief: #Kenya overtakes #Ethiopia as Africa’s third-largest cryptocurrency market)",
   "በጋዛ ናሰር ሆስፒታል ላይ በእስራኤል በተፈጸመ ጥቃት ቢያንስ ስድስት ሰዎች ተገደሉ (Israel strikes intensive care at Gaza’s Nasser Hospital)",
   "በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈጸመ የድሮን ጥቃት 36 ሰዎች መገደላቸው ተገለጸ (በኦሮሚያ ክልል ኪረሙ ወረዳ በተፈፀመ የድሮን ጥቃት በርካቶች መገደላቸውን እማኞች ተናገሩ)",
@@ -2536,7 +2529,8 @@
   "የኮይሻ የውኃ ኤሌክትሪክ ኃይል ማመንጫ ፕሮጀክት ግንባታ 78.36 በመቶ መድረሱ ተገለጸ (Ethiopia’s Second-Largest Hydropower Giant Nears Completion as Koysha Reaches 78.36%)",
   "ቱርክ እና ካታር የጋራ የመከላከያ ስምምነት ተፈራረሙ (Turkiye and Qatar sign mutual defence agreement)",
   "ኢትዮጵያ ወደ WTO ለመቀላቀል ከሚደረጉት 17 ባለሁለት ወገን ድርድሮች 11ዱን አጠናቀቀች (Six bilateral deals left to finalize before Ethiopia’s WTO schedules move to verification)",
-  "53 ሀገራት እስራኤል ወደ ጋዛ እርዳታ እንድታስገባ በጋራ ጠየቁ (Jerusalem Daily: Baby dies from cold in Gaza)"
+  "53 ሀገራት እስራኤል ወደ ጋዛ እርዳታ እንድታስገባ በጋራ ጠየቁ (Jerusalem Daily: Baby dies from cold in Gaza)",
+  "በኢትዮጵያ እና ኤርትራ ድንበር በባድመ አካባቢ ተኩስ መፋፋሙ ተገለጸ (Diplomatic sources report escalating clashes near Badme on Ethiopia-Eritrea border as residents flee bombardment)"
  ],
  "posted_at": [
   1794431229.68681,
@@ -2580,6 +2574,7 @@
   1794582576.7241898,
   1794587763.851163,
   1794589702.6320994,
-  1794589705.97393
+  1794589705.97393,
+  1794594947.2755728
  ]
 }
