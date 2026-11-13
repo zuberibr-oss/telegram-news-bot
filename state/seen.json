@@ -1,7 +1,5 @@
 {
  "seen": {
-  "f54223fb347844c4": 1793396061.1636722,
-  "b0efd49fbdcc218c": 1793396061.1636722,
   "3752530b88e0297c": 1793398060.8189335,
   "f5770d67020f8ad0": 1793398060.8189335,
   "b44984f0a98a0219": 1793398060.8189335,
@@ -1450,10 +1448,24 @@
   "1e25bf250452530d": 1794591244.7914686,
   "eb6b13ce8f02c50f": 1794600465.221832,
   "3b6c42fcad83541d": 1794603976.187159,
-  "2ebc267f91747b60": 1794603976.187159
+  "2ebc267f91747b60": 1794603976.187159,
+  "edf8657b9568fcc6": 1794605656.997056,
+  "a4d69afd023af251": 1794605656.997056,
+  "ed952fbef00c7ef2": 1794605656.997056,
+  "dd10b2cd9ad95440": 1794605656.997056,
+  "00ad352184dd64c9": 1794605656.997056,
+  "58c22ed27c75effa": 1794605656.997056,
+  "48198a5d76455995": 1794605656.997056,
+  "f515893bf33e13dd": 1794605656.997056,
+  "40fc159d63a71df8": 1794605656.997056,
+  "41c70fb73154d9a1": 1794605656.997056,
+  "cfbdc7460be3d5ae": 1794605656.997056,
+  "880c002e2075a20f": 1794605656.997056,
+  "533944cc163bcc36": 1794605656.997056,
+  "0ddefa1a6b77c6e5": 1794605656.997056,
+  "d029716c3daf5f6a": 1794605656.997056
  },
  "recent_headlines": [
-  "IFC የአፍሪካ የግብርና ፋይናንስን ለማስፋፋት በ Kifiya ላይ ኢንቨስት አደረገ (IFC Invests in Kifiya’s AI Platform to Expand Agricultural Finance Across Africa)",
   "ሳፋሪኮም ኢትዮጵያ ወደ ወጪና ገቢ ሚዛን (Break-even) ለመሸጋገር በመቃረብ ላይ ነው (Safaricom Ethiopia break even: price floor steps remain)",
   "ሳፋሪኮም በኢትዮጵያ ያደረገውን የካፒታል ወጪ ወደ 36.3 ቢሊዮን ሺሊንግ ዝቅ አደረገ (Safaricom moderates capex to Ksh. 36.3B as Ethiopia shifts to capacity utilization)",
   "የናይጄሪያ ማዕከላዊ ባንክ ለውጭ ስቴብልኮይን አውጪዎች የ11.16 ሚሊዮን ዶላር ዝቅተኛ ካፒታል ደነገገ (Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers)",
@@ -1492,7 +1504,8 @@
   "ኢቲዮ ቴሌኮም teleStream የተሰኘ የዲጂታል መዝናኛ አገልግሎት ይፋ አደረገ (Ethio Telecom Launches teleStream Digital Entertainment Service to Advance Digital Ethiopia Strategy)",
   "ኢቲዮ ቴሌኮም የመንግሥት አገልግሎቶችን ለማቃለል teleSign የተሰኘ አገልግሎት ይፋ አደረገ (Ethio Telecom Debuts 'teleSign' to Revolutionize Government Services)",
   "ECMA ለሁለት አዳዲስ የኢንቨስትመንት ባንኮች ፈቃድ ሰጠ (Breaking: ECMA Licenses Two New Investment Banks, Bringing Total to 11)",
-  "አዲስ ፎርቹን 'Doo-ka' የተሰኘ አገራዊ የባጀት መከታተያ ዲጂታል ፕላትፎርም ይፋ አደረገ (New Federal Budget Tracker Goes Live)"
+  "አዲስ ፎርቹን 'Doo-ka' የተሰኘ አገራዊ የባጀት መከታተያ ዲጂታል ፕላትፎርም ይፋ አደረገ (New Federal Budget Tracker Goes Live)",
+  "የMicrosoft አገልግሎት መቋረጥ በደቡብ አፍሪካ ዋና ዋና ተቋማት ላይ መስተጓጎል ፈጠረ (Microsoft’s 18-hour outage exposed South Africa’s dependence on Big Tech)"
  ],
  "posted_at": [
   1794467394.1561134,
@@ -1505,6 +1518,7 @@
   1794521299.825382,
   1794530872.6573613,
   1794564546.029592,
-  1794604054.5895522
+  1794604054.5895522,
+  1794605762.5385032
  ]
 }
