@@ -1,8 +1,5 @@
 {
  "seen": {
-  "a0bcb70c3b45918f": 1793488120.5794265,
-  "08f850844fe7e912": 1793488120.5794265,
-  "0d8c4fc83b8066ab": 1793488120.5794265,
   "6067900538acf0a3": 1793492679.3534496,
   "b012fa49aacfe807": 1793492679.3534496,
   "97467a11e9210008": 1793492679.3534496,
@@ -2496,13 +2493,14 @@
   "0040d7950ae0d4af": 1794695685.3414538,
   "999d5a86d4b96122": 1794697620.9028506,
   "5bef4ea76abdab77": 1794697620.9028506,
-  "01a29b146e289b07": 1794697620.9028506
+  "01a29b146e289b07": 1794697620.9028506,
+  "62d8ee7fa3033776": 1794699308.5150547,
+  "758791222a1af331": 1794699308.5150547,
+  "500cdd99d2c2f140": 1794699308.5150547,
+  "3bd2f2ff65d920b5": 1794699308.5150547,
+  "0a88c9a02d8ed73a": 1794699308.5150547
  },
  "recent_headlines": [
-  "ቱርክ እና ካታር የጋራ የመከላከያ ስምምነት ተፈራረሙ (Turkiye and Qatar sign mutual defence agreement)",
-  "ኢትዮጵያ ወደ WTO ለመቀላቀል ከሚደረጉት 17 ባለሁለት ወገን ድርድሮች 11ዱን አጠናቀቀች (Six bilateral deals left to finalize before Ethiopia’s WTO schedules move to verification)",
-  "53 ሀገራት እስራኤል ወደ ጋዛ እርዳታ እንድታስገባ በጋራ ጠየቁ (Jerusalem Daily: Baby dies from cold in Gaza)",
-  "በኢትዮጵያ እና ኤርትራ ድንበር በባድመ አካባቢ ተኩስ መፋፋሙ ተገለጸ (Diplomatic sources report escalating clashes near Badme on Ethiopia-Eritrea border as residents flee bombardment)",
   "ኤኤምጂ እና ናይልብሪጅ ኢንቨስትመንት ባንኮች ከካፒታል ማርኬት ባለሥልጣን የሥራ ፈቃድ አገኙ (AMG Investment Bank secures licence, targets Ethiopia’s emerging capital market)",
   "በሆርሙዝ ወሽመጥ የጋዝ መርከብ በፈንጂ ተመቶ እሳት መያዙን ኢራን አስታወቀች (IRGC says tanker caught fire after hitting mines in Strait of Hormuz)",
   "ናይጄሪያ የኢቦላ ተጋላጭ የነበሩ ሰዎችን የ21 ቀን ክትትል ያለተጨማሪ ስርጭት አጠናቀቀች (Nigeria ends 21-day Ebola contact monitoring with no secondary transmission)",
@@ -2538,7 +2536,11 @@
   "በአሜሪካ የሁሉም በረራዎች መቋረጥ በኮፐር ገመድ ማሻሻያ ችግር የተከሰተ መሆኑ ተገለጸ (Copper wire upgrade caused nationwide flight suspension, US transport secretary says)",
   "ከ3 ሚሊዮን ብር በላይ የኮንትሮባንድ ዕቃ የጫኑ ተሽከርካሪዎችን ለመውረስ የሚያስችል መመሪያ ተዘጋጀ (MoF moves to overhaul rules, confiscate vehicles carrying over 3M birr in contraband)",
   "አሜሪካ በአውሮፓ እና ሩሲያ መካከል የሰላም ድርድር እንዲደረግ ልታመቻች እንደሆነ ገለጸች (US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine)",
-  "SpaceX የStarship ሮኬት የላይኛውን ክፍል በተሳካ ሁኔታ በሜካኒካል እጆች ያዘ ('Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth)"
+  "SpaceX የStarship ሮኬት የላይኛውን ክፍል በተሳካ ሁኔታ በሜካኒካል እጆች ያዘ ('Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth)",
+  "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የባንክ አገልግሎት የገንዘብ ዝውውር መመሪያ አወጣ (NBE sets 25 million birr minimum for Interest-Free Interbank market)",
+  "26ኛው የታላቁ ሩጫ በኢትዮጵያ ውድድር 60 ሺህ ተሳታፊዎችን ይዞ ሊካሄድ ነው (Running beyond race day)",
+  "የኢንዱስትሪ ዘርፍ ከግብርና በመበለጥ የኢትዮጵያ ሁለተኛው ትልቅ የኢኮኖሚ ዘርፍ ሊሆን ነው (Industry projected to overtake agriculture in Rebased GDP estimates)",
+  "የኢትዮጵያ የዋጋ ንረት እስከ 2030 ድረስ በሁለት ዲጂት ሊቀጥል እንደሚችል ጥናት አሳሰበ (Double-digit inflation could persist through 2030, study warns)"
  ],
  "posted_at": [
   1794529256.1769202,
@@ -2594,6 +2596,10 @@
   1794677766.4059873,
   1794686907.389972,
   1794694129.3014543,
-  1794695775.4281719
+  1794695775.4281719,
+  1794699385.740149,
+  1794699389.0797975,
+  1794699392.4449012,
+  1794699395.7800546
  ]
 }
