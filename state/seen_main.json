@@ -1,19 +1,5 @@
 {
  "seen": {
-  "fd2c1928841f1f11": 1793437790.1647873,
-  "95902df779f1b709": 1793437790.1647873,
-  "b58b0e11b0f0e370": 1793437790.1647873,
-  "5f31bddf2038c658": 1793437790.1647873,
-  "f9e86ab4674b7b29": 1793437790.1647873,
-  "6040d41b5721a53a": 1793437790.1647873,
-  "94d8a094ddfb19ad": 1793437790.1647873,
-  "a31686fbe9f40c3d": 1793437790.1647873,
-  "d066aa57eb909624": 1793437790.1647873,
-  "fd73f4cac92252bb": 1793437790.1647873,
-  "045d69e936e00ff9": 1793437790.1647873,
-  "1b34defb590bfc7f": 1793439336.945883,
-  "50cd1cbcd78010b3": 1793439336.945883,
-  "4cb414f13b621830": 1793439336.945883,
   "ed41fda8d7789124": 1793441253.1930847,
   "d67814be6c89ea86": 1793441253.1930847,
   "693946161e183d97": 1793441253.1930847,
@@ -2497,11 +2483,19 @@
   "6b8da87c8a16b4ef": 1794647288.3311772,
   "80a4af721f153fc7": 1794647288.3311772,
   "0cd7e853c4724c3e": 1794647288.3311772,
-  "77286059e93c3aee": 1794647288.3311772
+  "77286059e93c3aee": 1794647288.3311772,
+  "28153f076417f5be": 1794648900.4822617,
+  "552760853d6122a2": 1794648900.4822617,
+  "a37037eb6f214215": 1794648900.4822617,
+  "a7bd70017053f9bc": 1794648900.4822617,
+  "469ee8c7c9851afc": 1794648900.4822617,
+  "456c2d4ae6cd8758": 1794648900.4822617,
+  "a0862341e67a52ad": 1794648900.4822617,
+  "05f143a3e37efc69": 1794648900.4822617,
+  "defae72b5c8128dc": 1794648900.4822617,
+  "0e03d5598aa35278": 1794648900.4822617
  },
  "recent_headlines": [
-  "በኢትዮጵያ ለዲጂታል ይዘት ፈጣሪዎች እና ኦንላይን ፍሪላንሰሮች አዲስ የገቢ ግብር ደንብ ወጣ (Ethiopia introduces new tax rules for digital content creators)",
-  "የዴሞክራቲክ ሪፐብሊክ ኮንጎ ፕሬዝዳንት የሕዝበ ውሳኔ ሕግ አጸደቁ (DR Congo's Tshisekedi signs referendum law amid fears of third-term bid)",
   "ቻይና አሜሪካ በNvidia ዋና ስራ አስፈጻሚ ዙሪያ የሰላይነት ክስ ፈብርካለች ስትል ኮነነች (China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’)",
   "የኢትዮጵያ ወጣት አትሌቶች በዳካር የላቀ ውጤት በማስመዝገባቸው ተመስገን ጥሩነህ አደነቁ (Deputy PM Salutes Young Champions for Placing Ethiopia at the Summit of Dakar 2026 Athletics)",
   "በዴሞክራቲክ ሪፐብሊክ ኮንጎ ለኢቦላ ወረርሽኝ ከተመደበው ገንዘብ በሚሊዮን የሚቆጠሩ ዶላሮች መጥፋታቸው ተገለጸ (Millions of Ebola dollars going missing as virus spreads, medical charity warns)",
@@ -2539,7 +2533,9 @@
   "በኢትዮጵያ ባለፉት ሁለት ወራት በፖለቲካዊ ግጭቶች የ1,500 ሰዎች ሕይወት ማለፉን አክሌድ አስታወቀ (በኢትዮጵያ ባለፉት ሁለት ወራት ብቻ 'ፖለቲካዊ ግጭቶች' ለምን ጨመሩ?)",
   "Donald Trump፣ Xi Jinping እና Vladimir Putin በቻይና የሶስትዮሽ ጉባኤ ሊያካሂዱ ነው (Trump, Xi and Putin to hold first three-way summit in China)",
   "Microsoft በዓለም አቀፍ ደረጃ ተከስቶ የነበረው የቴክኒክ ብልሽት መፈታቱን አስታወቀ (Microsoft says services fully restored after for day-long global outage)",
-  "በሆርሙዝ ወሽመጥ በደረሱ ጥቃቶች 25 የባህር ላይ ሰራተኞች መሞታቸውን ተመድ አስታወቀ (UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran)"
+  "በሆርሙዝ ወሽመጥ በደረሱ ጥቃቶች 25 የባህር ላይ ሰራተኞች መሞታቸውን ተመድ አስታወቀ (UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran)",
+  "ዩናይትድ ስቴትስ የኩፍኝ በሽታን ሙሉ በሙሉ የማጥፋት ደረጃዋን አጣች (US loses measles-free status as two more deaths reported)",
+  "ፕሬዝዳንት ታዬ አፅቀሥላሴ የቀድሞ የምክር ቤት አፈ ጉባኤዎችን ጨምሮ 32 አምባሳደሮችን ሾሙ (🇪🇹 Former Parliamentary Speakers, Ministers among 32 Appointed as Ethiopian Ambassadors)"
  ],
  "posted_at": [
   1794476213.2346122,
@@ -2584,6 +2580,8 @@
   1794632940.873992,
   1794634570.2551682,
   1794640157.5943325,
-  1794645352.7751138
+  1794645352.7751138,
+  1794648955.7592108,
+  1794648959.2934282
  ]
 }
