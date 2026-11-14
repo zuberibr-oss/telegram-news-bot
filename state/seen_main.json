@@ -1,9 +1,5 @@
 {
  "seen": {
-  "8ba1533b54dce245": 1793468108.99187,
-  "c2396b4ac13d308b": 1793468108.99187,
-  "2149722c0567ffc4": 1793468108.99187,
-  "1cce9008661efafe": 1793468108.99187,
   "9e115bc517a13146": 1793470154.2091112,
   "2344b08a4a310fea": 1793470154.2091112,
   "e605e86ce15b2e5b": 1793470154.2091112,
@@ -2499,11 +2495,14 @@
   "ead48824c005429d": 1794675999.477064,
   "37cffd9b091aef0d": 1794675999.477064,
   "5f1a3443da778275": 1794675999.477064,
-  "1fed2373d0d87c04": 1794675999.477064
+  "1fed2373d0d87c04": 1794675999.477064,
+  "6ea2fdef184f0f42": 1794677696.411988,
+  "740e276ee178447e": 1794677696.411988,
+  "18898c46add4337d": 1794677696.411988,
+  "4ba7a56ccc43ccec": 1794677696.411988,
+  "4bdf698135604002": 1794677696.411988
  },
  "recent_headlines": [
-  "በዓለም አቀፍ ደረጃ በMicrosoft አገልግሎቶች ላይ የተከሰተ የቴክኒክ ብልሽት በርካታ ተቋማትን አስተጓጎለ (What we know about the global Microsoft outage)",
-  "በአሜሪካ የሰላም ጥረት መካከል ሩሲያ እና ዩክሬን በሌሊት ከፍተኛ ጥቃት ተለዋወጡ (Russia and Ukraine report overnight attacks amid US diplomatic push)",
   "ዓለም አቀፉ የኒውክሌር ኤጀንሲ ኢራን ተቋማቷን ለኢንስፔክተሮች እንድትከፍት ጠየቀ (UN watchdog calls on Iran to reopen nuclear facilities to inspection)",
   "ፊልድ ማርሻል ብርሃኑ ጁላ በትግራይ ሰላምና መረጋጋት ዙሪያ ከመቀሌ ነዋሪዎች ጋር ተወያዩ (ENDF Chief of Staff Engages Mekelle Residents in Dialogue on Peace and Stability in Tigray Region)",
   "የኮይሻ የውኃ ኤሌክትሪክ ኃይል ማመንጫ ፕሮጀክት ግንባታ 78.36 በመቶ መድረሱ ተገለጸ (Ethiopia’s Second-Largest Hydropower Giant Nears Completion as Koysha Reaches 78.36%)",
@@ -2541,7 +2540,9 @@
   "ዲሞክራሲያዊ ሪፐብሊክ ኮንጎ እና ሩዋንዳ በፈረንሳይኛ ተናጋሪ ሀገራት ድርጅት መሪነት ተዛተቱ (DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise)",
   "አዋሽ ኢንሹራንስ የ1.84 ቢሊዮን ብር ከታክስ በፊት ማተርፉን እና ወደ ካፒታል ማርኬት መግባቱን አስታወቀ (Awash insurance posts 1.84 billion birr pre-tax profit, up 65%)",
   "ናይጄሪያ ዜጎቿ በአዲስ አበባ አየር መንገድ በኩል በሚያደርጉት ጉዞ ጥንቃቄ እንዲያደርጉ አሳሰበች (Nigeria cautions against travel via Ethiopia's main airport due to altitude)",
-  "የአውሮፓ ህብረት እስራኤል ወደ ጋዛ የሚገባውን የሰብአዊ እርዳታ በአስቸኳይ እንድታስገባ ጠየቀ (EU calls for immediate humanitarian access to Gaza)"
+  "የአውሮፓ ህብረት እስራኤል ወደ ጋዛ የሚገባውን የሰብአዊ እርዳታ በአስቸኳይ እንድታስገባ ጠየቀ (EU calls for immediate humanitarian access to Gaza)",
+  "ኢትዮጵያ በመጀመሪያው ሩብ ዓመት የ76.62 ሚሊዮን ዶላር የኤሌክትሪክ ኃይል ላከች (EEP’s power export revenue reaches $76.62 million in the first quarter)",
+  "በአሜሪካ የሁሉም በረራዎች መቋረጥ በኮፐር ገመድ ማሻሻያ ችግር የተከሰተ መሆኑ ተገለጸ (Copper wire upgrade caused nationwide flight suspension, US transport secretary says)"
  ],
  "posted_at": [
   1794515788.2390347,
@@ -2594,6 +2595,8 @@
   1794668877.0612123,
   1794672573.5369425,
   1794672577.1205704,
-  1794672580.7017357
+  1794672580.7017357,
+  1794677762.817726,
+  1794677766.4059873
  ]
 }
