@@ -1,16 +1,5 @@
 {
  "seen": {
-  "844958dfd7de4328": 1793482440.9545293,
-  "57aa36e82fc67007": 1793482440.9545293,
-  "2b7f4118c42e9570": 1793482440.9545293,
-  "11eca7ba8093e0aa": 1793482440.9545293,
-  "3bfd854b6b588809": 1793482440.9545293,
-  "557a94e11d78933b": 1793482440.9545293,
-  "c7fb8874c773b554": 1793482440.9545293,
-  "a00bbc9f90fbcd0f": 1793482440.9545293,
-  "d5607095c58fdad3": 1793482440.9545293,
-  "737d73bd4e7e4a9d": 1793482440.9545293,
-  "33608d5f67f6a6b3": 1793482440.9545293,
   "32a407e27aaeb3b8": 1793484388.3125522,
   "f3c066c9b3036099": 1793484388.3125522,
   "ee4c55992192474c": 1793486049.1161373,
@@ -1470,10 +1459,10 @@
   "026d09fc0bdc1ccb": 1794690362.9398615,
   "fd3b64620fe7ee71": 1794690362.9398615,
   "c1e7b91dedc3185c": 1794690362.9398615,
-  "bb90055a86b19546": 1794690362.9398615
+  "bb90055a86b19546": 1794690362.9398615,
+  "406d267008c9af44": 1794692044.2777417
  },
  "recent_headlines": [
-  "ኤም-ፔሳ ኢትዮጵያ በሶስት ወራት ውስጥ 510 ሺህ ንቁ ተጠቃሚዎችን አጣ (M-PESA Ethiopia lost 510,000 active users in three months as Safaricom Ethiopia neared break-even)",
   "ሳፋሪኮም ኢትዮጵያ በኢትዮጵያ ያፈሰሰው አጠቃላይ ካፒታል 2.84 ቢሊዮን ዶላር ደረሰ (Safaricom’s Ethiopian Funding Reaches 2.84 Billion US Dollars as Borrowing Replaces Equity-Only Financing)",
   "ሳፋሪኮም ኢትዮጵያ 193 ሚሊዮን ዶላር አዲስ የካፒታል ፈንድ አገኘ (Safaricom Ethiopia raises $193M, lifting it into Ethiopia's top 8% of growth rounds)",
   "ኬንያ 500 ሚሊዮን USD የሚይዝ የስታርታፕ ፈንድ ልታቋቁም ነው (Kenya targets Sh65 billion in startup financing as venture capital funding falls 45 percent)",
@@ -1512,10 +1501,10 @@
   "የ Claude አዘጋጅ Anthropic በ Nasdaq አክሲዮኖቹን ይፋዊ ሽያጭ (IPO) ለማድረግ ተዘጋጀ (Anthropic’s IPO is a test of whether AI can pay for itself)",
   "የ OPay እና Standard Bank የ185 ሚሊዮን ዶላር ስምምነት በ IPO መቋረጥ ተፈታተነ (The bank OPay hoped would open up Africa)",
   "EIH እና CCI Global የ26 ሚሊዮን USD የ BPO ስምምነት ተፈራረሙ (EIH, CCI Global Sign $26 Million Deal to Develop Ethiopia’s BPO Industry)",
-  "አዋሽ ኢንሹራንስ የ6 ቢሊዮን ብር ገቢ እና የ1.84 ቢሊዮን ብር ከታክስ በፊት ትርፍ አበሰረ (Awash Insurance Breaks 6 Billion Birr Revenue Barrier as Profit Surges 65 Percent)"
+  "አዋሽ ኢንሹራንስ የ6 ቢሊዮን ብር ገቢ እና የ1.84 ቢሊዮን ብር ከታክስ በፊት ትርፍ አበሰረ (Awash Insurance Breaks 6 Billion Birr Revenue Barrier as Profit Surges 65 Percent)",
+  "የኢትዮጵያ ብሔራዊ ባንክ ከዓለም አቀፉ የኢስላሚክ ክላይሜት ፋይናንስ አሊያንስ ጋር ተቀላቀለ (Central Bank Joins Global Islamic Climate Finance Alliance as It Prepares to Host COP32)"
  ],
  "posted_at": [
-  1794517691.7560618,
   1794519413.6035233,
   1794521299.825382,
   1794530872.6573613,
@@ -1525,6 +1514,7 @@
   1794609334.0598333,
   1794611356.6661136,
   1794643766.036734,
-  1794690434.1406877
+  1794690434.1406877,
+  1794692112.6859097
  ]
 }
