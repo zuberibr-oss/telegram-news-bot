@@ -1,7 +1,5 @@
 {
  "seen": {
-  "530f40d28d66a2ee": 1793486142.1471288,
-  "13b0329c067e92d2": 1793486142.1471288,
   "a0bcb70c3b45918f": 1793488120.5794265,
   "08f850844fe7e912": 1793488120.5794265,
   "0d8c4fc83b8066ab": 1793488120.5794265,
@@ -2483,10 +2481,21 @@
   "55c5593e1b5b4214": 1794690434.3960016,
   "7263a16221f23057": 1794694101.1265182,
   "d4f749f26e996868": 1794694101.1265182,
-  "d490e66b0695bdba": 1794694101.1265182
+  "d490e66b0695bdba": 1794694101.1265182,
+  "c1806365ede35796": 1794695685.3414538,
+  "b4d8c21b46868245": 1794695685.3414538,
+  "c165ea1e817a40b2": 1794695685.3414538,
+  "b85429b4fb1b70c5": 1794695685.3414538,
+  "8ac9454bc317df9b": 1794695685.3414538,
+  "2be399637b418b7c": 1794695685.3414538,
+  "a027befc597ba6bb": 1794695685.3414538,
+  "87ce857418e7aad7": 1794695685.3414538,
+  "58629eec05b2273b": 1794695685.3414538,
+  "97b9213cf94727ac": 1794695685.3414538,
+  "7bbc503596ce151b": 1794695685.3414538,
+  "0040d7950ae0d4af": 1794695685.3414538
  },
  "recent_headlines": [
-  "የኮይሻ የውኃ ኤሌክትሪክ ኃይል ማመንጫ ፕሮጀክት ግንባታ 78.36 በመቶ መድረሱ ተገለጸ (Ethiopia’s Second-Largest Hydropower Giant Nears Completion as Koysha Reaches 78.36%)",
   "ቱርክ እና ካታር የጋራ የመከላከያ ስምምነት ተፈራረሙ (Turkiye and Qatar sign mutual defence agreement)",
   "ኢትዮጵያ ወደ WTO ለመቀላቀል ከሚደረጉት 17 ባለሁለት ወገን ድርድሮች 11ዱን አጠናቀቀች (Six bilateral deals left to finalize before Ethiopia’s WTO schedules move to verification)",
   "53 ሀገራት እስራኤል ወደ ጋዛ እርዳታ እንድታስገባ በጋራ ጠየቁ (Jerusalem Daily: Baby dies from cold in Gaza)",
@@ -2525,10 +2534,10 @@
   "ኢትዮጵያ በመጀመሪያው ሩብ ዓመት የ76.62 ሚሊዮን ዶላር የኤሌክትሪክ ኃይል ላከች (EEP’s power export revenue reaches $76.62 million in the first quarter)",
   "በአሜሪካ የሁሉም በረራዎች መቋረጥ በኮፐር ገመድ ማሻሻያ ችግር የተከሰተ መሆኑ ተገለጸ (Copper wire upgrade caused nationwide flight suspension, US transport secretary says)",
   "ከ3 ሚሊዮን ብር በላይ የኮንትሮባንድ ዕቃ የጫኑ ተሽከርካሪዎችን ለመውረስ የሚያስችል መመሪያ ተዘጋጀ (MoF moves to overhaul rules, confiscate vehicles carrying over 3M birr in contraband)",
-  "አሜሪካ በአውሮፓ እና ሩሲያ መካከል የሰላም ድርድር እንዲደረግ ልታመቻች እንደሆነ ገለጸች (US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine)"
+  "አሜሪካ በአውሮፓ እና ሩሲያ መካከል የሰላም ድርድር እንዲደረግ ልታመቻች እንደሆነ ገለጸች (US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine)",
+  "SpaceX የStarship ሮኬት የላይኛውን ክፍል በተሳካ ሁኔታ በሜካኒካል እጆች ያዘ ('Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth)"
  ],
  "posted_at": [
-  1794522966.075805,
   1794529256.1769202,
   1794532130.853146,
   1794535880.3243034,
@@ -2581,6 +2590,7 @@
   1794677762.817726,
   1794677766.4059873,
   1794686907.389972,
-  1794694129.3014543
+  1794694129.3014543,
+  1794695775.4281719
  ]
 }
