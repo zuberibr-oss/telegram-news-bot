@@ -1,15 +1,5 @@
 {
  "seen": {
-  "02898ca324b54d33": 1793452038.8296387,
-  "8a57b429214d2249": 1793452038.8296387,
-  "1cd8f413f5d716f9": 1793452038.8296387,
-  "b8d2375e6b01352c": 1793452038.8296387,
-  "a9bcde4b33829060": 1793452038.8296387,
-  "145d4460981128b8": 1793452038.8296387,
-  "83399f4a0458aa7f": 1793452038.8296387,
-  "08765cd932fe3d90": 1793452038.8296387,
-  "3a4e1c1d3525dc4c": 1793452038.8296387,
-  "737d73bd4e7e4a9d": 1793452038.8296387,
   "a00bbc9f90fbcd0f": 1793453716.9169693,
   "c0c59232ac7b2bd1": 1793453716.9169693,
   "469968923c5acad9": 1793453716.9169693,
@@ -2494,11 +2484,11 @@
   "2b554ef31f43946a": 1794659681.994142,
   "5ab390d3b801376c": 1794659681.994142,
   "b4bdc97351c950ec": 1794659681.994142,
-  "7a1ec7ea94285218": 1794659681.994142
+  "7a1ec7ea94285218": 1794659681.994142,
+  "14af650159f3317b": 1794661622.1804953,
+  "86e82d7e95c8ea96": 1794661622.1804953
  },
  "recent_headlines": [
-  "የዩክሬን ድሮኖች በፊንላንድ ወሽመጥ የሩሲያን የጦር መርከብ መቱ (Russian warship hit by Ukrainian drone in Gulf of Finland)",
-  "የአሜሪካ መልዕክተኞች ከሩሲያው ፕሬዝዳንት ጋር ከተወያዩ በኋላ ከዛሌንስኪ ጋር በደብሊን ተገናኙ (US envoys meet Zelensky in Dublin after talks with Putin in Moscow)",
   "የሳዑዲ መሪነት ያለው ጦር ወደ ሪያድ ያመሩ የሁቲዎችን ድሮኖች ማክሸፉን አስታወቀ (Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks)",
   "ዶናልድ ትራምፕ የባህረ ሰላጤው ሀገራት በኢራን ላይ የሚፈጸመው ጥቃት እንዲቆም መጠየቃቸውን ገለጹ (Iran war live: Trump says Gulf allies urged pause in Iran strikes)",
   "ዛሌንስኪ የአውሮፓ ሕብረት በሩሲያ እና ዩክሬን የሰላም ውይይት እንዲካተት መወሰኑን ደገፉ (Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks)",
@@ -2536,7 +2526,9 @@
   "ዩክሬን የዶንባስን ግዛት ለNato አባልነት እንድትለውጥ አሜሪካ ሀሳብ ማቅረቧ ተገለጸ (US has floated Ukraine ceding Donbas for Nato membership, Zelensky says)",
   "ታራኒስ የተባለው ኩባንያ የኮርቤቲ ጂኦተርማል ፕሮጀክት የአብላጫ ድርሻ ያዘ (Dhaabbanni Taaraniis gahee caalmaa piroojektii Ji’ootermaalii Korbeettii, kan Magaalaa Hawaasaa cinaatti argamu dhuunfachuun gabaafame)",
   "ኢትዮጵያ በኮፕ31 ጉባኤ ከባኩ እስከ ቤሌም የመንገድ ካርታን በማስቀጠል ዙሪያ ተወያየች (Ethiopia Engages in Advancing Baku-to-Belém Roadmap as COP32 Presidency Takes Shape)",
-  "ኢትዮጵያ የአየር ንብረት ፕሮጀክቶችን ወደ ኢንቨስትመንት ለመቀየር ያለመውን የ‘BRIDGE’ ኢኒሼቲቭ ደገፈች (Ethiopia Backs Country-Led Climate Investment Drive at Launch of COP31’s BRIDGE Initiative)"
+  "ኢትዮጵያ የአየር ንብረት ፕሮጀክቶችን ወደ ኢንቨስትመንት ለመቀየር ያለመውን የ‘BRIDGE’ ኢኒሼቲቭ ደገፈች (Ethiopia Backs Country-Led Climate Investment Drive at Launch of COP31’s BRIDGE Initiative)",
+  "ኢትዮጵያ በትግራይ ለተፈጸሙ ጥቃቶች ኤርትራን እና ግብፅን አከሰሰች (Ethiopia blames Egypt, Eritrea for Tigray attacks)",
+  "ፊልድ ማርሻል ብርሃኑ ጁላ የጦር አዛዦች አርቲፊሻል ኢንተለጀንስን እንዲተገብሩ አሳሰቡ (ENDF Chief Tasks Military Commanders with Mastering AI and Emerging Technologies for Future Warfare)"
  ],
  "posted_at": [
   1794489037.630037,
@@ -2583,6 +2575,8 @@
   1794654507.5580664,
   1794658298.2592406,
   1794658301.7388031,
-  1794658305.2244582
+  1794658305.2244582,
+  1794661656.9864643,
+  1794661660.331267
  ]
 }
