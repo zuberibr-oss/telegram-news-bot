@@ -1,18 +1,5 @@
 {
  "seen": {
-  "1d9e5ec6865f342e": 1793482535.2658553,
-  "247d6da239047e26": 1793482535.2658553,
-  "a6c0e5b6c3ff0ce5": 1793482535.2658553,
-  "000d383d6b42088c": 1793484461.690312,
-  "c1806365ede35796": 1793484461.690312,
-  "b4d8c21b46868245": 1793484461.690312,
-  "c165ea1e817a40b2": 1793484461.690312,
-  "b85429b4fb1b70c5": 1793484461.690312,
-  "a027befc597ba6bb": 1793484461.690312,
-  "87ce857418e7aad7": 1793484461.690312,
-  "2be399637b418b7c": 1793484461.690312,
-  "8ac9454bc317df9b": 1793484461.690312,
-  "a09eb4fb3b2e7fa9": 1793484461.690312,
   "530f40d28d66a2ee": 1793486142.1471288,
   "13b0329c067e92d2": 1793486142.1471288,
   "a0bcb70c3b45918f": 1793488120.5794265,
@@ -2493,10 +2480,12 @@
   "fd3b64620fe7ee71": 1794686866.5988739,
   "db97b9eebbf1092f": 1794686866.5988739,
   "396c3498fda4c4cf": 1794688493.8400445,
-  "55c5593e1b5b4214": 1794690434.3960016
+  "55c5593e1b5b4214": 1794690434.3960016,
+  "7263a16221f23057": 1794694101.1265182,
+  "d4f749f26e996868": 1794694101.1265182,
+  "d490e66b0695bdba": 1794694101.1265182
  },
  "recent_headlines": [
-  "ፊልድ ማርሻል ብርሃኑ ጁላ በትግራይ ሰላምና መረጋጋት ዙሪያ ከመቀሌ ነዋሪዎች ጋር ተወያዩ (ENDF Chief of Staff Engages Mekelle Residents in Dialogue on Peace and Stability in Tigray Region)",
   "የኮይሻ የውኃ ኤሌክትሪክ ኃይል ማመንጫ ፕሮጀክት ግንባታ 78.36 በመቶ መድረሱ ተገለጸ (Ethiopia’s Second-Largest Hydropower Giant Nears Completion as Koysha Reaches 78.36%)",
   "ቱርክ እና ካታር የጋራ የመከላከያ ስምምነት ተፈራረሙ (Turkiye and Qatar sign mutual defence agreement)",
   "ኢትዮጵያ ወደ WTO ለመቀላቀል ከሚደረጉት 17 ባለሁለት ወገን ድርድሮች 11ዱን አጠናቀቀች (Six bilateral deals left to finalize before Ethiopia’s WTO schedules move to verification)",
@@ -2535,7 +2524,8 @@
   "የአውሮፓ ህብረት እስራኤል ወደ ጋዛ የሚገባውን የሰብአዊ እርዳታ በአስቸኳይ እንድታስገባ ጠየቀ (EU calls for immediate humanitarian access to Gaza)",
   "ኢትዮጵያ በመጀመሪያው ሩብ ዓመት የ76.62 ሚሊዮን ዶላር የኤሌክትሪክ ኃይል ላከች (EEP’s power export revenue reaches $76.62 million in the first quarter)",
   "በአሜሪካ የሁሉም በረራዎች መቋረጥ በኮፐር ገመድ ማሻሻያ ችግር የተከሰተ መሆኑ ተገለጸ (Copper wire upgrade caused nationwide flight suspension, US transport secretary says)",
-  "ከ3 ሚሊዮን ብር በላይ የኮንትሮባንድ ዕቃ የጫኑ ተሽከርካሪዎችን ለመውረስ የሚያስችል መመሪያ ተዘጋጀ (MoF moves to overhaul rules, confiscate vehicles carrying over 3M birr in contraband)"
+  "ከ3 ሚሊዮን ብር በላይ የኮንትሮባንድ ዕቃ የጫኑ ተሽከርካሪዎችን ለመውረስ የሚያስችል መመሪያ ተዘጋጀ (MoF moves to overhaul rules, confiscate vehicles carrying over 3M birr in contraband)",
+  "አሜሪካ በአውሮፓ እና ሩሲያ መካከል የሰላም ድርድር እንዲደረግ ልታመቻች እንደሆነ ገለጸች (US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine)"
  ],
  "posted_at": [
   1794522966.075805,
@@ -2590,6 +2580,7 @@
   1794672580.7017357,
   1794677762.817726,
   1794677766.4059873,
-  1794686907.389972
+  1794686907.389972,
+  1794694129.3014543
  ]
 }
