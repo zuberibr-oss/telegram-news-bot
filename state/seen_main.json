@@ -1,10 +1,5 @@
 {
  "seen": {
-  "231b9484fc886737": 1793448648.7894351,
-  "969a87299d7f2d1d": 1793448648.7894351,
-  "1c159dd2811f1e7a": 1793448648.7894351,
-  "76d3375ac6555eb0": 1793448648.7894351,
-  "f0a02d47f15bfc79": 1793448648.7894351,
   "500c5da5b980eb13": 1793450090.7232955,
   "20d791258375559c": 1793450090.7232955,
   "02898ca324b54d33": 1793452038.8296387,
@@ -2488,12 +2483,18 @@
   "7f4de430678b5119": 1794654412.1235077,
   "6eaa2dd770145489": 1794654412.1235077,
   "39e190524dfbdb40": 1794656100.349137,
-  "03ffa2fba567c7b0": 1794656100.349137
+  "03ffa2fba567c7b0": 1794656100.349137,
+  "b7424a942b006934": 1794658231.3147986,
+  "7ebf8d0b724fd4aa": 1794658231.3147986,
+  "c771effa6cbb72da": 1794658231.3147986,
+  "4d28686eecd69bac": 1794658231.3147986,
+  "18584eed4cadbfb8": 1794658231.3147986,
+  "acf1ac23b592940d": 1794658231.3147986,
+  "4844df3adc419e18": 1794658231.3147986,
+  "83eae5192a51cb9e": 1794658231.3147986,
+  "45c8ea1afe767559": 1794658231.3147986
  },
  "recent_headlines": [
-  "የNvidia ዋና ሥራ አስፈጻሚ Jensen Huang ከኃላፊነታቸው ለቀቁ (Nvidia CEO Jensen Huang steps down amid spy scandal and market loss)",
-  "ኢትዮጵያ እና ቻይና በባህላዊ መድኃኒቶች ልማት በጋራ ለመሥራት ተወያዩ (Daily_Brief: #Ethiopia, #China explore cooperation to develop traditional and herbal medicines)",
-  "በሱዳን ከ64 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እና ጥገኝነት ጠያቂዎች እንደሚገኙ ተገለጸ (News: More than 64, 000 Ethiopian refugees, asylum-seekers remain in war-hit Sudan, UN data shows)",
   "የዩክሬን ድሮኖች በፊንላንድ ወሽመጥ የሩሲያን የጦር መርከብ መቱ (Russian warship hit by Ukrainian drone in Gulf of Finland)",
   "የአሜሪካ መልዕክተኞች ከሩሲያው ፕሬዝዳንት ጋር ከተወያዩ በኋላ ከዛሌንስኪ ጋር በደብሊን ተገናኙ (US envoys meet Zelensky in Dublin after talks with Putin in Moscow)",
   "የሳዑዲ መሪነት ያለው ጦር ወደ ሪያድ ያመሩ የሁቲዎችን ድሮኖች ማክሸፉን አስታወቀ (Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks)",
@@ -2530,10 +2531,12 @@
   "የገላን ሁለገብ ወደብ አዲሱ የኢትዮጵያ መልቲሞዳል ሎጂስቲክስ ማዕከል ሆኖ ተፈቀደ (Galaan Multipurpose Port approved as Ethiopia’s new multimodal logistics hub)",
   "የኢትዮጵያ ኢንቨስትመንት ሆልዲንግስ እና CCI Global የ26 ሚሊዮን ዶላር ስምምነት ተፈራረሙ (​EIH, CCI Global sign $26 million deal to develop Ethiopia’s BPO industry)",
   "ደቡብ ሱዳን ታሪካዊ ሀገራዊ ምርጫዋን ወደ የካቲት ወር አራዘመች (South Sudan postpones first-ever national elections until February)",
-  "ዩክሬን የዶንባስን ግዛት ለNato አባልነት እንድትለውጥ አሜሪካ ሀሳብ ማቅረቧ ተገለጸ (US has floated Ukraine ceding Donbas for Nato membership, Zelensky says)"
+  "ዩክሬን የዶንባስን ግዛት ለNato አባልነት እንድትለውጥ አሜሪካ ሀሳብ ማቅረቧ ተገለጸ (US has floated Ukraine ceding Donbas for Nato membership, Zelensky says)",
+  "ታራኒስ የተባለው ኩባንያ የኮርቤቲ ጂኦተርማል ፕሮጀክት የአብላጫ ድርሻ ያዘ (Dhaabbanni Taaraniis gahee caalmaa piroojektii Ji’ootermaalii Korbeettii, kan Magaalaa Hawaasaa cinaatti argamu dhuunfachuun gabaafame)",
+  "ኢትዮጵያ በኮፕ31 ጉባኤ ከባኩ እስከ ቤሌም የመንገድ ካርታን በማስቀጠል ዙሪያ ተወያየች (Ethiopia Engages in Advancing Baku-to-Belém Roadmap as COP32 Presidency Takes Shape)",
+  "ኢትዮጵያ የአየር ንብረት ፕሮጀክቶችን ወደ ኢንቨስትመንት ለመቀየር ያለመውን የ‘BRIDGE’ ኢኒሼቲቭ ደገፈች (Ethiopia Backs Country-Led Climate Investment Drive at Launch of COP31’s BRIDGE Initiative)"
  ],
  "posted_at": [
-  1794483343.6182806,
   1794485599.028258,
   1794489037.630037,
   1794492641.6578524,
@@ -2576,6 +2579,9 @@
   1794654497.5826306,
   1794654500.9175549,
   1794654504.2414222,
-  1794654507.5580664
+  1794654507.5580664,
+  1794658298.2592406,
+  1794658301.7388031,
+  1794658305.2244582
  ]
 }
