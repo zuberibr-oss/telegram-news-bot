@@ -1,16 +1,5 @@
 {
  "seen": {
-  "6290beb6e7dd3821": 1793480779.5913136,
-  "72b97d3c126e6c0b": 1793480779.5913136,
-  "b77ea2d541611efe": 1793480779.5913136,
-  "9cf36c5d74674ada": 1793480779.5913136,
-  "f9e93b3c4f535204": 1793480779.5913136,
-  "0c2bd08d55bbb48a": 1793480779.5913136,
-  "1c3cdc6abd5d3015": 1793480779.5913136,
-  "0c6c895875d8cfa1": 1793480779.5913136,
-  "065af17ac9670efd": 1793480779.5913136,
-  "c0e8a90568669d36": 1793480779.5913136,
-  "948078e153099b8a": 1793480779.5913136,
   "844958dfd7de4328": 1793482440.9545293,
   "57aa36e82fc67007": 1793482440.9545293,
   "2b7f4118c42e9570": 1793482440.9545293,
@@ -1476,10 +1465,14 @@
   "f396c9381bdd1156": 1794674037.454803,
   "dd83b7c3a1173d0b": 1794677638.8896744,
   "c38dce2465008d68": 1794684834.7484975,
-  "e81b0f49c0282b54": 1794688430.5604181
+  "e81b0f49c0282b54": 1794688430.5604181,
+  "db97b9eebbf1092f": 1794690362.9398615,
+  "026d09fc0bdc1ccb": 1794690362.9398615,
+  "fd3b64620fe7ee71": 1794690362.9398615,
+  "c1e7b91dedc3185c": 1794690362.9398615,
+  "bb90055a86b19546": 1794690362.9398615
  },
  "recent_headlines": [
-  "የናይጄሪያ ማዕከላዊ ባንክ የ P2P ክሪፕቶ ግብይቶች ከባንክ ሂሳቦች ጋር እንዲያያዙ ደነገገ (Nigeria’s Central Bank wants every crypto P2P payment linked to a bank transaction)",
   "ኤም-ፔሳ ኢትዮጵያ በሶስት ወራት ውስጥ 510 ሺህ ንቁ ተጠቃሚዎችን አጣ (M-PESA Ethiopia lost 510,000 active users in three months as Safaricom Ethiopia neared break-even)",
   "ሳፋሪኮም ኢትዮጵያ በኢትዮጵያ ያፈሰሰው አጠቃላይ ካፒታል 2.84 ቢሊዮን ዶላር ደረሰ (Safaricom’s Ethiopian Funding Reaches 2.84 Billion US Dollars as Borrowing Replaces Equity-Only Financing)",
   "ሳፋሪኮም ኢትዮጵያ 193 ሚሊዮን ዶላር አዲስ የካፒታል ፈንድ አገኘ (Safaricom Ethiopia raises $193M, lifting it into Ethiopia's top 8% of growth rounds)",
@@ -1518,7 +1511,8 @@
   "የMicrosoft አገልግሎት መቋረጥ በደቡብ አፍሪካ ዋና ዋና ተቋማት ላይ መስተጓጎል ፈጠረ (Microsoft’s 18-hour outage exposed South Africa’s dependence on Big Tech)",
   "የ Claude አዘጋጅ Anthropic በ Nasdaq አክሲዮኖቹን ይፋዊ ሽያጭ (IPO) ለማድረግ ተዘጋጀ (Anthropic’s IPO is a test of whether AI can pay for itself)",
   "የ OPay እና Standard Bank የ185 ሚሊዮን ዶላር ስምምነት በ IPO መቋረጥ ተፈታተነ (The bank OPay hoped would open up Africa)",
-  "EIH እና CCI Global የ26 ሚሊዮን USD የ BPO ስምምነት ተፈራረሙ (EIH, CCI Global Sign $26 Million Deal to Develop Ethiopia’s BPO Industry)"
+  "EIH እና CCI Global የ26 ሚሊዮን USD የ BPO ስምምነት ተፈራረሙ (EIH, CCI Global Sign $26 Million Deal to Develop Ethiopia’s BPO Industry)",
+  "አዋሽ ኢንሹራንስ የ6 ቢሊዮን ብር ገቢ እና የ1.84 ቢሊዮን ብር ከታክስ በፊት ትርፍ አበሰረ (Awash Insurance Breaks 6 Billion Birr Revenue Barrier as Profit Surges 65 Percent)"
  ],
  "posted_at": [
   1794517691.7560618,
@@ -1530,6 +1524,7 @@
   1794605762.5385032,
   1794609334.0598333,
   1794611356.6661136,
-  1794643766.036734
+  1794643766.036734,
+  1794690434.1406877
  ]
 }
