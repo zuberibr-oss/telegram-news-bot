@@ -1,10 +1,5 @@
 {
  "seen": {
-  "a00bbc9f90fbcd0f": 1793453716.9169693,
-  "c0c59232ac7b2bd1": 1793453716.9169693,
-  "469968923c5acad9": 1793453716.9169693,
-  "dd2fb319a3ad7f3a": 1793453716.9169693,
-  "3b4c578ea1b2cb50": 1793453716.9169693,
   "a0a96d0b7807fba6": 1793455633.3416421,
   "e17621abaaf00784": 1793455633.3416421,
   "98d5c11943d26681": 1793457323.7912865,
@@ -2486,12 +2481,15 @@
   "b4bdc97351c950ec": 1794659681.994142,
   "7a1ec7ea94285218": 1794659681.994142,
   "14af650159f3317b": 1794661622.1804953,
-  "86e82d7e95c8ea96": 1794661622.1804953
+  "86e82d7e95c8ea96": 1794661622.1804953,
+  "56b147118e48826e": 1794663283.5965345,
+  "6e36a2c2914eb506": 1794663283.5965345,
+  "3491db1fbfc7bafb": 1794663283.5965345,
+  "e31efd1c74b2d921": 1794663283.5965345,
+  "fcfe31d60db91474": 1794663283.5965345,
+  "c0d671d1f2984997": 1794663283.5965345
  },
  "recent_headlines": [
-  "የሳዑዲ መሪነት ያለው ጦር ወደ ሪያድ ያመሩ የሁቲዎችን ድሮኖች ማክሸፉን አስታወቀ (Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks)",
-  "ዶናልድ ትራምፕ የባህረ ሰላጤው ሀገራት በኢራን ላይ የሚፈጸመው ጥቃት እንዲቆም መጠየቃቸውን ገለጹ (Iran war live: Trump says Gulf allies urged pause in Iran strikes)",
-  "ዛሌንስኪ የአውሮፓ ሕብረት በሩሲያ እና ዩክሬን የሰላም ውይይት እንዲካተት መወሰኑን ደገፉ (Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks)",
   "ፕሬዝዳንት Donald Trump በኩባ ላይ ወታደራዊ እርምጃ ለመውሰድ ማሰባቸውን ገለጹ (Trump moots toppling Cuba authorities before leaving office)",
   "ኢራን በባህሬን የሚገኘውን የአሜሪካ የቅድመ ማስጠንቀቂያ ራዳር መታሁ አለች (Iran says it targeted US radar site in Bahrain)",
   "በእስዋቲኒ ሕግ የማያከብሩ ንግዶች ውስጥ የኢትዮጵያ እና የሶማሊያ ዜጎች ከፍተኛውን ድርሻ መያዛቸው ተገለጸ (Daily_Brief: #Ethiopians, #Somalis make up 60–70% of non-compliant businesses in #Eswatini, minister says)",
@@ -2528,10 +2526,12 @@
   "ኢትዮጵያ በኮፕ31 ጉባኤ ከባኩ እስከ ቤሌም የመንገድ ካርታን በማስቀጠል ዙሪያ ተወያየች (Ethiopia Engages in Advancing Baku-to-Belém Roadmap as COP32 Presidency Takes Shape)",
   "ኢትዮጵያ የአየር ንብረት ፕሮጀክቶችን ወደ ኢንቨስትመንት ለመቀየር ያለመውን የ‘BRIDGE’ ኢኒሼቲቭ ደገፈች (Ethiopia Backs Country-Led Climate Investment Drive at Launch of COP31’s BRIDGE Initiative)",
   "ኢትዮጵያ በትግራይ ለተፈጸሙ ጥቃቶች ኤርትራን እና ግብፅን አከሰሰች (Ethiopia blames Egypt, Eritrea for Tigray attacks)",
-  "ፊልድ ማርሻል ብርሃኑ ጁላ የጦር አዛዦች አርቲፊሻል ኢንተለጀንስን እንዲተገብሩ አሳሰቡ (ENDF Chief Tasks Military Commanders with Mastering AI and Emerging Technologies for Future Warfare)"
+  "ፊልድ ማርሻል ብርሃኑ ጁላ የጦር አዛዦች አርቲፊሻል ኢንተለጀንስን እንዲተገብሩ አሳሰቡ (ENDF Chief Tasks Military Commanders with Mastering AI and Emerging Technologies for Future Warfare)",
+  "የሱዳን ጦር በኮርዶፋን ያሰመዘገበው ስኬት በRSF ላይ ያለውን የኃይል ሚዛን እያስቀየረ ነው ተባለ (How SAF successes in Sudan’s Kordofan could turn tide against the RSF)",
+  "በዩክሬኑ ጦርነት ከ450 ሺህ በላይ ሩሲያውያን መሞታቸውን የወጡ መረጃዎች አመላከቱ (Russian casualties ‘reach 450,000’: What that means for the Ukraine war)",
+  "ጠቅላይ ሚኒስትር ዐቢይ በዳካር የላቀ ውጤት ላስመዘገቡ አትሌቶች የእንኳን ደስ አላችሁ መልዕክት አስተላለፉ (PM Abiy Salutes Ethiopia’s Young Champions for Dominating Dakar 2026 Youth Olympic Games)"
  ],
  "posted_at": [
-  1794489037.630037,
   1794492641.6578524,
   1794492645.1874783,
   1794497797.6420093,
@@ -2577,6 +2577,9 @@
   1794658301.7388031,
   1794658305.2244582,
   1794661656.9864643,
-  1794661660.331267
+  1794661660.331267,
+  1794663350.5883698,
+  1794663353.9981933,
+  1794663357.4365985
  ]
 }
