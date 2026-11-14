@@ -1,13 +1,5 @@
 {
  "seen": {
-  "f39a153f06aa3f62": 1793475326.2689366,
-  "fa82da348d4a8348": 1793475326.2689366,
-  "569112d0e315dc63": 1793475326.2689366,
-  "fc2ab3263819321f": 1793475326.2689366,
-  "7e1281aeb2a18a5e": 1793475326.2689366,
-  "fd8400aa209f9126": 1793477291.4060616,
-  "99084150c23ba614": 1793477291.4060616,
-  "e081afbb0da7b175": 1793477291.4060616,
   "1211252b79b8e1d8": 1793478900.1223476,
   "e07d0577dc8ba61b": 1793478900.1223476,
   "c3ed9363f395cfb4": 1793478900.1223476,
@@ -2499,10 +2491,16 @@
   "24e5a9363ab24991": 1794681307.7623851,
   "4fe169a97518273e": 1794681307.7623851,
   "43761e2fee95efb0": 1794683197.7609446,
-  "f30c3d19d20f7e61": 1794684883.449852
+  "f30c3d19d20f7e61": 1794684883.449852,
+  "1fbc6ab47ca06fc9": 1794686866.5988739,
+  "2ae8e7d92c504e14": 1794686866.5988739,
+  "3db4eb4e524d10e7": 1794686866.5988739,
+  "a99e976262885566": 1794686866.5988739,
+  "258fb0b0a507a614": 1794686866.5988739,
+  "fd3b64620fe7ee71": 1794686866.5988739,
+  "db97b9eebbf1092f": 1794686866.5988739
  },
  "recent_headlines": [
-  "ዓለም አቀፉ የኒውክሌር ኤጀንሲ ኢራን ተቋማቷን ለኢንስፔክተሮች እንድትከፍት ጠየቀ (UN watchdog calls on Iran to reopen nuclear facilities to inspection)",
   "ፊልድ ማርሻል ብርሃኑ ጁላ በትግራይ ሰላምና መረጋጋት ዙሪያ ከመቀሌ ነዋሪዎች ጋር ተወያዩ (ENDF Chief of Staff Engages Mekelle Residents in Dialogue on Peace and Stability in Tigray Region)",
   "የኮይሻ የውኃ ኤሌክትሪክ ኃይል ማመንጫ ፕሮጀክት ግንባታ 78.36 በመቶ መድረሱ ተገለጸ (Ethiopia’s Second-Largest Hydropower Giant Nears Completion as Koysha Reaches 78.36%)",
   "ቱርክ እና ካታር የጋራ የመከላከያ ስምምነት ተፈራረሙ (Turkiye and Qatar sign mutual defence agreement)",
@@ -2541,7 +2539,8 @@
   "ናይጄሪያ ዜጎቿ በአዲስ አበባ አየር መንገድ በኩል በሚያደርጉት ጉዞ ጥንቃቄ እንዲያደርጉ አሳሰበች (Nigeria cautions against travel via Ethiopia's main airport due to altitude)",
   "የአውሮፓ ህብረት እስራኤል ወደ ጋዛ የሚገባውን የሰብአዊ እርዳታ በአስቸኳይ እንድታስገባ ጠየቀ (EU calls for immediate humanitarian access to Gaza)",
   "ኢትዮጵያ በመጀመሪያው ሩብ ዓመት የ76.62 ሚሊዮን ዶላር የኤሌክትሪክ ኃይል ላከች (EEP’s power export revenue reaches $76.62 million in the first quarter)",
-  "በአሜሪካ የሁሉም በረራዎች መቋረጥ በኮፐር ገመድ ማሻሻያ ችግር የተከሰተ መሆኑ ተገለጸ (Copper wire upgrade caused nationwide flight suspension, US transport secretary says)"
+  "በአሜሪካ የሁሉም በረራዎች መቋረጥ በኮፐር ገመድ ማሻሻያ ችግር የተከሰተ መሆኑ ተገለጸ (Copper wire upgrade caused nationwide flight suspension, US transport secretary says)",
+  "ከ3 ሚሊዮን ብር በላይ የኮንትሮባንድ ዕቃ የጫኑ ተሽከርካሪዎችን ለመውረስ የሚያስችል መመሪያ ተዘጋጀ (MoF moves to overhaul rules, confiscate vehicles carrying over 3M birr in contraband)"
  ],
  "posted_at": [
   1794515788.2390347,
@@ -2596,6 +2595,7 @@
   1794672577.1205704,
   1794672580.7017357,
   1794677762.817726,
-  1794677766.4059873
+  1794677766.4059873,
+  1794686907.389972
  ]
 }
