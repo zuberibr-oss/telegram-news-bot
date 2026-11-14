@@ -1,17 +1,5 @@
 {
  "seen": {
-  "b174a47c2f29ce74": 1793434187.3165615,
-  "85b1be2737d690cd": 1793434187.3165615,
-  "1701180ccc3530ea": 1793434187.3165615,
-  "cffa8d51ff0e07f1": 1793434187.3165615,
-  "f9c0292e4ba4651f": 1793434187.3165615,
-  "1dd6ad0b782b0c00": 1793434187.3165615,
-  "595a66fb71843bc1": 1793434187.3165615,
-  "887cf92b2dca7d0e": 1793435708.7330494,
-  "a7bd70017053f9bc": 1793435708.7330494,
-  "a37037eb6f214215": 1793435708.7330494,
-  "552760853d6122a2": 1793435708.7330494,
-  "28153f076417f5be": 1793435708.7330494,
   "fd2c1928841f1f11": 1793437790.1647873,
   "95902df779f1b709": 1793437790.1647873,
   "b58b0e11b0f0e370": 1793437790.1647873,
@@ -2497,10 +2485,14 @@
   "b5407f390f2393c9": 1794641689.517611,
   "cb638949b6352920": 1794641689.517611,
   "4baa738c704cf221": 1794641689.517611,
-  "751b1dc781cad210": 1794643766.193008
+  "751b1dc781cad210": 1794643766.193008,
+  "71924604c804e7fc": 1794645308.784734,
+  "e627d5d173b72f05": 1794645308.784734,
+  "ff954de666a6114f": 1794645308.784734,
+  "fa6761c94aa121ab": 1794645308.784734,
+  "0794c7f92e3ef314": 1794645308.784734
  },
  "recent_headlines": [
-  "በአሜሪካ ሚሲሲፒ ከ150 ዓመታት በኋላ የመጀመሪያው ጥቁር ሴናተር ተመረጡ (Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years)",
   "በኢትዮጵያ ለዲጂታል ይዘት ፈጣሪዎች እና ኦንላይን ፍሪላንሰሮች አዲስ የገቢ ግብር ደንብ ወጣ (Ethiopia introduces new tax rules for digital content creators)",
   "የዴሞክራቲክ ሪፐብሊክ ኮንጎ ፕሬዝዳንት የሕዝበ ውሳኔ ሕግ አጸደቁ (DR Congo's Tshisekedi signs referendum law amid fears of third-term bid)",
   "ቻይና አሜሪካ በNvidia ዋና ስራ አስፈጻሚ ዙሪያ የሰላይነት ክስ ፈብርካለች ስትል ኮነነች (China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’)",
@@ -2539,10 +2531,10 @@
   "እስራኤል እርዳታ ባለመፍቀዷ በጋዛ በበረዶ ማዕበል የደረሰውን ጉዳት አብብሳለች ሲል ተመድ ገለጸ (UN says Israeli policies worsened deadly impact of Gaza winter storm)",
   "በኢትዮጵያ ባለፉት ሁለት ወራት በፖለቲካዊ ግጭቶች የ1,500 ሰዎች ሕይወት ማለፉን አክሌድ አስታወቀ (በኢትዮጵያ ባለፉት ሁለት ወራት ብቻ 'ፖለቲካዊ ግጭቶች' ለምን ጨመሩ?)",
   "Donald Trump፣ Xi Jinping እና Vladimir Putin በቻይና የሶስትዮሽ ጉባኤ ሊያካሂዱ ነው (Trump, Xi and Putin to hold first three-way summit in China)",
-  "Microsoft በዓለም አቀፍ ደረጃ ተከስቶ የነበረው የቴክኒክ ብልሽት መፈታቱን አስታወቀ (Microsoft says services fully restored after for day-long global outage)"
+  "Microsoft በዓለም አቀፍ ደረጃ ተከስቶ የነበረው የቴክኒክ ብልሽት መፈታቱን አስታወቀ (Microsoft says services fully restored after for day-long global outage)",
+  "በሆርሙዝ ወሽመጥ በደረሱ ጥቃቶች 25 የባህር ላይ ሰራተኞች መሞታቸውን ተመድ አስታወቀ (UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran)"
  ],
  "posted_at": [
-  1794471127.9724264,
   1794476213.2346122,
   1794478193.8128219,
   1794478197.2587037,
@@ -2584,6 +2576,7 @@
   1794632937.4344635,
   1794632940.873992,
   1794634570.2551682,
-  1794640157.5943325
+  1794640157.5943325,
+  1794645352.7751138
  ]
 }
