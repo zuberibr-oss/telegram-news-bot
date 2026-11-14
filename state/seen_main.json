@@ -1,7 +1,5 @@
 {
  "seen": {
-  "cd031fd8f150669a": 1793430494.776081,
-  "a5fb31693b8a4e20": 1793430494.776081,
   "a484a601e37f52e0": 1793432088.1888154,
   "99e84462cc07659b": 1793432088.1888154,
   "f52d13d0b90d9790": 1793432088.1888154,
@@ -2499,10 +2497,15 @@
   "eab99e7c21dae7a8": 1794638286.294084,
   "93b02de9f62db16f": 1794638286.294084,
   "bbb008c9c6a26c70": 1794638286.294084,
-  "4a0bf5ab0b076053": 1794638286.294084
+  "4a0bf5ab0b076053": 1794638286.294084,
+  "0a2c6ab9716c1de8": 1794640109.3177104,
+  "291399743f3a8020": 1794640109.3177104,
+  "d6dd6c4d3f74c130": 1794640109.3177104,
+  "82824c3a8ed99934": 1794640109.3177104,
+  "54646f35d4e7a5ea": 1794640109.3177104,
+  "06d496c2918e6813": 1794640109.3177104
  },
  "recent_headlines": [
-  "ኢትዮጵያ እና ብሪታንያ በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ ተወያዩ (Ethiopia and UK Chart Path for Stronger Climate Partnership Towards COP32)",
   "በአሜሪካ ሚሲሲፒ ከ150 ዓመታት በኋላ የመጀመሪያው ጥቁር ሴናተር ተመረጡ (Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years)",
   "በኢትዮጵያ ለዲጂታል ይዘት ፈጣሪዎች እና ኦንላይን ፍሪላንሰሮች አዲስ የገቢ ግብር ደንብ ወጣ (Ethiopia introduces new tax rules for digital content creators)",
   "የዴሞክራቲክ ሪፐብሊክ ኮንጎ ፕሬዝዳንት የሕዝበ ውሳኔ ሕግ አጸደቁ (DR Congo's Tshisekedi signs referendum law amid fears of third-term bid)",
@@ -2541,7 +2544,8 @@
   "ዓለም አቀፉ የወንጀል ፍርድ ቤት በአሜሪካ ወታደሮች ላይ ይደረግ የነበረውን ምርመራ አገደ (ICC stops probe into alleged crimes by US troops in Afghanistan)",
   "እስራኤል እርዳታ ባለመፍቀዷ በጋዛ በበረዶ ማዕበል የደረሰውን ጉዳት አብብሳለች ሲል ተመድ ገለጸ (UN says Israeli policies worsened deadly impact of Gaza winter storm)",
   "በኢትዮጵያ ባለፉት ሁለት ወራት በፖለቲካዊ ግጭቶች የ1,500 ሰዎች ሕይወት ማለፉን አክሌድ አስታወቀ (በኢትዮጵያ ባለፉት ሁለት ወራት ብቻ 'ፖለቲካዊ ግጭቶች' ለምን ጨመሩ?)",
-  "Donald Trump፣ Xi Jinping እና Vladimir Putin በቻይና የሶስትዮሽ ጉባኤ ሊያካሂዱ ነው (Trump, Xi and Putin to hold first three-way summit in China)"
+  "Donald Trump፣ Xi Jinping እና Vladimir Putin በቻይና የሶስትዮሽ ጉባኤ ሊያካሂዱ ነው (Trump, Xi and Putin to hold first three-way summit in China)",
+  "Microsoft በዓለም አቀፍ ደረጃ ተከስቶ የነበረው የቴክኒክ ብልሽት መፈታቱን አስታወቀ (Microsoft says services fully restored after for day-long global outage)"
  ],
  "posted_at": [
   1794471127.9724264,
@@ -2585,6 +2589,7 @@
   1794630930.691055,
   1794632937.4344635,
   1794632940.873992,
-  1794634570.2551682
+  1794634570.2551682,
+  1794640157.5943325
  ]
 }
