@@ -1,7 +1,5 @@
 {
  "seen": {
-  "4b48108cdd50fc27": 1793423277.184325,
-  "1a691c22363e8f3f": 1793423277.184325,
   "ea2c945b7a7b9083": 1793424894.306849,
   "3872e6092ab3b49e": 1793424894.306849,
   "87837e3103e31f5e": 1793424894.306849,
@@ -2496,11 +2494,12 @@
   "693b716a626dccf5": 1794625741.6542323,
   "b11d07c977f75c68": 1794629353.234611,
   "0565485a2f4c7db0": 1794629353.234611,
-  "a6e4c5c167427cf6": 1794630903.9903736
+  "a6e4c5c167427cf6": 1794630903.9903736,
+  "ed59f211c2eb77ba": 1794632897.3902056,
+  "9071426190bfa7e5": 1794632897.3902056,
+  "65fcd0e6cccff940": 1794632897.3902056
  },
  "recent_headlines": [
-  "የአሜሪካ ሴናተሮች በኢትዮጵያ ያለውን ግጭት ለማስቆም እርምጃ እንዲወሰድ ለMarco Rubio ደብዳቤ ላኩ (News: U.S. senators send second letter to Rubio urging action to avert widening conflict in Ethiopia)",
-  "ኢራን አሜሪካ ከበዛ ጥያቄ ከተቆጠበች ስምምነት ለማድረግ ዝግጁ መሆኗን ገለጸች (Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf)",
   "የአሜሪካ መልዕክተኞች ከVladimir Putin ጋር ለመወያየት ሞስኮ ገቡ (US envoys arrive in Moscow for Russia-Ukraine talks with Putin)",
   "ኢትዮጵያ እና ብሪታንያ በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ ተወያዩ (Ethiopia and UK Chart Path for Stronger Climate Partnership Towards COP32)",
   "በአሜሪካ ሚሲሲፒ ከ150 ዓመታት በኋላ የመጀመሪያው ጥቁር ሴናተር ተመረጡ (Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years)",
@@ -2538,11 +2537,11 @@
   "ናይጄሪያ የኢቦላ ተጋላጭ የነበሩ ሰዎችን የ21 ቀን ክትትል ያለተጨማሪ ስርጭት አጠናቀቀች (Nigeria ends 21-day Ebola contact monitoring with no secondary transmission)",
   "በአሜሪካ የቴክኒክ ችግር በማጋጠሙ ሁሉም የሀገር ውስጥ የበረራ እንቅስቃሴዎች ተቋረጡ (US grounds all flights after ‘communication issue’)",
   "የኢትዮጵያ ብሔራዊ ቡድን ሞዛምቢክን 1 ለ 0 በማሸነፍ የመጀመሪያ ድሉን አስመዘገበ (Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers)",
-  "ዓለም አቀፉ የወንጀል ፍርድ ቤት በአሜሪካ ወታደሮች ላይ ይደረግ የነበረውን ምርመራ አገደ (ICC stops probe into alleged crimes by US troops in Afghanistan)"
+  "ዓለም አቀፉ የወንጀል ፍርድ ቤት በአሜሪካ ወታደሮች ላይ ይደረግ የነበረውን ምርመራ አገደ (ICC stops probe into alleged crimes by US troops in Afghanistan)",
+  "እስራኤል እርዳታ ባለመፍቀዷ በጋዛ በበረዶ ማዕበል የደረሰውን ጉዳት አብብሳለች ሲል ተመድ ገለጸ (UN says Israeli policies worsened deadly impact of Gaza winter storm)",
+  "በኢትዮጵያ ባለፉት ሁለት ወራት በፖለቲካዊ ግጭቶች የ1,500 ሰዎች ሕይወት ማለፉን አክሌድ አስታወቀ (በኢትዮጵያ ባለፉት ሁለት ወራት ብቻ 'ፖለቲካዊ ግጭቶች' ለምን ጨመሩ?)"
  ],
  "posted_at": [
-  1794458181.6292787,
-  1794458184.9743602,
   1794460182.782784,
   1794461770.4464898,
   1794471127.9724264,
@@ -2583,6 +2582,8 @@
   1794602182.9218035,
   1794607783.3101037,
   1794609374.9959555,
-  1794630930.691055
+  1794630930.691055,
+  1794632937.4344635,
+  1794632940.873992
  ]
 }
