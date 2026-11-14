@@ -1,7 +1,5 @@
 {
  "seen": {
-  "a0a96d0b7807fba6": 1793455633.3416421,
-  "e17621abaaf00784": 1793455633.3416421,
   "98d5c11943d26681": 1793457323.7912865,
   "abb805c6e143249e": 1793457323.7912865,
   "9520d32b94a0ed8c": 1793457323.7912865,
@@ -2487,11 +2485,13 @@
   "3491db1fbfc7bafb": 1794663283.5965345,
   "e31efd1c74b2d921": 1794663283.5965345,
   "fcfe31d60db91474": 1794663283.5965345,
-  "c0d671d1f2984997": 1794663283.5965345
+  "c0d671d1f2984997": 1794663283.5965345,
+  "736a0f5916897aca": 1794665236.4531958,
+  "107dca81906808da": 1794665236.4531958,
+  "ba9784925dc4ba89": 1794665236.4531958,
+  "c215778e24f5364a": 1794665236.4531958
  },
  "recent_headlines": [
-  "ፕሬዝዳንት Donald Trump በኩባ ላይ ወታደራዊ እርምጃ ለመውሰድ ማሰባቸውን ገለጹ (Trump moots toppling Cuba authorities before leaving office)",
-  "ኢራን በባህሬን የሚገኘውን የአሜሪካ የቅድመ ማስጠንቀቂያ ራዳር መታሁ አለች (Iran says it targeted US radar site in Bahrain)",
   "በእስዋቲኒ ሕግ የማያከብሩ ንግዶች ውስጥ የኢትዮጵያ እና የሶማሊያ ዜጎች ከፍተኛውን ድርሻ መያዛቸው ተገለጸ (Daily_Brief: #Ethiopians, #Somalis make up 60–70% of non-compliant businesses in #Eswatini, minister says)",
   "ኢትዮጵያ የኮፕ32 ጉባኤን ለማዘጋጀት ከቱርክ ልምድ ለመውሰድ ተወያየች (Ethiopia Looks to Türkiye’s Experience Hosting COP31 to Strengthen Preparations for Addis Ababa Summit: PMO Press Secretary)",
   "ጠቅላይ ሚኒስትር ዐቢይ ለዜጎች ተመጣጣኝ መኖሪያ ቤቶችን የመገንባት ቃል እንደሚፈጸም አረጋገጡ (PM Abiy Says Relentless Efforts Underway to Fulfil Five-Year Promise of Building Decent, Affordable Homes for Ethiopians)",
@@ -2529,7 +2529,9 @@
   "ፊልድ ማርሻል ብርሃኑ ጁላ የጦር አዛዦች አርቲፊሻል ኢንተለጀንስን እንዲተገብሩ አሳሰቡ (ENDF Chief Tasks Military Commanders with Mastering AI and Emerging Technologies for Future Warfare)",
   "የሱዳን ጦር በኮርዶፋን ያሰመዘገበው ስኬት በRSF ላይ ያለውን የኃይል ሚዛን እያስቀየረ ነው ተባለ (How SAF successes in Sudan’s Kordofan could turn tide against the RSF)",
   "በዩክሬኑ ጦርነት ከ450 ሺህ በላይ ሩሲያውያን መሞታቸውን የወጡ መረጃዎች አመላከቱ (Russian casualties ‘reach 450,000’: What that means for the Ukraine war)",
-  "ጠቅላይ ሚኒስትር ዐቢይ በዳካር የላቀ ውጤት ላስመዘገቡ አትሌቶች የእንኳን ደስ አላችሁ መልዕክት አስተላለፉ (PM Abiy Salutes Ethiopia’s Young Champions for Dominating Dakar 2026 Youth Olympic Games)"
+  "ጠቅላይ ሚኒስትር ዐቢይ በዳካር የላቀ ውጤት ላስመዘገቡ አትሌቶች የእንኳን ደስ አላችሁ መልዕክት አስተላለፉ (PM Abiy Salutes Ethiopia’s Young Champions for Dominating Dakar 2026 Youth Olympic Games)",
+  "በዳካር የ2026 የወጣቶች ኦሊምፒክ በአንደኝነት ያጠናቀቀው የኢትዮጵያ ቡድን አዲስ አበባ ገባ (Ethiopia Welcomes Home Dakar 2026 Young Champions with Heroic Reception Following Historic First-Place Finish in Athletics)",
+  "የኢትዮጵያ ብሔራዊ ባንክ የዓለም አቀፉ እስላማዊ የአየር ንብረት ፋይናንስ ህብረት መስራች አባል ሆነ (National Bank of Ethiopia Joins Global Islamic Climate Finance Alliance as Founding Affiliate)"
  ],
  "posted_at": [
   1794492641.6578524,
@@ -2580,6 +2582,8 @@
   1794661660.331267,
   1794663350.5883698,
   1794663353.9981933,
-  1794663357.4365985
+  1794663357.4365985,
+  1794665303.688722,
+  1794665307.40324
  ]
 }
