@@ -1,9 +1,5 @@
 {
  "seen": {
-  "8fb7fa7dd90d6bbf": 1793419772.7770855,
-  "44a6ee6eced8c837": 1793419772.7770855,
-  "669a55fd100e0a16": 1793421314.4504926,
-  "cc79ab41537cb2cc": 1793421314.4504926,
   "4b48108cdd50fc27": 1793423277.184325,
   "1a691c22363e8f3f": 1793423277.184325,
   "ea2c945b7a7b9083": 1793424894.306849,
@@ -2499,10 +2495,10 @@
   "60405ac29d647af9": 1794625741.6542323,
   "693b716a626dccf5": 1794625741.6542323,
   "b11d07c977f75c68": 1794629353.234611,
-  "0565485a2f4c7db0": 1794629353.234611
+  "0565485a2f4c7db0": 1794629353.234611,
+  "a6e4c5c167427cf6": 1794630903.9903736
  },
  "recent_headlines": [
-  "በየመን በሁቲዎች እና በሳዑዲ በሚደገፉ ኃይሎች መካከል ያለው ውጊያ ተፋፋመ (Fighting intensifies in Yemen as Houthis deny targeting Mecca)",
   "የአሜሪካ ሴናተሮች በኢትዮጵያ ያለውን ግጭት ለማስቆም እርምጃ እንዲወሰድ ለMarco Rubio ደብዳቤ ላኩ (News: U.S. senators send second letter to Rubio urging action to avert widening conflict in Ethiopia)",
   "ኢራን አሜሪካ ከበዛ ጥያቄ ከተቆጠበች ስምምነት ለማድረግ ዝግጁ መሆኗን ገለጸች (Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf)",
   "የአሜሪካ መልዕክተኞች ከVladimir Putin ጋር ለመወያየት ሞስኮ ገቡ (US envoys arrive in Moscow for Russia-Ukraine talks with Putin)",
@@ -2541,10 +2537,10 @@
   "በሆርሙዝ ወሽመጥ የጋዝ መርከብ በፈንጂ ተመቶ እሳት መያዙን ኢራን አስታወቀች (IRGC says tanker caught fire after hitting mines in Strait of Hormuz)",
   "ናይጄሪያ የኢቦላ ተጋላጭ የነበሩ ሰዎችን የ21 ቀን ክትትል ያለተጨማሪ ስርጭት አጠናቀቀች (Nigeria ends 21-day Ebola contact monitoring with no secondary transmission)",
   "በአሜሪካ የቴክኒክ ችግር በማጋጠሙ ሁሉም የሀገር ውስጥ የበረራ እንቅስቃሴዎች ተቋረጡ (US grounds all flights after ‘communication issue’)",
-  "የኢትዮጵያ ብሔራዊ ቡድን ሞዛምቢክን 1 ለ 0 በማሸነፍ የመጀመሪያ ድሉን አስመዘገበ (Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers)"
+  "የኢትዮጵያ ብሔራዊ ቡድን ሞዛምቢክን 1 ለ 0 በማሸነፍ የመጀመሪያ ድሉን አስመዘገበ (Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers)",
+  "ዓለም አቀፉ የወንጀል ፍርድ ቤት በአሜሪካ ወታደሮች ላይ ይደረግ የነበረውን ምርመራ አገደ (ICC stops probe into alleged crimes by US troops in Afghanistan)"
  ],
  "posted_at": [
-  1794456610.0389333,
   1794458181.6292787,
   1794458184.9743602,
   1794460182.782784,
@@ -2586,6 +2582,7 @@
   1794602179.5708163,
   1794602182.9218035,
   1794607783.3101037,
-  1794609374.9959555
+  1794609374.9959555,
+  1794630930.691055
  ]
 }
