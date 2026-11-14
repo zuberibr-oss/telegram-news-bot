@@ -1,10 +1,5 @@
 {
  "seen": {
-  "98d5c11943d26681": 1793457323.7912865,
-  "abb805c6e143249e": 1793457323.7912865,
-  "9520d32b94a0ed8c": 1793457323.7912865,
-  "f5413c970746c6c3": 1793459254.9706428,
-  "c7fb8874c773b554": 1793459254.9706428,
   "71e3d38cad27ef3a": 1793460961.6810746,
   "557a94e11d78933b": 1793460961.6810746,
   "9610dbb8059dab79": 1793460961.6810746,
@@ -2493,10 +2488,13 @@
   "4132469867edf9f2": 1794666884.8805923,
   "f3e1d0678db49a61": 1794666884.8805923,
   "a75031cb43b8fc8d": 1794666884.8805923,
-  "bb6d895918027814": 1794666884.8805923
+  "bb6d895918027814": 1794666884.8805923,
+  "8e5e611347466e94": 1794668832.8551788,
+  "77d035705cd6126d": 1794668832.8551788,
+  "d935da2703e10b2c": 1794668832.8551788,
+  "885094090c8918a5": 1794668832.8551788
  },
  "recent_headlines": [
-  "በእስዋቲኒ ሕግ የማያከብሩ ንግዶች ውስጥ የኢትዮጵያ እና የሶማሊያ ዜጎች ከፍተኛውን ድርሻ መያዛቸው ተገለጸ (Daily_Brief: #Ethiopians, #Somalis make up 60–70% of non-compliant businesses in #Eswatini, minister says)",
   "ኢትዮጵያ የኮፕ32 ጉባኤን ለማዘጋጀት ከቱርክ ልምድ ለመውሰድ ተወያየች (Ethiopia Looks to Türkiye’s Experience Hosting COP31 to Strengthen Preparations for Addis Ababa Summit: PMO Press Secretary)",
   "ጠቅላይ ሚኒስትር ዐቢይ ለዜጎች ተመጣጣኝ መኖሪያ ቤቶችን የመገንባት ቃል እንደሚፈጸም አረጋገጡ (PM Abiy Says Relentless Efforts Underway to Fulfil Five-Year Promise of Building Decent, Affordable Homes for Ethiopians)",
   "በአዲስ አበባ በ21 ቦታዎች የ100 ሺህ መኖሪያ ቤቶች ግንባታ እየተካሄደ ነው (Addis Ababa Advances Construction of 100,000 Homes Across 21 Sites, Mayor Discloses)",
@@ -2535,7 +2533,8 @@
   "በዩክሬኑ ጦርነት ከ450 ሺህ በላይ ሩሲያውያን መሞታቸውን የወጡ መረጃዎች አመላከቱ (Russian casualties ‘reach 450,000’: What that means for the Ukraine war)",
   "ጠቅላይ ሚኒስትር ዐቢይ በዳካር የላቀ ውጤት ላስመዘገቡ አትሌቶች የእንኳን ደስ አላችሁ መልዕክት አስተላለፉ (PM Abiy Salutes Ethiopia’s Young Champions for Dominating Dakar 2026 Youth Olympic Games)",
   "በዳካር የ2026 የወጣቶች ኦሊምፒክ በአንደኝነት ያጠናቀቀው የኢትዮጵያ ቡድን አዲስ አበባ ገባ (Ethiopia Welcomes Home Dakar 2026 Young Champions with Heroic Reception Following Historic First-Place Finish in Athletics)",
-  "የኢትዮጵያ ብሔራዊ ባንክ የዓለም አቀፉ እስላማዊ የአየር ንብረት ፋይናንስ ህብረት መስራች አባል ሆነ (National Bank of Ethiopia Joins Global Islamic Climate Finance Alliance as Founding Affiliate)"
+  "የኢትዮጵያ ብሔራዊ ባንክ የዓለም አቀፉ እስላማዊ የአየር ንብረት ፋይናንስ ህብረት መስራች አባል ሆነ (National Bank of Ethiopia Joins Global Islamic Climate Finance Alliance as Founding Affiliate)",
+  "ዲሞክራሲያዊ ሪፐብሊክ ኮንጎ እና ሩዋንዳ በፈረንሳይኛ ተናጋሪ ሀገራት ድርጅት መሪነት ተዛተቱ (DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise)"
  ],
  "posted_at": [
   1794497797.6420093,
@@ -2586,6 +2585,7 @@
   1794663353.9981933,
   1794663357.4365985,
   1794665303.688722,
-  1794665307.40324
+  1794665307.40324,
+  1794668877.0612123
  ]
 }
