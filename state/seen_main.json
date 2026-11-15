@@ -1,7 +1,5 @@
 {
  "seen": {
-  "77401f3174187913": 1793495330.0552945,
-  "7e20d12283ea13a5": 1793497032.778627,
   "753fb345385f6331": 1793499132.2345545,
   "a0965255ceb3ff01": 1793500522.981563,
   "5698d6c7cdb064fc": 1793500522.981563,
@@ -2497,10 +2495,10 @@
   "c3e44101edf22606": 1794703809.647108,
   "8bc6d7b575b7599d": 1794703809.647108,
   "b584423d4cd64531": 1794703809.647108,
-  "ba8036847f20a479": 1794703809.647108
+  "ba8036847f20a479": 1794703809.647108,
+  "2a517c998ac0376d": 1794706620.6537318
  },
  "recent_headlines": [
-  "ኤኤምጂ እና ናይልብሪጅ ኢንቨስትመንት ባንኮች ከካፒታል ማርኬት ባለሥልጣን የሥራ ፈቃድ አገኙ (AMG Investment Bank secures licence, targets Ethiopia’s emerging capital market)",
   "በሆርሙዝ ወሽመጥ የጋዝ መርከብ በፈንጂ ተመቶ እሳት መያዙን ኢራን አስታወቀች (IRGC says tanker caught fire after hitting mines in Strait of Hormuz)",
   "ናይጄሪያ የኢቦላ ተጋላጭ የነበሩ ሰዎችን የ21 ቀን ክትትል ያለተጨማሪ ስርጭት አጠናቀቀች (Nigeria ends 21-day Ebola contact monitoring with no secondary transmission)",
   "በአሜሪካ የቴክኒክ ችግር በማጋጠሙ ሁሉም የሀገር ውስጥ የበረራ እንቅስቃሴዎች ተቋረጡ (US grounds all flights after ‘communication issue’)",
@@ -2539,10 +2537,10 @@
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የባንክ አገልግሎት የገንዘብ ዝውውር መመሪያ አወጣ (NBE sets 25 million birr minimum for Interest-Free Interbank market)",
   "26ኛው የታላቁ ሩጫ በኢትዮጵያ ውድድር 60 ሺህ ተሳታፊዎችን ይዞ ሊካሄድ ነው (Running beyond race day)",
   "የኢንዱስትሪ ዘርፍ ከግብርና በመበለጥ የኢትዮጵያ ሁለተኛው ትልቅ የኢኮኖሚ ዘርፍ ሊሆን ነው (Industry projected to overtake agriculture in Rebased GDP estimates)",
-  "የኢትዮጵያ የዋጋ ንረት እስከ 2030 ድረስ በሁለት ዲጂት ሊቀጥል እንደሚችል ጥናት አሳሰበ (Double-digit inflation could persist through 2030, study warns)"
+  "የኢትዮጵያ የዋጋ ንረት እስከ 2030 ድረስ በሁለት ዲጂት ሊቀጥል እንደሚችል ጥናት አሳሰበ (Double-digit inflation could persist through 2030, study warns)",
+  "በእስራኤል የአየር ጥቃት የሐማስ ከፍተኛ የጦር አዛዥ ተገደለ (Israeli air strike kills senior Hamas commander in Gaza)"
  ],
  "posted_at": [
-  1794532130.853146,
   1794535880.3243034,
   1794539416.530794,
   1794540937.1178179,
@@ -2598,6 +2596,7 @@
   1794699385.740149,
   1794699389.0797975,
   1794699392.4449012,
-  1794699395.7800546
+  1794699395.7800546,
+  1794706649.154559
  ]
 }
