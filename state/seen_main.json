@@ -1,10 +1,5 @@
 {
  "seen": {
-  "4d74417300bc0826": 1793529305.8170125,
-  "ab483c00a356b041": 1793529305.8170125,
-  "ddabd37b88bd9bd2": 1793529305.8170125,
-  "9deaf18633a1266e": 1793529305.8170125,
-  "183699115946a310": 1793529305.8170125,
   "32b55b7a02cfaffc": 1793531225.7183018,
   "5caee23687c61d07": 1793531225.7183018,
   "442752833ad93ff0": 1793532899.0766373,
@@ -2487,10 +2482,11 @@
   "342865ed7bf8bdcf": 1794735295.0374014,
   "8a777dbf7e8cc9f8": 1794737255.8108916,
   "d4798078fbed3aec": 1794737255.8108916,
-  "7409af6605bdc93f": 1794737255.8108916
+  "7409af6605bdc93f": 1794737255.8108916,
+  "ef43bd7495021d59": 1794738903.7593744,
+  "928ab71275734722": 1794738903.7593744
  },
  "recent_headlines": [
-  "Microsoft በዓለም አቀፍ ደረጃ ተከስቶ የነበረው የቴክኒክ ብልሽት መፈታቱን አስታወቀ (Microsoft says services fully restored after for day-long global outage)",
   "በሆርሙዝ ወሽመጥ በደረሱ ጥቃቶች 25 የባህር ላይ ሰራተኞች መሞታቸውን ተመድ አስታወቀ (UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran)",
   "ዩናይትድ ስቴትስ የኩፍኝ በሽታን ሙሉ በሙሉ የማጥፋት ደረጃዋን አጣች (US loses measles-free status as two more deaths reported)",
   "ፕሬዝዳንት ታዬ አፅቀሥላሴ የቀድሞ የምክር ቤት አፈ ጉባኤዎችን ጨምሮ 32 አምባሳደሮችን ሾሙ (🇪🇹 Former Parliamentary Speakers, Ministers among 32 Appointed as Ethiopian Ambassadors)",
@@ -2529,10 +2525,10 @@
   "የኢትዮጵያ ብሔራዊ ባንክ ለከወለድ ነፃ ባንኮች የፈሳሽ ገንዘብ ማኔጅመንት መሳሪያዎችን ፈቀደ (Governor Eyob Opens Liquidity Tools to Interest-Free Banks)",
   "የሳዑዲ መሪነት ህብረት በሪያድ ላይ የተቃጣ ባሊስቲክ ሚሳይል እና ድሮን ጥቃቶችን አከሸፈ (Saudi-led coalition intercepts two missiles, two drones in Riyadh)",
   "እስራኤል ለኢትዮጵያውያን እና ሌሎች አፍሪካውያን ስደተኞች ሀገሪቷን ለቀው እንዲወጡ 3,500 ዶላር አቀረበች (Daily_Brief: #Israel offers #Ethiopians, other #African migrants $3,500 and free flights to leave by December 31)",
-  "ኢራን በባህሬን ላይ የሰነዘረቻቸውን ጥቃቶች ማክሸፏን ሀገሪቱ አስታወቀች (Iran war live: Bahrain targeted as Gulf nations warned against US support)"
+  "ኢራን በባህሬን ላይ የሰነዘረቻቸውን ጥቃቶች ማክሸፏን ሀገሪቱ አስታወቀች (Iran war live: Bahrain targeted as Gulf nations warned against US support)",
+  "በሱዳን የኃይል ማመንጫዎች ላይ የተፈጸሙ ጥቃቶች ከተሞችን በጨለማ ውስጥ ዘፈቁ (Drone attacks on power stations plunge Sudan’s cities into darkness)"
  ],
  "posted_at": [
-  1794564596.9754233,
   1794568141.9470952,
   1794571921.5900278,
   1794580558.0933273,
@@ -2589,6 +2585,7 @@
   1794713772.5915327,
   1794713776.0187688,
   1794720957.5742095,
-  1794735317.735559
+  1794735317.735559,
+  1794738929.4264784
  ]
 }
