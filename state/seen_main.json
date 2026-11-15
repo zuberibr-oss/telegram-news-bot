@@ -1,10 +1,5 @@
 {
  "seen": {
-  "3e09c18ecac0fb1a": 1793504130.4142904,
-  "aba1ae1d77cb6255": 1793504130.4142904,
-  "cbb315cd347f4140": 1793504130.4142904,
-  "dd95b537a46b7bae": 1793504130.4142904,
-  "c943d0b11bcd551e": 1793504130.4142904,
   "29f4843a61b237ff": 1793506186.8073115,
   "a415957515c0d68e": 1793506186.8073115,
   "026ef2e413c22f8f": 1793506186.8073115,
@@ -2493,11 +2488,15 @@
   "cb502dc589095603": 1794712227.478591,
   "11e6bfc314130998": 1794712227.478591,
   "efe26e55e3e41264": 1794712227.478591,
-  "d1facb333ab9d082": 1794712227.478591
+  "d1facb333ab9d082": 1794712227.478591,
+  "7660e802256e4467": 1794713710.782234,
+  "36f0c06f4e48c98a": 1794713710.782234,
+  "2c1c5c4111c5a581": 1794713710.782234,
+  "8b3650b59cfbf8bc": 1794713710.782234,
+  "84e0751547a64cc9": 1794713710.782234,
+  "677bfc03f5d5fefc": 1794713710.782234
  },
  "recent_headlines": [
-  "ዓለም አቀፉ የወንጀል ፍርድ ቤት በአሜሪካ ወታደሮች ላይ ይደረግ የነበረውን ምርመራ አገደ (ICC stops probe into alleged crimes by US troops in Afghanistan)",
-  "እስራኤል እርዳታ ባለመፍቀዷ በጋዛ በበረዶ ማዕበል የደረሰውን ጉዳት አብብሳለች ሲል ተመድ ገለጸ (UN says Israeli policies worsened deadly impact of Gaza winter storm)",
   "በኢትዮጵያ ባለፉት ሁለት ወራት በፖለቲካዊ ግጭቶች የ1,500 ሰዎች ሕይወት ማለፉን አክሌድ አስታወቀ (በኢትዮጵያ ባለፉት ሁለት ወራት ብቻ 'ፖለቲካዊ ግጭቶች' ለምን ጨመሩ?)",
   "Donald Trump፣ Xi Jinping እና Vladimir Putin በቻይና የሶስትዮሽ ጉባኤ ሊያካሂዱ ነው (Trump, Xi and Putin to hold first three-way summit in China)",
   "Microsoft በዓለም አቀፍ ደረጃ ተከስቶ የነበረው የቴክኒክ ብልሽት መፈታቱን አስታወቀ (Microsoft says services fully restored after for day-long global outage)",
@@ -2535,10 +2534,11 @@
   "በAmhara Bank ላይ የ200 ሚሊዮን ብር የሐሰተኛ ተሽከርካሪዎች ብድር ክስ ተመሠረተ (New Amhara Bank Case Alleges 200m Br Loan on Phantom Trucks)",
   "የኢትዮጵያ ብሔራዊ ባንክ የባንክ ሥራ አስፈፃሚዎች የርዕዮተ ዓለም ሥልጠና እንዲወስዱ አዘዘ (Bank Chiefs to Head to Ideological Classes, Summoned by the Regulator)",
   "የዋጋ ንረት ቁጥሮች ቢቀንሱም የቤተሰብ ወጪ አሁንም አልቀነሰም (The Numbers on Inflation Ease, Households Still Pay More)",
-  "የኢትዮጵያ አየር መንገድ የአየር ኃይል ጄነራል የነበሩትን አመራር በፓርቲ አመራር ተካ (Ethiopian Airlines Swaps an Air Force General for a Party Leader)"
+  "የኢትዮጵያ አየር መንገድ የአየር ኃይል ጄነራል የነበሩትን አመራር በፓርቲ አመራር ተካ (Ethiopian Airlines Swaps an Air Force General for a Party Leader)",
+  "የኢትዮጵያ ብሔራዊ ባንክ ለከወለድ ነፃ ባንኮች የፈሳሽ ገንዘብ ማኔጅመንት መሳሪያዎችን ፈቀደ (Governor Eyob Opens Liquidity Tools to Interest-Free Banks)",
+  "የሳዑዲ መሪነት ህብረት በሪያድ ላይ የተቃጣ ባሊስቲክ ሚሳይል እና ድሮን ጥቃቶችን አከሸፈ (Saudi-led coalition intercepts two missiles, two drones in Riyadh)"
  ],
  "posted_at": [
-  1794540937.1178179,
   1794557471.148451,
   1794558956.6539843,
   1794561016.2116954,
@@ -2596,6 +2596,8 @@
   1794712276.9154732,
   1794712280.2495432,
   1794712283.624045,
-  1794712286.9471116
+  1794712286.9471116,
+  1794713772.5915327,
+  1794713776.0187688
  ]
 }
