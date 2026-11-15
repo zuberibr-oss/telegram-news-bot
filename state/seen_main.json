@@ -1,11 +1,5 @@
 {
  "seen": {
-  "ec636af93e740086": 1793525708.2030218,
-  "6ac8711b2d45ea56": 1793525708.2030218,
-  "bd8f525c990016ce": 1793525708.2030218,
-  "1e8970069d53c91e": 1793525708.2030218,
-  "8a876b27f7dd2d5b": 1793525708.2030218,
-  "d2928cbb434bafbf": 1793525708.2030218,
   "9a15e3e3356ef471": 1793527657.256525,
   "60ed958f61855482": 1793527657.256525,
   "aef376e422ea111f": 1793527657.256525,
@@ -2498,10 +2492,12 @@
   "d2836f4b129fabd5": 1794731711.7541177,
   "71ed9eae7a88f1d2": 1794731711.7541177,
   "6e7024a461b46744": 1794731711.7541177,
-  "aacf1c79132883b9": 1794733718.4540153
+  "aacf1c79132883b9": 1794733718.4540153,
+  "4fd94893d1b2def3": 1794735295.0374014,
+  "7e0c3e2314114fd9": 1794735295.0374014,
+  "342865ed7bf8bdcf": 1794735295.0374014
  },
  "recent_headlines": [
-  "Donald Trump፣ Xi Jinping እና Vladimir Putin በቻይና የሶስትዮሽ ጉባኤ ሊያካሂዱ ነው (Trump, Xi and Putin to hold first three-way summit in China)",
   "Microsoft በዓለም አቀፍ ደረጃ ተከስቶ የነበረው የቴክኒክ ብልሽት መፈታቱን አስታወቀ (Microsoft says services fully restored after for day-long global outage)",
   "በሆርሙዝ ወሽመጥ በደረሱ ጥቃቶች 25 የባህር ላይ ሰራተኞች መሞታቸውን ተመድ አስታወቀ (UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran)",
   "ዩናይትድ ስቴትስ የኩፍኝ በሽታን ሙሉ በሙሉ የማጥፋት ደረጃዋን አጣች (US loses measles-free status as two more deaths reported)",
@@ -2540,10 +2536,10 @@
   "የኢትዮጵያ አየር መንገድ የአየር ኃይል ጄነራል የነበሩትን አመራር በፓርቲ አመራር ተካ (Ethiopian Airlines Swaps an Air Force General for a Party Leader)",
   "የኢትዮጵያ ብሔራዊ ባንክ ለከወለድ ነፃ ባንኮች የፈሳሽ ገንዘብ ማኔጅመንት መሳሪያዎችን ፈቀደ (Governor Eyob Opens Liquidity Tools to Interest-Free Banks)",
   "የሳዑዲ መሪነት ህብረት በሪያድ ላይ የተቃጣ ባሊስቲክ ሚሳይል እና ድሮን ጥቃቶችን አከሸፈ (Saudi-led coalition intercepts two missiles, two drones in Riyadh)",
-  "እስራኤል ለኢትዮጵያውያን እና ሌሎች አፍሪካውያን ስደተኞች ሀገሪቷን ለቀው እንዲወጡ 3,500 ዶላር አቀረበች (Daily_Brief: #Israel offers #Ethiopians, other #African migrants $3,500 and free flights to leave by December 31)"
+  "እስራኤል ለኢትዮጵያውያን እና ሌሎች አፍሪካውያን ስደተኞች ሀገሪቷን ለቀው እንዲወጡ 3,500 ዶላር አቀረበች (Daily_Brief: #Israel offers #Ethiopians, other #African migrants $3,500 and free flights to leave by December 31)",
+  "ኢራን በባህሬን ላይ የሰነዘረቻቸውን ጥቃቶች ማክሸፏን ሀገሪቱ አስታወቀች (Iran war live: Bahrain targeted as Gulf nations warned against US support)"
  ],
  "posted_at": [
-  1794561016.2116954,
   1794562537.1505747,
   1794564596.9754233,
   1794568141.9470952,
@@ -2601,6 +2597,7 @@
   1794712286.9471116,
   1794713772.5915327,
   1794713776.0187688,
-  1794720957.5742095
+  1794720957.5742095,
+  1794735317.735559
  ]
 }
