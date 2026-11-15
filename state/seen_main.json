@@ -1,16 +1,5 @@
 {
  "seen": {
-  "a0965255ceb3ff01": 1793500522.981563,
-  "5698d6c7cdb064fc": 1793500522.981563,
-  "cc1f83a51759d09b": 1793500522.981563,
-  "bea8980b07dd4d19": 1793502673.9892101,
-  "5f7836bd9ea831e9": 1793502673.9892101,
-  "9f37a141cfdeeaea": 1793502673.9892101,
-  "5246ca51cdfaabc4": 1793502673.9892101,
-  "612011d80de84f35": 1793502673.9892101,
-  "65a202f8020cee0a": 1793502673.9892101,
-  "7c4925a6c8224a68": 1793502673.9892101,
-  "94c78b4213657445": 1793502673.9892101,
   "3e09c18ecac0fb1a": 1793504130.4142904,
   "aba1ae1d77cb6255": 1793504130.4142904,
   "cbb315cd347f4140": 1793504130.4142904,
@@ -2499,13 +2488,14 @@
   "d74e862e67e22b93": 1794708678.0093,
   "b614ce17dec90cc6": 1794708678.0093,
   "a79e11fe7dac6556": 1794708678.0093,
-  "a6e44a5109bc8649": 1794708678.0093
+  "a6e44a5109bc8649": 1794708678.0093,
+  "e7dd91c31b75445d": 1794712227.478591,
+  "cb502dc589095603": 1794712227.478591,
+  "11e6bfc314130998": 1794712227.478591,
+  "efe26e55e3e41264": 1794712227.478591,
+  "d1facb333ab9d082": 1794712227.478591
  },
  "recent_headlines": [
-  "በሆርሙዝ ወሽመጥ የጋዝ መርከብ በፈንጂ ተመቶ እሳት መያዙን ኢራን አስታወቀች (IRGC says tanker caught fire after hitting mines in Strait of Hormuz)",
-  "ናይጄሪያ የኢቦላ ተጋላጭ የነበሩ ሰዎችን የ21 ቀን ክትትል ያለተጨማሪ ስርጭት አጠናቀቀች (Nigeria ends 21-day Ebola contact monitoring with no secondary transmission)",
-  "በአሜሪካ የቴክኒክ ችግር በማጋጠሙ ሁሉም የሀገር ውስጥ የበረራ እንቅስቃሴዎች ተቋረጡ (US grounds all flights after ‘communication issue’)",
-  "የኢትዮጵያ ብሔራዊ ቡድን ሞዛምቢክን 1 ለ 0 በማሸነፍ የመጀመሪያ ድሉን አስመዘገበ (Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers)",
   "ዓለም አቀፉ የወንጀል ፍርድ ቤት በአሜሪካ ወታደሮች ላይ ይደረግ የነበረውን ምርመራ አገደ (ICC stops probe into alleged crimes by US troops in Afghanistan)",
   "እስራኤል እርዳታ ባለመፍቀዷ በጋዛ በበረዶ ማዕበል የደረሰውን ጉዳት አብብሳለች ሲል ተመድ ገለጸ (UN says Israeli policies worsened deadly impact of Gaza winter storm)",
   "በኢትዮጵያ ባለፉት ሁለት ወራት በፖለቲካዊ ግጭቶች የ1,500 ሰዎች ሕይወት ማለፉን አክሌድ አስታወቀ (በኢትዮጵያ ባለፉት ሁለት ወራት ብቻ 'ፖለቲካዊ ግጭቶች' ለምን ጨመሩ?)",
@@ -2541,10 +2531,13 @@
   "26ኛው የታላቁ ሩጫ በኢትዮጵያ ውድድር 60 ሺህ ተሳታፊዎችን ይዞ ሊካሄድ ነው (Running beyond race day)",
   "የኢንዱስትሪ ዘርፍ ከግብርና በመበለጥ የኢትዮጵያ ሁለተኛው ትልቅ የኢኮኖሚ ዘርፍ ሊሆን ነው (Industry projected to overtake agriculture in Rebased GDP estimates)",
   "የኢትዮጵያ የዋጋ ንረት እስከ 2030 ድረስ በሁለት ዲጂት ሊቀጥል እንደሚችል ጥናት አሳሰበ (Double-digit inflation could persist through 2030, study warns)",
-  "በእስራኤል የአየር ጥቃት የሐማስ ከፍተኛ የጦር አዛዥ ተገደለ (Israeli air strike kills senior Hamas commander in Gaza)"
+  "በእስራኤል የአየር ጥቃት የሐማስ ከፍተኛ የጦር አዛዥ ተገደለ (Israeli air strike kills senior Hamas commander in Gaza)",
+  "በAmhara Bank ላይ የ200 ሚሊዮን ብር የሐሰተኛ ተሽከርካሪዎች ብድር ክስ ተመሠረተ (New Amhara Bank Case Alleges 200m Br Loan on Phantom Trucks)",
+  "የኢትዮጵያ ብሔራዊ ባንክ የባንክ ሥራ አስፈፃሚዎች የርዕዮተ ዓለም ሥልጠና እንዲወስዱ አዘዘ (Bank Chiefs to Head to Ideological Classes, Summoned by the Regulator)",
+  "የዋጋ ንረት ቁጥሮች ቢቀንሱም የቤተሰብ ወጪ አሁንም አልቀነሰም (The Numbers on Inflation Ease, Households Still Pay More)",
+  "የኢትዮጵያ አየር መንገድ የአየር ኃይል ጄነራል የነበሩትን አመራር በፓርቲ አመራር ተካ (Ethiopian Airlines Swaps an Air Force General for a Party Leader)"
  ],
  "posted_at": [
-  1794539416.530794,
   1794540937.1178179,
   1794557471.148451,
   1794558956.6539843,
@@ -2599,6 +2592,10 @@
   1794699389.0797975,
   1794699392.4449012,
   1794699395.7800546,
-  1794706649.154559
+  1794706649.154559,
+  1794712276.9154732,
+  1794712280.2495432,
+  1794712283.624045,
+  1794712286.9471116
  ]
 }
