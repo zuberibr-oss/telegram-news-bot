@@ -1,8 +1,5 @@
 {
  "seen": {
-  "75d75162ee60db48": 1793538456.3080122,
-  "0d0c4610961739de": 1793538456.3080122,
-  "8aa9c1d439289c5c": 1793538456.3080122,
   "102747546bd760a3": 1793540105.9489858,
   "ca217d4515e11168": 1793540105.9489858,
   "8ef31ac0b2813355": 1793542050.1308277,
@@ -2490,10 +2487,13 @@
   "627a02e31d8f7833": 1794746103.6620553,
   "a52b835b68a604d1": 1794746103.6620553,
   "05a113f61a144210": 1794746103.6620553,
-  "2ff1d36c93894d10": 1794746103.6620553
+  "2ff1d36c93894d10": 1794746103.6620553,
+  "b35324219ee06966": 1794748047.9697268,
+  "beb1a937d0fcc3d7": 1794748047.9697268,
+  "c90270100dae58c3": 1794748047.9697268,
+  "5f6ea1f46f746b3b": 1794748047.9697268
  },
  "recent_headlines": [
-  "ዩናይትድ ስቴትስ የኩፍኝ በሽታን ሙሉ በሙሉ የማጥፋት ደረጃዋን አጣች (US loses measles-free status as two more deaths reported)",
   "ፕሬዝዳንት ታዬ አፅቀሥላሴ የቀድሞ የምክር ቤት አፈ ጉባኤዎችን ጨምሮ 32 አምባሳደሮችን ሾሙ (🇪🇹 Former Parliamentary Speakers, Ministers among 32 Appointed as Ethiopian Ambassadors)",
   "የገላን ሁለገብ ወደብ አዲሱ የኢትዮጵያ መልቲሞዳል ሎጂስቲክስ ማዕከል ሆኖ ተፈቀደ (Galaan Multipurpose Port approved as Ethiopia’s new multimodal logistics hub)",
   "የኢትዮጵያ ኢንቨስትመንት ሆልዲንግስ እና CCI Global የ26 ሚሊዮን ዶላር ስምምነት ተፈራረሙ (​EIH, CCI Global sign $26 million deal to develop Ethiopia’s BPO industry)",
@@ -2532,7 +2532,8 @@
   "እስራኤል ለኢትዮጵያውያን እና ሌሎች አፍሪካውያን ስደተኞች ሀገሪቷን ለቀው እንዲወጡ 3,500 ዶላር አቀረበች (Daily_Brief: #Israel offers #Ethiopians, other #African migrants $3,500 and free flights to leave by December 31)",
   "ኢራን በባህሬን ላይ የሰነዘረቻቸውን ጥቃቶች ማክሸፏን ሀገሪቱ አስታወቀች (Iran war live: Bahrain targeted as Gulf nations warned against US support)",
   "በሱዳን የኃይል ማመንጫዎች ላይ የተፈጸሙ ጥቃቶች ከተሞችን በጨለማ ውስጥ ዘፈቁ (Drone attacks on power stations plunge Sudan’s cities into darkness)",
-  "ኢራን በባህሬን በሚገኝ የአሜሪካ የራዳር ጣቢያ ላይ የድሮን ጥቃት መፈጸሟን ገለጸች (Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes)"
+  "ኢራን በባህሬን በሚገኝ የአሜሪካ የራዳር ጣቢያ ላይ የድሮን ጥቃት መፈጸሟን ገለጸች (Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes)",
+  "በኬንያ ለሚገኙ ከ50 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እርዳታ ለማቅረብ መቸገሩ ተገለጸ (Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya)"
  ],
  "posted_at": [
   1794580558.0933273,
@@ -2591,6 +2592,7 @@
   1794720957.5742095,
   1794735317.735559,
   1794738929.4264784,
-  1794746141.938663
+  1794746141.938663,
+  1794748075.0957232
  ]
 }
