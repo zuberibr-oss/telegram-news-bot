@@ -1,14 +1,5 @@
 {
  "seen": {
-  "4284501323c6b88e": 1793660826.2758746,
-  "42ba51301fe23cbe": 1793660826.2758746,
-  "e4bee4e848feba46": 1793660826.2758746,
-  "c75df9e7b7ca0c1a": 1793660826.2758746,
-  "fbde788e56617efc": 1793660826.2758746,
-  "8503b2e549081fc4": 1793660826.2758746,
-  "c4ec75e36e2983f5": 1793660826.2758746,
-  "27b22983dc5b9745": 1793660826.2758746,
-  "c6bf0fc0532c38d0": 1793660826.2758746,
   "50cb15c92cf6e832": 1793662449.3155656,
   "d06083cd5af67343": 1793662449.3155656,
   "b22842d6a0ac4bfc": 1793662449.3155656,
@@ -1481,10 +1472,17 @@
   "688c18601462eb1a": 1794868459.202167,
   "c8d7c5b85cc31ab7": 1794868459.202167,
   "8958e1d872fd4b3f": 1794868459.202167,
-  "c424e16c11061d27": 1794868459.202167
+  "c424e16c11061d27": 1794868459.202167,
+  "22b19b853fe425c6": 1794870372.9392643,
+  "7dfe45d8d6cdc2ec": 1794870372.9392643,
+  "b33a8321f6451525": 1794870372.9392643,
+  "3c4dba2a3e73b207": 1794870372.9392643,
+  "61a9b9d6f1347c82": 1794870372.9392643,
+  "0b4b6fc96cec34a3": 1794870372.9392643,
+  "236fd5dc486f28ff": 1794870372.9392643,
+  "d78d7cd79f339eaf": 1794870372.9392643
  },
  "recent_headlines": [
-  "የMTN Group የሶስተኛው ሩብ ዓመት ትርፍ በ23 በመቶ አደገ (MTN Group Earnings Outpace Revenue by 22.9% as Nigeria and Ghana Drive Q3 Growth)",
   "ኢትዮጵያ የዲጂታል ፋይናንስ እድገትን ያካተተ አዲስ የ GDP ስሌት ይፋ አደረገች (Ethiopia’s GDP Rebase Captures Growth in Digital Financial Services)",
   "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን USD የውጭ ምንዛሬ በሐራጅ ሊሸጥ ነው (NBE to Auction 140 Million US Dollars as Bank Demand Continues to Exceed Supply)",
   "የደቡብ አፍሪካው ፊንቴክ Yoco 100 ሚሊዮን ዶላር የብድር ፈንድ አገኘ (Yoco secures $100 million credit to fuel its merchant lending expansion)",
@@ -1523,7 +1521,8 @@
   "NGX Group የናይሮቢ ሰነደ መዋለ ንዋይ ገበያን 10 በመቶ አክሲዮን ገዛ (Nigerian Exchange takes 10% of NSE in East Africa push)",
   "የኢትዮጵያ ኢ-ሞቢሊቲ ስታርታፕ Dodai የ16 ሚሊዮን USD Series A የኢንቨስትመንት ዙር አጠናቀቀ (Tokyo Gas Backs Ethiopia’s Dodai As Electric Motorbike Startup Closes $16M Series A)",
   "Paystack የአፍሪካ ክፍያዎችን ከ Solana ብሎክቼይን የሚያገናኝ አዲስ ፕላትፎርም ይፋ አደረገ (Paystack is making a play for Nigeria’s onchain payment infrastructure)",
-  "Vodacom የ Safaricomን የንግድ ስም ዋጋ 88 ቢሊዮን የኬንያ ሽልንግ እንደሆነ ገመተ (Vodacom values Safaricom brand at Sh88bn in buyout)"
+  "Vodacom የ Safaricomን የንግድ ስም ዋጋ 88 ቢሊዮን የኬንያ ሽልንግ እንደሆነ ገመተ (Vodacom values Safaricom brand at Sh88bn in buyout)",
+  "የSafaricom የግማሽ ዓመት ትርፍ በ35.9 በመቶ አደገ፤ በኢትዮጵያ የነበረው ኪሳራ ቀነሰ (Safaricom stock: H1 net income rises 35.9% as Ethiopia losses shrink)"
  ],
  "posted_at": [
   1794737255.5551631,
@@ -1534,6 +1533,7 @@
   1794837074.5794995,
   1794863281.7742152,
   1794864950.31309,
-  1794866905.1118133
+  1794866905.1118133,
+  1794870463.834167
  ]
 }
