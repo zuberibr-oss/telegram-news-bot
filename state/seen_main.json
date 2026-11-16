@@ -1,8 +1,5 @@
 {
  "seen": {
-  "d0531011f8934594": 1793657395.3143854,
-  "b52aaa50aefecb68": 1793657395.3143854,
-  "4718dba256b4accb": 1793657395.3143854,
   "46f4caab3756b3e2": 1793660940.720841,
   "dd38799f35d3c0db": 1793660940.720841,
   "a46eb0aab22484fe": 1793662565.871427,
@@ -2534,10 +2531,12 @@
   "3e1c5a8b82d0af62": 1794866905.3132908,
   "554e856a967d8bd7": 1794866905.3132908,
   "c5338a3847615543": 1794866905.3132908,
-  "5377ba18c6d352d1": 1794866905.3132908
+  "5377ba18c6d352d1": 1794866905.3132908,
+  "fe446760ef90e820": 1794868567.4606678,
+  "f63110ef4da89f79": 1794868567.4606678,
+  "44bc2eb8ef3a36e7": 1794868567.4606678
  },
  "recent_headlines": [
-  "የኢትዮጵያ የዋጋ ንረት እስከ 2030 ድረስ በሁለት ዲጂት ሊቀጥል እንደሚችል ጥናት አሳሰበ (Double-digit inflation could persist through 2030, study warns)",
   "በእስራኤል የአየር ጥቃት የሐማስ ከፍተኛ የጦር አዛዥ ተገደለ (Israeli air strike kills senior Hamas commander in Gaza)",
   "በAmhara Bank ላይ የ200 ሚሊዮን ብር የሐሰተኛ ተሽከርካሪዎች ብድር ክስ ተመሠረተ (New Amhara Bank Case Alleges 200m Br Loan on Phantom Trucks)",
   "የኢትዮጵያ ብሔራዊ ባንክ የባንክ ሥራ አስፈፃሚዎች የርዕዮተ ዓለም ሥልጠና እንዲወስዱ አዘዘ (Bank Chiefs to Head to Ideological Classes, Summoned by the Regulator)",
@@ -2576,10 +2575,10 @@
   "የብልፅግና ፓርቲ እና የዩናይትድ ሩሲያ ፓርቲ በሞስኮ ስትራቴጂካዊ የትብብር ስምምነት ተፈራረሙ (Prosperity Party, United Russia Formalize Strategic Partnership to Deepen Ethiopia–Russia Political Cooperation)",
   "ሳዑዲ ዓረቢያ በየመን የሚገኙ የህብረቱ ኃይሎችን አዛዥ ከኃላፊነት አነሳች (Saudi Arabia dismisses commander of coalition forces fighting Houthis)",
   "በምዕራብ ኮርዶፋን በሱዳን ጦር በተፈጸመ የአየር ጥቃት 13 ሰዎች ተገደሉ (Sudanese army air attack kills 13 in western Sudan: Rights group)",
-  "በሳዑዲ የሚገኙ ወጣቶች የሞት ፍርድ ስጋት እንዳለባቸው የትግራይ ጊዜያዊ አስተዳደር ገለጸ (Xiinxala Oduu: Dargaggoonni Tigraay Sa’udi Arabiyaa keessatti sodaa adabbii du’aa keessa jiru; Bulchiinsi Yeroo Tigraay mootummaan federaalaa akka gidduu seenu gaafate)"
+  "በሳዑዲ የሚገኙ ወጣቶች የሞት ፍርድ ስጋት እንዳለባቸው የትግራይ ጊዜያዊ አስተዳደር ገለጸ (Xiinxala Oduu: Dargaggoonni Tigraay Sa’udi Arabiyaa keessatti sodaa adabbii du’aa keessa jiru; Bulchiinsi Yeroo Tigraay mootummaan federaalaa akka gidduu seenu gaafate)",
+  "Nvidia የቀድሞው ዋና ሥራ አስፈጻሚ Jensen Huang እንዲመለሱ የቀረበውን ጥያቄ ውድቅ አደረገ (Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO)"
  ],
  "posted_at": [
-  1794695775.4281719,
   1794699385.740149,
   1794699389.0797975,
   1794699392.4449012,
@@ -2622,6 +2621,7 @@
   1794846941.588036,
   1794859787.3616073,
   1794864994.7918596,
-  1794866936.6973977
+  1794866936.6973977,
+  1794868593.107312
  ]
 }
