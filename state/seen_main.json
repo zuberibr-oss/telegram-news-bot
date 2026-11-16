@@ -1,6 +1,5 @@
 {
  "seen": {
-  "1505c659f2813556": 1793626553.9368918,
   "93c10441f38f58cf": 1793628644.0780036,
   "d5f3318d7cc62b6e": 1793628644.0780036,
   "63d4f24edae0fe6a": 1793628644.0780036,
@@ -2520,12 +2519,19 @@
   "e78a7833101ad0f2": 1794835199.8885868,
   "681a937340ca7366": 1794835199.8885868,
   "b14f36af07827ea1": 1794835199.8885868,
-  "f4755d81cddd01b2": 1794835199.8885868
+  "f4755d81cddd01b2": 1794835199.8885868,
+  "42ba51301fe23cbe": 1794837074.8398738,
+  "cb61427b31f8f332": 1794837074.8398738,
+  "2276ee0cebafc291": 1794837074.8398738,
+  "5be025c4da1d2354": 1794837074.8398738,
+  "95862a4609dff1fa": 1794837074.8398738,
+  "67061e2823f40e53": 1794837074.8398738,
+  "99e74108ca3cb1dc": 1794837074.8398738,
+  "c424e16c11061d27": 1794837074.8398738,
+  "f7415e6cd75c06aa": 1794837074.8398738,
+  "da3cef9681158d71": 1794837074.8398738
  },
  "recent_headlines": [
-  "ናይጄሪያ ዜጎቿ በአዲስ አበባ አየር መንገድ በኩል በሚያደርጉት ጉዞ ጥንቃቄ እንዲያደርጉ አሳሰበች (Nigeria cautions against travel via Ethiopia's main airport due to altitude)",
-  "የአውሮፓ ህብረት እስራኤል ወደ ጋዛ የሚገባውን የሰብአዊ እርዳታ በአስቸኳይ እንድታስገባ ጠየቀ (EU calls for immediate humanitarian access to Gaza)",
-  "ኢትዮጵያ በመጀመሪያው ሩብ ዓመት የ76.62 ሚሊዮን ዶላር የኤሌክትሪክ ኃይል ላከች (EEP’s power export revenue reaches $76.62 million in the first quarter)",
   "በአሜሪካ የሁሉም በረራዎች መቋረጥ በኮፐር ገመድ ማሻሻያ ችግር የተከሰተ መሆኑ ተገለጸ (Copper wire upgrade caused nationwide flight suspension, US transport secretary says)",
   "ከ3 ሚሊዮን ብር በላይ የኮንትሮባንድ ዕቃ የጫኑ ተሽከርካሪዎችን ለመውረስ የሚያስችል መመሪያ ተዘጋጀ (MoF moves to overhaul rules, confiscate vehicles carrying over 3M birr in contraband)",
   "አሜሪካ በአውሮፓ እና ሩሲያ መካከል የሰላም ድርድር እንዲደረግ ልታመቻች እንደሆነ ገለጸች (US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine)",
@@ -2562,12 +2568,12 @@
   "የትግራይ ዲሞክራሲያዊ ሶሊዳሪቲ ፓርቲ በክልሉ በሚካሄደው ምርጫ ለመሳተፍ ዝግጅት እያደረገ መሆኑን ገለጸ (Solidarity Party Pledges to Advance Tigray’s Development Priorities, Getachew Reda Says)",
   "በሳዑዲ ዓረቢያ አስቸጋሪ ሁኔታ ውስጥ የነበሩ 2,086 ኢትዮጵያውያን ወደ ሀገራቸው ተመለሱ (Ethiopia Repatriates 2,086 Nationals from Saudi Arabia Over the Past Week)",
   "የአፍሪካ ኅብረት የ200 ሚሊዮን ወጣቶችን አቅም ለቀጣናው ዕድገት የመጠቀም እቅድ አቀረበ (AU Commission Chairperson Positions 200 Million Young Africans at the Heart of Africa’s Transformation Agenda)",
-  "ዓዲግራት ዩኒቨርሲቲ መደበኛ የመማር ማስተማር ሥራውን እንደገና ጀመረ (Adigrat University Has Resumed Regular Academic Activities, Reuniting Students on Campus)"
+  "ዓዲግራት ዩኒቨርሲቲ መደበኛ የመማር ማስተማር ሥራውን እንደገና ጀመረ (Adigrat University Has Resumed Regular Academic Activities, Reuniting Students on Campus)",
+  "የሥራና ክህሎት ሚኒስትሩ እና አቶ ጌታቸው በትግራይ የቀድሞ ተዋጊዎችን ማቋቋሚያ ማዕከል ጎበኙ (PM’s East African Affairs Adviser and Labor and Skills Minister Assess DDR and Reintegration Efforts in Tigray Region)",
+  "የአውሮፓ ህብረት በሩሲያ ላይ አዳዲስ ማዕቀቦችን ጣለ፤ ለዩክሬን የ8.7 ቢሊዮን ዶላር ድጋፍ ፈቀደ (Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war)",
+  "የፌደራል ከፍተኛ ፍርድ ቤት በኢትዮጵያ ሚዲያ ባለሥልጣን የቀረበውን የሥልጣን መቃወሚያ ውድቅ አደረገ (Federal High Court rejects Media Authority’s jurisdictional objection, decrees hearing of Addis Standard’s case)"
  ],
  "posted_at": [
-  1794663350.5883698,
-  1794663353.9981933,
-  1794663357.4365985,
   1794665303.688722,
   1794665307.40324,
   1794668877.0612123,
@@ -2611,6 +2617,9 @@
   1794829168.0563023,
   1794829171.536453,
   1794831472.5941837,
-  1794835234.1645505
+  1794835234.1645505,
+  1794837133.2505803,
+  1794837136.952845,
+  1794837140.5084288
  ]
 }
