@@ -1,10 +1,5 @@
 {
  "seen": {
-  "15321acc654ed400": 1793622958.2095058,
-  "05feaefa31190332": 1793622958.2095058,
-  "9c6f9b03f9948240": 1793622958.2095058,
-  "1647315c2468ab38": 1793622958.2095058,
-  "66ff5fb9c8eb0199": 1793622958.2095058,
   "339c09083896ce2f": 1793624985.1785471,
   "2ead03b24ba780bf": 1793624985.1785471,
   "e32ad32aaa9841bb": 1793626467.300489,
@@ -1498,10 +1493,17 @@
   "33c49d6b03e076b2": 1794831297.8297822,
   "ca3346f9ac150ddc": 1794831297.8297822,
   "32d177aadd904df0": 1794831297.8297822,
-  "051bf74b74c164e2": 1794831297.8297822
+  "051bf74b74c164e2": 1794831297.8297822,
+  "b83d2331118045a4": 1794833121.0579085,
+  "bf4bc9f2f7a8c4d8": 1794833121.0579085,
+  "f4b4cf72b08705c5": 1794833121.0579085,
+  "ddd26c5e7b2b9abf": 1794833121.0579085,
+  "0f03c956f50118c0": 1794833121.0579085,
+  "f58d3053b4e82dff": 1794833121.0579085,
+  "a292155c6c81069b": 1794833121.0579085,
+  "4d3e90e9fb9137f4": 1794833121.0579085
  },
  "recent_headlines": [
-  "ኢቲዮ ቴሌኮም የ43.1 ቢሊዮን ብር የትርፍ ክፍፍል ለመክፈል ማቀዱን አስታወቀ (Ethio Telecom Projects ETB43.1bn Dividend Payout)",
   "የኬንያ ማዕከላዊ ባንክ በ AI የሚመሩ የዲጂታል ብድር ውሳኔዎችን የሚቆጣጠር አዲስ መመሪያ አወጣ (Kenya’s new lending rules put AI-driven credit decisions and borrower assessments under scrutiny)",
   "Ahadu Bank ከታክስ በፊት 1.07 ቢሊዮን ብር ትርፍ ማግኘቱን አስታወቀ (Ahadu Bank records 1.07 billion birr pre-tax profit)",
   "ኢቲዮ ቴሌኮም በ AI ማሻሻያ አማካኝነት የ4G ፍጥነትን በ40 በመቶ አሻሻለ (Ethio Telecom Reports 40% Faster Peak-Hour 4G After AI Upgrade)",
@@ -1540,13 +1542,15 @@
   "የኢትዮጵያ ብሔራዊ ባንክ ከዓለም አቀፉ የኢስላሚክ ክላይሜት ፋይናንስ አሊያንስ ጋር ተቀላቀለ (Central Bank Joins Global Islamic Climate Finance Alliance as It Prepares to Host COP32)",
   "ኬንያ ለክሪፕቶ ኩባንያዎች የሥራ ፈቃድ መስጠት የሚያስችለውን አዲስ መመሪያ አወጣች (Kenya opens licensing for crypto firms as VASP rules take effect)",
   "MTN የደቡብ አፍሪካውን ተፎካካሪውን Telkom ሙሉ በሙሉ ለመግዛት የሚያስችለውን ድርድር ጀመረ (MTN targets Telkom in renewed takeover talks)",
-  "በኢትዮጵያ የሚንቀሳቀሰው የኢ-ሞቢሊቲ ስታርታፕ Dodai ተጨማሪ 3 ሚሊዮን USD ኢንቨስትመንት አገኘ (Ethiopian E-Mobility Startup Dodai Raises Additional USD 3 M In Series A Extension)"
+  "በኢትዮጵያ የሚንቀሳቀሰው የኢ-ሞቢሊቲ ስታርታፕ Dodai ተጨማሪ 3 ሚሊዮን USD ኢንቨስትመንት አገኘ (Ethiopian E-Mobility Startup Dodai Raises Additional USD 3 M In Series A Extension)",
+  "የኢኖቬሽን እና ቴክኖሎጂ ሚኒስቴር የስታርታፕ አዋጅን የሚያስፈጽም አዲስ መመሪያ አወጣ (The Startup Fine Print)"
  ],
  "posted_at": [
   1794690434.1406877,
   1794692112.6859097,
   1794737255.5551631,
   1794822273.7017274,
-  1794831426.7548406
+  1794831426.7548406,
+  1794833224.3479996
  ]
 }
