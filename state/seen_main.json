@@ -1,38 +1,5 @@
 {
  "seen": {
-  "68bbb1bee8a29cf4": 1793618010.5549443,
-  "8aaeebd33fa4744c": 1793618010.5549443,
-  "7656991c25add387": 1793618010.5549443,
-  "99ab2670ebaef84e": 1793618010.5549443,
-  "5ebd3261f310ccdd": 1793618010.5549443,
-  "c2708f2d96520ef2": 1793618010.5549443,
-  "d7401e8972faa1c2": 1793618010.5549443,
-  "dbce121f7d88b2d7": 1793618010.5549443,
-  "be2f00c040076add": 1793618010.5549443,
-  "792f09a8867957b7": 1793618010.5549443,
-  "33c49d6b03e076b2": 1793618010.5549443,
-  "76e52116137085f6": 1793618010.5549443,
-  "53a30b33b85a330a": 1793618010.5549443,
-  "812db27b89ef4321": 1793619412.3608856,
-  "bd0dcde343e192ab": 1793619412.3608856,
-  "96852635225805f7": 1793619412.3608856,
-  "5626ac5f96f9abf5": 1793619412.3608856,
-  "c3dfac3b32f3259e": 1793619412.3608856,
-  "e3f8295a4b61b8d2": 1793619412.3608856,
-  "ceb056f2392071c4": 1793619412.3608856,
-  "b22842d6a0ac4bfc": 1793619412.3608856,
-  "9baa88be6b75ba1d": 1793619412.3608856,
-  "cf6af162ad800b4b": 1793619412.3608856,
-  "9e024d7fa7f1292a": 1793619412.3608856,
-  "b32fdf9fc002569c": 1793619412.3608856,
-  "f371b113a3b000e3": 1793619412.3608856,
-  "1a66b2cbae27b586": 1793619412.3608856,
-  "d43dd60b6fe6d7ff": 1793619412.3608856,
-  "3de79598f62c4a08": 1793619412.3608856,
-  "33c95ae005c3f393": 1793619412.3608856,
-  "1cbbcf9144f3c82b": 1793619412.3608856,
-  "c34c3468c6e1f91c": 1793619412.3608856,
-  "0902ddecfcd35c86": 1793619412.3608856,
   "84cca30775325126": 1793621607.873399,
   "970867970d5795e5": 1793621607.873399,
   "6269efa5c40dcb34": 1793621607.873399,
@@ -2566,12 +2533,17 @@
   "dab4b7c07e979e4e": 1794827378.718075,
   "ed99a15f082af8c9": 1794827378.718075,
   "47bd4aed9ee30ae8": 1794827378.718075,
-  "13c6e0d61691547b": 1794827378.718075
+  "13c6e0d61691547b": 1794827378.718075,
+  "02c42fd84464eab4": 1794829091.2001016,
+  "4c3463ce22f8e44a": 1794829091.2001016,
+  "7d19bcd9f1951b4e": 1794829091.2001016,
+  "7e4b91c02fc2ba6a": 1794829091.2001016,
+  "3f3088f27679ce58": 1794829091.2001016,
+  "9a67eec0e4bb0b9d": 1794829091.2001016,
+  "3efe7ded640c9019": 1794829091.2001016,
+  "15129d6f8c901b4f": 1794829091.2001016
  },
  "recent_headlines": [
-  "ጠቅላይ ሚኒስትር ዐቢይ በዳካር የላቀ ውጤት ላስመዘገቡ አትሌቶች የእንኳን ደስ አላችሁ መልዕክት አስተላለፉ (PM Abiy Salutes Ethiopia’s Young Champions for Dominating Dakar 2026 Youth Olympic Games)",
-  "በዳካር የ2026 የወጣቶች ኦሊምፒክ በአንደኝነት ያጠናቀቀው የኢትዮጵያ ቡድን አዲስ አበባ ገባ (Ethiopia Welcomes Home Dakar 2026 Young Champions with Heroic Reception Following Historic First-Place Finish in Athletics)",
-  "የኢትዮጵያ ብሔራዊ ባንክ የዓለም አቀፉ እስላማዊ የአየር ንብረት ፋይናንስ ህብረት መስራች አባል ሆነ (National Bank of Ethiopia Joins Global Islamic Climate Finance Alliance as Founding Affiliate)",
   "ዲሞክራሲያዊ ሪፐብሊክ ኮንጎ እና ሩዋንዳ በፈረንሳይኛ ተናጋሪ ሀገራት ድርጅት መሪነት ተዛተቱ (DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise)",
   "አዋሽ ኢንሹራንስ የ1.84 ቢሊዮን ብር ከታክስ በፊት ማተርፉን እና ወደ ካፒታል ማርኬት መግባቱን አስታወቀ (Awash insurance posts 1.84 billion birr pre-tax profit, up 65%)",
   "ናይጄሪያ ዜጎቿ በአዲስ አበባ አየር መንገድ በኩል በሚያደርጉት ጉዞ ጥንቃቄ እንዲያደርጉ አሳሰበች (Nigeria cautions against travel via Ethiopia's main airport due to altitude)",
@@ -2608,7 +2580,10 @@
   "ኢራን በስምንት ሀገራት የሚገኙ 31 የአሜሪካ ወታደራዊ እና ዲፕሎማሲያዊ ተቋማትን ማጥቃቷ ተገለጸ (Daily_Brief: #Iran struck 31 #US military, diplomatic sites across eight countries, new investigation finds)",
   "ጠቅላይ ሚኒስትር ዐቢይ የCOP32 ብሔራዊ መሪ ኮሚቴ የዝግጅት ምዕራፍን ገመገሙ (PM Abiy Convenes COP32 National Steering Committee to Assess Preparations and Set Strategic Direction)",
   "የዓለም ጤና ድርጅት፡ በመድኃኒት የመላመድ ችግር 39 ሚሊዮን ሰዎች ሊሞቱ ይችላሉ (Antimicrobial resistance could kill 39 million people over 25 years: WHO)",
-  "ሩሲያ ከምዕራባውያን ጋር በምታደርገው የሰላም ድርድር አውሮፓን የሚከፋፍሉ ጥያቄዎችን አቀረበች (‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe)"
+  "ሩሲያ ከምዕራባውያን ጋር በምታደርገው የሰላም ድርድር አውሮፓን የሚከፋፍሉ ጥያቄዎችን አቀረበች (‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe)",
+  "ኢትዮጵያ እና ቻይና በኢንዱስትሪ ፓርኮች የሚደረገውን የቻይና ኢንቨስትመንት በእጥፍ ለማሳደግ ተወያዩ (Ethiopia and China Move to Double Chinese Investment in Industrial Parks and Special Economic Zones)",
+  "የትግራይ ዲሞክራሲያዊ ሶሊዳሪቲ ፓርቲ በክልሉ በሚካሄደው ምርጫ ለመሳተፍ ዝግጅት እያደረገ መሆኑን ገለጸ (Solidarity Party Pledges to Advance Tigray’s Development Priorities, Getachew Reda Says)",
+  "በሳዑዲ ዓረቢያ አስቸጋሪ ሁኔታ ውስጥ የነበሩ 2,086 ኢትዮጵያውያን ወደ ሀገራቸው ተመለሱ (Ethiopia Repatriates 2,086 Nationals from Saudi Arabia Over the Past Week)"
  ],
  "posted_at": [
   1794658298.2592406,
@@ -2657,6 +2632,9 @@
   1794817510.2333636,
   1794822297.9681137,
   1794825455.271854,
-  1794825458.8126996
+  1794825458.8126996,
+  1794829164.6708758,
+  1794829168.0563023,
+  1794829171.536453
  ]
 }
