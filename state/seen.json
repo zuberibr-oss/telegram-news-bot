@@ -1,6 +1,5 @@
 {
  "seen": {
-  "a56db301b7709408": 1793621531.0019987,
   "15321acc654ed400": 1793622958.2095058,
   "05feaefa31190332": 1793622958.2095058,
   "9c6f9b03f9948240": 1793622958.2095058,
@@ -1493,10 +1492,15 @@
   "4c3463ce22f8e44a": 1794829024.8840253,
   "3efe7ded640c9019": 1794829024.8840253,
   "9a67eec0e4bb0b9d": 1794829024.8840253,
-  "058b2ef46255fa68": 1794829024.8840253
+  "058b2ef46255fa68": 1794829024.8840253,
+  "712dbdaec276237b": 1794831297.8297822,
+  "b965b5724dfadad5": 1794831297.8297822,
+  "33c49d6b03e076b2": 1794831297.8297822,
+  "ca3346f9ac150ddc": 1794831297.8297822,
+  "32d177aadd904df0": 1794831297.8297822,
+  "051bf74b74c164e2": 1794831297.8297822
  },
  "recent_headlines": [
-  "ኬንያ 500 ሚሊዮን USD የሚይዝ የስታርታፕ ፈንድ ልታቋቁም ነው (Kenya targets Sh65 billion in startup financing as venture capital funding falls 45 percent)",
   "ኢቲዮ ቴሌኮም የ43.1 ቢሊዮን ብር የትርፍ ክፍፍል ለመክፈል ማቀዱን አስታወቀ (Ethio Telecom Projects ETB43.1bn Dividend Payout)",
   "የኬንያ ማዕከላዊ ባንክ በ AI የሚመሩ የዲጂታል ብድር ውሳኔዎችን የሚቆጣጠር አዲስ መመሪያ አወጣ (Kenya’s new lending rules put AI-driven credit decisions and borrower assessments under scrutiny)",
   "Ahadu Bank ከታክስ በፊት 1.07 ቢሊዮን ብር ትርፍ ማግኘቱን አስታወቀ (Ahadu Bank records 1.07 billion birr pre-tax profit)",
@@ -1535,12 +1539,14 @@
   "አዋሽ ኢንሹራንስ የ6 ቢሊዮን ብር ገቢ እና የ1.84 ቢሊዮን ብር ከታክስ በፊት ትርፍ አበሰረ (Awash Insurance Breaks 6 Billion Birr Revenue Barrier as Profit Surges 65 Percent)",
   "የኢትዮጵያ ብሔራዊ ባንክ ከዓለም አቀፉ የኢስላሚክ ክላይሜት ፋይናንስ አሊያንስ ጋር ተቀላቀለ (Central Bank Joins Global Islamic Climate Finance Alliance as It Prepares to Host COP32)",
   "ኬንያ ለክሪፕቶ ኩባንያዎች የሥራ ፈቃድ መስጠት የሚያስችለውን አዲስ መመሪያ አወጣች (Kenya opens licensing for crypto firms as VASP rules take effect)",
-  "MTN የደቡብ አፍሪካውን ተፎካካሪውን Telkom ሙሉ በሙሉ ለመግዛት የሚያስችለውን ድርድር ጀመረ (MTN targets Telkom in renewed takeover talks)"
+  "MTN የደቡብ አፍሪካውን ተፎካካሪውን Telkom ሙሉ በሙሉ ለመግዛት የሚያስችለውን ድርድር ጀመረ (MTN targets Telkom in renewed takeover talks)",
+  "በኢትዮጵያ የሚንቀሳቀሰው የኢ-ሞቢሊቲ ስታርታፕ Dodai ተጨማሪ 3 ሚሊዮን USD ኢንቨስትመንት አገኘ (Ethiopian E-Mobility Startup Dodai Raises Additional USD 3 M In Series A Extension)"
  ],
  "posted_at": [
   1794690434.1406877,
   1794692112.6859097,
   1794737255.5551631,
-  1794822273.7017274
+  1794822273.7017274,
+  1794831426.7548406
  ]
 }

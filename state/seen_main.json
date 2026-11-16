@@ -1,17 +1,5 @@
 {
  "seen": {
-  "84cca30775325126": 1793621607.873399,
-  "970867970d5795e5": 1793621607.873399,
-  "6269efa5c40dcb34": 1793621607.873399,
-  "8235950385a5d024": 1793621607.873399,
-  "7750008b523591bf": 1793621607.873399,
-  "2276ee0cebafc291": 1793621607.873399,
-  "8a559c297e8f0633": 1793621607.873399,
-  "16f33724bf77fdb2": 1793621607.873399,
-  "d1270ecf76d0002d": 1793621607.873399,
-  "1fc256d2e31810e7": 1793621607.873399,
-  "5be025c4da1d2354": 1793621607.873399,
-  "cb61427b31f8f332": 1793621607.873399,
   "1bd56855d6212392": 1793623061.3359866,
   "62789cd986ec8576": 1793623061.3359866,
   "0179ad7826603f82": 1793623061.3359866,
@@ -2541,10 +2529,14 @@
   "3f3088f27679ce58": 1794829091.2001016,
   "9a67eec0e4bb0b9d": 1794829091.2001016,
   "3efe7ded640c9019": 1794829091.2001016,
-  "15129d6f8c901b4f": 1794829091.2001016
+  "15129d6f8c901b4f": 1794829091.2001016,
+  "33c49d6b03e076b2": 1794831427.0954673,
+  "866227a793961759": 1794831427.0954673,
+  "216fa86179fea134": 1794831427.0954673,
+  "d63bc6f462e0c836": 1794831427.0954673,
+  "ca3346f9ac150ddc": 1794831427.0954673
  },
  "recent_headlines": [
-  "ዲሞክራሲያዊ ሪፐብሊክ ኮንጎ እና ሩዋንዳ በፈረንሳይኛ ተናጋሪ ሀገራት ድርጅት መሪነት ተዛተቱ (DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise)",
   "አዋሽ ኢንሹራንስ የ1.84 ቢሊዮን ብር ከታክስ በፊት ማተርፉን እና ወደ ካፒታል ማርኬት መግባቱን አስታወቀ (Awash insurance posts 1.84 billion birr pre-tax profit, up 65%)",
   "ናይጄሪያ ዜጎቿ በአዲስ አበባ አየር መንገድ በኩል በሚያደርጉት ጉዞ ጥንቃቄ እንዲያደርጉ አሳሰበች (Nigeria cautions against travel via Ethiopia's main airport due to altitude)",
   "የአውሮፓ ህብረት እስራኤል ወደ ጋዛ የሚገባውን የሰብአዊ እርዳታ በአስቸኳይ እንድታስገባ ጠየቀ (EU calls for immediate humanitarian access to Gaza)",
@@ -2583,12 +2575,10 @@
   "ሩሲያ ከምዕራባውያን ጋር በምታደርገው የሰላም ድርድር አውሮፓን የሚከፋፍሉ ጥያቄዎችን አቀረበች (‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe)",
   "ኢትዮጵያ እና ቻይና በኢንዱስትሪ ፓርኮች የሚደረገውን የቻይና ኢንቨስትመንት በእጥፍ ለማሳደግ ተወያዩ (Ethiopia and China Move to Double Chinese Investment in Industrial Parks and Special Economic Zones)",
   "የትግራይ ዲሞክራሲያዊ ሶሊዳሪቲ ፓርቲ በክልሉ በሚካሄደው ምርጫ ለመሳተፍ ዝግጅት እያደረገ መሆኑን ገለጸ (Solidarity Party Pledges to Advance Tigray’s Development Priorities, Getachew Reda Says)",
-  "በሳዑዲ ዓረቢያ አስቸጋሪ ሁኔታ ውስጥ የነበሩ 2,086 ኢትዮጵያውያን ወደ ሀገራቸው ተመለሱ (Ethiopia Repatriates 2,086 Nationals from Saudi Arabia Over the Past Week)"
+  "በሳዑዲ ዓረቢያ አስቸጋሪ ሁኔታ ውስጥ የነበሩ 2,086 ኢትዮጵያውያን ወደ ሀገራቸው ተመለሱ (Ethiopia Repatriates 2,086 Nationals from Saudi Arabia Over the Past Week)",
+  "የአፍሪካ ኅብረት የ200 ሚሊዮን ወጣቶችን አቅም ለቀጣናው ዕድገት የመጠቀም እቅድ አቀረበ (AU Commission Chairperson Positions 200 Million Young Africans at the Heart of Africa’s Transformation Agenda)"
  ],
  "posted_at": [
-  1794658298.2592406,
-  1794658301.7388031,
-  1794658305.2244582,
   1794661656.9864643,
   1794661660.331267,
   1794663350.5883698,
@@ -2635,6 +2625,7 @@
   1794825458.8126996,
   1794829164.6708758,
   1794829168.0563023,
-  1794829171.536453
+  1794829171.536453,
+  1794831472.5941837
  ]
 }
