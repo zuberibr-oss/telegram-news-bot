@@ -1,25 +1,5 @@
 {
  "seen": {
-  "83a58bfd6440899a": 1793653618.829171,
-  "32e5361cf2c0904f": 1793653618.829171,
-  "cc17325be367e79f": 1793653618.829171,
-  "3a6a3ec1927fc01e": 1793653618.829171,
-  "98fb062687dfd879": 1793653618.829171,
-  "d4d8dd8ac0f36ccf": 1793653618.829171,
-  "9f1a41f55a7d7b9c": 1793653618.829171,
-  "98308de10edc847d": 1793653618.829171,
-  "c51c87add0ac90dc": 1793653618.829171,
-  "bc426c1aa74e54a9": 1793653618.829171,
-  "ea1afc3d23cc0b95": 1793653618.829171,
-  "e72821843a47d6cb": 1793653618.829171,
-  "d0e414588e48ce25": 1793653618.829171,
-  "f9a9f8c4b51e519c": 1793653618.829171,
-  "406dbb79afc08aa3": 1793653618.829171,
-  "793d7c9d795fda24": 1793653618.829171,
-  "027c2592577688cd": 1793653618.829171,
-  "db2d5d54b0a9a36d": 1793653618.829171,
-  "6c882d87cd2afe89": 1793653618.829171,
-  "67ef59b95afbb37d": 1793653618.829171,
   "5c9b18962ab70032": 1793655244.5910313,
   "8f551021af1b1a70": 1793655244.5910313,
   "ab3af01cd086dc99": 1793655244.5910313,
@@ -1496,10 +1476,10 @@
   "104bc0b07d581243": 1794836991.2904174,
   "6b73fedd73761861": 1794836991.2904174,
   "e0b550c3a7e94466": 1794843641.0234475,
-  "8ee1aac976487519": 1794859684.173719
+  "8ee1aac976487519": 1794859684.173719,
+  "186a39f1f467a09f": 1794863211.9981277
  },
  "recent_headlines": [
-  "ኢቲዮ ቴሌኮም በ AI ማሻሻያ አማካኝነት የ4G ፍጥነትን በ40 በመቶ አሻሻለ (Ethio Telecom Reports 40% Faster Peak-Hour 4G After AI Upgrade)",
   "ተቆጣጣሪዎች ባንኮች የውጭ ኢንቨስተሮችን ሀብት በንዑስ ኩባንያ ሳይደራጁ እንዲጠብቁ ሊፈቅዱ ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)",
   "Seacom አፍሪካን ከአስያ የሚያገናኝ የ2 ቢሊዮን ዶላር የባህር ስር ካብል ሊዘረጋ ነው (Kenya’s AI plans hinge on new $2bn Africa-Asia subsea cable)",
   "የMTN Group የሶስተኛው ሩብ ዓመት ትርፍ በ23 በመቶ አደገ (MTN Group Earnings Outpace Revenue by 22.9% as Nigeria and Ghana Drive Q3 Growth)",
@@ -1538,16 +1518,17 @@
   "በኢትዮጵያ የሚንቀሳቀሰው የኢ-ሞቢሊቲ ስታርታፕ Dodai ተጨማሪ 3 ሚሊዮን USD ኢንቨስትመንት አገኘ (Ethiopian E-Mobility Startup Dodai Raises Additional USD 3 M In Series A Extension)",
   "የኢኖቬሽን እና ቴክኖሎጂ ሚኒስቴር የስታርታፕ አዋጅን የሚያስፈጽም አዲስ መመሪያ አወጣ (The Startup Fine Print)",
   "የኢትዮጵያ ብሔራዊ ባንክ አዲስ የሬጉላቶሪ ሳንድቦክስ መመሪያ አወጣ (FS/01/2026 – Regulatory Sandbox Directive)",
-  "NGX Group የናይሮቢ ሰነደ መዋለ ንዋይ ገበያን 10 በመቶ አክሲዮን ገዛ (Nigerian Exchange takes 10% of NSE in East Africa push)"
+  "NGX Group የናይሮቢ ሰነደ መዋለ ንዋይ ገበያን 10 በመቶ አክሲዮን ገዛ (Nigerian Exchange takes 10% of NSE in East Africa push)",
+  "የኢትዮጵያ ኢ-ሞቢሊቲ ስታርታፕ Dodai የ16 ሚሊዮን USD Series A የኢንቨስትመንት ዙር አጠናቀቀ (Tokyo Gas Backs Ethiopia’s Dodai As Electric Motorbike Startup Closes $16M Series A)"
  ],
  "posted_at": [
-  1794690434.1406877,
   1794692112.6859097,
   1794737255.5551631,
   1794822273.7017274,
   1794831426.7548406,
   1794833224.3479996,
   1794835199.6348844,
-  1794837074.5794995
+  1794837074.5794995,
+  1794863281.7742152
  ]
 }
