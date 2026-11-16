@@ -1,6 +1,5 @@
 {
  "seen": {
-  "b1b1dd7aef93f27e": 1793635892.5227122,
   "dfef88a80249ca55": 1793637390.0370817,
   "906692fc6efd58e7": 1793637390.0370817,
   "f42ba4f7ecdc4771": 1793637390.0370817,
@@ -2528,10 +2527,12 @@
   "a4376360bd3715a6": 1794845372.2262492,
   "9dc9467d085fc9d2": 1794845372.2262492,
   "3a7da0b7d53f1e5c": 1794845372.2262492,
-  "451f2b0367f29b06": 1794845372.2262492
+  "451f2b0367f29b06": 1794845372.2262492,
+  "9c9ee29f60a03a82": 1794846905.3924725,
+  "72c802a9230ab5f1": 1794846905.3924725,
+  "905cc4f79412f000": 1794846905.3924725
  },
  "recent_headlines": [
-  "SpaceX የStarship ሮኬት የላይኛውን ክፍል በተሳካ ሁኔታ በሜካኒካል እጆች ያዘ ('Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth)",
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የባንክ አገልግሎት የገንዘብ ዝውውር መመሪያ አወጣ (NBE sets 25 million birr minimum for Interest-Free Interbank market)",
   "26ኛው የታላቁ ሩጫ በኢትዮጵያ ውድድር 60 ሺህ ተሳታፊዎችን ይዞ ሊካሄድ ነው (Running beyond race day)",
   "የኢንዱስትሪ ዘርፍ ከግብርና በመበለጥ የኢትዮጵያ ሁለተኛው ትልቅ የኢኮኖሚ ዘርፍ ሊሆን ነው (Industry projected to overtake agriculture in Rebased GDP estimates)",
@@ -2570,7 +2571,8 @@
   "የፌደራል ከፍተኛ ፍርድ ቤት በኢትዮጵያ ሚዲያ ባለሥልጣን የቀረበውን የሥልጣን መቃወሚያ ውድቅ አደረገ (Federal High Court rejects Media Authority’s jurisdictional objection, decrees hearing of Addis Standard’s case)",
   "ለቀድሞ ተዋጊዎች በሀገር ውስጥ እና በውጭ ሀገር የሥራ ዕድል ለማመቻቸት እየተሠራ መሆኑ ተገለጸ (Ethiopia to Expand Employment Pathways for Former Combatants at Home and Abroad: Minister)",
   "አይ ኦ ኤም በኢትዮጵያ የስደተኞች አስተዳደር የመንግሥትን መሪነት ለማጠናከር ጥሪ አቀረበ (IOM Seeks Government-Led Approach to Sustain Migration Support)",
-  "ዩክሬን በሩሲያ ላይ የፈጸመችው ከፍተኛ የድሮን ጥቃት የክሬሚያ ድልድይን መታ (Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war)"
+  "ዩክሬን በሩሲያ ላይ የፈጸመችው ከፍተኛ የድሮን ጥቃት የክሬሚያ ድልድይን መታ (Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war)",
+  "የብልፅግና ፓርቲ እና የዩናይትድ ሩሲያ ፓርቲ በሞስኮ ስትራቴጂካዊ የትብብር ስምምነት ተፈራረሙ (Prosperity Party, United Russia Formalize Strategic Partnership to Deepen Ethiopia–Russia Political Cooperation)"
  ],
  "posted_at": [
   1794677762.817726,
@@ -2616,6 +2618,7 @@
   1794837140.5084288,
   1794838870.0744224,
   1794838873.6672943,
-  1794841845.8896635
+  1794841845.8896635,
+  1794846941.588036
  ]
 }
