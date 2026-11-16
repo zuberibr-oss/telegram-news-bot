@@ -1,14 +1,5 @@
 {
  "seen": {
-  "f5707bc3cc5f956d": 1793632184.4166536,
-  "867550264d0b8d40": 1793632184.4166536,
-  "4e08f9121a747bb8": 1793632184.4166536,
-  "59bdc65e1b7744a7": 1793632184.4166536,
-  "ed0aa1280399076d": 1793632184.4166536,
-  "bc1c416fea9b043c": 1793632184.4166536,
-  "e17cf901d781cece": 1793632184.4166536,
-  "b50bfa1d870d58a6": 1793632184.4166536,
-  "76f83f0b403e74cf": 1793632184.4166536,
   "6a72497fe028df30": 1793633738.2788808,
   "d46e754561bb68fd": 1793633738.2788808,
   "703f069e3989619f": 1793633738.2788808,
@@ -2531,10 +2522,18 @@
   "2dda3adce88eb81b": 1794840373.8865383,
   "102688877a458828": 1794840373.8865383,
   "97cf0aef7f763b35": 1794840373.8865383,
-  "45efd09320c9039a": 1794840373.8865383
+  "45efd09320c9039a": 1794840373.8865383,
+  "dc13327703aecb7a": 1794841787.687177,
+  "ddf3f205bd1639d0": 1794841787.687177,
+  "6d347bc8036ad854": 1794841787.687177,
+  "4e1b16b3edc02ae6": 1794841787.687177,
+  "2c197e1fc1576a48": 1794841787.687177,
+  "3f71a27b956873f0": 1794841787.687177,
+  "69f7679b870cd0c4": 1794841787.687177,
+  "d3a28073bc5b9376": 1794841787.687177,
+  "431af3b3b47ec06c": 1794841787.687177
  },
  "recent_headlines": [
-  "አሜሪካ በአውሮፓ እና ሩሲያ መካከል የሰላም ድርድር እንዲደረግ ልታመቻች እንደሆነ ገለጸች (US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine)",
   "SpaceX የStarship ሮኬት የላይኛውን ክፍል በተሳካ ሁኔታ በሜካኒካል እጆች ያዘ ('Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth)",
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የባንክ አገልግሎት የገንዘብ ዝውውር መመሪያ አወጣ (NBE sets 25 million birr minimum for Interest-Free Interbank market)",
   "26ኛው የታላቁ ሩጫ በኢትዮጵያ ውድድር 60 ሺህ ተሳታፊዎችን ይዞ ሊካሄድ ነው (Running beyond race day)",
@@ -2573,10 +2572,10 @@
   "የአውሮፓ ህብረት በሩሲያ ላይ አዳዲስ ማዕቀቦችን ጣለ፤ ለዩክሬን የ8.7 ቢሊዮን ዶላር ድጋፍ ፈቀደ (Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war)",
   "የፌደራል ከፍተኛ ፍርድ ቤት በኢትዮጵያ ሚዲያ ባለሥልጣን የቀረበውን የሥልጣን መቃወሚያ ውድቅ አደረገ (Federal High Court rejects Media Authority’s jurisdictional objection, decrees hearing of Addis Standard’s case)",
   "ለቀድሞ ተዋጊዎች በሀገር ውስጥ እና በውጭ ሀገር የሥራ ዕድል ለማመቻቸት እየተሠራ መሆኑ ተገለጸ (Ethiopia to Expand Employment Pathways for Former Combatants at Home and Abroad: Minister)",
-  "አይ ኦ ኤም በኢትዮጵያ የስደተኞች አስተዳደር የመንግሥትን መሪነት ለማጠናከር ጥሪ አቀረበ (IOM Seeks Government-Led Approach to Sustain Migration Support)"
+  "አይ ኦ ኤም በኢትዮጵያ የስደተኞች አስተዳደር የመንግሥትን መሪነት ለማጠናከር ጥሪ አቀረበ (IOM Seeks Government-Led Approach to Sustain Migration Support)",
+  "ዩክሬን በሩሲያ ላይ የፈጸመችው ከፍተኛ የድሮን ጥቃት የክሬሚያ ድልድይን መታ (Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war)"
  ],
  "posted_at": [
-  1794668877.0612123,
   1794672573.5369425,
   1794672577.1205704,
   1794672580.7017357,
@@ -2622,6 +2621,7 @@
   1794837136.952845,
   1794837140.5084288,
   1794838870.0744224,
-  1794838873.6672943
+  1794838873.6672943,
+  1794841845.8896635
  ]
 }
