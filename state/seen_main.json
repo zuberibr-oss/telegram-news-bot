@@ -1,8 +1,5 @@
 {
  "seen": {
-  "9362e972b76f682c": 1793650073.1107771,
-  "ea72d8d61e8c50d3": 1793650073.1107771,
-  "030dff87c5c05811": 1793650073.1107771,
   "4f3eeca48b737b32": 1793651708.1407824,
   "a062fc9f6235bd19": 1793651708.1407824,
   "90e23a343625c40f": 1793651708.1407824,
@@ -2528,10 +2525,15 @@
   "a8d8f16baf624681": 1794857708.5094223,
   "5393feda428300cf": 1794857708.5094223,
   "035b0525c7cbe4e2": 1794857708.5094223,
-  "a47f660f449f46f9": 1794857708.5094223
+  "a47f660f449f46f9": 1794857708.5094223,
+  "e611825041e0a08d": 1794859739.2683814,
+  "0be46a078d2694ed": 1794859739.2683814,
+  "2a7f986c32026bde": 1794859739.2683814,
+  "5e57b67885351a0a": 1794859739.2683814,
+  "6a0c5bf6ce265d55": 1794859739.2683814,
+  "49dce2a938b65789": 1794859739.2683814
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የባንክ አገልግሎት የገንዘብ ዝውውር መመሪያ አወጣ (NBE sets 25 million birr minimum for Interest-Free Interbank market)",
   "26ኛው የታላቁ ሩጫ በኢትዮጵያ ውድድር 60 ሺህ ተሳታፊዎችን ይዞ ሊካሄድ ነው (Running beyond race day)",
   "የኢንዱስትሪ ዘርፍ ከግብርና በመበለጥ የኢትዮጵያ ሁለተኛው ትልቅ የኢኮኖሚ ዘርፍ ሊሆን ነው (Industry projected to overtake agriculture in Rebased GDP estimates)",
   "የኢትዮጵያ የዋጋ ንረት እስከ 2030 ድረስ በሁለት ዲጂት ሊቀጥል እንደሚችል ጥናት አሳሰበ (Double-digit inflation could persist through 2030, study warns)",
@@ -2570,10 +2572,10 @@
   "ለቀድሞ ተዋጊዎች በሀገር ውስጥ እና በውጭ ሀገር የሥራ ዕድል ለማመቻቸት እየተሠራ መሆኑ ተገለጸ (Ethiopia to Expand Employment Pathways for Former Combatants at Home and Abroad: Minister)",
   "አይ ኦ ኤም በኢትዮጵያ የስደተኞች አስተዳደር የመንግሥትን መሪነት ለማጠናከር ጥሪ አቀረበ (IOM Seeks Government-Led Approach to Sustain Migration Support)",
   "ዩክሬን በሩሲያ ላይ የፈጸመችው ከፍተኛ የድሮን ጥቃት የክሬሚያ ድልድይን መታ (Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war)",
-  "የብልፅግና ፓርቲ እና የዩናይትድ ሩሲያ ፓርቲ በሞስኮ ስትራቴጂካዊ የትብብር ስምምነት ተፈራረሙ (Prosperity Party, United Russia Formalize Strategic Partnership to Deepen Ethiopia–Russia Political Cooperation)"
+  "የብልፅግና ፓርቲ እና የዩናይትድ ሩሲያ ፓርቲ በሞስኮ ስትራቴጂካዊ የትብብር ስምምነት ተፈራረሙ (Prosperity Party, United Russia Formalize Strategic Partnership to Deepen Ethiopia–Russia Political Cooperation)",
+  "ሳዑዲ ዓረቢያ በየመን የሚገኙ የህብረቱ ኃይሎችን አዛዥ ከኃላፊነት አነሳች (Saudi Arabia dismisses commander of coalition forces fighting Houthis)"
  ],
  "posted_at": [
-  1794686907.389972,
   1794694129.3014543,
   1794695775.4281719,
   1794699385.740149,
@@ -2615,6 +2617,7 @@
   1794838870.0744224,
   1794838873.6672943,
   1794841845.8896635,
-  1794846941.588036
+  1794846941.588036,
+  1794859787.3616073
  ]
 }
