@@ -1,14 +1,5 @@
 {
  "seen": {
-  "da8dfadbeffa591a": 1793625058.5886874,
-  "5609f68587616c7d": 1793625058.5886874,
-  "242f99feb688014d": 1793625058.5886874,
-  "e4bee4e848feba46": 1793625058.5886874,
-  "c75df9e7b7ca0c1a": 1793625058.5886874,
-  "fbde788e56617efc": 1793625058.5886874,
-  "2bb2c79e27e7d2ca": 1793625058.5886874,
-  "3d892edee99dd30d": 1793625058.5886874,
-  "42ba51301fe23cbe": 1793625058.5886874,
   "1505c659f2813556": 1793626553.9368918,
   "93c10441f38f58cf": 1793628644.0780036,
   "d5f3318d7cc62b6e": 1793628644.0780036,
@@ -2525,10 +2516,13 @@
   "8a63cd559da0c443": 1794833224.53195,
   "8a6e392e20e9b9fd": 1794833224.53195,
   "508a757a824ca0b8": 1794833224.53195,
-  "bbb866c6e600f395": 1794833224.53195
+  "bbb866c6e600f395": 1794833224.53195,
+  "e78a7833101ad0f2": 1794835199.8885868,
+  "681a937340ca7366": 1794835199.8885868,
+  "b14f36af07827ea1": 1794835199.8885868,
+  "f4755d81cddd01b2": 1794835199.8885868
  },
  "recent_headlines": [
-  "አዋሽ ኢንሹራንስ የ1.84 ቢሊዮን ብር ከታክስ በፊት ማተርፉን እና ወደ ካፒታል ማርኬት መግባቱን አስታወቀ (Awash insurance posts 1.84 billion birr pre-tax profit, up 65%)",
   "ናይጄሪያ ዜጎቿ በአዲስ አበባ አየር መንገድ በኩል በሚያደርጉት ጉዞ ጥንቃቄ እንዲያደርጉ አሳሰበች (Nigeria cautions against travel via Ethiopia's main airport due to altitude)",
   "የአውሮፓ ህብረት እስራኤል ወደ ጋዛ የሚገባውን የሰብአዊ እርዳታ በአስቸኳይ እንድታስገባ ጠየቀ (EU calls for immediate humanitarian access to Gaza)",
   "ኢትዮጵያ በመጀመሪያው ሩብ ዓመት የ76.62 ሚሊዮን ዶላር የኤሌክትሪክ ኃይል ላከች (EEP’s power export revenue reaches $76.62 million in the first quarter)",
@@ -2567,11 +2561,10 @@
   "ኢትዮጵያ እና ቻይና በኢንዱስትሪ ፓርኮች የሚደረገውን የቻይና ኢንቨስትመንት በእጥፍ ለማሳደግ ተወያዩ (Ethiopia and China Move to Double Chinese Investment in Industrial Parks and Special Economic Zones)",
   "የትግራይ ዲሞክራሲያዊ ሶሊዳሪቲ ፓርቲ በክልሉ በሚካሄደው ምርጫ ለመሳተፍ ዝግጅት እያደረገ መሆኑን ገለጸ (Solidarity Party Pledges to Advance Tigray’s Development Priorities, Getachew Reda Says)",
   "በሳዑዲ ዓረቢያ አስቸጋሪ ሁኔታ ውስጥ የነበሩ 2,086 ኢትዮጵያውያን ወደ ሀገራቸው ተመለሱ (Ethiopia Repatriates 2,086 Nationals from Saudi Arabia Over the Past Week)",
-  "የአፍሪካ ኅብረት የ200 ሚሊዮን ወጣቶችን አቅም ለቀጣናው ዕድገት የመጠቀም እቅድ አቀረበ (AU Commission Chairperson Positions 200 Million Young Africans at the Heart of Africa’s Transformation Agenda)"
+  "የአፍሪካ ኅብረት የ200 ሚሊዮን ወጣቶችን አቅም ለቀጣናው ዕድገት የመጠቀም እቅድ አቀረበ (AU Commission Chairperson Positions 200 Million Young Africans at the Heart of Africa’s Transformation Agenda)",
+  "ዓዲግራት ዩኒቨርሲቲ መደበኛ የመማር ማስተማር ሥራውን እንደገና ጀመረ (Adigrat University Has Resumed Regular Academic Activities, Reuniting Students on Campus)"
  ],
  "posted_at": [
-  1794661656.9864643,
-  1794661660.331267,
   1794663350.5883698,
   1794663353.9981933,
   1794663357.4365985,
@@ -2617,6 +2610,7 @@
   1794829164.6708758,
   1794829168.0563023,
   1794829171.536453,
-  1794831472.5941837
+  1794831472.5941837,
+  1794835234.1645505
  ]
 }
