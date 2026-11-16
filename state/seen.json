@@ -1,25 +1,5 @@
 {
  "seen": {
-  "25a416c0d13bb2e5": 1793657254.6407857,
-  "a2e0d2dad8f8cf8f": 1793657254.6407857,
-  "25b8ba0376837f56": 1793657254.6407857,
-  "2b69c2ddd1f2a788": 1793657254.6407857,
-  "19ae7955c89a8da3": 1793657254.6407857,
-  "a2e88551b09eb966": 1793657254.6407857,
-  "2589085a9c30c19a": 1793657254.6407857,
-  "402eb345a7cbda76": 1793657254.6407857,
-  "62bb2cd45492f292": 1793657254.6407857,
-  "4f4187bd35cbe831": 1793657254.6407857,
-  "8399cb2261d40363": 1793657254.6407857,
-  "df817467dd6b6cdc": 1793657254.6407857,
-  "b94f697a5b8baef5": 1793657254.6407857,
-  "d631e329d34d62eb": 1793657254.6407857,
-  "e9550f8f3e5c74e2": 1793657254.6407857,
-  "cbc9f3b72f617275": 1793657254.6407857,
-  "6bd91e5c1a3d1344": 1793657254.6407857,
-  "2a141dd9093c3bd1": 1793657254.6407857,
-  "919b8330df46832c": 1793657254.6407857,
-  "4cafed74aa326ef7": 1793657254.6407857,
   "d8e810ec4765d340": 1793658861.0920486,
   "ac983621c2945ffc": 1793658861.0920486,
   "99e9d146285b8be3": 1793658861.0920486,
@@ -1476,10 +1456,16 @@
   "186a39f1f467a09f": 1794863211.9981277,
   "6c882d87cd2afe89": 1794864876.1033728,
   "9baf81405b325cbd": 1794864876.1033728,
-  "2f3fdc36ced3595e": 1794864876.1033728
+  "2f3fdc36ced3595e": 1794864876.1033728,
+  "8f551021af1b1a70": 1794866827.7871678,
+  "ab3af01cd086dc99": 1794866827.7871678,
+  "4ee0e1ad1b5b0680": 1794866827.7871678,
+  "15629e6b3150f741": 1794866827.7871678,
+  "905cc4f79412f000": 1794866827.7871678,
+  "6f19b160e384dc06": 1794866827.7871678,
+  "97c6a81248e94456": 1794866827.7871678
  },
  "recent_headlines": [
-  "Seacom አፍሪካን ከአስያ የሚያገናኝ የ2 ቢሊዮን ዶላር የባህር ስር ካብል ሊዘረጋ ነው (Kenya’s AI plans hinge on new $2bn Africa-Asia subsea cable)",
   "የMTN Group የሶስተኛው ሩብ ዓመት ትርፍ በ23 በመቶ አደገ (MTN Group Earnings Outpace Revenue by 22.9% as Nigeria and Ghana Drive Q3 Growth)",
   "ኢትዮጵያ የዲጂታል ፋይናንስ እድገትን ያካተተ አዲስ የ GDP ስሌት ይፋ አደረገች (Ethiopia’s GDP Rebase Captures Growth in Digital Financial Services)",
   "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን USD የውጭ ምንዛሬ በሐራጅ ሊሸጥ ነው (NBE to Auction 140 Million US Dollars as Bank Demand Continues to Exceed Supply)",
@@ -1518,7 +1504,8 @@
   "የኢትዮጵያ ብሔራዊ ባንክ አዲስ የሬጉላቶሪ ሳንድቦክስ መመሪያ አወጣ (FS/01/2026 – Regulatory Sandbox Directive)",
   "NGX Group የናይሮቢ ሰነደ መዋለ ንዋይ ገበያን 10 በመቶ አክሲዮን ገዛ (Nigerian Exchange takes 10% of NSE in East Africa push)",
   "የኢትዮጵያ ኢ-ሞቢሊቲ ስታርታፕ Dodai የ16 ሚሊዮን USD Series A የኢንቨስትመንት ዙር አጠናቀቀ (Tokyo Gas Backs Ethiopia’s Dodai As Electric Motorbike Startup Closes $16M Series A)",
-  "Paystack የአፍሪካ ክፍያዎችን ከ Solana ብሎክቼይን የሚያገናኝ አዲስ ፕላትፎርም ይፋ አደረገ (Paystack is making a play for Nigeria’s onchain payment infrastructure)"
+  "Paystack የአፍሪካ ክፍያዎችን ከ Solana ብሎክቼይን የሚያገናኝ አዲስ ፕላትፎርም ይፋ አደረገ (Paystack is making a play for Nigeria’s onchain payment infrastructure)",
+  "Vodacom የ Safaricomን የንግድ ስም ዋጋ 88 ቢሊዮን የኬንያ ሽልንግ እንደሆነ ገመተ (Vodacom values Safaricom brand at Sh88bn in buyout)"
  ],
  "posted_at": [
   1794737255.5551631,
@@ -1528,6 +1515,7 @@
   1794835199.6348844,
   1794837074.5794995,
   1794863281.7742152,
-  1794864950.31309
+  1794864950.31309,
+  1794866905.1118133
  ]
 }

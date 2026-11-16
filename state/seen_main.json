@@ -2529,10 +2529,14 @@
   "c9bd002be6d85b4b": 1794864950.4984405,
   "b6c8304dc752f8ee": 1794864950.4984405,
   "93ebc5bba9d8e75b": 1794864950.4984405,
-  "db258d6c673894ad": 1794864950.4984405
+  "db258d6c673894ad": 1794864950.4984405,
+  "11f32efa46ac3b85": 1794866905.3132908,
+  "3e1c5a8b82d0af62": 1794866905.3132908,
+  "554e856a967d8bd7": 1794866905.3132908,
+  "c5338a3847615543": 1794866905.3132908,
+  "5377ba18c6d352d1": 1794866905.3132908
  },
  "recent_headlines": [
-  "የኢንዱስትሪ ዘርፍ ከግብርና በመበለጥ የኢትዮጵያ ሁለተኛው ትልቅ የኢኮኖሚ ዘርፍ ሊሆን ነው (Industry projected to overtake agriculture in Rebased GDP estimates)",
   "የኢትዮጵያ የዋጋ ንረት እስከ 2030 ድረስ በሁለት ዲጂት ሊቀጥል እንደሚችል ጥናት አሳሰበ (Double-digit inflation could persist through 2030, study warns)",
   "በእስራኤል የአየር ጥቃት የሐማስ ከፍተኛ የጦር አዛዥ ተገደለ (Israeli air strike kills senior Hamas commander in Gaza)",
   "በAmhara Bank ላይ የ200 ሚሊዮን ብር የሐሰተኛ ተሽከርካሪዎች ብድር ክስ ተመሠረተ (New Amhara Bank Case Alleges 200m Br Loan on Phantom Trucks)",
@@ -2571,10 +2575,10 @@
   "ዩክሬን በሩሲያ ላይ የፈጸመችው ከፍተኛ የድሮን ጥቃት የክሬሚያ ድልድይን መታ (Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war)",
   "የብልፅግና ፓርቲ እና የዩናይትድ ሩሲያ ፓርቲ በሞስኮ ስትራቴጂካዊ የትብብር ስምምነት ተፈራረሙ (Prosperity Party, United Russia Formalize Strategic Partnership to Deepen Ethiopia–Russia Political Cooperation)",
   "ሳዑዲ ዓረቢያ በየመን የሚገኙ የህብረቱ ኃይሎችን አዛዥ ከኃላፊነት አነሳች (Saudi Arabia dismisses commander of coalition forces fighting Houthis)",
-  "በምዕራብ ኮርዶፋን በሱዳን ጦር በተፈጸመ የአየር ጥቃት 13 ሰዎች ተገደሉ (Sudanese army air attack kills 13 in western Sudan: Rights group)"
+  "በምዕራብ ኮርዶፋን በሱዳን ጦር በተፈጸመ የአየር ጥቃት 13 ሰዎች ተገደሉ (Sudanese army air attack kills 13 in western Sudan: Rights group)",
+  "በሳዑዲ የሚገኙ ወጣቶች የሞት ፍርድ ስጋት እንዳለባቸው የትግራይ ጊዜያዊ አስተዳደር ገለጸ (Xiinxala Oduu: Dargaggoonni Tigraay Sa’udi Arabiyaa keessatti sodaa adabbii du’aa keessa jiru; Bulchiinsi Yeroo Tigraay mootummaan federaalaa akka gidduu seenu gaafate)"
  ],
  "posted_at": [
-  1794694129.3014543,
   1794695775.4281719,
   1794699385.740149,
   1794699389.0797975,
@@ -2617,6 +2621,7 @@
   1794841845.8896635,
   1794846941.588036,
   1794859787.3616073,
-  1794864994.7918596
+  1794864994.7918596,
+  1794866936.6973977
  ]
 }
