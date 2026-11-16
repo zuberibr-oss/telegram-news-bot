@@ -1,6 +1,5 @@
 {
  "seen": {
-  "41ccb1d8d3c8b349": 1793579236.9256957,
   "4762c42155898cf3": 1793582120.250546,
   "1ef8b87d433cc335": 1793582120.250546,
   "bf3e224e09ac0d7b": 1793592958.347141,
@@ -2505,10 +2504,13 @@
   "44a66c45875aae3b": 1794788718.4493442,
   "616c31a78ac90523": 1794788718.4493442,
   "4f5afad815f742ad": 1794788718.4493442,
-  "e3bbe2d6a68d659e": 1794788718.4493442
+  "e3bbe2d6a68d659e": 1794788718.4493442,
+  "fb8a3b223eeb4688": 1794790407.8335173,
+  "1a72d8799106982f": 1794790407.8335173,
+  "51d4146c182415c7": 1794790407.8335173,
+  "9089359d70004d08": 1794790407.8335173
  },
  "recent_headlines": [
-  "የኢትዮጵያ ኢንቨስትመንት ሆልዲንግስ እና CCI Global የ26 ሚሊዮን ዶላር ስምምነት ተፈራረሙ (​EIH, CCI Global sign $26 million deal to develop Ethiopia’s BPO industry)",
   "ደቡብ ሱዳን ታሪካዊ ሀገራዊ ምርጫዋን ወደ የካቲት ወር አራዘመች (South Sudan postpones first-ever national elections until February)",
   "ዩክሬን የዶንባስን ግዛት ለNato አባልነት እንድትለውጥ አሜሪካ ሀሳብ ማቅረቧ ተገለጸ (US has floated Ukraine ceding Donbas for Nato membership, Zelensky says)",
   "ታራኒስ የተባለው ኩባንያ የኮርቤቲ ጂኦተርማል ፕሮጀክት የአብላጫ ድርሻ ያዘ (Dhaabbanni Taaraniis gahee caalmaa piroojektii Ji’ootermaalii Korbeettii, kan Magaalaa Hawaasaa cinaatti argamu dhuunfachuun gabaafame)",
@@ -2547,7 +2549,8 @@
   "ኢራን በባህሬን በሚገኝ የአሜሪካ የራዳር ጣቢያ ላይ የድሮን ጥቃት መፈጸሟን ገለጸች (Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes)",
   "በኬንያ ለሚገኙ ከ50 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እርዳታ ለማቅረብ መቸገሩ ተገለጸ (Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya)",
   "በዲሞክራሲያዊ ሪፐብሊክ ኮንጎ የተቀሰቀሰው የኤቦላ ወረርሽኝ በቁጥጥር ስር አለመዋሉ ተገለጸ (Africa CDC says Ebola outbreak in DR Congo ‘still not under control’)",
-  "የየመኑ ሁቲዎች 600 የጦር እስረኞችን በአንድ ወገን ውሳኔ ፈቱ (Yemen’s Houthis unilaterally release 600 war detainees)"
+  "የየመኑ ሁቲዎች 600 የጦር እስረኞችን በአንድ ወገን ውሳኔ ፈቱ (Yemen’s Houthis unilaterally release 600 war detainees)",
+  "ኢራን በአሜሪካ ላይ ቅድመ-ጥቃት ልትሰነዝር እንደሚችል ማስጠንቀቋ ተገለጸ (Iran war live: Tehran warns it may strike first before another US attack)"
  ],
  "posted_at": [
   1794630930.691055,
@@ -2598,6 +2601,7 @@
   1794746141.938663,
   1794748075.0957232,
   1794774929.8480377,
-  1794778512.4454796
+  1794778512.4454796,
+  1794790435.0731378
  ]
 }
