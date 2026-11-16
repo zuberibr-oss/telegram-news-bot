@@ -1,9 +1,5 @@
 {
  "seen": {
-  "5c9b18962ab70032": 1793655244.5910313,
-  "8f551021af1b1a70": 1793655244.5910313,
-  "ab3af01cd086dc99": 1793655244.5910313,
-  "88fde049c5c18283": 1793655244.5910313,
   "25a416c0d13bb2e5": 1793657254.6407857,
   "a2e0d2dad8f8cf8f": 1793657254.6407857,
   "25b8ba0376837f56": 1793657254.6407857,
@@ -1477,10 +1473,12 @@
   "6b73fedd73761861": 1794836991.2904174,
   "e0b550c3a7e94466": 1794843641.0234475,
   "8ee1aac976487519": 1794859684.173719,
-  "186a39f1f467a09f": 1794863211.9981277
+  "186a39f1f467a09f": 1794863211.9981277,
+  "6c882d87cd2afe89": 1794864876.1033728,
+  "9baf81405b325cbd": 1794864876.1033728,
+  "2f3fdc36ced3595e": 1794864876.1033728
  },
  "recent_headlines": [
-  "ተቆጣጣሪዎች ባንኮች የውጭ ኢንቨስተሮችን ሀብት በንዑስ ኩባንያ ሳይደራጁ እንዲጠብቁ ሊፈቅዱ ነው (Regulators to Let Banks Guard Foreign Investors’ Assets without Subsidiaries)",
   "Seacom አፍሪካን ከአስያ የሚያገናኝ የ2 ቢሊዮን ዶላር የባህር ስር ካብል ሊዘረጋ ነው (Kenya’s AI plans hinge on new $2bn Africa-Asia subsea cable)",
   "የMTN Group የሶስተኛው ሩብ ዓመት ትርፍ በ23 በመቶ አደገ (MTN Group Earnings Outpace Revenue by 22.9% as Nigeria and Ghana Drive Q3 Growth)",
   "ኢትዮጵያ የዲጂታል ፋይናንስ እድገትን ያካተተ አዲስ የ GDP ስሌት ይፋ አደረገች (Ethiopia’s GDP Rebase Captures Growth in Digital Financial Services)",
@@ -1519,16 +1517,17 @@
   "የኢኖቬሽን እና ቴክኖሎጂ ሚኒስቴር የስታርታፕ አዋጅን የሚያስፈጽም አዲስ መመሪያ አወጣ (The Startup Fine Print)",
   "የኢትዮጵያ ብሔራዊ ባንክ አዲስ የሬጉላቶሪ ሳንድቦክስ መመሪያ አወጣ (FS/01/2026 – Regulatory Sandbox Directive)",
   "NGX Group የናይሮቢ ሰነደ መዋለ ንዋይ ገበያን 10 በመቶ አክሲዮን ገዛ (Nigerian Exchange takes 10% of NSE in East Africa push)",
-  "የኢትዮጵያ ኢ-ሞቢሊቲ ስታርታፕ Dodai የ16 ሚሊዮን USD Series A የኢንቨስትመንት ዙር አጠናቀቀ (Tokyo Gas Backs Ethiopia’s Dodai As Electric Motorbike Startup Closes $16M Series A)"
+  "የኢትዮጵያ ኢ-ሞቢሊቲ ስታርታፕ Dodai የ16 ሚሊዮን USD Series A የኢንቨስትመንት ዙር አጠናቀቀ (Tokyo Gas Backs Ethiopia’s Dodai As Electric Motorbike Startup Closes $16M Series A)",
+  "Paystack የአፍሪካ ክፍያዎችን ከ Solana ብሎክቼይን የሚያገናኝ አዲስ ፕላትፎርም ይፋ አደረገ (Paystack is making a play for Nigeria’s onchain payment infrastructure)"
  ],
  "posted_at": [
-  1794692112.6859097,
   1794737255.5551631,
   1794822273.7017274,
   1794831426.7548406,
   1794833224.3479996,
   1794835199.6348844,
   1794837074.5794995,
-  1794863281.7742152
+  1794863281.7742152,
+  1794864950.31309
  ]
 }

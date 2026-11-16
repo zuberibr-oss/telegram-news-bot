@@ -1,16 +1,5 @@
 {
  "seen": {
-  "6c607d3d28a02d6f": 1793653762.0154064,
-  "d4506dfddc21a651": 1793653762.0154064,
-  "3dccebc2b9b493e6": 1793653762.0154064,
-  "c9d7a67fe8c2a8e4": 1793653762.0154064,
-  "5961d47269dbcffd": 1793653762.0154064,
-  "7e306b42952dd64c": 1793653762.0154064,
-  "5e092267173eefbb": 1793653762.0154064,
-  "7f9e6b87fd803acd": 1793653762.0154064,
-  "533739b006ca2f1c": 1793653762.0154064,
-  "8d8301ebdb1009ef": 1793655333.0425732,
-  "fa9e8e97c0147c7f": 1793655333.0425732,
   "d0531011f8934594": 1793657395.3143854,
   "b52aaa50aefecb68": 1793657395.3143854,
   "4718dba256b4accb": 1793657395.3143854,
@@ -2535,10 +2524,14 @@
   "8b0e5a0f558ac7b8": 1794861334.530757,
   "9c11bbb380d654e9": 1794863281.984447,
   "a49737c0d0d52225": 1794863281.984447,
-  "710d42489788d168": 1794863281.984447
+  "710d42489788d168": 1794863281.984447,
+  "b2362cc957081d2e": 1794864950.4984405,
+  "c9bd002be6d85b4b": 1794864950.4984405,
+  "b6c8304dc752f8ee": 1794864950.4984405,
+  "93ebc5bba9d8e75b": 1794864950.4984405,
+  "db258d6c673894ad": 1794864950.4984405
  },
  "recent_headlines": [
-  "26ኛው የታላቁ ሩጫ በኢትዮጵያ ውድድር 60 ሺህ ተሳታፊዎችን ይዞ ሊካሄድ ነው (Running beyond race day)",
   "የኢንዱስትሪ ዘርፍ ከግብርና በመበለጥ የኢትዮጵያ ሁለተኛው ትልቅ የኢኮኖሚ ዘርፍ ሊሆን ነው (Industry projected to overtake agriculture in Rebased GDP estimates)",
   "የኢትዮጵያ የዋጋ ንረት እስከ 2030 ድረስ በሁለት ዲጂት ሊቀጥል እንደሚችል ጥናት አሳሰበ (Double-digit inflation could persist through 2030, study warns)",
   "በእስራኤል የአየር ጥቃት የሐማስ ከፍተኛ የጦር አዛዥ ተገደለ (Israeli air strike kills senior Hamas commander in Gaza)",
@@ -2577,7 +2570,8 @@
   "አይ ኦ ኤም በኢትዮጵያ የስደተኞች አስተዳደር የመንግሥትን መሪነት ለማጠናከር ጥሪ አቀረበ (IOM Seeks Government-Led Approach to Sustain Migration Support)",
   "ዩክሬን በሩሲያ ላይ የፈጸመችው ከፍተኛ የድሮን ጥቃት የክሬሚያ ድልድይን መታ (Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war)",
   "የብልፅግና ፓርቲ እና የዩናይትድ ሩሲያ ፓርቲ በሞስኮ ስትራቴጂካዊ የትብብር ስምምነት ተፈራረሙ (Prosperity Party, United Russia Formalize Strategic Partnership to Deepen Ethiopia–Russia Political Cooperation)",
-  "ሳዑዲ ዓረቢያ በየመን የሚገኙ የህብረቱ ኃይሎችን አዛዥ ከኃላፊነት አነሳች (Saudi Arabia dismisses commander of coalition forces fighting Houthis)"
+  "ሳዑዲ ዓረቢያ በየመን የሚገኙ የህብረቱ ኃይሎችን አዛዥ ከኃላፊነት አነሳች (Saudi Arabia dismisses commander of coalition forces fighting Houthis)",
+  "በምዕራብ ኮርዶፋን በሱዳን ጦር በተፈጸመ የአየር ጥቃት 13 ሰዎች ተገደሉ (Sudanese army air attack kills 13 in western Sudan: Rights group)"
  ],
  "posted_at": [
   1794694129.3014543,
@@ -2622,6 +2616,7 @@
   1794838873.6672943,
   1794841845.8896635,
   1794846941.588036,
-  1794859787.3616073
+  1794859787.3616073,
+  1794864994.7918596
  ]
 }
