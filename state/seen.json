@@ -1,7 +1,5 @@
 {
  "seen": {
-  "22e740fd0c9a4b2d": 1793612069.3504148,
-  "2f8123d4bdc5f436": 1793612069.3504148,
   "d6e898608db35988": 1793615677.665964,
   "cee9a01ab30120d3": 1793615677.665964,
   "ae19d26c509fd4be": 1793615677.665964,
@@ -1496,10 +1494,11 @@
   "e40b832e10c9bd2f": 1794820287.7734601,
   "c1ff615684abc2aa": 1794820287.7734601,
   "7ba07ac34113bc2a": 1794820287.7734601,
-  "cbf090c68f3238a2": 1794820287.7734601
+  "cbf090c68f3238a2": 1794820287.7734601,
+  "c31e3edc1ccbcfd3": 1794822193.7626972,
+  "8c162d6ed776a6c5": 1794822193.7626972
  },
  "recent_headlines": [
-  "ሳፋሪኮም ኢትዮጵያ 193 ሚሊዮን ዶላር አዲስ የካፒታል ፈንድ አገኘ (Safaricom Ethiopia raises $193M, lifting it into Ethiopia's top 8% of growth rounds)",
   "ኬንያ 500 ሚሊዮን USD የሚይዝ የስታርታፕ ፈንድ ልታቋቁም ነው (Kenya targets Sh65 billion in startup financing as venture capital funding falls 45 percent)",
   "ኢቲዮ ቴሌኮም የ43.1 ቢሊዮን ብር የትርፍ ክፍፍል ለመክፈል ማቀዱን አስታወቀ (Ethio Telecom Projects ETB43.1bn Dividend Payout)",
   "የኬንያ ማዕከላዊ ባንክ በ AI የሚመሩ የዲጂታል ብድር ውሳኔዎችን የሚቆጣጠር አዲስ መመሪያ አወጣ (Kenya’s new lending rules put AI-driven credit decisions and borrower assessments under scrutiny)",
@@ -1538,11 +1537,13 @@
   "EIH እና CCI Global የ26 ሚሊዮን USD የ BPO ስምምነት ተፈራረሙ (EIH, CCI Global Sign $26 Million Deal to Develop Ethiopia’s BPO Industry)",
   "አዋሽ ኢንሹራንስ የ6 ቢሊዮን ብር ገቢ እና የ1.84 ቢሊዮን ብር ከታክስ በፊት ትርፍ አበሰረ (Awash Insurance Breaks 6 Billion Birr Revenue Barrier as Profit Surges 65 Percent)",
   "የኢትዮጵያ ብሔራዊ ባንክ ከዓለም አቀፉ የኢስላሚክ ክላይሜት ፋይናንስ አሊያንስ ጋር ተቀላቀለ (Central Bank Joins Global Islamic Climate Finance Alliance as It Prepares to Host COP32)",
-  "ኬንያ ለክሪፕቶ ኩባንያዎች የሥራ ፈቃድ መስጠት የሚያስችለውን አዲስ መመሪያ አወጣች (Kenya opens licensing for crypto firms as VASP rules take effect)"
+  "ኬንያ ለክሪፕቶ ኩባንያዎች የሥራ ፈቃድ መስጠት የሚያስችለውን አዲስ መመሪያ አወጣች (Kenya opens licensing for crypto firms as VASP rules take effect)",
+  "MTN የደቡብ አፍሪካውን ተፎካካሪውን Telkom ሙሉ በሙሉ ለመግዛት የሚያስችለውን ድርድር ጀመረ (MTN targets Telkom in renewed takeover talks)"
  ],
  "posted_at": [
   1794690434.1406877,
   1794692112.6859097,
-  1794737255.5551631
+  1794737255.5551631,
+  1794822273.7017274
  ]
 }
