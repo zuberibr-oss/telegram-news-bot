@@ -1,13 +1,5 @@
 {
  "seen": {
-  "50d252ade50fb81e": 1793686456.320162,
-  "a2e805e832bb45f3": 1793686456.320162,
-  "482ce3a93174a82f": 1793686456.320162,
-  "b08f082e6d4289cc": 1793686456.320162,
-  "0df4294d0d30af43": 1793686456.320162,
-  "187a643b57404cf8": 1793686456.320162,
-  "51b428690a1b9470": 1793686456.320162,
-  "6980da2a695c68df": 1793686456.320162,
   "c618a69184a24821": 1793687966.2982345,
   "8c057eb083333e5d": 1793687966.2982345,
   "63033be0e6dff8af": 1793687966.2982345,
@@ -2520,12 +2512,24 @@
   "189744a33bfa719b": 1794892118.9781833,
   "3b9e86bfb3d5df1f": 1794893725.0969367,
   "414b74fdb1733364": 1794893725.0969367,
-  "19fac4474e5f3fc4": 1794893725.0969367
+  "19fac4474e5f3fc4": 1794893725.0969367,
+  "788590ea2af2da3a": 1794896042.833189,
+  "2084019d333b9e88": 1794896042.833189,
+  "f961f3b844854915": 1794896042.833189,
+  "7fc1295f1a2d0303": 1794896042.833189,
+  "fdd5af814c4f8d2e": 1794896042.833189,
+  "b1bcca6c7ceea113": 1794896042.833189,
+  "cf55810093d4ef19": 1794896042.833189,
+  "d9712dbdca06e812": 1794896042.833189,
+  "fa4bffc6fe727462": 1794896042.833189,
+  "26b5fe3b48f53c99": 1794896042.833189,
+  "fc47ea18ec0ac236": 1794896042.833189,
+  "c1f5fdb217ac871f": 1794896042.833189,
+  "3c515e584a143201": 1794896042.833189,
+  "ea3f80a8cf37d83a": 1794896042.833189,
+  "3b324ef87a124598": 1794896042.833189
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ ለከወለድ ነፃ ባንኮች የፈሳሽ ገንዘብ ማኔጅመንት መሳሪያዎችን ፈቀደ (Governor Eyob Opens Liquidity Tools to Interest-Free Banks)",
-  "የሳዑዲ መሪነት ህብረት በሪያድ ላይ የተቃጣ ባሊስቲክ ሚሳይል እና ድሮን ጥቃቶችን አከሸፈ (Saudi-led coalition intercepts two missiles, two drones in Riyadh)",
-  "እስራኤል ለኢትዮጵያውያን እና ሌሎች አፍሪካውያን ስደተኞች ሀገሪቷን ለቀው እንዲወጡ 3,500 ዶላር አቀረበች (Daily_Brief: #Israel offers #Ethiopians, other #African migrants $3,500 and free flights to leave by December 31)",
   "ኢራን በባህሬን ላይ የሰነዘረቻቸውን ጥቃቶች ማክሸፏን ሀገሪቱ አስታወቀች (Iran war live: Bahrain targeted as Gulf nations warned against US support)",
   "በሱዳን የኃይል ማመንጫዎች ላይ የተፈጸሙ ጥቃቶች ከተሞችን በጨለማ ውስጥ ዘፈቁ (Drone attacks on power stations plunge Sudan’s cities into darkness)",
   "ኢራን በባህሬን በሚገኝ የአሜሪካ የራዳር ጣቢያ ላይ የድሮን ጥቃት መፈጸሟን ገለጸች (Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes)",
@@ -2562,10 +2566,12 @@
   "ዶናልድ ትራምፕ በፊሊፒንስ በሚካሄደው የአሴአን ጉባኤ ላይ ለመሳተፍ ወደ ማኒላ አቀኑ (Trump departs for ASEAN on summit with Xi and Putin)",
   "በሞያሌ እና አካባቢው ያቀረረው የኦሮሚያ እና ሶማሌ ክልሎች የወሰን ግጭት የነዋሪዎችን እንቅስቃሴ አስተጓጎለ (Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens)",
   "ዩክሬን ከአሜሪካ እና አውሮፓ ጋር የሰላም ድርድር አደረገች (Ukraine holds peace talks with US, Europe as conflict escalates)",
-  "ዩናይትድ ስቴትስ ቻይና የኤአይ ቺፖችን በሌሎች ሀገራት በኩል እንዳታገኝ ገደብ ጣለች (US moves to block China’s remote access to AI chips amid Nvidia scandal)"
+  "ዩናይትድ ስቴትስ ቻይና የኤአይ ቺፖችን በሌሎች ሀገራት በኩል እንዳታገኝ ገደብ ጣለች (US moves to block China’s remote access to AI chips amid Nvidia scandal)",
+  "የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ ለተፈጸመው ጥቃት ኃላፊነት መውሰዱን ገለጸ (የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ \"እርምጃ\" መውሰዱን አምኖ፣ የተገደሉት \"የትርፍ ጊዜ ተዋጊዎች\" ናቸው አለ)",
+  "ሩሲያ በኪየቭ በሚገኙ ሁለት ዋና ዋና ድልድዮች ላይ የባሊስቲክ ሚሳይል ጥቃት ፈጸመች (Two major Kyiv bridges hit in Russian attack, mayor says)",
+  "ሩሲያ በዩክሬን የእርዳታ ማዕከል ላይ በፈጸመችው ጥቃት የ72 ሰዎች ሕይወት አለፈ (Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72)"
  ],
  "posted_at": [
-  1794720957.5742095,
   1794735317.735559,
   1794738929.4264784,
   1794746141.938663,
@@ -2602,6 +2608,9 @@
   1794874865.8997755,
   1794876487.907458,
   1794876491.2634876,
-  1794886543.7583709
+  1794886543.7583709,
+  1794896161.3147535,
+  1794896164.815242,
+  1794896168.3131325
  ]
 }
