@@ -1,8 +1,5 @@
 {
  "seen": {
-  "0d2793c0083f671f": 1793716538.0276752,
-  "6b1886c6a7758009": 1793716538.0276752,
-  "bcaf471e7244d58c": 1793716538.0276752,
   "c3bf73b73a19ac5f": 1793718567.6989837,
   "e047f3139d537365": 1793718567.6989837,
   "b46df759812d964c": 1793718567.6989837,
@@ -2535,11 +2532,11 @@
   "9e669fe13f00c4b0": 1794924536.1372588,
   "adc2858a3864afc5": 1794924536.1372588,
   "946a10481be17ebf": 1794924536.1372588,
-  "9ade450013dcd6e3": 1794924536.1372588
+  "9ade450013dcd6e3": 1794924536.1372588,
+  "249b0c15a427743f": 1794926115.4451616,
+  "62b76af6429029d7": 1794926115.4451616
  },
  "recent_headlines": [
-  "የየመን የመንግሥት ኃይሎች ከባቢ ኤል ማንዳብ በመውጣታቸው ሁቲዎች ቦታውን ተቆጣጠሩ (Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway)",
-  "ሶስተኛው የአሜሪካ የጦር መርከብ መካከለኛው ምስራቅ ደረሰ፤ በሆርሙዝ የነዳጅ መርከቦች በጥቃት ተመቱ (Iran war live: Third US carrier arrives, Iran says oil tankers hit mines)",
   "የተባበሩት መንግሥታት ድርጅት አዲስ ዋና ፀሐፊን ለመምረጥ የሚደረገው ውድድር ተጠናከረ (US and rivals spar over next UN boss as race lurches towards deadline)",
   "አምስት የአውሮፓ ህብረት ሀገራት በሩዋንዳ የስደተኞች ማባረሪያ ማዕከል ለማቋቋም ተስማሙ (Five EU nations to unveil migrant deportation centre in Rwanda)",
   "ኢራን በስምንት ሀገራት የሚገኙ 31 የአሜሪካ ወታደራዊ እና ዲፕሎማሲያዊ ተቋማትን ማጥቃቷ ተገለጸ (Daily_Brief: #Iran struck 31 #US military, diplomatic sites across eight countries, new investigation finds)",
@@ -2577,7 +2574,9 @@
   "ጃፓን፣ ደቡብ ኮሪያ እና ታይዋን የሩሲያ አውሮፕላኖችን ለማስወጣት የጦር ጄቶችን አሰማሩ (Japan sends up jets after alleged Russian incursion of its airspace)",
   "በትግራይ ከ80 እስከ 90 በመቶ የሚሆኑ የመቀሌ ነዋሪዎች እርዳታ እንደሚፈልጉ ጊዜያዊ አስተዳደሩ ገለጸ (Illegal TPLF Group’s War Agenda, Forced Recruitment & Economic Coercion Have Driven Tigray into Severe Poverty: Caretaker Administration)",
   "የሕወሓት አመራሮች ከ830 በላይ ተሽከርካሪዎችን ይዘው ወደ ኤርትራ መኮበለላቸው ተገለጸ (TPLF Leaders Flee to Eritrea with More Than 830 Looted Public Vehicles, Tigray Caretaker Administration Says)",
-  "የአዲስ አበባ ከተማ አስተዳደር እና የዓለም ባንክ በልማት ትብብር ላይ ተወያዩ (Addis Ababa and World Bank Group Discuss Expanding Cooperation on Key Urban Development Priorities)"
+  "የአዲስ አበባ ከተማ አስተዳደር እና የዓለም ባንክ በልማት ትብብር ላይ ተወያዩ (Addis Ababa and World Bank Group Discuss Expanding Cooperation on Key Urban Development Priorities)",
+  "ታላቋ ብሪታንያ በዌስት ባንክ ሰፈራዎችን በሚገነቡ 8 የእስራኤል ኩባንያዎች ላይ ማዕቀብ ጣለች (UK sanctions eight Israeli construction firms over West Bank settlements)",
+  "ኢትዮጵያ በኮፕ31 ጉባኤ ለታዳጊ ሀገራት በቂ የካርቦን እና የፋይናንስ ድጋፍ እንዲደረግ ጠየቀች (Ethiopia Stresses Need for Adequate and Accessible Climate Finance at COP31)"
  ],
  "posted_at": [
   1794774929.8480377,
@@ -2623,6 +2622,8 @@
   1794906652.8014607,
   1794908245.34578,
   1794910171.7126255,
-  1794915343.8059137
+  1794915343.8059137,
+  1794926157.02794,
+  1794926160.450655
  ]
 }
