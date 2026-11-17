@@ -1,11 +1,5 @@
 {
  "seen": {
-  "3ee8e87b3c3d5fdf": 1793698527.0578153,
-  "2113491f3e3ded09": 1793698527.0578153,
-  "c67432bd83a08ea2": 1793698527.0578153,
-  "91745787e1a4d4e2": 1793698527.0578153,
-  "411bb6cca177dd26": 1793698527.0578153,
-  "a41fd6ce1ee32686": 1793698527.0578153,
   "e929aa6b863f6ae2": 1793700521.2754693,
   "138189c9722f153b": 1793700521.2754693,
   "69cbff0394f7845d": 1793700521.2754693,
@@ -2542,10 +2536,14 @@
   "aff4cbd453f44eb5": 1794906596.5252104,
   "8f2ef80e78faf82a": 1794906596.5252104,
   "148f116150e95a17": 1794906596.5252104,
-  "dbc2a0554bd17e68": 1794906596.5252104
+  "dbc2a0554bd17e68": 1794906596.5252104,
+  "0cc07b4d3fa899d8": 1794908198.8112402,
+  "966c5fe5fa403dce": 1794908198.8112402,
+  "c5ec4e4bf9bcb795": 1794908198.8112402,
+  "f5f592aac3c0a3e9": 1794908198.8112402,
+  "b574f5009f980c67": 1794908198.8112402
  },
  "recent_headlines": [
-  "የየመኑ ሁቲዎች 600 የጦር እስረኞችን በአንድ ወገን ውሳኔ ፈቱ (Yemen’s Houthis unilaterally release 600 war detainees)",
   "ኢራን በአሜሪካ ላይ ቅድመ-ጥቃት ልትሰነዝር እንደሚችል ማስጠንቀቋ ተገለጸ (Iran war live: Tehran warns it may strike first before another US attack)",
   "በየመን የሁቲ አማፂያን ያደረጉት ግስጋሴ የዔደን ከተማን ሥጋት ውስጥ ጣለ (Houthis advance in Yemen as government forces move to defend Aden)",
   "የየመን የመንግሥት ኃይሎች ከባቢ ኤል ማንዳብ በመውጣታቸው ሁቲዎች ቦታውን ተቆጣጠሩ (Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway)",
@@ -2584,10 +2582,10 @@
   "የአምባሳደሮች እና የተባበሩት መንግሥታት ድርጅት ልዑካን መቅሌ ገቡ (International Diplomatic Community, UN Representatives Travel to Ethiopia’s Tigray Region for Official Engagements)",
   "ባሕሬን የአሜሪካ የጦር ራዳር ላይ የተሰነዘረውን የኢራን የድሮን ጥቃት አከሸፈች (Bahrain thwarts drone attack, Iran claims targeting US military radar)",
   "ዩናይትድ ስቴትስ በሶማሊያ የሚገኙ የተባበሩት መንግሥታት እና የአፍሪካ ኅብረት የጸጥታ ተልዕኮዎች ለአንድ ዓመት እንዲራዘሙ ደገፈች (News: US backs one-year renewal of UN, AU security missions in Somalia after reversal)",
-  "ጃፓን፣ ደቡብ ኮሪያ እና ታይዋን የሩሲያ አውሮፕላኖችን ለማስወጣት የጦር ጄቶችን አሰማሩ (Japan sends up jets after alleged Russian incursion of its airspace)"
+  "ጃፓን፣ ደቡብ ኮሪያ እና ታይዋን የሩሲያ አውሮፕላኖችን ለማስወጣት የጦር ጄቶችን አሰማሩ (Japan sends up jets after alleged Russian incursion of its airspace)",
+  "በትግራይ ከ80 እስከ 90 በመቶ የሚሆኑ የመቀሌ ነዋሪዎች እርዳታ እንደሚፈልጉ ጊዜያዊ አስተዳደሩ ገለጸ (Illegal TPLF Group’s War Agenda, Forced Recruitment & Economic Coercion Have Driven Tigray into Severe Poverty: Caretaker Administration)"
  ],
  "posted_at": [
-  1794735317.735559,
   1794738929.4264784,
   1794746141.938663,
   1794748075.0957232,
@@ -2631,6 +2629,7 @@
   1794900946.6335938,
   1794903129.9006367,
   1794903133.3293345,
-  1794906652.8014607
+  1794906652.8014607,
+  1794908245.34578
  ]
 }
