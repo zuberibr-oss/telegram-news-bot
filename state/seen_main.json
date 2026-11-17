@@ -1,8 +1,5 @@
 {
  "seen": {
-  "84b6c9139bb86eb6": 1793720153.0025005,
-  "54388fa7610d353b": 1793720153.0025005,
-  "adfbd57eed4bbffb": 1793720153.0025005,
   "880bebc400313f54": 1793722179.8326287,
   "09b2ef6ddc03019b": 1793722179.8326287,
   "51314203179b8142": 1793722179.8326287,
@@ -2534,11 +2531,14 @@
   "c7988529413acc6f": 1794928172.7368789,
   "14e62316de0ee9f8": 1794928172.7368789,
   "6905760756ad1e6d": 1794928172.7368789,
-  "2d20067f621072f7": 1794928172.7368789
+  "2d20067f621072f7": 1794928172.7368789,
+  "08b6751266aeafa9": 1794929723.5915327,
+  "1d7edb1757f1554f": 1794929723.5915327,
+  "0ad837e91393aad7": 1794929723.5915327,
+  "26c3882380055045": 1794929723.5915327,
+  "c145dcf23802f256": 1794929723.5915327
  },
  "recent_headlines": [
-  "የተባበሩት መንግሥታት ድርጅት አዲስ ዋና ፀሐፊን ለመምረጥ የሚደረገው ውድድር ተጠናከረ (US and rivals spar over next UN boss as race lurches towards deadline)",
-  "አምስት የአውሮፓ ህብረት ሀገራት በሩዋንዳ የስደተኞች ማባረሪያ ማዕከል ለማቋቋም ተስማሙ (Five EU nations to unveil migrant deportation centre in Rwanda)",
   "ኢራን በስምንት ሀገራት የሚገኙ 31 የአሜሪካ ወታደራዊ እና ዲፕሎማሲያዊ ተቋማትን ማጥቃቷ ተገለጸ (Daily_Brief: #Iran struck 31 #US military, diplomatic sites across eight countries, new investigation finds)",
   "ጠቅላይ ሚኒስትር ዐቢይ የCOP32 ብሔራዊ መሪ ኮሚቴ የዝግጅት ምዕራፍን ገመገሙ (PM Abiy Convenes COP32 National Steering Committee to Assess Preparations and Set Strategic Direction)",
   "የዓለም ጤና ድርጅት፡ በመድኃኒት የመላመድ ችግር 39 ሚሊዮን ሰዎች ሊሞቱ ይችላሉ (Antimicrobial resistance could kill 39 million people over 25 years: WHO)",
@@ -2576,7 +2576,9 @@
   "የሕወሓት አመራሮች ከ830 በላይ ተሽከርካሪዎችን ይዘው ወደ ኤርትራ መኮበለላቸው ተገለጸ (TPLF Leaders Flee to Eritrea with More Than 830 Looted Public Vehicles, Tigray Caretaker Administration Says)",
   "የአዲስ አበባ ከተማ አስተዳደር እና የዓለም ባንክ በልማት ትብብር ላይ ተወያዩ (Addis Ababa and World Bank Group Discuss Expanding Cooperation on Key Urban Development Priorities)",
   "ታላቋ ብሪታንያ በዌስት ባንክ ሰፈራዎችን በሚገነቡ 8 የእስራኤል ኩባንያዎች ላይ ማዕቀብ ጣለች (UK sanctions eight Israeli construction firms over West Bank settlements)",
-  "ኢትዮጵያ በኮፕ31 ጉባኤ ለታዳጊ ሀገራት በቂ የካርቦን እና የፋይናንስ ድጋፍ እንዲደረግ ጠየቀች (Ethiopia Stresses Need for Adequate and Accessible Climate Finance at COP31)"
+  "ኢትዮጵያ በኮፕ31 ጉባኤ ለታዳጊ ሀገራት በቂ የካርቦን እና የፋይናንስ ድጋፍ እንዲደረግ ጠየቀች (Ethiopia Stresses Need for Adequate and Accessible Climate Finance at COP31)",
+  "ዶናልድ ትራምፕ በዋሺንግተን ላይ የተደቀነውን የጥቃት ስጋት ተከትሎ ለኢራን ማስጠንቀቂያ ሰጡ (Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington)",
+  "ሳልሳይ ወያነ ትግራይ በጸለምቲ በረሃብ ምክንያት ስደት እንዳይከሰት አስጠነቀቀ (Salsay Weyane Tigray warns of famine-driven displacement in Tselemti, calls for halt to revenge-driven actions)"
  ],
  "posted_at": [
   1794774929.8480377,
@@ -2624,6 +2626,8 @@
   1794910171.7126255,
   1794915343.8059137,
   1794926157.02794,
-  1794926160.450655
+  1794926160.450655,
+  1794929763.8745532,
+  1794929767.3060036
  ]
 }
