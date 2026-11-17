@@ -1,8 +1,5 @@
 {
  "seen": {
-  "e418f4dda733eef3": 1793723724.902356,
-  "e44f4729d34377a3": 1793723724.902356,
-  "68f92ba8b50f6eab": 1793723724.902356,
   "784837e046b9bf8c": 1793725679.269428,
   "fc9d975eb2a002f8": 1793725679.269428,
   "132218d4907adc48": 1793725679.269428,
@@ -2532,11 +2529,16 @@
   "26c3882380055045": 1794929723.5915327,
   "c145dcf23802f256": 1794929723.5915327,
   "18eb4a1f7756f58b": 1794931798.8334117,
-  "4244075861c8811f": 1794931798.8334117
+  "4244075861c8811f": 1794931798.8334117,
+  "521bdb97c00ab214": 1794933310.1188276,
+  "527d0016a66b4e46": 1794933310.1188276,
+  "f735a9ddeb5738a8": 1794933310.1188276,
+  "98bb1f07feee0329": 1794933310.1188276,
+  "f03f3bc1841a53de": 1794933310.1188276,
+  "bc5e81b71d117bb6": 1794933310.1188276,
+  "4552920ea9eee1c5": 1794933310.1188276
  },
  "recent_headlines": [
-  "ኢራን በስምንት ሀገራት የሚገኙ 31 የአሜሪካ ወታደራዊ እና ዲፕሎማሲያዊ ተቋማትን ማጥቃቷ ተገለጸ (Daily_Brief: #Iran struck 31 #US military, diplomatic sites across eight countries, new investigation finds)",
-  "ጠቅላይ ሚኒስትር ዐቢይ የCOP32 ብሔራዊ መሪ ኮሚቴ የዝግጅት ምዕራፍን ገመገሙ (PM Abiy Convenes COP32 National Steering Committee to Assess Preparations and Set Strategic Direction)",
   "የዓለም ጤና ድርጅት፡ በመድኃኒት የመላመድ ችግር 39 ሚሊዮን ሰዎች ሊሞቱ ይችላሉ (Antimicrobial resistance could kill 39 million people over 25 years: WHO)",
   "ሩሲያ ከምዕራባውያን ጋር በምታደርገው የሰላም ድርድር አውሮፓን የሚከፋፍሉ ጥያቄዎችን አቀረበች (‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe)",
   "ኢትዮጵያ እና ቻይና በኢንዱስትሪ ፓርኮች የሚደረገውን የቻይና ኢንቨስትመንት በእጥፍ ለማሳደግ ተወያዩ (Ethiopia and China Move to Double Chinese Investment in Industrial Parks and Special Economic Zones)",
@@ -2574,7 +2576,9 @@
   "ታላቋ ብሪታንያ በዌስት ባንክ ሰፈራዎችን በሚገነቡ 8 የእስራኤል ኩባንያዎች ላይ ማዕቀብ ጣለች (UK sanctions eight Israeli construction firms over West Bank settlements)",
   "ኢትዮጵያ በኮፕ31 ጉባኤ ለታዳጊ ሀገራት በቂ የካርቦን እና የፋይናንስ ድጋፍ እንዲደረግ ጠየቀች (Ethiopia Stresses Need for Adequate and Accessible Climate Finance at COP31)",
   "ዶናልድ ትራምፕ በዋሺንግተን ላይ የተደቀነውን የጥቃት ስጋት ተከትሎ ለኢራን ማስጠንቀቂያ ሰጡ (Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington)",
-  "ሳልሳይ ወያነ ትግራይ በጸለምቲ በረሃብ ምክንያት ስደት እንዳይከሰት አስጠነቀቀ (Salsay Weyane Tigray warns of famine-driven displacement in Tselemti, calls for halt to revenge-driven actions)"
+  "ሳልሳይ ወያነ ትግራይ በጸለምቲ በረሃብ ምክንያት ስደት እንዳይከሰት አስጠነቀቀ (Salsay Weyane Tigray warns of famine-driven displacement in Tselemti, calls for halt to revenge-driven actions)",
+  "የኳድ አባል ሀገራት የቻይናን የበላይነት ለመቀነስ የሚያስችል የወሳኝ ማዕድናት ስምምነት ተፈራረሙ (Trump announces critical minerals agreements at Quad meeting in Manila)",
+  "ዩናይትድ ስቴትስ ከ26 ዓመታት በኋላ ከኩፍኝ በሽታ ነጻ የመሆን ደረጃዋን አጣች (US officially loses measles-free status after 26 years amid outbreak)"
  ],
  "posted_at": [
   1794774929.8480377,
@@ -2624,6 +2628,8 @@
   1794926157.02794,
   1794926160.450655,
   1794929763.8745532,
-  1794929767.3060036
+  1794929767.3060036,
+  1794933369.213455,
+  1794933372.6038368
  ]
 }
