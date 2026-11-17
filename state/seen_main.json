@@ -1,8 +1,5 @@
 {
  "seen": {
-  "046f9bdaef39b22c": 1793696986.6586297,
-  "30d504232b0f4a4a": 1793696986.6586297,
-  "4d52a96d10502c6c": 1793696986.6586297,
   "3ee8e87b3c3d5fdf": 1793698527.0578153,
   "2113491f3e3ded09": 1793698527.0578153,
   "c67432bd83a08ea2": 1793698527.0578153,
@@ -2537,10 +2534,17 @@
   "be130bf58a3258ec": 1794904502.8639214,
   "1beb6de7f214f8b7": 1794904502.8639214,
   "c90e08c526a6648e": 1794904502.8639214,
-  "125c326932d5d7d7": 1794904502.8639214
+  "125c326932d5d7d7": 1794904502.8639214,
+  "8c434fc7f439e6a4": 1794906596.5252104,
+  "f0d41eef4e61861b": 1794906596.5252104,
+  "76b7b1ff0b593101": 1794906596.5252104,
+  "76ea7d798829541b": 1794906596.5252104,
+  "aff4cbd453f44eb5": 1794906596.5252104,
+  "8f2ef80e78faf82a": 1794906596.5252104,
+  "148f116150e95a17": 1794906596.5252104,
+  "dbc2a0554bd17e68": 1794906596.5252104
  },
  "recent_headlines": [
-  "በዲሞክራሲያዊ ሪፐብሊክ ኮንጎ የተቀሰቀሰው የኤቦላ ወረርሽኝ በቁጥጥር ስር አለመዋሉ ተገለጸ (Africa CDC says Ebola outbreak in DR Congo ‘still not under control’)",
   "የየመኑ ሁቲዎች 600 የጦር እስረኞችን በአንድ ወገን ውሳኔ ፈቱ (Yemen’s Houthis unilaterally release 600 war detainees)",
   "ኢራን በአሜሪካ ላይ ቅድመ-ጥቃት ልትሰነዝር እንደሚችል ማስጠንቀቋ ተገለጸ (Iran war live: Tehran warns it may strike first before another US attack)",
   "በየመን የሁቲ አማፂያን ያደረጉት ግስጋሴ የዔደን ከተማን ሥጋት ውስጥ ጣለ (Houthis advance in Yemen as government forces move to defend Aden)",
@@ -2579,7 +2583,8 @@
   "ኢትዮጵያ በCOP31 ጉባኤ የችግኝ ተከላና የኤሌክትሪክ ተሽከርካሪ ስኬቶቿን አቀረበች (Ethiopia Takes 144,429 Electric Vehicles and 56 Billion Green Legacy Seedlings to Global Climate Stage Ahead of COP32)",
   "የአምባሳደሮች እና የተባበሩት መንግሥታት ድርጅት ልዑካን መቅሌ ገቡ (International Diplomatic Community, UN Representatives Travel to Ethiopia’s Tigray Region for Official Engagements)",
   "ባሕሬን የአሜሪካ የጦር ራዳር ላይ የተሰነዘረውን የኢራን የድሮን ጥቃት አከሸፈች (Bahrain thwarts drone attack, Iran claims targeting US military radar)",
-  "ዩናይትድ ስቴትስ በሶማሊያ የሚገኙ የተባበሩት መንግሥታት እና የአፍሪካ ኅብረት የጸጥታ ተልዕኮዎች ለአንድ ዓመት እንዲራዘሙ ደገፈች (News: US backs one-year renewal of UN, AU security missions in Somalia after reversal)"
+  "ዩናይትድ ስቴትስ በሶማሊያ የሚገኙ የተባበሩት መንግሥታት እና የአፍሪካ ኅብረት የጸጥታ ተልዕኮዎች ለአንድ ዓመት እንዲራዘሙ ደገፈች (News: US backs one-year renewal of UN, AU security missions in Somalia after reversal)",
+  "ጃፓን፣ ደቡብ ኮሪያ እና ታይዋን የሩሲያ አውሮፕላኖችን ለማስወጣት የጦር ጄቶችን አሰማሩ (Japan sends up jets after alleged Russian incursion of its airspace)"
  ],
  "posted_at": [
   1794735317.735559,
@@ -2625,6 +2630,7 @@
   1794899485.8251798,
   1794900946.6335938,
   1794903129.9006367,
-  1794903133.3293345
+  1794903133.3293345,
+  1794906652.8014607
  ]
 }
