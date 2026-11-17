@@ -1482,10 +1482,11 @@
   "ca5bb5a0575eb996": 1794911677.0434275,
   "bee6a777d08d12a9": 1794911677.0434275,
   "22eea8122205083e": 1794911677.0434275,
-  "8d1e1f5fdee57ba7": 1794911677.0434275
+  "8d1e1f5fdee57ba7": 1794911677.0434275,
+  "b98beb7d756000bf": 1794913629.3514202,
+  "738060d0222bacb7": 1794913629.3514202
  },
  "recent_headlines": [
-  "ኢትዮጵያ የዲጂታል ፋይናንስ እድገትን ያካተተ አዲስ የ GDP ስሌት ይፋ አደረገች (Ethiopia’s GDP Rebase Captures Growth in Digital Financial Services)",
   "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን USD የውጭ ምንዛሬ በሐራጅ ሊሸጥ ነው (NBE to Auction 140 Million US Dollars as Bank Demand Continues to Exceed Supply)",
   "የደቡብ አፍሪካው ፊንቴክ Yoco 100 ሚሊዮን ዶላር የብድር ፈንድ አገኘ (Yoco secures $100 million credit to fuel its merchant lending expansion)",
   "ኢትዮጵያ የመንግሥት ተቋማት መሠረተ ልማታቸውን በብሔራዊ የክላውድ ስትራቴጂ ሥር እንዲያዋህዱ አሳሰበች (Ethiopia presses public institutions to consolidate infrastructure under national cloud strategy)",
@@ -1524,7 +1525,8 @@
   "የኢትዮጵያ ኢ-ሞቢሊቲ ስታርታፕ Dodai የ16 ሚሊዮን USD Series A የኢንቨስትመንት ዙር አጠናቀቀ (Tokyo Gas Backs Ethiopia’s Dodai As Electric Motorbike Startup Closes $16M Series A)",
   "Paystack የአፍሪካ ክፍያዎችን ከ Solana ብሎክቼይን የሚያገናኝ አዲስ ፕላትፎርም ይፋ አደረገ (Paystack is making a play for Nigeria’s onchain payment infrastructure)",
   "Vodacom የ Safaricomን የንግድ ስም ዋጋ 88 ቢሊዮን የኬንያ ሽልንግ እንደሆነ ገመተ (Vodacom values Safaricom brand at Sh88bn in buyout)",
-  "የSafaricom የግማሽ ዓመት ትርፍ በ35.9 በመቶ አደገ፤ በኢትዮጵያ የነበረው ኪሳራ ቀነሰ (Safaricom stock: H1 net income rises 35.9% as Ethiopia losses shrink)"
+  "የSafaricom የግማሽ ዓመት ትርፍ በ35.9 በመቶ አደገ፤ በኢትዮጵያ የነበረው ኪሳራ ቀነሰ (Safaricom stock: H1 net income rises 35.9% as Ethiopia losses shrink)",
+  "የአዲስ አበባ ከተማ አስተዳደር የኤሌክትሮኒክስ ግዥን የሚያስገድድ አዲስ መመሪያ አወጣ (Addis Ababa Bars Former Bid Officials From Public Tenders)"
  ],
  "posted_at": [
   1794822273.7017274,
@@ -1535,6 +1537,7 @@
   1794863281.7742152,
   1794864950.31309,
   1794866905.1118133,
-  1794870463.834167
+  1794870463.834167,
+  1794913712.8428607
  ]
 }
