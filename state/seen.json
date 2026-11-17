@@ -1,25 +1,5 @@
 {
  "seen": {
-  "53d08ff98c505eac": 1793739992.2969863,
-  "20345e9675547d9a": 1793739992.2969863,
-  "f155cfb7f721bfd4": 1793739992.2969863,
-  "fc9d975eb2a002f8": 1793739992.2969863,
-  "f610afe4e4b38ede": 1793739992.2969863,
-  "6d930c9bbe49e1c8": 1793739992.2969863,
-  "f89d3730443c869a": 1793739992.2969863,
-  "e418f4dda733eef3": 1793739992.2969863,
-  "0ad9bf7308a577ee": 1793739992.2969863,
-  "bf0f2974641e960c": 1793739992.2969863,
-  "2532d27c3d0b78ce": 1793739992.2969863,
-  "239597300eeefc93": 1793739992.2969863,
-  "41db1c9c5788d141": 1793739992.2969863,
-  "162b6c9dcab6ad3b": 1793739992.2969863,
-  "adfbd57eed4bbffb": 1793739992.2969863,
-  "5c82f9c7571a3f56": 1793739992.2969863,
-  "03bed7e03f18e2cb": 1793739992.2969863,
-  "b046f560b0d8b34d": 1793739992.2969863,
-  "f9d3d134984d0ee8": 1793739992.2969863,
-  "8f24affd6d01c7ad": 1793739992.2969863,
   "90d2d0edcdf684cf": 1793741640.5277116,
   "59db3f3218761a46": 1793741640.5277116,
   "0ab1cbf64b8c71db": 1793741640.5277116,
@@ -1485,10 +1465,13 @@
   "b3aa7ad5958d9bdb": 1794917457.9074976,
   "4d27cefb746b2a1f": 1794922488.887736,
   "88495cc201681bf3": 1794929665.8037462,
-  "520c63adc9abb584": 1794936849.6009471
+  "520c63adc9abb584": 1794936849.6009471,
+  "8da7e27db977b532": 1794949631.1298325,
+  "2c2d930f33f70035": 1794949631.1298325,
+  "ed9696187066427e": 1794949631.1298325,
+  "a65cc0a26845ddbe": 1794949631.1298325
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ 140 ሚሊዮን USD የውጭ ምንዛሬ በሐራጅ ሊሸጥ ነው (NBE to Auction 140 Million US Dollars as Bank Demand Continues to Exceed Supply)",
   "የደቡብ አፍሪካው ፊንቴክ Yoco 100 ሚሊዮን ዶላር የብድር ፈንድ አገኘ (Yoco secures $100 million credit to fuel its merchant lending expansion)",
   "ኢትዮጵያ የመንግሥት ተቋማት መሠረተ ልማታቸውን በብሔራዊ የክላውድ ስትራቴጂ ሥር እንዲያዋህዱ አሳሰበች (Ethiopia presses public institutions to consolidate infrastructure under national cloud strategy)",
   "የVodacom የትርፍ መጠን በ26 በመቶ አደገ (Vodacom profit jumps 26% as Safaricom gains boost earnings)",
@@ -1527,7 +1510,8 @@
   "Paystack የአፍሪካ ክፍያዎችን ከ Solana ብሎክቼይን የሚያገናኝ አዲስ ፕላትፎርም ይፋ አደረገ (Paystack is making a play for Nigeria’s onchain payment infrastructure)",
   "Vodacom የ Safaricomን የንግድ ስም ዋጋ 88 ቢሊዮን የኬንያ ሽልንግ እንደሆነ ገመተ (Vodacom values Safaricom brand at Sh88bn in buyout)",
   "የSafaricom የግማሽ ዓመት ትርፍ በ35.9 በመቶ አደገ፤ በኢትዮጵያ የነበረው ኪሳራ ቀነሰ (Safaricom stock: H1 net income rises 35.9% as Ethiopia losses shrink)",
-  "የአዲስ አበባ ከተማ አስተዳደር የኤሌክትሮኒክስ ግዥን የሚያስገድድ አዲስ መመሪያ አወጣ (Addis Ababa Bars Former Bid Officials From Public Tenders)"
+  "የአዲስ አበባ ከተማ አስተዳደር የኤሌክትሮኒክስ ግዥን የሚያስገድድ አዲስ መመሪያ አወጣ (Addis Ababa Bars Former Bid Officials From Public Tenders)",
+  "ሳፋሪኮም ኢትዮጵያ በ2027 እ.ኤ.አ. ትርፋማ መሆን እንደሚጀምር ተገለጸ (Safaricom Ethiopia Subsidiary to Break Even in 2027)"
  ],
  "posted_at": [
   1794822273.7017274,
@@ -1539,6 +1523,7 @@
   1794864950.31309,
   1794866905.1118133,
   1794870463.834167,
-  1794913712.8428607
+  1794913712.8428607,
+  1794949702.2523952
  ]
 }
