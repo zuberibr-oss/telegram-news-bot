@@ -1,7 +1,5 @@
 {
  "seen": {
-  "0b8d29b42793b385": 1793738124.7728786,
-  "ed37ae96dd8f7e6d": 1793738124.7728786,
   "e9b07098f4ddd957": 1793740125.6456683,
   "24c72ce96e3c508a": 1793740125.6456683,
   "a2b7a2df65296143": 1793740125.6456683,
@@ -2557,13 +2555,19 @@
   "5e268456a9939620": 1794946138.7649827,
   "ef600b2812e7343a": 1794946138.7649827,
   "3b6be4c5292c347d": 1794946138.7649827,
-  "2c2d930f33f70035": 1794946138.7649827
+  "2c2d930f33f70035": 1794946138.7649827,
+  "87f211419ec50952": 1794947758.1523638,
+  "03960971214e173c": 1794947758.1523638,
+  "bb4c4528c976eb57": 1794947758.1523638,
+  "b76ba6e3de36051f": 1794947758.1523638,
+  "2a3b393f19cce7cb": 1794947758.1523638,
+  "894cce0608eb6282": 1794947758.1523638,
+  "55c6ba19afc39a78": 1794947758.1523638,
+  "6a677053709bc838": 1794947758.1523638,
+  "ed9696187066427e": 1794947758.1523638,
+  "13d4e4fdefe61c90": 1794947758.1523638
  },
  "recent_headlines": [
-  "በሳዑዲ ዓረቢያ አስቸጋሪ ሁኔታ ውስጥ የነበሩ 2,086 ኢትዮጵያውያን ወደ ሀገራቸው ተመለሱ (Ethiopia Repatriates 2,086 Nationals from Saudi Arabia Over the Past Week)",
-  "የአፍሪካ ኅብረት የ200 ሚሊዮን ወጣቶችን አቅም ለቀጣናው ዕድገት የመጠቀም እቅድ አቀረበ (AU Commission Chairperson Positions 200 Million Young Africans at the Heart of Africa’s Transformation Agenda)",
-  "ዓዲግራት ዩኒቨርሲቲ መደበኛ የመማር ማስተማር ሥራውን እንደገና ጀመረ (Adigrat University Has Resumed Regular Academic Activities, Reuniting Students on Campus)",
-  "የሥራና ክህሎት ሚኒስትሩ እና አቶ ጌታቸው በትግራይ የቀድሞ ተዋጊዎችን ማቋቋሚያ ማዕከል ጎበኙ (PM’s East African Affairs Adviser and Labor and Skills Minister Assess DDR and Reintegration Efforts in Tigray Region)",
   "የአውሮፓ ህብረት በሩሲያ ላይ አዳዲስ ማዕቀቦችን ጣለ፤ ለዩክሬን የ8.7 ቢሊዮን ዶላር ድጋፍ ፈቀደ (Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war)",
   "የፌደራል ከፍተኛ ፍርድ ቤት በኢትዮጵያ ሚዲያ ባለሥልጣን የቀረበውን የሥልጣን መቃወሚያ ውድቅ አደረገ (Federal High Court rejects Media Authority’s jurisdictional objection, decrees hearing of Addis Standard’s case)",
   "ለቀድሞ ተዋጊዎች በሀገር ውስጥ እና በውጭ ሀገር የሥራ ዕድል ለማመቻቸት እየተሠራ መሆኑ ተገለጸ (Ethiopia to Expand Employment Pathways for Former Combatants at Home and Abroad: Minister)",
@@ -2599,10 +2603,13 @@
   "ኢትዮጵያ እና አዘርባጃን በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ አብረው ለመሥራት ተስማሙ (Ethiopia and Azerbaijan Establish Cooperation on COP32 Preparations, Drawing on COP29 Experience)",
   "አቶ አደም ፋራህ የኢትዮጵያ አየር መንገድ ግሩፕ ቦርድ ሰብሳቢ ሆነው ተሾሙ (Mr. Adem Farah Appointed Chairman of Ethiopian Airlines Group Board of Directors)",
   "አቶ አደም ፋራህ በሞስኮ በተካሄደው ዓለም አቀፍ ጉባኤ የኢትዮጵያን ሉዓላዊነት አቋም ገለጹ (Ethiopia’s Ruling Prosperity Party Asserts National Sovereignty and Strategic Independence at Global Assembly in Moscow)",
-  "ኢትዮጵያ በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎች ያላትን ሚና ለማጠናከር መወሰኗ ተገለጸ (Ethiopia to Strengthen Its Role in International Peacekeeping Through Institutional Capacity and Strategic Partnerships: Navy Chief)"
+  "ኢትዮጵያ በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎች ያላትን ሚና ለማጠናከር መወሰኗ ተገለጸ (Ethiopia to Strengthen Its Role in International Peacekeeping Through Institutional Capacity and Strategic Partnerships: Navy Chief)",
+  "የኢትዮጵያ ብሔራዊ ባንክ የፋይናንስ ቴክኖሎጂዎችን ለመፈተሽ የሚያስችል መመሪያ አወጣ (Central bank opens regulatory sandbox for fintechs and banks to test new products)",
+  "የአውሮፓ ህብረት ከ12 የአፍሪካ ሀገራት የተወጣጡ 87 አየር መንገድ ኩባንያዎችን ከግዛቱ አገደ (​EU aviation blacklist hits 12 African nations)",
+  "የምሥራቅ አፍሪካ የልማት በይነ መንግሥታት ባለሥልጣን (IGAD) አዲሱ የትብብር ስምምነት በሕግ ጸና (New IGAD Treaty takes effect as Horn of Africa marks 40 years of regional cooperation)",
+  "ካናዳ እና ቻይና አዳዲስ የታሪፍ ማቃለያ ስምምነቶችን ይፋ አደረጉ (China, Canada expand tariff relief after Carney-Xi meeting)"
  ],
  "posted_at": [
-  1794774929.8480377,
   1794778512.4454796,
   1794790435.0731378,
   1794798739.9464357,
@@ -2655,6 +2662,10 @@
   1794935431.4488323,
   1794940537.3020897,
   1794942530.4351237,
-  1794946190.7127914
+  1794946190.7127914,
+  1794947860.5926814,
+  1794947864.1360376,
+  1794947867.6964378,
+  1794947871.2362602
  ]
 }
