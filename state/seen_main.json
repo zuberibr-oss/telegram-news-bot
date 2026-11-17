@@ -1,8 +1,5 @@
 {
  "seen": {
-  "7ab95d3fcc9c8f4b": 1793666783.8435352,
-  "b508f3a571b19225": 1793666783.8435352,
-  "22926f6dc6b75574": 1793666783.8435352,
   "a8e919407ddd8657": 1793668156.82141,
   "5fa8c933d4f7d35d": 1793669833.5515666,
   "99dd3a0256d26b54": 1793669833.5515666,
@@ -2532,11 +2529,14 @@
   "78db423c69bbabad": 1794874822.4102757,
   "9c6aaf745aed65bc": 1794874822.4102757,
   "a9aa54600a6ced79": 1794874822.4102757,
-  "0fae5629142f603a": 1794874822.4102757
+  "0fae5629142f603a": 1794874822.4102757,
+  "7fe659a8a4eda948": 1794876440.9430003,
+  "bfd0b5dfd0afaa71": 1794876440.9430003,
+  "499966b3fe273322": 1794876440.9430003,
+  "292494c95cba86b0": 1794876440.9430003,
+  "d94bf369b801d246": 1794876440.9430003
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ የባንክ ሥራ አስፈፃሚዎች የርዕዮተ ዓለም ሥልጠና እንዲወስዱ አዘዘ (Bank Chiefs to Head to Ideological Classes, Summoned by the Regulator)",
-  "የዋጋ ንረት ቁጥሮች ቢቀንሱም የቤተሰብ ወጪ አሁንም አልቀነሰም (The Numbers on Inflation Ease, Households Still Pay More)",
   "የኢትዮጵያ አየር መንገድ የአየር ኃይል ጄነራል የነበሩትን አመራር በፓርቲ አመራር ተካ (Ethiopian Airlines Swaps an Air Force General for a Party Leader)",
   "የኢትዮጵያ ብሔራዊ ባንክ ለከወለድ ነፃ ባንኮች የፈሳሽ ገንዘብ ማኔጅመንት መሳሪያዎችን ፈቀደ (Governor Eyob Opens Liquidity Tools to Interest-Free Banks)",
   "የሳዑዲ መሪነት ህብረት በሪያድ ላይ የተቃጣ ባሊስቲክ ሚሳይል እና ድሮን ጥቃቶችን አከሸፈ (Saudi-led coalition intercepts two missiles, two drones in Riyadh)",
@@ -2574,7 +2574,9 @@
   "በሳዑዲ የሚገኙ ወጣቶች የሞት ፍርድ ስጋት እንዳለባቸው የትግራይ ጊዜያዊ አስተዳደር ገለጸ (Xiinxala Oduu: Dargaggoonni Tigraay Sa’udi Arabiyaa keessatti sodaa adabbii du’aa keessa jiru; Bulchiinsi Yeroo Tigraay mootummaan federaalaa akka gidduu seenu gaafate)",
   "Nvidia የቀድሞው ዋና ሥራ አስፈጻሚ Jensen Huang እንዲመለሱ የቀረበውን ጥያቄ ውድቅ አደረገ (Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO)",
   "ታዋቂው የማርክሲስት ፖለቲከኛ Negede Gobeze በ83 ዓመታቸው ከዚህ ዓለም በሞት ተለዩ (Negede Gobeze, marxist intellectual and opposition figure)",
-  "ዶናልድ ትራምፕ በፊሊፒንስ በሚካሄደው የአሴአን ጉባኤ ላይ ለመሳተፍ ወደ ማኒላ አቀኑ (Trump departs for ASEAN on summit with Xi and Putin)"
+  "ዶናልድ ትራምፕ በፊሊፒንስ በሚካሄደው የአሴአን ጉባኤ ላይ ለመሳተፍ ወደ ማኒላ አቀኑ (Trump departs for ASEAN on summit with Xi and Putin)",
+  "በሞያሌ እና አካባቢው ያቀረረው የኦሮሚያ እና ሶማሌ ክልሎች የወሰን ግጭት የነዋሪዎችን እንቅስቃሴ አስተጓጎለ (Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens)",
+  "ዩክሬን ከአሜሪካ እና አውሮፓ ጋር የሰላም ድርድር አደረገች (Ukraine holds peace talks with US, Europe as conflict escalates)"
  ],
  "posted_at": [
   1794706649.154559,
@@ -2618,6 +2620,8 @@
   1794866936.6973977,
   1794868593.107312,
   1794874862.55765,
-  1794874865.8997755
+  1794874865.8997755,
+  1794876487.907458,
+  1794876491.2634876
  ]
 }
