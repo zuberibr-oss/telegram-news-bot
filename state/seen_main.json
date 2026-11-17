@@ -2526,10 +2526,12 @@
   "b78df15c4d31aaad": 1794881517.7223747,
   "e308fd0a5667e76e": 1794881517.7223747,
   "ae2fd75e596f5916": 1794882900.4749525,
-  "2f05eba6e49f8e93": 1794882900.4749525
+  "2f05eba6e49f8e93": 1794882900.4749525,
+  "ec03766eca2f58cf": 1794886503.1434395,
+  "d42091d319a3a851": 1794886503.1434395,
+  "27f51ae9bceb1d8f": 1794886503.1434395
  },
  "recent_headlines": [
-  "የኢትዮጵያ አየር መንገድ የአየር ኃይል ጄነራል የነበሩትን አመራር በፓርቲ አመራር ተካ (Ethiopian Airlines Swaps an Air Force General for a Party Leader)",
   "የኢትዮጵያ ብሔራዊ ባንክ ለከወለድ ነፃ ባንኮች የፈሳሽ ገንዘብ ማኔጅመንት መሳሪያዎችን ፈቀደ (Governor Eyob Opens Liquidity Tools to Interest-Free Banks)",
   "የሳዑዲ መሪነት ህብረት በሪያድ ላይ የተቃጣ ባሊስቲክ ሚሳይል እና ድሮን ጥቃቶችን አከሸፈ (Saudi-led coalition intercepts two missiles, two drones in Riyadh)",
   "እስራኤል ለኢትዮጵያውያን እና ሌሎች አፍሪካውያን ስደተኞች ሀገሪቷን ለቀው እንዲወጡ 3,500 ዶላር አቀረበች (Daily_Brief: #Israel offers #Ethiopians, other #African migrants $3,500 and free flights to leave by December 31)",
@@ -2568,13 +2570,10 @@
   "ታዋቂው የማርክሲስት ፖለቲከኛ Negede Gobeze በ83 ዓመታቸው ከዚህ ዓለም በሞት ተለዩ (Negede Gobeze, marxist intellectual and opposition figure)",
   "ዶናልድ ትራምፕ በፊሊፒንስ በሚካሄደው የአሴአን ጉባኤ ላይ ለመሳተፍ ወደ ማኒላ አቀኑ (Trump departs for ASEAN on summit with Xi and Putin)",
   "በሞያሌ እና አካባቢው ያቀረረው የኦሮሚያ እና ሶማሌ ክልሎች የወሰን ግጭት የነዋሪዎችን እንቅስቃሴ አስተጓጎለ (Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens)",
-  "ዩክሬን ከአሜሪካ እና አውሮፓ ጋር የሰላም ድርድር አደረገች (Ukraine holds peace talks with US, Europe as conflict escalates)"
+  "ዩክሬን ከአሜሪካ እና አውሮፓ ጋር የሰላም ድርድር አደረገች (Ukraine holds peace talks with US, Europe as conflict escalates)",
+  "ዩናይትድ ስቴትስ ቻይና የኤአይ ቺፖችን በሌሎች ሀገራት በኩል እንዳታገኝ ገደብ ጣለች (US moves to block China’s remote access to AI chips amid Nvidia scandal)"
  ],
  "posted_at": [
-  1794712276.9154732,
-  1794712280.2495432,
-  1794712283.624045,
-  1794712286.9471116,
   1794713772.5915327,
   1794713776.0187688,
   1794720957.5742095,
@@ -2613,6 +2612,7 @@
   1794874862.55765,
   1794874865.8997755,
   1794876487.907458,
-  1794876491.2634876
+  1794876491.2634876,
+  1794886543.7583709
  ]
 }
