@@ -1,13 +1,5 @@
 {
  "seen": {
-  "e929aa6b863f6ae2": 1793700521.2754693,
-  "138189c9722f153b": 1793700521.2754693,
-  "69cbff0394f7845d": 1793700521.2754693,
-  "dcd1ac6425373122": 1793700521.2754693,
-  "a3e2e592284a92d2": 1793700521.2754693,
-  "2c34323fe38733ad": 1793700521.2754693,
-  "502a7ff27eb88a2f": 1793700521.2754693,
-  "799d50c00cc55615": 1793700521.2754693,
   "e819f62e14e2d8e3": 1793702121.946341,
   "549a68c85f9412d6": 1793702121.946341,
   "75e4488c936e7f9a": 1793702121.946341,
@@ -2541,10 +2533,14 @@
   "966c5fe5fa403dce": 1794908198.8112402,
   "c5ec4e4bf9bcb795": 1794908198.8112402,
   "f5f592aac3c0a3e9": 1794908198.8112402,
-  "b574f5009f980c67": 1794908198.8112402
+  "b574f5009f980c67": 1794908198.8112402,
+  "e18c711c97caec75": 1794910133.1465137,
+  "b15741e874e2d33e": 1794910133.1465137,
+  "becc4af76c91da74": 1794910133.1465137,
+  "74567cf127825f63": 1794910133.1465137,
+  "f77ac79f5d0f6038": 1794910133.1465137
  },
  "recent_headlines": [
-  "ኢራን በአሜሪካ ላይ ቅድመ-ጥቃት ልትሰነዝር እንደሚችል ማስጠንቀቋ ተገለጸ (Iran war live: Tehran warns it may strike first before another US attack)",
   "በየመን የሁቲ አማፂያን ያደረጉት ግስጋሴ የዔደን ከተማን ሥጋት ውስጥ ጣለ (Houthis advance in Yemen as government forces move to defend Aden)",
   "የየመን የመንግሥት ኃይሎች ከባቢ ኤል ማንዳብ በመውጣታቸው ሁቲዎች ቦታውን ተቆጣጠሩ (Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway)",
   "ሶስተኛው የአሜሪካ የጦር መርከብ መካከለኛው ምስራቅ ደረሰ፤ በሆርሙዝ የነዳጅ መርከቦች በጥቃት ተመቱ (Iran war live: Third US carrier arrives, Iran says oil tankers hit mines)",
@@ -2583,7 +2579,8 @@
   "ባሕሬን የአሜሪካ የጦር ራዳር ላይ የተሰነዘረውን የኢራን የድሮን ጥቃት አከሸፈች (Bahrain thwarts drone attack, Iran claims targeting US military radar)",
   "ዩናይትድ ስቴትስ በሶማሊያ የሚገኙ የተባበሩት መንግሥታት እና የአፍሪካ ኅብረት የጸጥታ ተልዕኮዎች ለአንድ ዓመት እንዲራዘሙ ደገፈች (News: US backs one-year renewal of UN, AU security missions in Somalia after reversal)",
   "ጃፓን፣ ደቡብ ኮሪያ እና ታይዋን የሩሲያ አውሮፕላኖችን ለማስወጣት የጦር ጄቶችን አሰማሩ (Japan sends up jets after alleged Russian incursion of its airspace)",
-  "በትግራይ ከ80 እስከ 90 በመቶ የሚሆኑ የመቀሌ ነዋሪዎች እርዳታ እንደሚፈልጉ ጊዜያዊ አስተዳደሩ ገለጸ (Illegal TPLF Group’s War Agenda, Forced Recruitment & Economic Coercion Have Driven Tigray into Severe Poverty: Caretaker Administration)"
+  "በትግራይ ከ80 እስከ 90 በመቶ የሚሆኑ የመቀሌ ነዋሪዎች እርዳታ እንደሚፈልጉ ጊዜያዊ አስተዳደሩ ገለጸ (Illegal TPLF Group’s War Agenda, Forced Recruitment & Economic Coercion Have Driven Tigray into Severe Poverty: Caretaker Administration)",
+  "የሕወሓት አመራሮች ከ830 በላይ ተሽከርካሪዎችን ይዘው ወደ ኤርትራ መኮበለላቸው ተገለጸ (TPLF Leaders Flee to Eritrea with More Than 830 Looted Public Vehicles, Tigray Caretaker Administration Says)"
  ],
  "posted_at": [
   1794738929.4264784,
@@ -2630,6 +2627,7 @@
   1794903129.9006367,
   1794903133.3293345,
   1794906652.8014607,
-  1794908245.34578
+  1794908245.34578,
+  1794910171.7126255
  ]
 }
