@@ -1,11 +1,5 @@
 {
  "seen": {
-  "3d6ec6af18b4be66": 1793691342.9630518,
-  "c55e42ebf2ea114d": 1793691342.9630518,
-  "7d331c1858193778": 1793691342.9630518,
-  "575c9d461c661b50": 1793691342.9630518,
-  "429bc7624d69a47a": 1793691342.9630518,
-  "4f1029aa759e37e6": 1793691342.9630518,
   "21dba22c1fcd91dc": 1793693540.6634517,
   "127eac0b29013c2c": 1793693540.6634517,
   "c5c91a668e4f05f5": 1793693540.6634517,
@@ -2530,10 +2524,13 @@
   "892cb5c6f0f252b2": 1794899431.054581,
   "f54049b18bc3b2a6": 1794899431.054581,
   "d878d9a23c670f35": 1794899431.054581,
-  "6f02e96dbc99038b": 1794899431.054581
+  "6f02e96dbc99038b": 1794899431.054581,
+  "ddba0587ca1bae54": 1794900908.2646132,
+  "ceb71c5279c2e7b3": 1794900908.2646132,
+  "d0e9ee542f918301": 1794900908.2646132,
+  "330d23c717355f36": 1794900908.2646132
  },
  "recent_headlines": [
-  "በሱዳን የኃይል ማመንጫዎች ላይ የተፈጸሙ ጥቃቶች ከተሞችን በጨለማ ውስጥ ዘፈቁ (Drone attacks on power stations plunge Sudan’s cities into darkness)",
   "ኢራን በባህሬን በሚገኝ የአሜሪካ የራዳር ጣቢያ ላይ የድሮን ጥቃት መፈጸሟን ገለጸች (Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes)",
   "በኬንያ ለሚገኙ ከ50 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እርዳታ ለማቅረብ መቸገሩ ተገለጸ (Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya)",
   "በዲሞክራሲያዊ ሪፐብሊክ ኮንጎ የተቀሰቀሰው የኤቦላ ወረርሽኝ በቁጥጥር ስር አለመዋሉ ተገለጸ (Africa CDC says Ebola outbreak in DR Congo ‘still not under control’)",
@@ -2572,7 +2569,8 @@
   "የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ ለተፈጸመው ጥቃት ኃላፊነት መውሰዱን ገለጸ (የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ \"እርምጃ\" መውሰዱን አምኖ፣ የተገደሉት \"የትርፍ ጊዜ ተዋጊዎች\" ናቸው አለ)",
   "ሩሲያ በኪየቭ በሚገኙ ሁለት ዋና ዋና ድልድዮች ላይ የባሊስቲክ ሚሳይል ጥቃት ፈጸመች (Two major Kyiv bridges hit in Russian attack, mayor says)",
   "ሩሲያ በዩክሬን የእርዳታ ማዕከል ላይ በፈጸመችው ጥቃት የ72 ሰዎች ሕይወት አለፈ (Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72)",
-  "ኢትዮጵያ በCOP31 ጉባኤ የችግኝ ተከላና የኤሌክትሪክ ተሽከርካሪ ስኬቶቿን አቀረበች (Ethiopia Takes 144,429 Electric Vehicles and 56 Billion Green Legacy Seedlings to Global Climate Stage Ahead of COP32)"
+  "ኢትዮጵያ በCOP31 ጉባኤ የችግኝ ተከላና የኤሌክትሪክ ተሽከርካሪ ስኬቶቿን አቀረበች (Ethiopia Takes 144,429 Electric Vehicles and 56 Billion Green Legacy Seedlings to Global Climate Stage Ahead of COP32)",
+  "የአምባሳደሮች እና የተባበሩት መንግሥታት ድርጅት ልዑካን መቅሌ ገቡ (International Diplomatic Community, UN Representatives Travel to Ethiopia’s Tigray Region for Official Engagements)"
  ],
  "posted_at": [
   1794735317.735559,
@@ -2615,6 +2613,7 @@
   1794896161.3147535,
   1794896164.815242,
   1794896168.3131325,
-  1794899485.8251798
+  1794899485.8251798,
+  1794900946.6335938
  ]
 }
