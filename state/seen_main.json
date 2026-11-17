@@ -1,6 +1,5 @@
 {
  "seen": {
-  "33b308ff0d2c4165": 1793730934.9443395,
   "6ed4b5f61f09be03": 1793732837.5035071,
   "12a3eac186aa1a1e": 1793732837.5035071,
   "8e0b74fe05b347f5": 1793734553.925669,
@@ -2544,10 +2543,12 @@
   "57cfb7417b7ee124": 1794939027.2212546,
   "cd5b00f169759a3f": 1794939027.2212546,
   "f10dd83fe66d28ad": 1794939027.2212546,
-  "61c9e5074790e365": 1794939027.2212546
+  "61c9e5074790e365": 1794939027.2212546,
+  "7f96b076220a43e8": 1794940501.140586,
+  "3f8960f172eb7f97": 1794940501.140586,
+  "394ba1560b99fa30": 1794940501.140586
  },
  "recent_headlines": [
-  "ሩሲያ ከምዕራባውያን ጋር በምታደርገው የሰላም ድርድር አውሮፓን የሚከፋፍሉ ጥያቄዎችን አቀረበች (‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe)",
   "ኢትዮጵያ እና ቻይና በኢንዱስትሪ ፓርኮች የሚደረገውን የቻይና ኢንቨስትመንት በእጥፍ ለማሳደግ ተወያዩ (Ethiopia and China Move to Double Chinese Investment in Industrial Parks and Special Economic Zones)",
   "የትግራይ ዲሞክራሲያዊ ሶሊዳሪቲ ፓርቲ በክልሉ በሚካሄደው ምርጫ ለመሳተፍ ዝግጅት እያደረገ መሆኑን ገለጸ (Solidarity Party Pledges to Advance Tigray’s Development Priorities, Getachew Reda Says)",
   "በሳዑዲ ዓረቢያ አስቸጋሪ ሁኔታ ውስጥ የነበሩ 2,086 ኢትዮጵያውያን ወደ ሀገራቸው ተመለሱ (Ethiopia Repatriates 2,086 Nationals from Saudi Arabia Over the Past Week)",
@@ -2586,7 +2587,8 @@
   "ሳልሳይ ወያነ ትግራይ በጸለምቲ በረሃብ ምክንያት ስደት እንዳይከሰት አስጠነቀቀ (Salsay Weyane Tigray warns of famine-driven displacement in Tselemti, calls for halt to revenge-driven actions)",
   "የኳድ አባል ሀገራት የቻይናን የበላይነት ለመቀነስ የሚያስችል የወሳኝ ማዕድናት ስምምነት ተፈራረሙ (Trump announces critical minerals agreements at Quad meeting in Manila)",
   "ዩናይትድ ስቴትስ ከ26 ዓመታት በኋላ ከኩፍኝ በሽታ ነጻ የመሆን ደረጃዋን አጣች (US officially loses measles-free status after 26 years amid outbreak)",
-  "ኢትዮጵያ እና አዘርባጃን በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ አብረው ለመሥራት ተስማሙ (Ethiopia and Azerbaijan Establish Cooperation on COP32 Preparations, Drawing on COP29 Experience)"
+  "ኢትዮጵያ እና አዘርባጃን በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ አብረው ለመሥራት ተስማሙ (Ethiopia and Azerbaijan Establish Cooperation on COP32 Preparations, Drawing on COP29 Experience)",
+  "አቶ አደም ፋራህ የኢትዮጵያ አየር መንገድ ግሩፕ ቦርድ ሰብሳቢ ሆነው ተሾሙ (Mr. Adem Farah Appointed Chairman of Ethiopian Airlines Group Board of Directors)"
  ],
  "posted_at": [
   1794774929.8480377,
@@ -2639,6 +2641,7 @@
   1794929767.3060036,
   1794933369.213455,
   1794933372.6038368,
-  1794935431.4488323
+  1794935431.4488323,
+  1794940537.3020897
  ]
 }
