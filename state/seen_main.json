@@ -1,13 +1,5 @@
 {
  "seen": {
-  "a46eb0aab22484fe": 1793662565.871427,
-  "6f5b644688683433": 1793662565.871427,
-  "63b256fc5216cad1": 1793662565.871427,
-  "99fbcc747274c96a": 1793665238.152995,
-  "a5bf33864079c8bd": 1793665238.152995,
-  "c825782a0eaab7db": 1793665238.152995,
-  "ae9254d4e524ede5": 1793665238.152995,
-  "1d8fec17b6124a46": 1793665238.152995,
   "7ab95d3fcc9c8f4b": 1793666783.8435352,
   "b508f3a571b19225": 1793666783.8435352,
   "22926f6dc6b75574": 1793666783.8435352,
@@ -2535,11 +2527,14 @@
   "44bc2eb8ef3a36e7": 1794868567.4606678,
   "d3aeb191416866fc": 1794870464.0410082,
   "d78189131634c3eb": 1794872099.9946442,
-  "26a4e12337ad627b": 1794872099.9946442
+  "26a4e12337ad627b": 1794872099.9946442,
+  "1b93ced82ce2e20c": 1794874822.4102757,
+  "78db423c69bbabad": 1794874822.4102757,
+  "9c6aaf745aed65bc": 1794874822.4102757,
+  "a9aa54600a6ced79": 1794874822.4102757,
+  "0fae5629142f603a": 1794874822.4102757
  },
  "recent_headlines": [
-  "በእስራኤል የአየር ጥቃት የሐማስ ከፍተኛ የጦር አዛዥ ተገደለ (Israeli air strike kills senior Hamas commander in Gaza)",
-  "በAmhara Bank ላይ የ200 ሚሊዮን ብር የሐሰተኛ ተሽከርካሪዎች ብድር ክስ ተመሠረተ (New Amhara Bank Case Alleges 200m Br Loan on Phantom Trucks)",
   "የኢትዮጵያ ብሔራዊ ባንክ የባንክ ሥራ አስፈፃሚዎች የርዕዮተ ዓለም ሥልጠና እንዲወስዱ አዘዘ (Bank Chiefs to Head to Ideological Classes, Summoned by the Regulator)",
   "የዋጋ ንረት ቁጥሮች ቢቀንሱም የቤተሰብ ወጪ አሁንም አልቀነሰም (The Numbers on Inflation Ease, Households Still Pay More)",
   "የኢትዮጵያ አየር መንገድ የአየር ኃይል ጄነራል የነበሩትን አመራር በፓርቲ አመራር ተካ (Ethiopian Airlines Swaps an Air Force General for a Party Leader)",
@@ -2577,13 +2572,11 @@
   "ሳዑዲ ዓረቢያ በየመን የሚገኙ የህብረቱ ኃይሎችን አዛዥ ከኃላፊነት አነሳች (Saudi Arabia dismisses commander of coalition forces fighting Houthis)",
   "በምዕራብ ኮርዶፋን በሱዳን ጦር በተፈጸመ የአየር ጥቃት 13 ሰዎች ተገደሉ (Sudanese army air attack kills 13 in western Sudan: Rights group)",
   "በሳዑዲ የሚገኙ ወጣቶች የሞት ፍርድ ስጋት እንዳለባቸው የትግራይ ጊዜያዊ አስተዳደር ገለጸ (Xiinxala Oduu: Dargaggoonni Tigraay Sa’udi Arabiyaa keessatti sodaa adabbii du’aa keessa jiru; Bulchiinsi Yeroo Tigraay mootummaan federaalaa akka gidduu seenu gaafate)",
-  "Nvidia የቀድሞው ዋና ሥራ አስፈጻሚ Jensen Huang እንዲመለሱ የቀረበውን ጥያቄ ውድቅ አደረገ (Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO)"
+  "Nvidia የቀድሞው ዋና ሥራ አስፈጻሚ Jensen Huang እንዲመለሱ የቀረበውን ጥያቄ ውድቅ አደረገ (Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO)",
+  "ታዋቂው የማርክሲስት ፖለቲከኛ Negede Gobeze በ83 ዓመታቸው ከዚህ ዓለም በሞት ተለዩ (Negede Gobeze, marxist intellectual and opposition figure)",
+  "ዶናልድ ትራምፕ በፊሊፒንስ በሚካሄደው የአሴአን ጉባኤ ላይ ለመሳተፍ ወደ ማኒላ አቀኑ (Trump departs for ASEAN on summit with Xi and Putin)"
  ],
  "posted_at": [
-  1794699385.740149,
-  1794699389.0797975,
-  1794699392.4449012,
-  1794699395.7800546,
   1794706649.154559,
   1794712276.9154732,
   1794712280.2495432,
@@ -2623,6 +2616,8 @@
   1794859787.3616073,
   1794864994.7918596,
   1794866936.6973977,
-  1794868593.107312
+  1794868593.107312,
+  1794874862.55765,
+  1794874865.8997755
  ]
 }
