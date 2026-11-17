@@ -1,9 +1,5 @@
 {
  "seen": {
-  "dbc7efb0ba2df485": 1793741771.6089947,
-  "852718e0c24897d4": 1793741771.6089947,
-  "d2a385c2d50920b9": 1793741771.6089947,
-  "2ceeceda44d5b76c": 1793741771.6089947,
   "f40fa9024d062ee5": 1793743737.0968072,
   "59d4ce464e65e80d": 1793743737.0968072,
   "e9a918cbb158b97f": 1793743737.0968072,
@@ -2568,10 +2564,16 @@
   "1ed1a9a1eadde1b3": 1794949702.4321263,
   "e47cf09b34beac83": 1794949702.4321263,
   "9b126082fcdf2251": 1794949702.4321263,
-  "aae1fb56ee9137ab": 1794949702.4321263
+  "aae1fb56ee9137ab": 1794949702.4321263,
+  "f768bde61765d66c": 1794951359.2128975,
+  "345ecdd70c1a36e5": 1794951359.2128975,
+  "46672a79357e175e": 1794951359.2128975,
+  "9ef97e9fee60b1c0": 1794951359.2128975,
+  "fceb2b4488526217": 1794951359.2128975,
+  "262d77f9414d9fcb": 1794951359.2128975,
+  "d97ac100ab7c078b": 1794951359.2128975
  },
  "recent_headlines": [
-  "የአውሮፓ ህብረት በሩሲያ ላይ አዳዲስ ማዕቀቦችን ጣለ፤ ለዩክሬን የ8.7 ቢሊዮን ዶላር ድጋፍ ፈቀደ (Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war)",
   "የፌደራል ከፍተኛ ፍርድ ቤት በኢትዮጵያ ሚዲያ ባለሥልጣን የቀረበውን የሥልጣን መቃወሚያ ውድቅ አደረገ (Federal High Court rejects Media Authority’s jurisdictional objection, decrees hearing of Addis Standard’s case)",
   "ለቀድሞ ተዋጊዎች በሀገር ውስጥ እና በውጭ ሀገር የሥራ ዕድል ለማመቻቸት እየተሠራ መሆኑ ተገለጸ (Ethiopia to Expand Employment Pathways for Former Combatants at Home and Abroad: Minister)",
   "አይ ኦ ኤም በኢትዮጵያ የስደተኞች አስተዳደር የመንግሥትን መሪነት ለማጠናከር ጥሪ አቀረበ (IOM Seeks Government-Led Approach to Sustain Migration Support)",
@@ -2610,10 +2612,10 @@
   "የኢትዮጵያ ብሔራዊ ባንክ የፋይናንስ ቴክኖሎጂዎችን ለመፈተሽ የሚያስችል መመሪያ አወጣ (Central bank opens regulatory sandbox for fintechs and banks to test new products)",
   "የአውሮፓ ህብረት ከ12 የአፍሪካ ሀገራት የተወጣጡ 87 አየር መንገድ ኩባንያዎችን ከግዛቱ አገደ (​EU aviation blacklist hits 12 African nations)",
   "የምሥራቅ አፍሪካ የልማት በይነ መንግሥታት ባለሥልጣን (IGAD) አዲሱ የትብብር ስምምነት በሕግ ጸና (New IGAD Treaty takes effect as Horn of Africa marks 40 years of regional cooperation)",
-  "ካናዳ እና ቻይና አዳዲስ የታሪፍ ማቃለያ ስምምነቶችን ይፋ አደረጉ (China, Canada expand tariff relief after Carney-Xi meeting)"
+  "ካናዳ እና ቻይና አዳዲስ የታሪፍ ማቃለያ ስምምነቶችን ይፋ አደረጉ (China, Canada expand tariff relief after Carney-Xi meeting)",
+  "የኦሮሞ ነጻነት ሠራዊት የኢሰመኮን የአርሲ ግድያ ሪፖርት ውድቅ አደረገ (News: OLA disputes Rights Commission findings on Arsi killings, accuses commission of political bias)"
  ],
  "posted_at": [
-  1794778512.4454796,
   1794790435.0731378,
   1794798739.9464357,
   1794800497.4106524,
@@ -2669,6 +2671,7 @@
   1794947860.5926814,
   1794947864.1360376,
   1794947867.6964378,
-  1794947871.2362602
+  1794947871.2362602,
+  1794951407.8552186
  ]
 }
