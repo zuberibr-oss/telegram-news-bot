@@ -1,9 +1,5 @@
 {
  "seen": {
-  "784837e046b9bf8c": 1793725679.269428,
-  "fc9d975eb2a002f8": 1793725679.269428,
-  "132218d4907adc48": 1793725679.269428,
-  "e3b3a3397371fd7d": 1793725679.269428,
   "76947d9eeaa45a46": 1793727383.3247185,
   "bf57f711d2e931fd": 1793727383.3247185,
   "5c3856b163a0198d": 1793727383.3247185,
@@ -2536,10 +2532,20 @@
   "98bb1f07feee0329": 1794933310.1188276,
   "f03f3bc1841a53de": 1794933310.1188276,
   "bc5e81b71d117bb6": 1794933310.1188276,
-  "4552920ea9eee1c5": 1794933310.1188276
+  "4552920ea9eee1c5": 1794933310.1188276,
+  "592a74b2ce4af3f0": 1794935339.3179805,
+  "ba37a2a1c81dea7d": 1794935339.3179805,
+  "9de580fc6e5ee754": 1794935339.3179805,
+  "2db631c27e7398bc": 1794935339.3179805,
+  "f52e274d2da3dfa6": 1794935339.3179805,
+  "348f67e41fb49c6a": 1794935339.3179805,
+  "aeb630e3cbeb8c58": 1794935339.3179805,
+  "1d54631fc96bf076": 1794935339.3179805,
+  "024ca82f34a47c76": 1794935339.3179805,
+  "8a5355e2be7e1326": 1794935339.3179805,
+  "3f03fdbbc7d319e4": 1794935339.3179805
  },
  "recent_headlines": [
-  "የዓለም ጤና ድርጅት፡ በመድኃኒት የመላመድ ችግር 39 ሚሊዮን ሰዎች ሊሞቱ ይችላሉ (Antimicrobial resistance could kill 39 million people over 25 years: WHO)",
   "ሩሲያ ከምዕራባውያን ጋር በምታደርገው የሰላም ድርድር አውሮፓን የሚከፋፍሉ ጥያቄዎችን አቀረበች (‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe)",
   "ኢትዮጵያ እና ቻይና በኢንዱስትሪ ፓርኮች የሚደረገውን የቻይና ኢንቨስትመንት በእጥፍ ለማሳደግ ተወያዩ (Ethiopia and China Move to Double Chinese Investment in Industrial Parks and Special Economic Zones)",
   "የትግራይ ዲሞክራሲያዊ ሶሊዳሪቲ ፓርቲ በክልሉ በሚካሄደው ምርጫ ለመሳተፍ ዝግጅት እያደረገ መሆኑን ገለጸ (Solidarity Party Pledges to Advance Tigray’s Development Priorities, Getachew Reda Says)",
@@ -2578,7 +2584,8 @@
   "ዶናልድ ትራምፕ በዋሺንግተን ላይ የተደቀነውን የጥቃት ስጋት ተከትሎ ለኢራን ማስጠንቀቂያ ሰጡ (Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington)",
   "ሳልሳይ ወያነ ትግራይ በጸለምቲ በረሃብ ምክንያት ስደት እንዳይከሰት አስጠነቀቀ (Salsay Weyane Tigray warns of famine-driven displacement in Tselemti, calls for halt to revenge-driven actions)",
   "የኳድ አባል ሀገራት የቻይናን የበላይነት ለመቀነስ የሚያስችል የወሳኝ ማዕድናት ስምምነት ተፈራረሙ (Trump announces critical minerals agreements at Quad meeting in Manila)",
-  "ዩናይትድ ስቴትስ ከ26 ዓመታት በኋላ ከኩፍኝ በሽታ ነጻ የመሆን ደረጃዋን አጣች (US officially loses measles-free status after 26 years amid outbreak)"
+  "ዩናይትድ ስቴትስ ከ26 ዓመታት በኋላ ከኩፍኝ በሽታ ነጻ የመሆን ደረጃዋን አጣች (US officially loses measles-free status after 26 years amid outbreak)",
+  "ኢትዮጵያ እና አዘርባጃን በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ አብረው ለመሥራት ተስማሙ (Ethiopia and Azerbaijan Establish Cooperation on COP32 Preparations, Drawing on COP29 Experience)"
  ],
  "posted_at": [
   1794774929.8480377,
@@ -2630,6 +2637,7 @@
   1794929763.8745532,
   1794929767.3060036,
   1794933369.213455,
-  1794933372.6038368
+  1794933372.6038368,
+  1794935431.4488323
  ]
 }
