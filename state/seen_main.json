@@ -1,7 +1,5 @@
 {
  "seen": {
-  "6f9d7ae24fb3a3b8": 1793689759.4288638,
-  "a43a767fa783d8d7": 1793689759.4288638,
   "3d6ec6af18b4be66": 1793691342.9630518,
   "c55e42ebf2ea114d": 1793691342.9630518,
   "7d331c1858193778": 1793691342.9630518,
@@ -2525,10 +2523,16 @@
   "3c515e584a143201": 1794896042.833189,
   "ea3f80a8cf37d83a": 1794896042.833189,
   "3b324ef87a124598": 1794896042.833189,
-  "329240db26e0a207": 1794897675.679557
+  "329240db26e0a207": 1794897675.679557,
+  "70e968e90777193c": 1794899431.054581,
+  "c618a69184a24821": 1794899431.054581,
+  "13beb76814b80e91": 1794899431.054581,
+  "892cb5c6f0f252b2": 1794899431.054581,
+  "f54049b18bc3b2a6": 1794899431.054581,
+  "d878d9a23c670f35": 1794899431.054581,
+  "6f02e96dbc99038b": 1794899431.054581
  },
  "recent_headlines": [
-  "ኢራን በባህሬን ላይ የሰነዘረቻቸውን ጥቃቶች ማክሸፏን ሀገሪቱ አስታወቀች (Iran war live: Bahrain targeted as Gulf nations warned against US support)",
   "በሱዳን የኃይል ማመንጫዎች ላይ የተፈጸሙ ጥቃቶች ከተሞችን በጨለማ ውስጥ ዘፈቁ (Drone attacks on power stations plunge Sudan’s cities into darkness)",
   "ኢራን በባህሬን በሚገኝ የአሜሪካ የራዳር ጣቢያ ላይ የድሮን ጥቃት መፈጸሟን ገለጸች (Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes)",
   "በኬንያ ለሚገኙ ከ50 ሺህ በላይ ኢትዮጵያውያን ስደተኞች እርዳታ ለማቅረብ መቸገሩ ተገለጸ (Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya)",
@@ -2567,7 +2571,8 @@
   "ዩናይትድ ስቴትስ ቻይና የኤአይ ቺፖችን በሌሎች ሀገራት በኩል እንዳታገኝ ገደብ ጣለች (US moves to block China’s remote access to AI chips amid Nvidia scandal)",
   "የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ ለተፈጸመው ጥቃት ኃላፊነት መውሰዱን ገለጸ (የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ \"እርምጃ\" መውሰዱን አምኖ፣ የተገደሉት \"የትርፍ ጊዜ ተዋጊዎች\" ናቸው አለ)",
   "ሩሲያ በኪየቭ በሚገኙ ሁለት ዋና ዋና ድልድዮች ላይ የባሊስቲክ ሚሳይል ጥቃት ፈጸመች (Two major Kyiv bridges hit in Russian attack, mayor says)",
-  "ሩሲያ በዩክሬን የእርዳታ ማዕከል ላይ በፈጸመችው ጥቃት የ72 ሰዎች ሕይወት አለፈ (Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72)"
+  "ሩሲያ በዩክሬን የእርዳታ ማዕከል ላይ በፈጸመችው ጥቃት የ72 ሰዎች ሕይወት አለፈ (Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72)",
+  "ኢትዮጵያ በCOP31 ጉባኤ የችግኝ ተከላና የኤሌክትሪክ ተሽከርካሪ ስኬቶቿን አቀረበች (Ethiopia Takes 144,429 Electric Vehicles and 56 Billion Green Legacy Seedlings to Global Climate Stage Ahead of COP32)"
  ],
  "posted_at": [
   1794735317.735559,
@@ -2609,6 +2614,7 @@
   1794886543.7583709,
   1794896161.3147535,
   1794896164.815242,
-  1794896168.3131325
+  1794896168.3131325,
+  1794899485.8251798
  ]
 }
