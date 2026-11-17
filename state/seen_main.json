@@ -1,7 +1,5 @@
 {
  "seen": {
-  "6ed4b5f61f09be03": 1793732837.5035071,
-  "12a3eac186aa1a1e": 1793732837.5035071,
   "8e0b74fe05b347f5": 1793734553.925669,
   "9309851d59fe5573": 1793734553.925669,
   "fb440cf6be7eea87": 1793734553.925669,
@@ -2546,10 +2544,17 @@
   "61c9e5074790e365": 1794939027.2212546,
   "7f96b076220a43e8": 1794940501.140586,
   "3f8960f172eb7f97": 1794940501.140586,
-  "394ba1560b99fa30": 1794940501.140586
+  "394ba1560b99fa30": 1794940501.140586,
+  "da39303bcc81f7e3": 1794942465.1420403,
+  "da1a0f722d5874a0": 1794942465.1420403,
+  "3f18d2ec5124c3f0": 1794942465.1420403,
+  "5f2968849eda75ca": 1794942465.1420403,
+  "d5a1fd8ce3a0ccca": 1794942465.1420403,
+  "ea1babf233ccc7d8": 1794942465.1420403,
+  "c848090f45143cd0": 1794942465.1420403,
+  "86d86a59e28802c4": 1794942465.1420403
  },
  "recent_headlines": [
-  "ኢትዮጵያ እና ቻይና በኢንዱስትሪ ፓርኮች የሚደረገውን የቻይና ኢንቨስትመንት በእጥፍ ለማሳደግ ተወያዩ (Ethiopia and China Move to Double Chinese Investment in Industrial Parks and Special Economic Zones)",
   "የትግራይ ዲሞክራሲያዊ ሶሊዳሪቲ ፓርቲ በክልሉ በሚካሄደው ምርጫ ለመሳተፍ ዝግጅት እያደረገ መሆኑን ገለጸ (Solidarity Party Pledges to Advance Tigray’s Development Priorities, Getachew Reda Says)",
   "በሳዑዲ ዓረቢያ አስቸጋሪ ሁኔታ ውስጥ የነበሩ 2,086 ኢትዮጵያውያን ወደ ሀገራቸው ተመለሱ (Ethiopia Repatriates 2,086 Nationals from Saudi Arabia Over the Past Week)",
   "የአፍሪካ ኅብረት የ200 ሚሊዮን ወጣቶችን አቅም ለቀጣናው ዕድገት የመጠቀም እቅድ አቀረበ (AU Commission Chairperson Positions 200 Million Young Africans at the Heart of Africa’s Transformation Agenda)",
@@ -2588,7 +2593,8 @@
   "የኳድ አባል ሀገራት የቻይናን የበላይነት ለመቀነስ የሚያስችል የወሳኝ ማዕድናት ስምምነት ተፈራረሙ (Trump announces critical minerals agreements at Quad meeting in Manila)",
   "ዩናይትድ ስቴትስ ከ26 ዓመታት በኋላ ከኩፍኝ በሽታ ነጻ የመሆን ደረጃዋን አጣች (US officially loses measles-free status after 26 years amid outbreak)",
   "ኢትዮጵያ እና አዘርባጃን በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ አብረው ለመሥራት ተስማሙ (Ethiopia and Azerbaijan Establish Cooperation on COP32 Preparations, Drawing on COP29 Experience)",
-  "አቶ አደም ፋራህ የኢትዮጵያ አየር መንገድ ግሩፕ ቦርድ ሰብሳቢ ሆነው ተሾሙ (Mr. Adem Farah Appointed Chairman of Ethiopian Airlines Group Board of Directors)"
+  "አቶ አደም ፋራህ የኢትዮጵያ አየር መንገድ ግሩፕ ቦርድ ሰብሳቢ ሆነው ተሾሙ (Mr. Adem Farah Appointed Chairman of Ethiopian Airlines Group Board of Directors)",
+  "አቶ አደም ፋራህ በሞስኮ በተካሄደው ዓለም አቀፍ ጉባኤ የኢትዮጵያን ሉዓላዊነት አቋም ገለጹ (Ethiopia’s Ruling Prosperity Party Asserts National Sovereignty and Strategic Independence at Global Assembly in Moscow)"
  ],
  "posted_at": [
   1794774929.8480377,
@@ -2642,6 +2648,7 @@
   1794933369.213455,
   1794933372.6038368,
   1794935431.4488323,
-  1794940537.3020897
+  1794940537.3020897,
+  1794942530.4351237
  ]
 }
