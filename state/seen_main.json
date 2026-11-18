@@ -1,6 +1,5 @@
 {
  "seen": {
-  "8b70abaef4a419d1": 1793824516.97099,
   "0bb3bef2f0c26f33": 1793826491.5755208,
   "f9999796f6e2d643": 1793826491.5755208,
   "40775967ff6d3906": 1793826491.5755208,
@@ -2525,11 +2524,16 @@
   "870f8e37e7529cea": 1795032536.0107539,
   "2ce8c56f0f6a6927": 1795032536.0107539,
   "38f7a71f6dedd75a": 1795032536.0107539,
-  "7d427056d5553ed7": 1795032536.0107539
+  "7d427056d5553ed7": 1795032536.0107539,
+  "3fe76d8d11659389": 1795034100.1573942,
+  "0245f31e398fbb76": 1795034100.1573942,
+  "23bf62f162dd3022": 1795034100.1573942,
+  "1339acc3be2bbc40": 1795034100.1573942,
+  "2168f180712a119d": 1795034100.1573942,
+  "efcab8897154235e": 1795034100.1573942,
+  "d3d09c4c1be29aaf": 1795034100.1573942
  },
  "recent_headlines": [
-  "ኢትዮጵያ እና አዘርባጃን በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ አብረው ለመሥራት ተስማሙ (Ethiopia and Azerbaijan Establish Cooperation on COP32 Preparations, Drawing on COP29 Experience)",
-  "አቶ አደም ፋራህ የኢትዮጵያ አየር መንገድ ግሩፕ ቦርድ ሰብሳቢ ሆነው ተሾሙ (Mr. Adem Farah Appointed Chairman of Ethiopian Airlines Group Board of Directors)",
   "አቶ አደም ፋራህ በሞስኮ በተካሄደው ዓለም አቀፍ ጉባኤ የኢትዮጵያን ሉዓላዊነት አቋም ገለጹ (Ethiopia’s Ruling Prosperity Party Asserts National Sovereignty and Strategic Independence at Global Assembly in Moscow)",
   "ኢትዮጵያ በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎች ያላትን ሚና ለማጠናከር መወሰኗ ተገለጸ (Ethiopia to Strengthen Its Role in International Peacekeeping Through Institutional Capacity and Strategic Partnerships: Navy Chief)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፋይናንስ ቴክኖሎጂዎችን ለመፈተሽ የሚያስችል መመሪያ አወጣ (Central bank opens regulatory sandbox for fintechs and banks to test new products)",
@@ -2567,10 +2571,11 @@
   "በሞያሌ በተከሰተው ግጭት ምክንያት የአካባቢው ነዋሪዎች ከቀያቸው እየተፈናቀሉ ነው (Uummanni nagaan Moyyaalee keessaa baqachaa jira; haala amma jiruun dhumni walitti bu’iinsichaa hin beekamu — Walitti bu’iinsi hammaachaa dhufuun rakkoo namoomaa daran hammeessaa jira)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአዲስ አበባ የ57 ሄክታር የኮሪደር ልማት ፕሮጀክትን መረቁ (PM Abiy Commissions 57-Hectare Corridor Development in Addis Ababa, Setting New Benchmark for Africa’s Green Urban Development)",
   "ኢትዮጵያ ስደተኞችን በኢኮኖሚ ለማካተት የግል ባለሃብቶች ኢንቨስትመንታቸውን እንዲያሳድጉ ጥሪ አቀረበች (Ethiopia Calls for Greater Private Investment to Boost Refugee Economic Inclusion)",
-  "Voyager 1 መንኮራኩር ከተወነጨፈች ከ49 ዓመታት በኋላ ከምድር የአንድ ብርሃን ቀን ርቀት ደረሰች (Voyager 1 reaches one light-day from Earth after 49 years in space)"
+  "Voyager 1 መንኮራኩር ከተወነጨፈች ከ49 ዓመታት በኋላ ከምድር የአንድ ብርሃን ቀን ርቀት ደረሰች (Voyager 1 reaches one light-day from Earth after 49 years in space)",
+  "Donald Trump እና Vladimir Putin በቻይና በነጠላ ውይይት ሊያደርጉ ነው (Trump and Putin to meet one-on-one in China Thursday)",
+  "አሜሪካ ከ26 ዓመታት በኋላ የኩፍኝ በሽታን የማስወገድ ደረጃዋን አጣች (US loses measles-free status after 26 years in historic setback)"
  ],
  "posted_at": [
-  1794859787.3616073,
   1794864994.7918596,
   1794866936.6973977,
   1794868593.107312,
@@ -2635,6 +2640,8 @@
   1795021746.472311,
   1795023378.7803512,
   1795023382.4124503,
-  1795032584.722052
+  1795032584.722052,
+  1795034154.3790689,
+  1795034158.8931544
  ]
 }
