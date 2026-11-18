@@ -1,9 +1,5 @@
 {
  "seen": {
-  "be13a52bdaef2c0b": 1793792196.987264,
-  "fe26383a2b0989e0": 1793792196.987264,
-  "a6792e06a5c86d64": 1793792196.987264,
-  "409d3e906826eef4": 1793792196.987264,
   "216cefdac6756d07": 1793794399.3434885,
   "9b994ca805a9b68c": 1793794399.3434885,
   "872e3d802e39a917": 1793794399.3434885,
@@ -2529,11 +2525,19 @@
   "ad2022c5433384da": 1794998140.5182755,
   "76f1724b636ae00f": 1794998140.5182755,
   "937d5e666c47b83e": 1795000089.130709,
-  "2f42db090aa71419": 1795000089.130709
+  "2f42db090aa71419": 1795000089.130709,
+  "1742481cf643f3a0": 1795003883.8133426,
+  "b1e47262720f0a10": 1795003883.8133426,
+  "2f31b344eb9e96bf": 1795003883.8133426,
+  "5f232c15216d6461": 1795003883.8133426,
+  "2b433633d02f7e5f": 1795003883.8133426,
+  "013300253bdf1bbe": 1795003883.8133426,
+  "0120a358df7d4417": 1795003883.8133426,
+  "95d7c42ff1d48dad": 1795003883.8133426,
+  "3af506a6857aec6d": 1795003883.8133426,
+  "eac733b3a8b2a3ba": 1795003883.8133426
  },
  "recent_headlines": [
-  "ኢትዮጵያ በCOP31 ጉባኤ የችግኝ ተከላና የኤሌክትሪክ ተሽከርካሪ ስኬቶቿን አቀረበች (Ethiopia Takes 144,429 Electric Vehicles and 56 Billion Green Legacy Seedlings to Global Climate Stage Ahead of COP32)",
-  "የአምባሳደሮች እና የተባበሩት መንግሥታት ድርጅት ልዑካን መቅሌ ገቡ (International Diplomatic Community, UN Representatives Travel to Ethiopia’s Tigray Region for Official Engagements)",
   "ባሕሬን የአሜሪካ የጦር ራዳር ላይ የተሰነዘረውን የኢራን የድሮን ጥቃት አከሸፈች (Bahrain thwarts drone attack, Iran claims targeting US military radar)",
   "ዩናይትድ ስቴትስ በሶማሊያ የሚገኙ የተባበሩት መንግሥታት እና የአፍሪካ ኅብረት የጸጥታ ተልዕኮዎች ለአንድ ዓመት እንዲራዘሙ ደገፈች (News: US backs one-year renewal of UN, AU security missions in Somalia after reversal)",
   "ጃፓን፣ ደቡብ ኮሪያ እና ታይዋን የሩሲያ አውሮፕላኖችን ለማስወጣት የጦር ጄቶችን አሰማሩ (Japan sends up jets after alleged Russian incursion of its airspace)",
@@ -2571,12 +2575,11 @@
   "በትግራይ ክልል የመንግሥት አገልግሎቶች እና የትምህርት እንቅስቃሴ እንደገና መጀመራቸውን ጊዜያዊ አስተዳደሩ ገለጸ (Tigray Region Sees Stable Social and Economic Activity as Caretaker Administration Restores Public Services)",
   "Donald Trump እና Xi Jinping በቻይናው የአፔክ ጉባኤ ጎን ለጎን ውይይት አደረጉ (As Trump arrives in China, low expectations for breakthroughs in rivalry)",
   "ኢትዮጵያ እና UNEP በኮፕ32 አጀንዳዎች እና በአየር ንብረት ፋይናንስ ላይ ተወያዩ (Ethiopia and UNEP Put Adaptation Finance, Renewable Energy and Urban Climate Resilience on COP32 Agenda)",
-  "ኤል ኒኞ እና የኢራን ጦርነት በኢትዮጵያ ኢኮኖሚ ላይ ተጽዕኖ ሊያሳድሩ እንደሚችሉ ተገለጸ (El Ninofi Waraanni Iraan bara 2027 Itoophiyaatti namoota miiliyoona tokkotti siqan hiyyummaaf akka saaxilan, guddina walii galaa diinagdee biyyattiis haga dhibbeentaa tokkoon duubatti akka harkisan qorannoon akeeke)"
+  "ኤል ኒኞ እና የኢራን ጦርነት በኢትዮጵያ ኢኮኖሚ ላይ ተጽዕኖ ሊያሳድሩ እንደሚችሉ ተገለጸ (El Ninofi Waraanni Iraan bara 2027 Itoophiyaatti namoota miiliyoona tokkotti siqan hiyyummaaf akka saaxilan, guddina walii galaa diinagdee biyyattiis haga dhibbeentaa tokkoon duubatti akka harkisan qorannoon akeeke)",
+  "የአሜሪካው ፕሬዝዳንት ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር ለሚያደርጉት ጉባኤ ቻይና ገቡ (Trump arrives in China ahead of trilateral summit with Xi, Putin)",
+  "የሳዑዲ መሪ ጥምረት በየመኑ ሁቲዎች 60 የጦር ኢላማዎች ላይ ጥቃት ፈጸመ (Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’)"
  ],
  "posted_at": [
-  1794829164.6708758,
-  1794829168.0563023,
-  1794829171.536453,
   1794831472.5941837,
   1794835234.1645505,
   1794837133.2505803,
@@ -2637,6 +2640,8 @@
   1794993038.3670948,
   1794996588.3211005,
   1794996591.6889193,
-  1794998164.6014624
+  1794998164.6014624,
+  1795003956.088188,
+  1795003959.4720142
  ]
 }
