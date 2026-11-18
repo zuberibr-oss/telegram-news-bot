@@ -1,11 +1,5 @@
 {
  "seen": {
-  "9100b03c34973360": 1793820940.2714334,
-  "a5c9a4a6e945620e": 1793820940.2714334,
-  "95160a8ae40d2175": 1793822939.5173824,
-  "1fe4860f2e9173dc": 1793822939.5173824,
-  "6342a19cec3a337e": 1793822939.5173824,
-  "df1048e3c41d2150": 1793822939.5173824,
   "8b70abaef4a419d1": 1793824516.97099,
   "0bb3bef2f0c26f33": 1793826491.5755208,
   "f9999796f6e2d643": 1793826491.5755208,
@@ -2524,10 +2518,16 @@
   "3dd58b49e57fa8e3": 1795026918.4254744,
   "a0de21c572821919": 1795026918.4254744,
   "b7cbab6f6f41e32b": 1795026918.4254744,
-  "86f687db870d0108": 1795028813.8720212
+  "86f687db870d0108": 1795028813.8720212,
+  "8d66669d70dd979b": 1795032536.0107539,
+  "d4aec2cf38751e4d": 1795032536.0107539,
+  "d4691acf036c475f": 1795032536.0107539,
+  "870f8e37e7529cea": 1795032536.0107539,
+  "2ce8c56f0f6a6927": 1795032536.0107539,
+  "38f7a71f6dedd75a": 1795032536.0107539,
+  "7d427056d5553ed7": 1795032536.0107539
  },
  "recent_headlines": [
-  "ዩናይትድ ስቴትስ ከ26 ዓመታት በኋላ ከኩፍኝ በሽታ ነጻ የመሆን ደረጃዋን አጣች (US officially loses measles-free status after 26 years amid outbreak)",
   "ኢትዮጵያ እና አዘርባጃን በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ አብረው ለመሥራት ተስማሙ (Ethiopia and Azerbaijan Establish Cooperation on COP32 Preparations, Drawing on COP29 Experience)",
   "አቶ አደም ፋራህ የኢትዮጵያ አየር መንገድ ግሩፕ ቦርድ ሰብሳቢ ሆነው ተሾሙ (Mr. Adem Farah Appointed Chairman of Ethiopian Airlines Group Board of Directors)",
   "አቶ አደም ፋራህ በሞስኮ በተካሄደው ዓለም አቀፍ ጉባኤ የኢትዮጵያን ሉዓላዊነት አቋም ገለጹ (Ethiopia’s Ruling Prosperity Party Asserts National Sovereignty and Strategic Independence at Global Assembly in Moscow)",
@@ -2566,7 +2566,8 @@
   "አምስት የአውሮፓ ህብረት ሀገራት ጥገኝነት የተከለከሉ ስደተኞችን ወደ ሩዋንዳ ለመላክ አቅደዋል (Five EU nations to deport migrants to Rwanda)",
   "በሞያሌ በተከሰተው ግጭት ምክንያት የአካባቢው ነዋሪዎች ከቀያቸው እየተፈናቀሉ ነው (Uummanni nagaan Moyyaalee keessaa baqachaa jira; haala amma jiruun dhumni walitti bu’iinsichaa hin beekamu — Walitti bu’iinsi hammaachaa dhufuun rakkoo namoomaa daran hammeessaa jira)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአዲስ አበባ የ57 ሄክታር የኮሪደር ልማት ፕሮጀክትን መረቁ (PM Abiy Commissions 57-Hectare Corridor Development in Addis Ababa, Setting New Benchmark for Africa’s Green Urban Development)",
-  "ኢትዮጵያ ስደተኞችን በኢኮኖሚ ለማካተት የግል ባለሃብቶች ኢንቨስትመንታቸውን እንዲያሳድጉ ጥሪ አቀረበች (Ethiopia Calls for Greater Private Investment to Boost Refugee Economic Inclusion)"
+  "ኢትዮጵያ ስደተኞችን በኢኮኖሚ ለማካተት የግል ባለሃብቶች ኢንቨስትመንታቸውን እንዲያሳድጉ ጥሪ አቀረበች (Ethiopia Calls for Greater Private Investment to Boost Refugee Economic Inclusion)",
+  "Voyager 1 መንኮራኩር ከተወነጨፈች ከ49 ዓመታት በኋላ ከምድር የአንድ ብርሃን ቀን ርቀት ደረሰች (Voyager 1 reaches one light-day from Earth after 49 years in space)"
  ],
  "posted_at": [
   1794859787.3616073,
@@ -2633,6 +2634,7 @@
   1795019795.1941602,
   1795021746.472311,
   1795023378.7803512,
-  1795023382.4124503
+  1795023382.4124503,
+  1795032584.722052
  ]
 }
