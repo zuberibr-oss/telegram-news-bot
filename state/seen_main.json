@@ -1,9 +1,5 @@
 {
  "seen": {
-  "f3db35fbc0a0ac03": 1793828189.1864653,
-  "b38ba8335365cb15": 1793828189.1864653,
-  "252ab260fd558d82": 1793828189.1864653,
-  "88776a57216ce5fd": 1793828189.1864653,
   "4ee39e6a88938dfa": 1793831735.4556885,
   "ba59e36d3ae08975": 1793833658.217998,
   "79171266f879fe37": 1793833658.217998,
@@ -2529,10 +2525,14 @@
   "efcab8897154235e": 1795034100.1573942,
   "d3d09c4c1be29aaf": 1795034100.1573942,
   "a50d4a1c7bb331a8": 1795036113.231997,
-  "8dcf6871c656f377": 1795036113.231997
+  "8dcf6871c656f377": 1795036113.231997,
+  "469b226ead2ab5fc": 1795037746.825677,
+  "a3292ad9d4197642": 1795037746.825677,
+  "7fbb43f5ee023665": 1795037746.825677,
+  "33671957fa58b7ba": 1795037746.825677,
+  "275fe8b9b828095d": 1795037746.825677
  },
  "recent_headlines": [
-  "አቶ አደም ፋራህ በሞስኮ በተካሄደው ዓለም አቀፍ ጉባኤ የኢትዮጵያን ሉዓላዊነት አቋም ገለጹ (Ethiopia’s Ruling Prosperity Party Asserts National Sovereignty and Strategic Independence at Global Assembly in Moscow)",
   "ኢትዮጵያ በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎች ያላትን ሚና ለማጠናከር መወሰኗ ተገለጸ (Ethiopia to Strengthen Its Role in International Peacekeeping Through Institutional Capacity and Strategic Partnerships: Navy Chief)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፋይናንስ ቴክኖሎጂዎችን ለመፈተሽ የሚያስችል መመሪያ አወጣ (Central bank opens regulatory sandbox for fintechs and banks to test new products)",
   "የአውሮፓ ህብረት ከ12 የአፍሪካ ሀገራት የተወጣጡ 87 አየር መንገድ ኩባንያዎችን ከግዛቱ አገደ (​EU aviation blacklist hits 12 African nations)",
@@ -2571,7 +2571,8 @@
   "ኢትዮጵያ ስደተኞችን በኢኮኖሚ ለማካተት የግል ባለሃብቶች ኢንቨስትመንታቸውን እንዲያሳድጉ ጥሪ አቀረበች (Ethiopia Calls for Greater Private Investment to Boost Refugee Economic Inclusion)",
   "Voyager 1 መንኮራኩር ከተወነጨፈች ከ49 ዓመታት በኋላ ከምድር የአንድ ብርሃን ቀን ርቀት ደረሰች (Voyager 1 reaches one light-day from Earth after 49 years in space)",
   "Donald Trump እና Vladimir Putin በቻይና በነጠላ ውይይት ሊያደርጉ ነው (Trump and Putin to meet one-on-one in China Thursday)",
-  "አሜሪካ ከ26 ዓመታት በኋላ የኩፍኝ በሽታን የማስወገድ ደረጃዋን አጣች (US loses measles-free status after 26 years in historic setback)"
+  "አሜሪካ ከ26 ዓመታት በኋላ የኩፍኝ በሽታን የማስወገድ ደረጃዋን አጣች (US loses measles-free status after 26 years in historic setback)",
+  "አሜሪካ እና ቬኔዙዌላ ወታደራዊ እና የደህንነት ትብብር ስምምነት ተፈራረሙ (US Defence Secretary Hegseth reveals military partnership on Venezuela trip)"
  ],
  "posted_at": [
   1794864994.7918596,
@@ -2640,6 +2641,7 @@
   1795023382.4124503,
   1795032584.722052,
   1795034154.3790689,
-  1795034158.8931544
+  1795034158.8931544,
+  1795037791.0085447
  ]
 }

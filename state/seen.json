@@ -1,8 +1,5 @@
 {
  "seen": {
-  "0afdf81f9fc22a50": 1793828068.9759884,
-  "119d2ded966812dc": 1793828068.9759884,
-  "c3f90d90a4141ab6": 1793828068.9759884,
   "ac15bc42965ca632": 1793830020.9508667,
   "bdb864dadc79c24b": 1793830020.9508667,
   "fbc560777dc202c0": 1793830020.9508667,
@@ -1412,10 +1409,18 @@
   "f5bc0e327482330c": 1795036004.827427,
   "fa3c104e41b9a85e": 1795036004.827427,
   "8652436fad0043e7": 1795036004.827427,
-  "af5873ef3184d2c1": 1795036004.827427
+  "af5873ef3184d2c1": 1795036004.827427,
+  "808285606df69dc3": 1795037645.8909516,
+  "37bdbc55697c64ba": 1795037645.8909516,
+  "65996f130d73255b": 1795037645.8909516,
+  "06e57f54e1932eae": 1795037645.8909516,
+  "13fd0481b85cc6c3": 1795037645.8909516,
+  "0519c96fb331907a": 1795037645.8909516,
+  "c80cada3c4643108": 1795037645.8909516,
+  "0f903dbe0c8746cf": 1795037645.8909516,
+  "e3b40648bac8c219": 1795037645.8909516
  },
  "recent_headlines": [
-  "ጊኒ በ Mojaloop ቴክኖሎጂ የሚመራውን አገራዊ የቅጽበታዊ ክፍያ ስርዓት ይፋ አደረገች (Guinea Launches National Instant Payment System Powered by Mojaloop)",
   "በብሔራዊ ባንክ 32ኛው የውጭ ምንዛሬ ሐራጅ የዶላር የምንዛሬ ተመን 159.18 ብር ደረሰ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
   "ሳምሰንግ በአፍሪካ የስማርትፎን ገበያ ለመጀመሪያ ጊዜ አንደኛ ደረጃን ያዘ (Samsung tops Africa’s smartphone market for the first time)",
   "የቮዳኮም የ1.6 ቢሊዮን ዶላር የሳፋሪኮም አክሲዮን ግዢ ክስ ወደ ይግባኝ ሰሚ ችሎት አመራ (Vodacom’s $1.6bn Safaricom stake heads to appeal)",
@@ -1454,7 +1459,8 @@
   "አዲስ አበባ ከCOP32 ጉባኤ አስቀድሞ 600 የኤሌክትሪክ ባሶችን ወደ ሥራ ሊያስገባ ነው (Addis Ababa to Add 600 Electric Buses as City Prepares for COP32)",
   "ካሳቫ ቴክኖሎጂስ ለአፍሪካ የAI ዳታ ማዕከላት 1 ቢሊዮን ዶላር ሊሰበስብ ነው (👨🏿‍🚀TechCabal Daily – Cassava seeks $1 billion for AI)",
   "የደቡብ አፍሪካ ቴሌኮም ሬጉሌተር Starlink አገልግሎቱን እንዲያቆም አዘዘ (👨🏿‍🚀TechCabal Daily – ‘Starlink, you’ve been served’)",
-  "ኬንያ ከአውሮፓ ህብረት ጋር የመረጃ ልውውጥ ስምምነት ድርድር አጠናቀቀች (EU and Kenya Conclude Negotiations on Mutual Data Adequacy Arrangement)"
+  "ኬንያ ከአውሮፓ ህብረት ጋር የመረጃ ልውውጥ ስምምነት ድርድር አጠናቀቀች (EU and Kenya Conclude Negotiations on Mutual Data Adequacy Arrangement)",
+  "የኢትዮጵያ አየር መንገድ በሳይበር ጥቃት የተወሰኑ የደንበኞች መረጃ ሳይጋለጥ እንዳልቀረ አሳወቀ (Ethiopian Airlines reports cyberattack a week after Air Botswana)"
  ],
  "posted_at": [
   1794864950.31309,
@@ -1466,6 +1472,7 @@
   1794953345.1970851,
   1794982477.572539,
   1794984078.319869,
-  1795036113.0557208
+  1795036113.0557208,
+  1795037746.5866504
  ]
 }
