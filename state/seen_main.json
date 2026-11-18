@@ -1,9 +1,5 @@
 {
  "seen": {
-  "e9eb92ba9084ef8a": 1793812056.8033376,
-  "bdb864dadc79c24b": 1793812056.8033376,
-  "acbd8640bfbed70d": 1793812056.8033376,
-  "e3870e0d1f4e9958": 1793812056.8033376,
   "112edbab9c1886af": 1793813714.938334,
   "f45c8efbe3b260a7": 1793813714.938334,
   "2f49b94b9fddfb75": 1793813714.938334,
@@ -2524,10 +2520,18 @@
   "c305c568aa772f4e": 1795019759.3183665,
   "a45033a593d937b4": 1795019759.3183665,
   "4e251f0cc0b0521f": 1795019759.3183665,
-  "193209a6bd359bfc": 1795019759.3183665
+  "193209a6bd359bfc": 1795019759.3183665,
+  "d3a035912af476e0": 1795021681.614215,
+  "d5fa92bffd20c11c": 1795021681.614215,
+  "291f625136c0654e": 1795021681.614215,
+  "7125b31308aee6fc": 1795021681.614215,
+  "79f8a5efe92fadb2": 1795021681.614215,
+  "7dfe2247db3a77f0": 1795021681.614215,
+  "991188291b798384": 1795021681.614215,
+  "038e6fee32c77faf": 1795021681.614215,
+  "decb63f685921c64": 1795021681.614215
  },
  "recent_headlines": [
-  "ዶናልድ ትራምፕ በዋሺንግተን ላይ የተደቀነውን የጥቃት ስጋት ተከትሎ ለኢራን ማስጠንቀቂያ ሰጡ (Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington)",
   "ሳልሳይ ወያነ ትግራይ በጸለምቲ በረሃብ ምክንያት ስደት እንዳይከሰት አስጠነቀቀ (Salsay Weyane Tigray warns of famine-driven displacement in Tselemti, calls for halt to revenge-driven actions)",
   "የኳድ አባል ሀገራት የቻይናን የበላይነት ለመቀነስ የሚያስችል የወሳኝ ማዕድናት ስምምነት ተፈራረሙ (Trump announces critical minerals agreements at Quad meeting in Manila)",
   "ዩናይትድ ስቴትስ ከ26 ዓመታት በኋላ ከኩፍኝ በሽታ ነጻ የመሆን ደረጃዋን አጣች (US officially loses measles-free status after 26 years amid outbreak)",
@@ -2566,7 +2570,8 @@
   "በሆርሙዝ ጅረት የንግድ መርከቦች የኢንሹራንስ ክፍያ 64 ሚሊዮን ዶላር መድረሱ ተገለጸ (US official says Hormuz insurance hits $64m: Is the strait really open?)",
   "ኤርትራ ትራኮማን እንደ ሕዝብ ጤና ስጋት በማስወገድ 11ኛዋ የአፍሪካ ሀገር ሆነች (Daily_Brief: #Eritrea becomes 11th #African country to eliminate trachoma as public health problem)",
   "Hakeem Jeffries የአሜሪካ የተወካዮች ምክር ቤት አፈ ጉባኤ ዕጩ ሆነው ተመረጡ (Democrats nominate Hakeem Jeffries to be US Speaker of the House)",
-  "አምስት የአውሮፓ ህብረት ሀገራት ጥገኝነት የተከለከሉ ስደተኞችን ወደ ሩዋንዳ ለመላክ አቅደዋል (Five EU nations to deport migrants to Rwanda)"
+  "አምስት የአውሮፓ ህብረት ሀገራት ጥገኝነት የተከለከሉ ስደተኞችን ወደ ሩዋንዳ ለመላክ አቅደዋል (Five EU nations to deport migrants to Rwanda)",
+  "በሞያሌ በተከሰተው ግጭት ምክንያት የአካባቢው ነዋሪዎች ከቀያቸው እየተፈናቀሉ ነው (Uummanni nagaan Moyyaalee keessaa baqachaa jira; haala amma jiruun dhumni walitti bu’iinsichaa hin beekamu — Walitti bu’iinsi hammaachaa dhufuun rakkoo namoomaa daran hammeessaa jira)"
  ],
  "posted_at": [
   1794859787.3616073,
@@ -2630,6 +2635,7 @@
   1795014643.5657525,
   1795016146.2391255,
   1795018193.985451,
-  1795019795.1941602
+  1795019795.1941602,
+  1795021746.472311
  ]
 }
