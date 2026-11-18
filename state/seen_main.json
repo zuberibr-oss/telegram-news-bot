@@ -1,14 +1,5 @@
 {
  "seen": {
-  "4979dc2f4663c3ca": 1793770574.3692179,
-  "d16e60c99ddaf4c9": 1793770574.3692179,
-  "61391a463175fed8": 1793770574.3692179,
-  "147d6392e6e0ab3b": 1793770574.3692179,
-  "9a19ce93ac670468": 1793770574.3692179,
-  "da7f561721efdf25": 1793770574.3692179,
-  "00c2fec49439ff34": 1793772835.4906447,
-  "e4c629780fb284f4": 1793772835.4906447,
-  "1d4239042c9bb7aa": 1793772835.4906447,
   "a6ebe0c3e2389fa2": 1793774390.4172008,
   "c6720a1563d0a4c4": 1793774390.4172008,
   "d5bb27b23f782799": 1793774390.4172008,
@@ -2548,11 +2539,14 @@
   "c2a727d5ba14d954": 1794978531.6029022,
   "315b620d60537f0a": 1794980135.6397393,
   "b3c69867166c2e80": 1794980135.6397393,
-  "023079489ed6af21": 1794980135.6397393
+  "023079489ed6af21": 1794980135.6397393,
+  "b3022be174153c85": 1794982477.750868,
+  "8cfa5b44b9f1706f": 1794982477.750868,
+  "49aa62039f2da9fe": 1794982477.750868,
+  "e960c85285baa4d1": 1794982477.750868,
+  "6b201a50ba15ec58": 1794982477.750868
  },
  "recent_headlines": [
-  "በምዕራብ ኮርዶፋን በሱዳን ጦር በተፈጸመ የአየር ጥቃት 13 ሰዎች ተገደሉ (Sudanese army air attack kills 13 in western Sudan: Rights group)",
-  "በሳዑዲ የሚገኙ ወጣቶች የሞት ፍርድ ስጋት እንዳለባቸው የትግራይ ጊዜያዊ አስተዳደር ገለጸ (Xiinxala Oduu: Dargaggoonni Tigraay Sa’udi Arabiyaa keessatti sodaa adabbii du’aa keessa jiru; Bulchiinsi Yeroo Tigraay mootummaan federaalaa akka gidduu seenu gaafate)",
   "Nvidia የቀድሞው ዋና ሥራ አስፈጻሚ Jensen Huang እንዲመለሱ የቀረበውን ጥያቄ ውድቅ አደረገ (Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO)",
   "ታዋቂው የማርክሲስት ፖለቲከኛ Negede Gobeze በ83 ዓመታቸው ከዚህ ዓለም በሞት ተለዩ (Negede Gobeze, marxist intellectual and opposition figure)",
   "ዶናልድ ትራምፕ በፊሊፒንስ በሚካሄደው የአሴአን ጉባኤ ላይ ለመሳተፍ ወደ ማኒላ አቀኑ (Trump departs for ASEAN on summit with Xi and Putin)",
@@ -2590,7 +2584,9 @@
   "የሰላም ቦርድ በጋዛ የተደረሰው የተኩስ ማቆም ስምምነት ሊፈርስ እንደሚችል አስጠነቀቀ (Board of Peace warns Gaza ceasefire faces imminent collapse without action)",
   "የአገር ውስጥ የመድኃኒት አቅርቦት ድርሻ ወደ 44 በመቶ ማደጉን የጤና ሚኒስቴር ገለጸ (Dhiheessiin qoricha biyya keessaa waggoota afran darban dhibbeentaa 8 irraa gara 44tti guddachuu Ministeerri Fayyaa ibse)",
   "ባሕሬን እና ኩዌት የተሰነዘሩባቸውን የኢራን ጥቃቶች ማክሸፋቸውን ገለጹ (Iran war live: Bahrain, Kuwait intercept attacks, Manana blames Iran)",
-  "በባድመ አቅራቢያ በተፈጸመ የድሮን ጥቃት አራት ሲቪሎች መቁሰላቸው ተገለጸ (በባድመ የገጠር ቀበሌ በደረሰ የድሮን ጥቃት ቢያንስ 4 ሲቪሎች መጎዳታቸው ተገለጸ)"
+  "በባድመ አቅራቢያ በተፈጸመ የድሮን ጥቃት አራት ሲቪሎች መቁሰላቸው ተገለጸ (በባድመ የገጠር ቀበሌ በደረሰ የድሮን ጥቃት ቢያንስ 4 ሲቪሎች መጎዳታቸው ተገለጸ)",
+  "ኢትዮጵያ በዓለም አቀፉ የሲቪል አቪዬሽን ድርጅት ጉባኤ የአፍሪካን የአየር ትራንስፖርት ጥያቄ አቀረበች (Ethiopia Amplifies Africa’s Collective Call for a Global Air Transport Development Plan at ICAO Conference)",
+  "ቱርክ በሶማሊያ ያሰማራቻቸውን ስድስት ኤፍ-16 ተዋጊ ጄቶች ቅያሪ አጠናቀቀች (#Daily_Brief: #Türkiye completes rotation of six F-16 fighter jets deployed in #Somalia)"
  ],
  "posted_at": [
   1794812186.6492946,
@@ -2652,6 +2648,8 @@
   1794965868.6503954,
   1794975002.9051871,
   1794976526.1268241,
-  1794978565.9400811
+  1794978565.9400811,
+  1794982519.0891457,
+  1794982522.3962874
  ]
 }

@@ -1,6 +1,5 @@
 {
  "seen": {
-  "ace1ceeb5a82817f": 1793772778.5074017,
   "b120a67ea30c58cb": 1793774308.4185221,
   "3b7385f0224fd1de": 1793776115.8753934,
   "9dbf169d429a2840": 1793776115.8753934,
@@ -1447,10 +1446,10 @@
   "c0e42d86a69fa531": 1794956799.2397618,
   "a129a92d89983698": 1794956799.2397618,
   "96bb51c47edb8e03": 1794958447.5974138,
-  "d5dcb3018d1278cc": 1794961182.1528084
+  "d5dcb3018d1278cc": 1794961182.1528084,
+  "ccc77fd8ac7b68d7": 1794982377.035087
  },
  "recent_headlines": [
-  "የVodacom የትርፍ መጠን በ26 በመቶ አደገ (Vodacom profit jumps 26% as Safaricom gains boost earnings)",
   "አዋሽ ኢንሹራንስ በኢትዮጵያ ሰነደ መዋለ ንዋይ ገበያ የተመዘገበ የመጀመሪያው የኢንሹራንስ ተቋም ሆነ (Awash Insurance Becomes First Insurer to List on the Ethiopian Securities Exchange)",
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የገንዘብ ፖሊሲ ማዕቀፍ የሚመራበትን አዲስ መመሪያ አወጣ (NBE’s New Liquidity Rules Open Path Towards Islamic Treasury Instruments)",
   "ጊኒ በ Mojaloop ቴክኖሎጂ የሚመራውን አገራዊ የቅጽበታዊ ክፍያ ስርዓት ይፋ አደረገች (Guinea Launches National Instant Payment System Powered by Mojaloop)",
@@ -1489,7 +1488,8 @@
   "የአዲስ አበባ ከተማ አስተዳደር የኤሌክትሮኒክስ ግዥን የሚያስገድድ አዲስ መመሪያ አወጣ (Addis Ababa Bars Former Bid Officials From Public Tenders)",
   "ሳፋሪኮም ኢትዮጵያ በ2027 እ.ኤ.አ. ትርፋማ መሆን እንደሚጀምር ተገለጸ (Safaricom Ethiopia Subsidiary to Break Even in 2027)",
   "የSafaricom የሀብት ማኔጅመንት ደንበኞች ቁጥር 3.4 ሚሊዮን መድረሱ ተገለጸ (Ziidi’s growth points to a larger role for M-PESA in personal finance)",
-  "አዲስ አበባ ከCOP32 ጉባኤ አስቀድሞ 600 የኤሌክትሪክ ባሶችን ወደ ሥራ ሊያስገባ ነው (Addis Ababa to Add 600 Electric Buses as City Prepares for COP32)"
+  "አዲስ አበባ ከCOP32 ጉባኤ አስቀድሞ 600 የኤሌክትሪክ ባሶችን ወደ ሥራ ሊያስገባ ነው (Addis Ababa to Add 600 Electric Buses as City Prepares for COP32)",
+  "ካሳቫ ቴክኖሎጂስ ለአፍሪካ የAI ዳታ ማዕከላት 1 ቢሊዮን ዶላር ሊሰበስብ ነው (👨🏿‍🚀TechCabal Daily – Cassava seeks $1 billion for AI)"
  ],
  "posted_at": [
   1794822273.7017274,
@@ -1504,6 +1504,7 @@
   1794913712.8428607,
   1794949702.2523952,
   1794951358.9702728,
-  1794953345.1970851
+  1794953345.1970851,
+  1794982477.572539
  ]
 }
