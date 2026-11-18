@@ -1,10 +1,5 @@
 {
  "seen": {
-  "26e66831567e0eaa": 1793756213.7741578,
-  "c19938a932ff3ae3": 1793756213.7741578,
-  "4a066974a060d11c": 1793756213.7741578,
-  "b623be2de480ad7d": 1793756213.7741578,
-  "033206b40f9a9434": 1793756213.7741578,
   "3c04579177c51810": 1793758265.274291,
   "7ad0853b5dc4ac4c": 1793758265.274291,
   "b09e33372cadea64": 1793758265.274291,
@@ -2561,10 +2556,16 @@
   "e71e34d3096e7cd5": 1794962910.8042634,
   "5161f6b4a07fcedf": 1794962910.8042634,
   "54b31098c0a43f7a": 1794962910.8042634,
-  "41ef48c7f1638b1c": 1794964150.6798122
+  "41ef48c7f1638b1c": 1794964150.6798122,
+  "9524ed84fc580aa2": 1794965814.5662682,
+  "8ada58812a76cf8c": 1794965814.5662682,
+  "e4e993dcfa31cc93": 1794965814.5662682,
+  "7f8e8f979bd2309b": 1794965814.5662682,
+  "7b98adcf9e20e950": 1794965814.5662682,
+  "da6da541e7f8e4ef": 1794965814.5662682,
+  "a47078be4ba6d6ad": 1794965814.5662682
  },
  "recent_headlines": [
-  "አይ ኦ ኤም በኢትዮጵያ የስደተኞች አስተዳደር የመንግሥትን መሪነት ለማጠናከር ጥሪ አቀረበ (IOM Seeks Government-Led Approach to Sustain Migration Support)",
   "ዩክሬን በሩሲያ ላይ የፈጸመችው ከፍተኛ የድሮን ጥቃት የክሬሚያ ድልድይን መታ (Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war)",
   "የብልፅግና ፓርቲ እና የዩናይትድ ሩሲያ ፓርቲ በሞስኮ ስትራቴጂካዊ የትብብር ስምምነት ተፈራረሙ (Prosperity Party, United Russia Formalize Strategic Partnership to Deepen Ethiopia–Russia Political Cooperation)",
   "ሳዑዲ ዓረቢያ በየመን የሚገኙ የህብረቱ ኃይሎችን አዛዥ ከኃላፊነት አነሳች (Saudi Arabia dismisses commander of coalition forces fighting Houthis)",
@@ -2603,7 +2604,8 @@
   "ካናዳ እና ቻይና አዳዲስ የታሪፍ ማቃለያ ስምምነቶችን ይፋ አደረጉ (China, Canada expand tariff relief after Carney-Xi meeting)",
   "የኦሮሞ ነጻነት ሠራዊት የኢሰመኮን የአርሲ ግድያ ሪፖርት ውድቅ አደረገ (News: OLA disputes Rights Commission findings on Arsi killings, accuses commission of political bias)",
   "TOYO በኢትዮጵያ ያመረታቸውን የፀሐይ ኃይል ሴሎች ወደ አሜሪካ መላክ አቆመ (Oduu: TOYOn qorannoo daldalaa Ameerikaa keessatti gaggeeffamaa jiru hordofee seelota soolaarii aduu Itoophiyaa keessatti oomishaman gara Ameerikaatti galchuu dhaabe)",
-  "ኩዌት የተሰነዘሩባትን የድሮን ጥቃቶች ማክሸፏን ገለጸች (Iran war live: Kuwait says intercepting ‘hostile’ drone attacks)"
+  "ኩዌት የተሰነዘሩባትን የድሮን ጥቃቶች ማክሸፏን ገለጸች (Iran war live: Kuwait says intercepting ‘hostile’ drone attacks)",
+  "የሰላም ቦርድ በጋዛ የተደረሰው የተኩስ ማቆም ስምምነት ሊፈርስ እንደሚችል አስጠነቀቀ (Board of Peace warns Gaza ceasefire faces imminent collapse without action)"
  ],
  "posted_at": [
   1794798739.9464357,
@@ -2663,6 +2665,7 @@
   1794947871.2362602,
   1794951407.8552186,
   1794955023.3849351,
-  1794961275.431316
+  1794961275.431316,
+  1794965868.6503954
  ]
 }
