@@ -1,15 +1,5 @@
 {
  "seen": {
-  "0aba3da9d7f8bcbf": 1793776179.8946943,
-  "ba52693449edd1f2": 1793776179.8946943,
-  "0522ca5e8bf2defa": 1793776179.8946943,
-  "80ab74e959b2c62a": 1793776179.8946943,
-  "5389cee78d738573": 1793776179.8946943,
-  "2f148570e87476d1": 1793776179.8946943,
-  "a9379c0a8767fd0c": 1793776179.8946943,
-  "1baba51f09e02a4d": 1793776179.8946943,
-  "8acec86a5dd32212": 1793776179.8946943,
-  "0f2da4c17e31ec3c": 1793776179.8946943,
   "105b2ff5cbf5c946": 1793777824.4793901,
   "76b6f7a8f60d4e61": 1793777824.4793901,
   "265d62f967955b22": 1793777824.4793901,
@@ -2543,11 +2533,14 @@
   "09beff455ab62ca8": 1794984078.5817792,
   "44ba1665907ec652": 1794984078.5817792,
   "f3a53dc9da233cc0": 1794984078.5817792,
-  "03b7f772fe8b57cb": 1794984078.5817792
+  "03b7f772fe8b57cb": 1794984078.5817792,
+  "d0d0886e7f9e8472": 1794985774.6142697,
+  "6c6e5a5ec0c399a3": 1794985774.6142697,
+  "85f3b4a2fd54f887": 1794985774.6142697,
+  "7fae49b4e70f501d": 1794985774.6142697,
+  "6d6ede2a0f3c9e49": 1794985774.6142697
  },
  "recent_headlines": [
-  "Nvidia የቀድሞው ዋና ሥራ አስፈጻሚ Jensen Huang እንዲመለሱ የቀረበውን ጥያቄ ውድቅ አደረገ (Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO)",
-  "ታዋቂው የማርክሲስት ፖለቲከኛ Negede Gobeze በ83 ዓመታቸው ከዚህ ዓለም በሞት ተለዩ (Negede Gobeze, marxist intellectual and opposition figure)",
   "ዶናልድ ትራምፕ በፊሊፒንስ በሚካሄደው የአሴአን ጉባኤ ላይ ለመሳተፍ ወደ ማኒላ አቀኑ (Trump departs for ASEAN on summit with Xi and Putin)",
   "በሞያሌ እና አካባቢው ያቀረረው የኦሮሚያ እና ሶማሌ ክልሎች የወሰን ግጭት የነዋሪዎችን እንቅስቃሴ አስተጓጎለ (Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens)",
   "ዩክሬን ከአሜሪካ እና አውሮፓ ጋር የሰላም ድርድር አደረገች (Ukraine holds peace talks with US, Europe as conflict escalates)",
@@ -2585,11 +2578,11 @@
   "ባሕሬን እና ኩዌት የተሰነዘሩባቸውን የኢራን ጥቃቶች ማክሸፋቸውን ገለጹ (Iran war live: Bahrain, Kuwait intercept attacks, Manana blames Iran)",
   "በባድመ አቅራቢያ በተፈጸመ የድሮን ጥቃት አራት ሲቪሎች መቁሰላቸው ተገለጸ (በባድመ የገጠር ቀበሌ በደረሰ የድሮን ጥቃት ቢያንስ 4 ሲቪሎች መጎዳታቸው ተገለጸ)",
   "ኢትዮጵያ በዓለም አቀፉ የሲቪል አቪዬሽን ድርጅት ጉባኤ የአፍሪካን የአየር ትራንስፖርት ጥያቄ አቀረበች (Ethiopia Amplifies Africa’s Collective Call for a Global Air Transport Development Plan at ICAO Conference)",
-  "ቱርክ በሶማሊያ ያሰማራቻቸውን ስድስት ኤፍ-16 ተዋጊ ጄቶች ቅያሪ አጠናቀቀች (#Daily_Brief: #Türkiye completes rotation of six F-16 fighter jets deployed in #Somalia)"
+  "ቱርክ በሶማሊያ ያሰማራቻቸውን ስድስት ኤፍ-16 ተዋጊ ጄቶች ቅያሪ አጠናቀቀች (#Daily_Brief: #Türkiye completes rotation of six F-16 fighter jets deployed in #Somalia)",
+  "ሶማሌላንድ \"ለብሔራዊ ደህንነት ስጋት ደቅነዋል\" ያለቻቸውን የአሜሪካ ዜጎች በቁጥጥር ስር ማዋሏን ገለጸች (Somaalilaandi lammiilee Ameerikaa “nageenya biyyaalesshaaf yaaddoo uumaniiru” jette yeroo muraasaaf to’annoo jala oolchuu beeksifte)",
+  "ኢትዮጵያ ከታላቋ ብሪታንያ እና ኢንዶኔዢያ ጋር በአቪዬሽን ዘርፍ ትብብሯን ለማጠናከር ተወያየች (Ethiopia Steps Up Aviation Diplomacy with UK and Indonesia, Advancing Strategic International Partnerships)"
  ],
  "posted_at": [
-  1794812186.6492946,
-  1794812190.1044533,
   1794815396.2395465,
   1794817510.2333636,
   1794822297.9681137,
@@ -2649,6 +2642,8 @@
   1794976526.1268241,
   1794978565.9400811,
   1794982519.0891457,
-  1794982522.3962874
+  1794982522.3962874,
+  1794985825.3065412,
+  1794985828.915039
  ]
 }
