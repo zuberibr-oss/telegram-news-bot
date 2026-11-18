@@ -1,9 +1,5 @@
 {
  "seen": {
-  "6f56440eb1193a79": 1793804949.4406576,
-  "8c272c126849e506": 1793804949.4406576,
-  "1e1ae57e66088e2c": 1793804949.4406576,
-  "35fde6325a95bf3d": 1793804949.4406576,
   "145217c97f3964eb": 1793806531.2962732,
   "57773ba41eba5a45": 1793806531.2962732,
   "02075d7ba9694389": 1793806531.2962732,
@@ -2519,12 +2515,16 @@
   "c3993fa43dceab07": 1795012533.9850547,
   "0a085b8e3b44167f": 1795012533.9850547,
   "475fd67ac70de0ef": 1795012533.9850547,
-  "c33f0ee012919efe": 1795012533.9850547
+  "c33f0ee012919efe": 1795012533.9850547,
+  "4ac9651ac35d6815": 1795014542.4755123,
+  "beae42799a48ebdb": 1795014542.4755123,
+  "416322a73447a32e": 1795014542.4755123,
+  "5b35e325f9cf3365": 1795014542.4755123,
+  "e1fb87eaa1309f5e": 1795014542.4755123,
+  "258b06939903e0cf": 1795014542.4755123,
+  "a6fb04c2442872d1": 1795014542.4755123
  },
  "recent_headlines": [
-  "ጃፓን፣ ደቡብ ኮሪያ እና ታይዋን የሩሲያ አውሮፕላኖችን ለማስወጣት የጦር ጄቶችን አሰማሩ (Japan sends up jets after alleged Russian incursion of its airspace)",
-  "በትግራይ ከ80 እስከ 90 በመቶ የሚሆኑ የመቀሌ ነዋሪዎች እርዳታ እንደሚፈልጉ ጊዜያዊ አስተዳደሩ ገለጸ (Illegal TPLF Group’s War Agenda, Forced Recruitment & Economic Coercion Have Driven Tigray into Severe Poverty: Caretaker Administration)",
-  "የሕወሓት አመራሮች ከ830 በላይ ተሽከርካሪዎችን ይዘው ወደ ኤርትራ መኮበለላቸው ተገለጸ (TPLF Leaders Flee to Eritrea with More Than 830 Looted Public Vehicles, Tigray Caretaker Administration Says)",
   "የአዲስ አበባ ከተማ አስተዳደር እና የዓለም ባንክ በልማት ትብብር ላይ ተወያዩ (Addis Ababa and World Bank Group Discuss Expanding Cooperation on Key Urban Development Priorities)",
   "ታላቋ ብሪታንያ በዌስት ባንክ ሰፈራዎችን በሚገነቡ 8 የእስራኤል ኩባንያዎች ላይ ማዕቀብ ጣለች (UK sanctions eight Israeli construction firms over West Bank settlements)",
   "ኢትዮጵያ በኮፕ31 ጉባኤ ለታዳጊ ሀገራት በቂ የካርቦን እና የፋይናንስ ድጋፍ እንዲደረግ ጠየቀች (Ethiopia Stresses Need for Adequate and Accessible Climate Finance at COP31)",
@@ -2561,7 +2561,10 @@
   "የአሜሪካው ፕሬዝዳንት ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር ለሚያደርጉት ጉባኤ ቻይና ገቡ (Trump arrives in China ahead of trilateral summit with Xi, Putin)",
   "የሳዑዲ መሪ ጥምረት በየመኑ ሁቲዎች 60 የጦር ኢላማዎች ላይ ጥቃት ፈጸመ (Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’)",
   "ዶናልድ ትራምፕን ለመገደል ከኢራን ጋር በማሴር የተከሰሰው ፓኪስታናዊ የ27 ዓመት እስራት ተፈረደበት (Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump)",
-  "የኢትዮጵያ አየር መንገድ የShebaMiles ደንበኞች መረጃ ደህንነት ጥሰት ማጋጠሙን ገለጸ (Ethiopian Airlines’ ShebaMiles reports data breach)"
+  "የኢትዮጵያ አየር መንገድ የShebaMiles ደንበኞች መረጃ ደህንነት ጥሰት ማጋጠሙን ገለጸ (Ethiopian Airlines’ ShebaMiles reports data breach)",
+  "ዩክሬን የሩሲያ እና የክሬሚያ ማገናኛ ድልድይ ላይ የከበደ ጥቃት ፈጸመች (‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge)",
+  "የእስራኤል ጦር በማዕከላዊ ጋዛ አዲስ ወታደራዊ እርምጃ መጀመሩን ተከተሎ ፍልስጥኤማውያን በመሸሽ ላይ ናቸው (Palestinians flee refugee camp as Israel begins operation in central Gaza)",
+  "በሆርሙዝ ጅረት የንግድ መርከቦች የኢንሹራንስ ክፍያ 64 ሚሊዮን ዶላር መድረሱ ተገለጸ (US official says Hormuz insurance hits $64m: Is the strait really open?)"
  ],
  "posted_at": [
   1794841845.8896635,
@@ -2621,6 +2624,9 @@
   1795003956.088188,
   1795003959.4720142,
   1795012635.835751,
-  1795012639.3358755
+  1795012639.3358755,
+  1795014636.130135,
+  1795014639.8265755,
+  1795014643.5657525
  ]
 }
