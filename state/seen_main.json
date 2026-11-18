@@ -1,13 +1,5 @@
 {
  "seen": {
-  "fb5c66bc460ea23d": 1793765414.4821792,
-  "94e54b7584a53ebf": 1793765414.4821792,
-  "a8c8ebbad0661747": 1793765414.4821792,
-  "3ed2126fd7aa629e": 1793765414.4821792,
-  "ddaf03bc6d10de95": 1793765414.4821792,
-  "9fdd90402de54228": 1793765414.4821792,
-  "859791c3a4d176c0": 1793765414.4821792,
-  "c127ac397e368ef7": 1793765414.4821792,
   "a7a6668576ea3ed6": 1793766951.128828,
   "a8470d21f551017b": 1793766951.128828,
   "7e91dcd3f7382c1f": 1793766951.128828,
@@ -2561,10 +2553,13 @@
   "9ee150a807500192": 1794972943.864888,
   "acee86c2d44a02d4": 1794972943.864888,
   "7df084dae71e5a29": 1794974981.752949,
-  "451be12789e40bb8": 1794974981.752949
+  "451be12789e40bb8": 1794974981.752949,
+  "3c700e9e8909b973": 1794976498.716756,
+  "00c0197a817ec20c": 1794976498.716756,
+  "ad2ecb713b5ad5bc": 1794976498.716756,
+  "3d24c7c8a7d0e09c": 1794976498.716756
  },
  "recent_headlines": [
-  "የብልፅግና ፓርቲ እና የዩናይትድ ሩሲያ ፓርቲ በሞስኮ ስትራቴጂካዊ የትብብር ስምምነት ተፈራረሙ (Prosperity Party, United Russia Formalize Strategic Partnership to Deepen Ethiopia–Russia Political Cooperation)",
   "ሳዑዲ ዓረቢያ በየመን የሚገኙ የህብረቱ ኃይሎችን አዛዥ ከኃላፊነት አነሳች (Saudi Arabia dismisses commander of coalition forces fighting Houthis)",
   "በምዕራብ ኮርዶፋን በሱዳን ጦር በተፈጸመ የአየር ጥቃት 13 ሰዎች ተገደሉ (Sudanese army air attack kills 13 in western Sudan: Rights group)",
   "በሳዑዲ የሚገኙ ወጣቶች የሞት ፍርድ ስጋት እንዳለባቸው የትግራይ ጊዜያዊ አስተዳደር ገለጸ (Xiinxala Oduu: Dargaggoonni Tigraay Sa’udi Arabiyaa keessatti sodaa adabbii du’aa keessa jiru; Bulchiinsi Yeroo Tigraay mootummaan federaalaa akka gidduu seenu gaafate)",
@@ -2603,7 +2598,8 @@
   "TOYO በኢትዮጵያ ያመረታቸውን የፀሐይ ኃይል ሴሎች ወደ አሜሪካ መላክ አቆመ (Oduu: TOYOn qorannoo daldalaa Ameerikaa keessatti gaggeeffamaa jiru hordofee seelota soolaarii aduu Itoophiyaa keessatti oomishaman gara Ameerikaatti galchuu dhaabe)",
   "ኩዌት የተሰነዘሩባትን የድሮን ጥቃቶች ማክሸፏን ገለጸች (Iran war live: Kuwait says intercepting ‘hostile’ drone attacks)",
   "የሰላም ቦርድ በጋዛ የተደረሰው የተኩስ ማቆም ስምምነት ሊፈርስ እንደሚችል አስጠነቀቀ (Board of Peace warns Gaza ceasefire faces imminent collapse without action)",
-  "የአገር ውስጥ የመድኃኒት አቅርቦት ድርሻ ወደ 44 በመቶ ማደጉን የጤና ሚኒስቴር ገለጸ (Dhiheessiin qoricha biyya keessaa waggoota afran darban dhibbeentaa 8 irraa gara 44tti guddachuu Ministeerri Fayyaa ibse)"
+  "የአገር ውስጥ የመድኃኒት አቅርቦት ድርሻ ወደ 44 በመቶ ማደጉን የጤና ሚኒስቴር ገለጸ (Dhiheessiin qoricha biyya keessaa waggoota afran darban dhibbeentaa 8 irraa gara 44tti guddachuu Ministeerri Fayyaa ibse)",
+  "ባሕሬን እና ኩዌት የተሰነዘሩባቸውን የኢራን ጥቃቶች ማክሸፋቸውን ገለጹ (Iran war live: Bahrain, Kuwait intercept attacks, Manana blames Iran)"
  ],
  "posted_at": [
   1794812186.6492946,
@@ -2663,6 +2659,7 @@
   1794955023.3849351,
   1794961275.431316,
   1794965868.6503954,
-  1794975002.9051871
+  1794975002.9051871,
+  1794976526.1268241
  ]
 }
