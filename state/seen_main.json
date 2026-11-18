@@ -1,11 +1,5 @@
 {
  "seen": {
-  "23a7def4a790957b": 1793808552.628829,
-  "b0a24cc5e45bd50e": 1793808552.628829,
-  "eba4119ec4b63f32": 1793808552.628829,
-  "ccbf0b96ff677b65": 1793808552.628829,
-  "fe038c3573ee27bc": 1793808552.628829,
-  "462c6fe0ef1c0eec": 1793808552.628829,
   "1a66f796047d2d67": 1793810141.421821,
   "ed21215f5931ec34": 1793810141.421821,
   "7ef5486b45e4ccfe": 1793810141.421821,
@@ -2521,10 +2515,17 @@
   "0519c96fb331907a": 1795016114.0494108,
   "3cf328fc5c26c97a": 1795016114.0494108,
   "8247530b806e48a3": 1795016114.0494108,
-  "94fa6862ba9a91bf": 1795016114.0494108
+  "94fa6862ba9a91bf": 1795016114.0494108,
+  "27ded43f2b7b4353": 1795018124.0546324,
+  "f0d928d0820c8660": 1795018124.0546324,
+  "ac63b1b18321c2e7": 1795018124.0546324,
+  "c567efaa6473d8f9": 1795018124.0546324,
+  "5f5ef97093a87474": 1795018124.0546324,
+  "75679c20e16e2a2a": 1795018124.0546324,
+  "f6af51fa93a4e483": 1795018124.0546324,
+  "804d9a559330159f": 1795018124.0546324
  },
  "recent_headlines": [
-  "ታላቋ ብሪታንያ በዌስት ባንክ ሰፈራዎችን በሚገነቡ 8 የእስራኤል ኩባንያዎች ላይ ማዕቀብ ጣለች (UK sanctions eight Israeli construction firms over West Bank settlements)",
   "ኢትዮጵያ በኮፕ31 ጉባኤ ለታዳጊ ሀገራት በቂ የካርቦን እና የፋይናንስ ድጋፍ እንዲደረግ ጠየቀች (Ethiopia Stresses Need for Adequate and Accessible Climate Finance at COP31)",
   "ዶናልድ ትራምፕ በዋሺንግተን ላይ የተደቀነውን የጥቃት ስጋት ተከትሎ ለኢራን ማስጠንቀቂያ ሰጡ (Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington)",
   "ሳልሳይ ወያነ ትግራይ በጸለምቲ በረሃብ ምክንያት ስደት እንዳይከሰት አስጠነቀቀ (Salsay Weyane Tigray warns of famine-driven displacement in Tselemti, calls for halt to revenge-driven actions)",
@@ -2563,7 +2564,8 @@
   "ዩክሬን የሩሲያ እና የክሬሚያ ማገናኛ ድልድይ ላይ የከበደ ጥቃት ፈጸመች (‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge)",
   "የእስራኤል ጦር በማዕከላዊ ጋዛ አዲስ ወታደራዊ እርምጃ መጀመሩን ተከተሎ ፍልስጥኤማውያን በመሸሽ ላይ ናቸው (Palestinians flee refugee camp as Israel begins operation in central Gaza)",
   "በሆርሙዝ ጅረት የንግድ መርከቦች የኢንሹራንስ ክፍያ 64 ሚሊዮን ዶላር መድረሱ ተገለጸ (US official says Hormuz insurance hits $64m: Is the strait really open?)",
-  "ኤርትራ ትራኮማን እንደ ሕዝብ ጤና ስጋት በማስወገድ 11ኛዋ የአፍሪካ ሀገር ሆነች (Daily_Brief: #Eritrea becomes 11th #African country to eliminate trachoma as public health problem)"
+  "ኤርትራ ትራኮማን እንደ ሕዝብ ጤና ስጋት በማስወገድ 11ኛዋ የአፍሪካ ሀገር ሆነች (Daily_Brief: #Eritrea becomes 11th #African country to eliminate trachoma as public health problem)",
+  "Hakeem Jeffries የአሜሪካ የተወካዮች ምክር ቤት አፈ ጉባኤ ዕጩ ሆነው ተመረጡ (Democrats nominate Hakeem Jeffries to be US Speaker of the House)"
  ],
  "posted_at": [
   1794846941.588036,
@@ -2626,6 +2628,7 @@
   1795014636.130135,
   1795014639.8265755,
   1795014643.5657525,
-  1795016146.2391255
+  1795016146.2391255,
+  1795018193.985451
  ]
 }
