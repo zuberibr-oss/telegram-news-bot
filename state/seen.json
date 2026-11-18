@@ -1,10 +1,5 @@
 {
  "seen": {
-  "6ad3f7af273e333c": 1793826393.7972116,
-  "d86c601298c3fd0a": 1793826393.7972116,
-  "7393f211a85c2209": 1793826393.7972116,
-  "17d8a286948a672d": 1793826393.7972116,
-  "10bebc96cf8039f0": 1793826393.7972116,
   "0afdf81f9fc22a50": 1793828068.9759884,
   "119d2ded966812dc": 1793828068.9759884,
   "c3f90d90a4141ab6": 1793828068.9759884,
@@ -1410,10 +1405,16 @@
   "eacdc4c921178c53": 1795014484.8314583,
   "9f0dc0b6ca07943d": 1795016062.971833,
   "e5e8ed2179c4bb72": 1795019704.3592455,
-  "71271cda95abf487": 1795023266.9856038
+  "71271cda95abf487": 1795023266.9856038,
+  "b8d39cbddbdecab0": 1795036004.827427,
+  "3dd58b49e57fa8e3": 1795036004.827427,
+  "dfe39b1cc8b06b87": 1795036004.827427,
+  "f5bc0e327482330c": 1795036004.827427,
+  "fa3c104e41b9a85e": 1795036004.827427,
+  "8652436fad0043e7": 1795036004.827427,
+  "af5873ef3184d2c1": 1795036004.827427
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የገንዘብ ፖሊሲ ማዕቀፍ የሚመራበትን አዲስ መመሪያ አወጣ (NBE’s New Liquidity Rules Open Path Towards Islamic Treasury Instruments)",
   "ጊኒ በ Mojaloop ቴክኖሎጂ የሚመራውን አገራዊ የቅጽበታዊ ክፍያ ስርዓት ይፋ አደረገች (Guinea Launches National Instant Payment System Powered by Mojaloop)",
   "በብሔራዊ ባንክ 32ኛው የውጭ ምንዛሬ ሐራጅ የዶላር የምንዛሬ ተመን 159.18 ብር ደረሰ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
   "ሳምሰንግ በአፍሪካ የስማርትፎን ገበያ ለመጀመሪያ ጊዜ አንደኛ ደረጃን ያዘ (Samsung tops Africa’s smartphone market for the first time)",
@@ -1452,10 +1453,10 @@
   "የSafaricom የሀብት ማኔጅመንት ደንበኞች ቁጥር 3.4 ሚሊዮን መድረሱ ተገለጸ (Ziidi’s growth points to a larger role for M-PESA in personal finance)",
   "አዲስ አበባ ከCOP32 ጉባኤ አስቀድሞ 600 የኤሌክትሪክ ባሶችን ወደ ሥራ ሊያስገባ ነው (Addis Ababa to Add 600 Electric Buses as City Prepares for COP32)",
   "ካሳቫ ቴክኖሎጂስ ለአፍሪካ የAI ዳታ ማዕከላት 1 ቢሊዮን ዶላር ሊሰበስብ ነው (👨🏿‍🚀TechCabal Daily – Cassava seeks $1 billion for AI)",
-  "የደቡብ አፍሪካ ቴሌኮም ሬጉሌተር Starlink አገልግሎቱን እንዲያቆም አዘዘ (👨🏿‍🚀TechCabal Daily – ‘Starlink, you’ve been served’)"
+  "የደቡብ አፍሪካ ቴሌኮም ሬጉሌተር Starlink አገልግሎቱን እንዲያቆም አዘዘ (👨🏿‍🚀TechCabal Daily – ‘Starlink, you’ve been served’)",
+  "ኬንያ ከአውሮፓ ህብረት ጋር የመረጃ ልውውጥ ስምምነት ድርድር አጠናቀቀች (EU and Kenya Conclude Negotiations on Mutual Data Adequacy Arrangement)"
  ],
  "posted_at": [
-  1794863281.7742152,
   1794864950.31309,
   1794866905.1118133,
   1794870463.834167,
@@ -1464,6 +1465,7 @@
   1794951358.9702728,
   1794953345.1970851,
   1794982477.572539,
-  1794984078.319869
+  1794984078.319869,
+  1795036113.0557208
  ]
 }
