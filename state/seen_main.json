@@ -1,20 +1,5 @@
 {
  "seen": {
-  "a7a6668576ea3ed6": 1793766951.128828,
-  "a8470d21f551017b": 1793766951.128828,
-  "7e91dcd3f7382c1f": 1793766951.128828,
-  "2091f5c94a646bb2": 1793766951.128828,
-  "487a8540d2f58f10": 1793768953.236329,
-  "315b620d60537f0a": 1793768953.236329,
-  "b7942af3e512f770": 1793768953.236329,
-  "ff67bcb337c86416": 1793768953.236329,
-  "e21590e7a3d3a36e": 1793768953.236329,
-  "0feb4ea74bfb00d9": 1793768953.236329,
-  "8c9d930461634452": 1793768953.236329,
-  "e302925554fae554": 1793768953.236329,
-  "ba2877efe2919cd6": 1793768953.236329,
-  "66fd55a873871530": 1793768953.236329,
-  "c014a0e7aa53215f": 1793768953.236329,
   "4979dc2f4663c3ca": 1793770574.3692179,
   "d16e60c99ddaf4c9": 1793770574.3692179,
   "61391a463175fed8": 1793770574.3692179,
@@ -2557,10 +2542,12 @@
   "3c700e9e8909b973": 1794976498.716756,
   "00c0197a817ec20c": 1794976498.716756,
   "ad2ecb713b5ad5bc": 1794976498.716756,
-  "3d24c7c8a7d0e09c": 1794976498.716756
+  "3d24c7c8a7d0e09c": 1794976498.716756,
+  "c1db62f69ffbd685": 1794978531.6029022,
+  "2d7181dd6d0b53cc": 1794978531.6029022,
+  "c2a727d5ba14d954": 1794978531.6029022
  },
  "recent_headlines": [
-  "ሳዑዲ ዓረቢያ በየመን የሚገኙ የህብረቱ ኃይሎችን አዛዥ ከኃላፊነት አነሳች (Saudi Arabia dismisses commander of coalition forces fighting Houthis)",
   "በምዕራብ ኮርዶፋን በሱዳን ጦር በተፈጸመ የአየር ጥቃት 13 ሰዎች ተገደሉ (Sudanese army air attack kills 13 in western Sudan: Rights group)",
   "በሳዑዲ የሚገኙ ወጣቶች የሞት ፍርድ ስጋት እንዳለባቸው የትግራይ ጊዜያዊ አስተዳደር ገለጸ (Xiinxala Oduu: Dargaggoonni Tigraay Sa’udi Arabiyaa keessatti sodaa adabbii du’aa keessa jiru; Bulchiinsi Yeroo Tigraay mootummaan federaalaa akka gidduu seenu gaafate)",
   "Nvidia የቀድሞው ዋና ሥራ አስፈጻሚ Jensen Huang እንዲመለሱ የቀረበውን ጥያቄ ውድቅ አደረገ (Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO)",
@@ -2599,7 +2586,8 @@
   "ኩዌት የተሰነዘሩባትን የድሮን ጥቃቶች ማክሸፏን ገለጸች (Iran war live: Kuwait says intercepting ‘hostile’ drone attacks)",
   "የሰላም ቦርድ በጋዛ የተደረሰው የተኩስ ማቆም ስምምነት ሊፈርስ እንደሚችል አስጠነቀቀ (Board of Peace warns Gaza ceasefire faces imminent collapse without action)",
   "የአገር ውስጥ የመድኃኒት አቅርቦት ድርሻ ወደ 44 በመቶ ማደጉን የጤና ሚኒስቴር ገለጸ (Dhiheessiin qoricha biyya keessaa waggoota afran darban dhibbeentaa 8 irraa gara 44tti guddachuu Ministeerri Fayyaa ibse)",
-  "ባሕሬን እና ኩዌት የተሰነዘሩባቸውን የኢራን ጥቃቶች ማክሸፋቸውን ገለጹ (Iran war live: Bahrain, Kuwait intercept attacks, Manana blames Iran)"
+  "ባሕሬን እና ኩዌት የተሰነዘሩባቸውን የኢራን ጥቃቶች ማክሸፋቸውን ገለጹ (Iran war live: Bahrain, Kuwait intercept attacks, Manana blames Iran)",
+  "በባድመ አቅራቢያ በተፈጸመ የድሮን ጥቃት አራት ሲቪሎች መቁሰላቸው ተገለጸ (በባድመ የገጠር ቀበሌ በደረሰ የድሮን ጥቃት ቢያንስ 4 ሲቪሎች መጎዳታቸው ተገለጸ)"
  ],
  "posted_at": [
   1794812186.6492946,
@@ -2660,6 +2648,7 @@
   1794961275.431316,
   1794965868.6503954,
   1794975002.9051871,
-  1794976526.1268241
+  1794976526.1268241,
+  1794978565.9400811
  ]
 }
