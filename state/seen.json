@@ -1,25 +1,5 @@
 {
  "seen": {
-  "ac15bc42965ca632": 1793830020.9508667,
-  "bdb864dadc79c24b": 1793830020.9508667,
-  "fbc560777dc202c0": 1793830020.9508667,
-  "9c7c351c1ada705a": 1793830020.9508667,
-  "9d2879eb2b140d5d": 1793830020.9508667,
-  "4a76437b40c4f961": 1793830020.9508667,
-  "196abb8339679c18": 1793830020.9508667,
-  "ea938a84876c0de7": 1793830020.9508667,
-  "d4ce13ce97b7fcbb": 1793830020.9508667,
-  "e3870e0d1f4e9958": 1793830020.9508667,
-  "db28cbb4704bddbd": 1793830020.9508667,
-  "ef29405f827f4f61": 1793830020.9508667,
-  "a64b46cbff0d8319": 1793830020.9508667,
-  "02075d7ba9694389": 1793830020.9508667,
-  "35fde6325a95bf3d": 1793830020.9508667,
-  "7509fdb0fb8b0704": 1793830020.9508667,
-  "4c3dd3ea7aa271cf": 1793830020.9508667,
-  "9da32df0ff405089": 1793830020.9508667,
-  "9bdccd3c8ff3a043": 1793830020.9508667,
-  "8de327ee70b8493d": 1793830020.9508667,
   "5c1f9381e6f20e8c": 1793831648.360362,
   "62396a76c1bf791b": 1793831648.360362,
   "d98f4523bff9428e": 1793831648.360362,
@@ -1418,10 +1398,11 @@
   "0519c96fb331907a": 1795037645.8909516,
   "c80cada3c4643108": 1795037645.8909516,
   "0f903dbe0c8746cf": 1795037645.8909516,
-  "e3b40648bac8c219": 1795037645.8909516
+  "e3b40648bac8c219": 1795037645.8909516,
+  "27df335835218f73": 1795039647.5476263,
+  "a40f14934ba08d76": 1795039647.5476263
  },
  "recent_headlines": [
-  "በብሔራዊ ባንክ 32ኛው የውጭ ምንዛሬ ሐራጅ የዶላር የምንዛሬ ተመን 159.18 ብር ደረሰ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
   "ሳምሰንግ በአፍሪካ የስማርትፎን ገበያ ለመጀመሪያ ጊዜ አንደኛ ደረጃን ያዘ (Samsung tops Africa’s smartphone market for the first time)",
   "የቮዳኮም የ1.6 ቢሊዮን ዶላር የሳፋሪኮም አክሲዮን ግዢ ክስ ወደ ይግባኝ ሰሚ ችሎት አመራ (Vodacom’s $1.6bn Safaricom stake heads to appeal)",
   "Enza Capital በአፍሪካ AI ስታርታፖች ላይ የሚያፈስ የ60 ሚሊዮን USD ፈንድ መሠረተ (African AI startups are starved of funding. Enza Capital is betting $60 million on them)",
@@ -1460,11 +1441,10 @@
   "ካሳቫ ቴክኖሎጂስ ለአፍሪካ የAI ዳታ ማዕከላት 1 ቢሊዮን ዶላር ሊሰበስብ ነው (👨🏿‍🚀TechCabal Daily – Cassava seeks $1 billion for AI)",
   "የደቡብ አፍሪካ ቴሌኮም ሬጉሌተር Starlink አገልግሎቱን እንዲያቆም አዘዘ (👨🏿‍🚀TechCabal Daily – ‘Starlink, you’ve been served’)",
   "ኬንያ ከአውሮፓ ህብረት ጋር የመረጃ ልውውጥ ስምምነት ድርድር አጠናቀቀች (EU and Kenya Conclude Negotiations on Mutual Data Adequacy Arrangement)",
-  "የኢትዮጵያ አየር መንገድ በሳይበር ጥቃት የተወሰኑ የደንበኞች መረጃ ሳይጋለጥ እንዳልቀረ አሳወቀ (Ethiopian Airlines reports cyberattack a week after Air Botswana)"
+  "የኢትዮጵያ አየር መንገድ በሳይበር ጥቃት የተወሰኑ የደንበኞች መረጃ ሳይጋለጥ እንዳልቀረ አሳወቀ (Ethiopian Airlines reports cyberattack a week after Air Botswana)",
+  "የኢትዮጵያ ኢኮኖሚክስ ባለሙያዎች ማኅበር በውጭ ምንዛሬ ገበያው ላይ አስጠነቀቀ (Slower Birr Depreciation Masks Deeper Problems in Ethiopia’s Forex Market, EEA Says)"
  ],
  "posted_at": [
-  1794864950.31309,
-  1794866905.1118133,
   1794870463.834167,
   1794913712.8428607,
   1794949702.2523952,
@@ -1473,6 +1453,7 @@
   1794982477.572539,
   1794984078.319869,
   1795036113.0557208,
-  1795037746.5866504
+  1795037746.5866504,
+  1795039819.8871963
  ]
 }
