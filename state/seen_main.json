@@ -1,11 +1,5 @@
 {
  "seen": {
-  "145217c97f3964eb": 1793806531.2962732,
-  "57773ba41eba5a45": 1793806531.2962732,
-  "02075d7ba9694389": 1793806531.2962732,
-  "2b66723bac07ba4e": 1793806531.2962732,
-  "42ad2dee950ec60b": 1793806531.2962732,
-  "eb912df98dbc6717": 1793806531.2962732,
   "23a7def4a790957b": 1793808552.628829,
   "b0a24cc5e45bd50e": 1793808552.628829,
   "eba4119ec4b63f32": 1793808552.628829,
@@ -2522,10 +2516,14 @@
   "5b35e325f9cf3365": 1795014542.4755123,
   "e1fb87eaa1309f5e": 1795014542.4755123,
   "258b06939903e0cf": 1795014542.4755123,
-  "a6fb04c2442872d1": 1795014542.4755123
+  "a6fb04c2442872d1": 1795014542.4755123,
+  "c56bf5ec61030dad": 1795016114.0494108,
+  "0519c96fb331907a": 1795016114.0494108,
+  "3cf328fc5c26c97a": 1795016114.0494108,
+  "8247530b806e48a3": 1795016114.0494108,
+  "94fa6862ba9a91bf": 1795016114.0494108
  },
  "recent_headlines": [
-  "የአዲስ አበባ ከተማ አስተዳደር እና የዓለም ባንክ በልማት ትብብር ላይ ተወያዩ (Addis Ababa and World Bank Group Discuss Expanding Cooperation on Key Urban Development Priorities)",
   "ታላቋ ብሪታንያ በዌስት ባንክ ሰፈራዎችን በሚገነቡ 8 የእስራኤል ኩባንያዎች ላይ ማዕቀብ ጣለች (UK sanctions eight Israeli construction firms over West Bank settlements)",
   "ኢትዮጵያ በኮፕ31 ጉባኤ ለታዳጊ ሀገራት በቂ የካርቦን እና የፋይናንስ ድጋፍ እንዲደረግ ጠየቀች (Ethiopia Stresses Need for Adequate and Accessible Climate Finance at COP31)",
   "ዶናልድ ትራምፕ በዋሺንግተን ላይ የተደቀነውን የጥቃት ስጋት ተከትሎ ለኢራን ማስጠንቀቂያ ሰጡ (Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington)",
@@ -2564,10 +2562,10 @@
   "የኢትዮጵያ አየር መንገድ የShebaMiles ደንበኞች መረጃ ደህንነት ጥሰት ማጋጠሙን ገለጸ (Ethiopian Airlines’ ShebaMiles reports data breach)",
   "ዩክሬን የሩሲያ እና የክሬሚያ ማገናኛ ድልድይ ላይ የከበደ ጥቃት ፈጸመች (‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge)",
   "የእስራኤል ጦር በማዕከላዊ ጋዛ አዲስ ወታደራዊ እርምጃ መጀመሩን ተከተሎ ፍልስጥኤማውያን በመሸሽ ላይ ናቸው (Palestinians flee refugee camp as Israel begins operation in central Gaza)",
-  "በሆርሙዝ ጅረት የንግድ መርከቦች የኢንሹራንስ ክፍያ 64 ሚሊዮን ዶላር መድረሱ ተገለጸ (US official says Hormuz insurance hits $64m: Is the strait really open?)"
+  "በሆርሙዝ ጅረት የንግድ መርከቦች የኢንሹራንስ ክፍያ 64 ሚሊዮን ዶላር መድረሱ ተገለጸ (US official says Hormuz insurance hits $64m: Is the strait really open?)",
+  "ኤርትራ ትራኮማን እንደ ሕዝብ ጤና ስጋት በማስወገድ 11ኛዋ የአፍሪካ ሀገር ሆነች (Daily_Brief: #Eritrea becomes 11th #African country to eliminate trachoma as public health problem)"
  ],
  "posted_at": [
-  1794841845.8896635,
   1794846941.588036,
   1794859787.3616073,
   1794864994.7918596,
@@ -2627,6 +2625,7 @@
   1795012639.3358755,
   1795014636.130135,
   1795014639.8265755,
-  1795014643.5657525
+  1795014643.5657525,
+  1795016146.2391255
  ]
 }
