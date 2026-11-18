@@ -1,16 +1,5 @@
 {
  "seen": {
-  "105b2ff5cbf5c946": 1793777824.4793901,
-  "76b6f7a8f60d4e61": 1793777824.4793901,
-  "265d62f967955b22": 1793777824.4793901,
-  "ce6aaa62e14b22df": 1793777824.4793901,
-  "c33a5f8526892670": 1793777824.4793901,
-  "c9769df422209e30": 1793777824.4793901,
-  "97f5875c2853ca2f": 1793779914.4436593,
-  "de2b71e1bb71a3af": 1793779914.4436593,
-  "a7d710cd05a32712": 1793779914.4436593,
-  "0c8f196c6f851d50": 1793779914.4436593,
-  "25690830320042a3": 1793779914.4436593,
   "42252a953d2f5fa1": 1793781331.7945702,
   "26b7366490002ef2": 1793781331.7945702,
   "09d0ad7f577017d3": 1793781331.7945702,
@@ -2541,10 +2530,15 @@
   "6d6ede2a0f3c9e49": 1794985774.6142697,
   "03dd643a81cc9cc1": 1794987353.7523088,
   "1282eadc5b40cceb": 1794987353.7523088,
-  "8a5b1f11f9004595": 1794987353.7523088
+  "8a5b1f11f9004595": 1794987353.7523088,
+  "d183e86c3a8cf48e": 1794989471.340101,
+  "5f2fae3b0bfd50be": 1794989471.340101,
+  "7df4fd7c08aa604e": 1794989471.340101,
+  "ad210451497e183a": 1794989471.340101,
+  "c7319f7765128caf": 1794989471.340101,
+  "1f68a3e49e133e31": 1794989471.340101
  },
  "recent_headlines": [
-  "ዶናልድ ትራምፕ በፊሊፒንስ በሚካሄደው የአሴአን ጉባኤ ላይ ለመሳተፍ ወደ ማኒላ አቀኑ (Trump departs for ASEAN on summit with Xi and Putin)",
   "በሞያሌ እና አካባቢው ያቀረረው የኦሮሚያ እና ሶማሌ ክልሎች የወሰን ግጭት የነዋሪዎችን እንቅስቃሴ አስተጓጎለ (Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens)",
   "ዩክሬን ከአሜሪካ እና አውሮፓ ጋር የሰላም ድርድር አደረገች (Ukraine holds peace talks with US, Europe as conflict escalates)",
   "ዩናይትድ ስቴትስ ቻይና የኤአይ ቺፖችን በሌሎች ሀገራት በኩል እንዳታገኝ ገደብ ጣለች (US moves to block China’s remote access to AI chips amid Nvidia scandal)",
@@ -2583,10 +2577,10 @@
   "ኢትዮጵያ በዓለም አቀፉ የሲቪል አቪዬሽን ድርጅት ጉባኤ የአፍሪካን የአየር ትራንስፖርት ጥያቄ አቀረበች (Ethiopia Amplifies Africa’s Collective Call for a Global Air Transport Development Plan at ICAO Conference)",
   "ቱርክ በሶማሊያ ያሰማራቻቸውን ስድስት ኤፍ-16 ተዋጊ ጄቶች ቅያሪ አጠናቀቀች (#Daily_Brief: #Türkiye completes rotation of six F-16 fighter jets deployed in #Somalia)",
   "ሶማሌላንድ \"ለብሔራዊ ደህንነት ስጋት ደቅነዋል\" ያለቻቸውን የአሜሪካ ዜጎች በቁጥጥር ስር ማዋሏን ገለጸች (Somaalilaandi lammiilee Ameerikaa “nageenya biyyaalesshaaf yaaddoo uumaniiru” jette yeroo muraasaaf to’annoo jala oolchuu beeksifte)",
-  "ኢትዮጵያ ከታላቋ ብሪታንያ እና ኢንዶኔዢያ ጋር በአቪዬሽን ዘርፍ ትብብሯን ለማጠናከር ተወያየች (Ethiopia Steps Up Aviation Diplomacy with UK and Indonesia, Advancing Strategic International Partnerships)"
+  "ኢትዮጵያ ከታላቋ ብሪታንያ እና ኢንዶኔዢያ ጋር በአቪዬሽን ዘርፍ ትብብሯን ለማጠናከር ተወያየች (Ethiopia Steps Up Aviation Diplomacy with UK and Indonesia, Advancing Strategic International Partnerships)",
+  "ቻይና እና ሩሲያ ባለብዙ ወገን የዓለም ሥርዓትን ለመምራት እንደሚሠሩ Xi Jinping ገለጹ (Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit)"
  ],
  "posted_at": [
-  1794815396.2395465,
   1794817510.2333636,
   1794822297.9681137,
   1794825455.271854,
@@ -2647,6 +2641,7 @@
   1794982519.0891457,
   1794982522.3962874,
   1794985825.3065412,
-  1794985828.915039
+  1794985828.915039,
+  1794989530.9284363
  ]
 }
