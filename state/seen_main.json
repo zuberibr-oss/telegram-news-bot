@@ -1,13 +1,5 @@
 {
  "seen": {
-  "112edbab9c1886af": 1793813714.938334,
-  "f45c8efbe3b260a7": 1793813714.938334,
-  "2f49b94b9fddfb75": 1793813714.938334,
-  "49acfbdcf98c94f8": 1793813714.938334,
-  "d01f0889931f3fd1": 1793813714.938334,
-  "de283a2d42793bf3": 1793813714.938334,
-  "8465588381cc49e6": 1793813714.938334,
-  "20944183e64c1c61": 1793813714.938334,
   "11150526eccbdc6f": 1793815793.7951877,
   "d19850402533bc9a": 1793815793.7951877,
   "7f2074a56ccedef4": 1793815793.7951877,
@@ -2529,11 +2521,12 @@
   "7dfe2247db3a77f0": 1795021681.614215,
   "991188291b798384": 1795021681.614215,
   "038e6fee32c77faf": 1795021681.614215,
-  "decb63f685921c64": 1795021681.614215
+  "decb63f685921c64": 1795021681.614215,
+  "fa3c104e41b9a85e": 1795023324.4136899,
+  "f5bc0e327482330c": 1795023324.4136899,
+  "dfe39b1cc8b06b87": 1795023324.4136899
  },
  "recent_headlines": [
-  "ሳልሳይ ወያነ ትግራይ በጸለምቲ በረሃብ ምክንያት ስደት እንዳይከሰት አስጠነቀቀ (Salsay Weyane Tigray warns of famine-driven displacement in Tselemti, calls for halt to revenge-driven actions)",
-  "የኳድ አባል ሀገራት የቻይናን የበላይነት ለመቀነስ የሚያስችል የወሳኝ ማዕድናት ስምምነት ተፈራረሙ (Trump announces critical minerals agreements at Quad meeting in Manila)",
   "ዩናይትድ ስቴትስ ከ26 ዓመታት በኋላ ከኩፍኝ በሽታ ነጻ የመሆን ደረጃዋን አጣች (US officially loses measles-free status after 26 years amid outbreak)",
   "ኢትዮጵያ እና አዘርባጃን በኮፕ32 አየር ንብረት ጉባኤ ዝግጅት ላይ አብረው ለመሥራት ተስማሙ (Ethiopia and Azerbaijan Establish Cooperation on COP32 Preparations, Drawing on COP29 Experience)",
   "አቶ አደም ፋራህ የኢትዮጵያ አየር መንገድ ግሩፕ ቦርድ ሰብሳቢ ሆነው ተሾሙ (Mr. Adem Farah Appointed Chairman of Ethiopian Airlines Group Board of Directors)",
@@ -2571,7 +2564,9 @@
   "ኤርትራ ትራኮማን እንደ ሕዝብ ጤና ስጋት በማስወገድ 11ኛዋ የአፍሪካ ሀገር ሆነች (Daily_Brief: #Eritrea becomes 11th #African country to eliminate trachoma as public health problem)",
   "Hakeem Jeffries የአሜሪካ የተወካዮች ምክር ቤት አፈ ጉባኤ ዕጩ ሆነው ተመረጡ (Democrats nominate Hakeem Jeffries to be US Speaker of the House)",
   "አምስት የአውሮፓ ህብረት ሀገራት ጥገኝነት የተከለከሉ ስደተኞችን ወደ ሩዋንዳ ለመላክ አቅደዋል (Five EU nations to deport migrants to Rwanda)",
-  "በሞያሌ በተከሰተው ግጭት ምክንያት የአካባቢው ነዋሪዎች ከቀያቸው እየተፈናቀሉ ነው (Uummanni nagaan Moyyaalee keessaa baqachaa jira; haala amma jiruun dhumni walitti bu’iinsichaa hin beekamu — Walitti bu’iinsi hammaachaa dhufuun rakkoo namoomaa daran hammeessaa jira)"
+  "በሞያሌ በተከሰተው ግጭት ምክንያት የአካባቢው ነዋሪዎች ከቀያቸው እየተፈናቀሉ ነው (Uummanni nagaan Moyyaalee keessaa baqachaa jira; haala amma jiruun dhumni walitti bu’iinsichaa hin beekamu — Walitti bu’iinsi hammaachaa dhufuun rakkoo namoomaa daran hammeessaa jira)",
+  "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአዲስ አበባ የ57 ሄክታር የኮሪደር ልማት ፕሮጀክትን መረቁ (PM Abiy Commissions 57-Hectare Corridor Development in Addis Ababa, Setting New Benchmark for Africa’s Green Urban Development)",
+  "ኢትዮጵያ ስደተኞችን በኢኮኖሚ ለማካተት የግል ባለሃብቶች ኢንቨስትመንታቸውን እንዲያሳድጉ ጥሪ አቀረበች (Ethiopia Calls for Greater Private Investment to Boost Refugee Economic Inclusion)"
  ],
  "posted_at": [
   1794859787.3616073,
@@ -2636,6 +2631,8 @@
   1795016146.2391255,
   1795018193.985451,
   1795019795.1941602,
-  1795021746.472311
+  1795021746.472311,
+  1795023378.7803512,
+  1795023382.4124503
  ]
 }
