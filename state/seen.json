@@ -1,6 +1,5 @@
 {
  "seen": {
-  "b120a67ea30c58cb": 1793774308.4185221,
   "3b7385f0224fd1de": 1793776115.8753934,
   "9dbf169d429a2840": 1793776115.8753934,
   "f651b0395a35ab65": 1793776115.8753934,
@@ -1447,10 +1446,13 @@
   "a129a92d89983698": 1794956799.2397618,
   "96bb51c47edb8e03": 1794958447.5974138,
   "d5dcb3018d1278cc": 1794961182.1528084,
-  "ccc77fd8ac7b68d7": 1794982377.035087
+  "ccc77fd8ac7b68d7": 1794982377.035087,
+  "b77a4314f3626e56": 1794983997.1514678,
+  "5fd33b30d67b4872": 1794983997.1514678,
+  "e960c85285baa4d1": 1794983997.1514678,
+  "ab4f87403d574590": 1794983997.1514678
  },
  "recent_headlines": [
-  "አዋሽ ኢንሹራንስ በኢትዮጵያ ሰነደ መዋለ ንዋይ ገበያ የተመዘገበ የመጀመሪያው የኢንሹራንስ ተቋም ሆነ (Awash Insurance Becomes First Insurer to List on the Ethiopian Securities Exchange)",
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የገንዘብ ፖሊሲ ማዕቀፍ የሚመራበትን አዲስ መመሪያ አወጣ (NBE’s New Liquidity Rules Open Path Towards Islamic Treasury Instruments)",
   "ጊኒ በ Mojaloop ቴክኖሎጂ የሚመራውን አገራዊ የቅጽበታዊ ክፍያ ስርዓት ይፋ አደረገች (Guinea Launches National Instant Payment System Powered by Mojaloop)",
   "በብሔራዊ ባንክ 32ኛው የውጭ ምንዛሬ ሐራጅ የዶላር የምንዛሬ ተመን 159.18 ብር ደረሰ (Dollar demand outstrips supply as Birr weakens further in NBE’s latest auction)",
@@ -1489,7 +1491,8 @@
   "ሳፋሪኮም ኢትዮጵያ በ2027 እ.ኤ.አ. ትርፋማ መሆን እንደሚጀምር ተገለጸ (Safaricom Ethiopia Subsidiary to Break Even in 2027)",
   "የSafaricom የሀብት ማኔጅመንት ደንበኞች ቁጥር 3.4 ሚሊዮን መድረሱ ተገለጸ (Ziidi’s growth points to a larger role for M-PESA in personal finance)",
   "አዲስ አበባ ከCOP32 ጉባኤ አስቀድሞ 600 የኤሌክትሪክ ባሶችን ወደ ሥራ ሊያስገባ ነው (Addis Ababa to Add 600 Electric Buses as City Prepares for COP32)",
-  "ካሳቫ ቴክኖሎጂስ ለአፍሪካ የAI ዳታ ማዕከላት 1 ቢሊዮን ዶላር ሊሰበስብ ነው (👨🏿‍🚀TechCabal Daily – Cassava seeks $1 billion for AI)"
+  "ካሳቫ ቴክኖሎጂስ ለአፍሪካ የAI ዳታ ማዕከላት 1 ቢሊዮን ዶላር ሊሰበስብ ነው (👨🏿‍🚀TechCabal Daily – Cassava seeks $1 billion for AI)",
+  "የደቡብ አፍሪካ ቴሌኮም ሬጉሌተር Starlink አገልግሎቱን እንዲያቆም አዘዘ (👨🏿‍🚀TechCabal Daily – ‘Starlink, you’ve been served’)"
  ],
  "posted_at": [
   1794822273.7017274,
@@ -1505,6 +1508,7 @@
   1794949702.2523952,
   1794951358.9702728,
   1794953345.1970851,
-  1794982477.572539
+  1794982477.572539,
+  1794984078.319869
  ]
 }
