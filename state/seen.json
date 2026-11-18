@@ -1,14 +1,5 @@
 {
  "seen": {
-  "5c1f9381e6f20e8c": 1793831648.360362,
-  "62396a76c1bf791b": 1793831648.360362,
-  "d98f4523bff9428e": 1793831648.360362,
-  "12a81c616224cc39": 1793831648.360362,
-  "ae5b978a5213a3ee": 1793831648.360362,
-  "8bfa266655e7a6ce": 1793831648.360362,
-  "56de231f18467fe7": 1793831648.360362,
-  "61fcef9cfc95c620": 1793831648.360362,
-  "f98369e28f86fac0": 1793831648.360362,
   "1cb55c04e32bf49a": 1793835224.6757505,
   "1b15af773f2b7a66": 1793838005.801115,
   "31a5f44668d7939e": 1793838005.801115,
@@ -1400,10 +1391,20 @@
   "0f903dbe0c8746cf": 1795037645.8909516,
   "e3b40648bac8c219": 1795037645.8909516,
   "27df335835218f73": 1795039647.5476263,
-  "a40f14934ba08d76": 1795039647.5476263
+  "a40f14934ba08d76": 1795039647.5476263,
+  "beae42799a48ebdb": 1795041271.9980595,
+  "b43578b6f68ede57": 1795041271.9980595,
+  "4944737fe4e5ecee": 1795041271.9980595,
+  "b861931fabba141f": 1795041271.9980595,
+  "ba15b9811d438d82": 1795041271.9980595,
+  "c2bd13620e45dcc9": 1795041271.9980595,
+  "b9dc3a4b7e8d84a0": 1795041271.9980595,
+  "4111e1a1ca812e86": 1795041271.9980595,
+  "c33f0ee012919efe": 1795041271.9980595,
+  "b6866fa1be3ad9b3": 1795041271.9980595,
+  "4d20748354b681ce": 1795041271.9980595
  },
  "recent_headlines": [
-  "ሳምሰንግ በአፍሪካ የስማርትፎን ገበያ ለመጀመሪያ ጊዜ አንደኛ ደረጃን ያዘ (Samsung tops Africa’s smartphone market for the first time)",
   "የቮዳኮም የ1.6 ቢሊዮን ዶላር የሳፋሪኮም አክሲዮን ግዢ ክስ ወደ ይግባኝ ሰሚ ችሎት አመራ (Vodacom’s $1.6bn Safaricom stake heads to appeal)",
   "Enza Capital በአፍሪካ AI ስታርታፖች ላይ የሚያፈስ የ60 ሚሊዮን USD ፈንድ መሠረተ (African AI startups are starved of funding. Enza Capital is betting $60 million on them)",
   "የገቢዎች ሚኒስቴር ከ50 ሺህ ብር በላይ በሚያገኙ የዲጂታል ይዘት ፈጣሪዎች ላይ የገቢ ግብር ጣለ (Ministry of Revenues Imposes Income Tax on Digital Content Creators Earning Above 50,000 Birr)",
@@ -1442,7 +1443,8 @@
   "የደቡብ አፍሪካ ቴሌኮም ሬጉሌተር Starlink አገልግሎቱን እንዲያቆም አዘዘ (👨🏿‍🚀TechCabal Daily – ‘Starlink, you’ve been served’)",
   "ኬንያ ከአውሮፓ ህብረት ጋር የመረጃ ልውውጥ ስምምነት ድርድር አጠናቀቀች (EU and Kenya Conclude Negotiations on Mutual Data Adequacy Arrangement)",
   "የኢትዮጵያ አየር መንገድ በሳይበር ጥቃት የተወሰኑ የደንበኞች መረጃ ሳይጋለጥ እንዳልቀረ አሳወቀ (Ethiopian Airlines reports cyberattack a week after Air Botswana)",
-  "የኢትዮጵያ ኢኮኖሚክስ ባለሙያዎች ማኅበር በውጭ ምንዛሬ ገበያው ላይ አስጠነቀቀ (Slower Birr Depreciation Masks Deeper Problems in Ethiopia’s Forex Market, EEA Says)"
+  "የኢትዮጵያ ኢኮኖሚክስ ባለሙያዎች ማኅበር በውጭ ምንዛሬ ገበያው ላይ አስጠነቀቀ (Slower Birr Depreciation Masks Deeper Problems in Ethiopia’s Forex Market, EEA Says)",
+  "First Circle Capital የ26 ሚሊዮን ዶላር የአፍሪካ ፊንቴክ ፈንድ አጠናቀቀ (First Circle Capital Closes $26 Million African Fintech Fund)"
  ],
  "posted_at": [
   1794870463.834167,
@@ -1454,6 +1456,7 @@
   1794984078.319869,
   1795036113.0557208,
   1795037746.5866504,
-  1795039819.8871963
+  1795039819.8871963,
+  1795041385.8745239
  ]
 }
