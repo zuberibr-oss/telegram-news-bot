@@ -1,10 +1,5 @@
 {
  "seen": {
-  "1a66f796047d2d67": 1793810141.421821,
-  "ed21215f5931ec34": 1793810141.421821,
-  "7ef5486b45e4ccfe": 1793810141.421821,
-  "cdd3b3d17af29162": 1793810141.421821,
-  "0d8f9f1b691298b3": 1793810141.421821,
   "e9eb92ba9084ef8a": 1793812056.8033376,
   "bdb864dadc79c24b": 1793812056.8033376,
   "acbd8640bfbed70d": 1793812056.8033376,
@@ -2523,10 +2518,15 @@
   "5f5ef97093a87474": 1795018124.0546324,
   "75679c20e16e2a2a": 1795018124.0546324,
   "f6af51fa93a4e483": 1795018124.0546324,
-  "804d9a559330159f": 1795018124.0546324
+  "804d9a559330159f": 1795018124.0546324,
+  "3a697c424c190269": 1795019759.3183665,
+  "33aef51949d100ff": 1795019759.3183665,
+  "c305c568aa772f4e": 1795019759.3183665,
+  "a45033a593d937b4": 1795019759.3183665,
+  "4e251f0cc0b0521f": 1795019759.3183665,
+  "193209a6bd359bfc": 1795019759.3183665
  },
  "recent_headlines": [
-  "ኢትዮጵያ በኮፕ31 ጉባኤ ለታዳጊ ሀገራት በቂ የካርቦን እና የፋይናንስ ድጋፍ እንዲደረግ ጠየቀች (Ethiopia Stresses Need for Adequate and Accessible Climate Finance at COP31)",
   "ዶናልድ ትራምፕ በዋሺንግተን ላይ የተደቀነውን የጥቃት ስጋት ተከትሎ ለኢራን ማስጠንቀቂያ ሰጡ (Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington)",
   "ሳልሳይ ወያነ ትግራይ በጸለምቲ በረሃብ ምክንያት ስደት እንዳይከሰት አስጠነቀቀ (Salsay Weyane Tigray warns of famine-driven displacement in Tselemti, calls for halt to revenge-driven actions)",
   "የኳድ አባል ሀገራት የቻይናን የበላይነት ለመቀነስ የሚያስችል የወሳኝ ማዕድናት ስምምነት ተፈራረሙ (Trump announces critical minerals agreements at Quad meeting in Manila)",
@@ -2565,10 +2565,10 @@
   "የእስራኤል ጦር በማዕከላዊ ጋዛ አዲስ ወታደራዊ እርምጃ መጀመሩን ተከተሎ ፍልስጥኤማውያን በመሸሽ ላይ ናቸው (Palestinians flee refugee camp as Israel begins operation in central Gaza)",
   "በሆርሙዝ ጅረት የንግድ መርከቦች የኢንሹራንስ ክፍያ 64 ሚሊዮን ዶላር መድረሱ ተገለጸ (US official says Hormuz insurance hits $64m: Is the strait really open?)",
   "ኤርትራ ትራኮማን እንደ ሕዝብ ጤና ስጋት በማስወገድ 11ኛዋ የአፍሪካ ሀገር ሆነች (Daily_Brief: #Eritrea becomes 11th #African country to eliminate trachoma as public health problem)",
-  "Hakeem Jeffries የአሜሪካ የተወካዮች ምክር ቤት አፈ ጉባኤ ዕጩ ሆነው ተመረጡ (Democrats nominate Hakeem Jeffries to be US Speaker of the House)"
+  "Hakeem Jeffries የአሜሪካ የተወካዮች ምክር ቤት አፈ ጉባኤ ዕጩ ሆነው ተመረጡ (Democrats nominate Hakeem Jeffries to be US Speaker of the House)",
+  "አምስት የአውሮፓ ህብረት ሀገራት ጥገኝነት የተከለከሉ ስደተኞችን ወደ ሩዋንዳ ለመላክ አቅደዋል (Five EU nations to deport migrants to Rwanda)"
  ],
  "posted_at": [
-  1794846941.588036,
   1794859787.3616073,
   1794864994.7918596,
   1794866936.6973977,
@@ -2629,6 +2629,7 @@
   1795014639.8265755,
   1795014643.5657525,
   1795016146.2391255,
-  1795018193.985451
+  1795018193.985451,
+  1795019795.1941602
  ]
 }
