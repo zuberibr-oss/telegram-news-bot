@@ -1,7 +1,5 @@
 {
  "seen": {
-  "ba59e36d3ae08975": 1793833658.217998,
-  "79171266f879fe37": 1793833658.217998,
   "becdb3ebbadf431c": 1793838067.7908394,
   "d90c999fbbd509f5": 1793838067.7908394,
   "2dc45ccd9c17ecb8": 1793838067.7908394,
@@ -2533,10 +2531,10 @@
   "d75c01266fb94661": 1795039820.06914,
   "be54129947192cf6": 1795041386.1024334,
   "c8a66be871e92b0d": 1795041386.1024334,
-  "bd9e5813a1198e39": 1795041386.1024334
+  "bd9e5813a1198e39": 1795041386.1024334,
+  "d6c2e5586e8ea2d5": 1795043320.6140122
  },
  "recent_headlines": [
-  "ኢትዮጵያ በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎች ያላትን ሚና ለማጠናከር መወሰኗ ተገለጸ (Ethiopia to Strengthen Its Role in International Peacekeeping Through Institutional Capacity and Strategic Partnerships: Navy Chief)",
   "የኢትዮጵያ ብሔራዊ ባንክ የፋይናንስ ቴክኖሎጂዎችን ለመፈተሽ የሚያስችል መመሪያ አወጣ (Central bank opens regulatory sandbox for fintechs and banks to test new products)",
   "የአውሮፓ ህብረት ከ12 የአፍሪካ ሀገራት የተወጣጡ 87 አየር መንገድ ኩባንያዎችን ከግዛቱ አገደ (​EU aviation blacklist hits 12 African nations)",
   "የምሥራቅ አፍሪካ የልማት በይነ መንግሥታት ባለሥልጣን (IGAD) አዲሱ የትብብር ስምምነት በሕግ ጸና (New IGAD Treaty takes effect as Horn of Africa marks 40 years of regional cooperation)",
@@ -2575,7 +2573,8 @@
   "Voyager 1 መንኮራኩር ከተወነጨፈች ከ49 ዓመታት በኋላ ከምድር የአንድ ብርሃን ቀን ርቀት ደረሰች (Voyager 1 reaches one light-day from Earth after 49 years in space)",
   "Donald Trump እና Vladimir Putin በቻይና በነጠላ ውይይት ሊያደርጉ ነው (Trump and Putin to meet one-on-one in China Thursday)",
   "አሜሪካ ከ26 ዓመታት በኋላ የኩፍኝ በሽታን የማስወገድ ደረጃዋን አጣች (US loses measles-free status after 26 years in historic setback)",
-  "አሜሪካ እና ቬኔዙዌላ ወታደራዊ እና የደህንነት ትብብር ስምምነት ተፈራረሙ (US Defence Secretary Hegseth reveals military partnership on Venezuela trip)"
+  "አሜሪካ እና ቬኔዙዌላ ወታደራዊ እና የደህንነት ትብብር ስምምነት ተፈራረሙ (US Defence Secretary Hegseth reveals military partnership on Venezuela trip)",
+  "የዓለም አቀፉ ፍርድ ቤት በምያንማር የዘር ማጥፋት ክስ ላይ ብይን ሊሰጥ ነው (Myanmar faces historic genocide verdict at UN court over Rohingya massacres)"
  ],
  "posted_at": [
   1794874862.55765,
@@ -2642,6 +2641,7 @@
   1795032584.722052,
   1795034154.3790689,
   1795034158.8931544,
-  1795037791.0085447
+  1795037791.0085447,
+  1795043353.3575988
  ]
 }
