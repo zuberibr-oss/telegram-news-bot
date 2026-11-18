@@ -1,11 +1,5 @@
 {
  "seen": {
-  "5c76676c22aef7d0": 1793786993.4186342,
-  "f435f8ffa9061914": 1793786993.4186342,
-  "4621832395d17911": 1793786993.4186342,
-  "b8614ed1aa10f4f1": 1793786993.4186342,
-  "6f7ed0ba1b552735": 1793786993.4186342,
-  "2c40c4e898524494": 1793786993.4186342,
   "8ae163c198281da8": 1793790550.585417,
   "4cee850679d83d57": 1793790550.585417,
   "b274288b7ce1f3f7": 1793790550.585417,
@@ -2546,10 +2540,11 @@
   "e792604f3224f1e0": 1794996516.8117137,
   "a1bd03e4320f2e8e": 1794996516.8117137,
   "ffcb4b60c902e1a1": 1794996516.8117137,
-  "de9c447c6d75b662": 1794996516.8117137
+  "de9c447c6d75b662": 1794996516.8117137,
+  "ad2022c5433384da": 1794998140.5182755,
+  "76f1724b636ae00f": 1794998140.5182755
  },
  "recent_headlines": [
-  "ሩሲያ በዩክሬን የእርዳታ ማዕከል ላይ በፈጸመችው ጥቃት የ72 ሰዎች ሕይወት አለፈ (Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72)",
   "ኢትዮጵያ በCOP31 ጉባኤ የችግኝ ተከላና የኤሌክትሪክ ተሽከርካሪ ስኬቶቿን አቀረበች (Ethiopia Takes 144,429 Electric Vehicles and 56 Billion Green Legacy Seedlings to Global Climate Stage Ahead of COP32)",
   "የአምባሳደሮች እና የተባበሩት መንግሥታት ድርጅት ልዑካን መቅሌ ገቡ (International Diplomatic Community, UN Representatives Travel to Ethiopia’s Tigray Region for Official Engagements)",
   "ባሕሬን የአሜሪካ የጦር ራዳር ላይ የተሰነዘረውን የኢራን የድሮን ጥቃት አከሸፈች (Bahrain thwarts drone attack, Iran claims targeting US military radar)",
@@ -2588,7 +2583,8 @@
   "ዓለም አቀፍ ዲፕሎማቶች በመቀሌ የቀድሞ ተዋጊዎች ማቋቋሚያ ማዕከልን ጎበኙ (International Diplomatic Community Visits Former Combatants’ Rehabilitation Center in Ethiopia’s Tigray Region)",
   "በትግራይ ክልል የመንግሥት አገልግሎቶች እና የትምህርት እንቅስቃሴ እንደገና መጀመራቸውን ጊዜያዊ አስተዳደሩ ገለጸ (Tigray Region Sees Stable Social and Economic Activity as Caretaker Administration Restores Public Services)",
   "Donald Trump እና Xi Jinping በቻይናው የአፔክ ጉባኤ ጎን ለጎን ውይይት አደረጉ (As Trump arrives in China, low expectations for breakthroughs in rivalry)",
-  "ኢትዮጵያ እና UNEP በኮፕ32 አጀንዳዎች እና በአየር ንብረት ፋይናንስ ላይ ተወያዩ (Ethiopia and UNEP Put Adaptation Finance, Renewable Energy and Urban Climate Resilience on COP32 Agenda)"
+  "ኢትዮጵያ እና UNEP በኮፕ32 አጀንዳዎች እና በአየር ንብረት ፋይናንስ ላይ ተወያዩ (Ethiopia and UNEP Put Adaptation Finance, Renewable Energy and Urban Climate Resilience on COP32 Agenda)",
+  "ኤል ኒኞ እና የኢራን ጦርነት በኢትዮጵያ ኢኮኖሚ ላይ ተጽዕኖ ሊያሳድሩ እንደሚችሉ ተገለጸ (El Ninofi Waraanni Iraan bara 2027 Itoophiyaatti namoota miiliyoona tokkotti siqan hiyyummaaf akka saaxilan, guddina walii galaa diinagdee biyyattiis haga dhibbeentaa tokkoon duubatti akka harkisan qorannoon akeeke)"
  ],
  "posted_at": [
   1794825455.271854,
@@ -2655,6 +2651,7 @@
   1794993034.8124948,
   1794993038.3670948,
   1794996588.3211005,
-  1794996591.6889193
+  1794996591.6889193,
+  1794998164.6014624
  ]
 }
