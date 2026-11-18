@@ -1,13 +1,5 @@
 {
  "seen": {
-  "11101170971a96e6": 1793783408.611773,
-  "ae80776ed31e3dc6": 1793783408.611773,
-  "42b647c320b5cc8a": 1793783408.611773,
-  "83817d7f327b3dab": 1793783408.611773,
-  "26a193e394881e3b": 1793783408.611773,
-  "e0a5bdd932985249": 1793783408.611773,
-  "f8dbf484bf386b6d": 1793783408.611773,
-  "72a88001137a6b10": 1793783408.611773,
   "9961d940f3b22e67": 1793784937.8119845,
   "7984d1483e374081": 1793784937.8119845,
   "5c76676c22aef7d0": 1793786993.4186342,
@@ -2537,11 +2529,14 @@
   "7e80aea695d48fc1": 1794990917.269662,
   "8a79f2e97bde0efd": 1794990917.269662,
   "bd8101aa117d4edf": 1794990917.269662,
-  "b8799f4bb2d85cda": 1794990917.269662
+  "b8799f4bb2d85cda": 1794990917.269662,
+  "18ea503da9309586": 1794992981.3853428,
+  "9171b061acc84c1f": 1794992981.3853428,
+  "e07afff7b0fc237a": 1794992981.3853428,
+  "c44425fecefc9917": 1794992981.3853428,
+  "96e6a6ca23bcdf81": 1794992981.3853428
  },
  "recent_headlines": [
-  "ዩክሬን ከአሜሪካ እና አውሮፓ ጋር የሰላም ድርድር አደረገች (Ukraine holds peace talks with US, Europe as conflict escalates)",
-  "ዩናይትድ ስቴትስ ቻይና የኤአይ ቺፖችን በሌሎች ሀገራት በኩል እንዳታገኝ ገደብ ጣለች (US moves to block China’s remote access to AI chips amid Nvidia scandal)",
   "የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ ለተፈጸመው ጥቃት ኃላፊነት መውሰዱን ገለጸ (የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ \"እርምጃ\" መውሰዱን አምኖ፣ የተገደሉት \"የትርፍ ጊዜ ተዋጊዎች\" ናቸው አለ)",
   "ሩሲያ በኪየቭ በሚገኙ ሁለት ዋና ዋና ድልድዮች ላይ የባሊስቲክ ሚሳይል ጥቃት ፈጸመች (Two major Kyiv bridges hit in Russian attack, mayor says)",
   "ሩሲያ በዩክሬን የእርዳታ ማዕከል ላይ በፈጸመችው ጥቃት የ72 ሰዎች ሕይወት አለፈ (Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72)",
@@ -2579,7 +2574,9 @@
   "ሶማሌላንድ \"ለብሔራዊ ደህንነት ስጋት ደቅነዋል\" ያለቻቸውን የአሜሪካ ዜጎች በቁጥጥር ስር ማዋሏን ገለጸች (Somaalilaandi lammiilee Ameerikaa “nageenya biyyaalesshaaf yaaddoo uumaniiru” jette yeroo muraasaaf to’annoo jala oolchuu beeksifte)",
   "ኢትዮጵያ ከታላቋ ብሪታንያ እና ኢንዶኔዢያ ጋር በአቪዬሽን ዘርፍ ትብብሯን ለማጠናከር ተወያየች (Ethiopia Steps Up Aviation Diplomacy with UK and Indonesia, Advancing Strategic International Partnerships)",
   "ቻይና እና ሩሲያ ባለብዙ ወገን የዓለም ሥርዓትን ለመምራት እንደሚሠሩ Xi Jinping ገለጹ (Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit)",
-  "በኢትዮጵያ ንግድ ባንኮች 1.4 ቢሊዮን ዶላር ያልተመለሰ የውጭ ምንዛሬ ጥያቄ መኖሩ ተገለጸ (Ethiopia’s Commercial Banks carry $1.4 billion FX backlog amid liquidity constraints)"
+  "በኢትዮጵያ ንግድ ባንኮች 1.4 ቢሊዮን ዶላር ያልተመለሰ የውጭ ምንዛሬ ጥያቄ መኖሩ ተገለጸ (Ethiopia’s Commercial Banks carry $1.4 billion FX backlog amid liquidity constraints)",
+  "ዓለም አቀፍ ዲፕሎማቶች በመቀሌ የቀድሞ ተዋጊዎች ማቋቋሚያ ማዕከልን ጎበኙ (International Diplomatic Community Visits Former Combatants’ Rehabilitation Center in Ethiopia’s Tigray Region)",
+  "በትግራይ ክልል የመንግሥት አገልግሎቶች እና የትምህርት እንቅስቃሴ እንደገና መጀመራቸውን ጊዜያዊ አስተዳደሩ ገለጸ (Tigray Region Sees Stable Social and Economic Activity as Caretaker Administration Restores Public Services)"
  ],
  "posted_at": [
   1794822297.9681137,
@@ -2643,6 +2640,8 @@
   1794985825.3065412,
   1794985828.915039,
   1794989530.9284363,
-  1794990954.780957
+  1794990954.780957,
+  1794993034.8124948,
+  1794993038.3670948
  ]
 }
