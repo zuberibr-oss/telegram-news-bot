@@ -1,10 +1,5 @@
 {
  "seen": {
-  "fbc13c27950b0073": 1793751601.055124,
-  "6537a31a7178df46": 1793751601.055124,
-  "c9e610def245db2e": 1793751601.055124,
-  "6e8b02bbbdeabae5": 1793751601.055124,
-  "28746a80f2ea6e41": 1793751601.055124,
   "4f6152874f7c8576": 1793753148.8024523,
   "f5174f1c3b565d1c": 1793753148.8024523,
   "11315fbd4413e2ac": 1793753148.8024523,
@@ -2564,10 +2559,14 @@
   "29f4a4a91029a745": 1794956894.5025885,
   "8481f77b2fa41888": 1794958503.0780385,
   "bbde8c7a6f2d40c9": 1794958503.0780385,
-  "ded113180898367b": 1794958503.0780385
+  "ded113180898367b": 1794958503.0780385,
+  "01123f68b1c94bb0": 1794961236.7667415,
+  "0181155f23220a4a": 1794961236.7667415,
+  "19f88aeaa3fc11d2": 1794961236.7667415,
+  "63c7e3242344c6d4": 1794961236.7667415,
+  "bb84eba0360045f1": 1794961236.7667415
  },
  "recent_headlines": [
-  "ለቀድሞ ተዋጊዎች በሀገር ውስጥ እና በውጭ ሀገር የሥራ ዕድል ለማመቻቸት እየተሠራ መሆኑ ተገለጸ (Ethiopia to Expand Employment Pathways for Former Combatants at Home and Abroad: Minister)",
   "አይ ኦ ኤም በኢትዮጵያ የስደተኞች አስተዳደር የመንግሥትን መሪነት ለማጠናከር ጥሪ አቀረበ (IOM Seeks Government-Led Approach to Sustain Migration Support)",
   "ዩክሬን በሩሲያ ላይ የፈጸመችው ከፍተኛ የድሮን ጥቃት የክሬሚያ ድልድይን መታ (Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war)",
   "የብልፅግና ፓርቲ እና የዩናይትድ ሩሲያ ፓርቲ በሞስኮ ስትራቴጂካዊ የትብብር ስምምነት ተፈራረሙ (Prosperity Party, United Russia Formalize Strategic Partnership to Deepen Ethiopia–Russia Political Cooperation)",
@@ -2606,7 +2605,8 @@
   "የምሥራቅ አፍሪካ የልማት በይነ መንግሥታት ባለሥልጣን (IGAD) አዲሱ የትብብር ስምምነት በሕግ ጸና (New IGAD Treaty takes effect as Horn of Africa marks 40 years of regional cooperation)",
   "ካናዳ እና ቻይና አዳዲስ የታሪፍ ማቃለያ ስምምነቶችን ይፋ አደረጉ (China, Canada expand tariff relief after Carney-Xi meeting)",
   "የኦሮሞ ነጻነት ሠራዊት የኢሰመኮን የአርሲ ግድያ ሪፖርት ውድቅ አደረገ (News: OLA disputes Rights Commission findings on Arsi killings, accuses commission of political bias)",
-  "TOYO በኢትዮጵያ ያመረታቸውን የፀሐይ ኃይል ሴሎች ወደ አሜሪካ መላክ አቆመ (Oduu: TOYOn qorannoo daldalaa Ameerikaa keessatti gaggeeffamaa jiru hordofee seelota soolaarii aduu Itoophiyaa keessatti oomishaman gara Ameerikaatti galchuu dhaabe)"
+  "TOYO በኢትዮጵያ ያመረታቸውን የፀሐይ ኃይል ሴሎች ወደ አሜሪካ መላክ አቆመ (Oduu: TOYOn qorannoo daldalaa Ameerikaa keessatti gaggeeffamaa jiru hordofee seelota soolaarii aduu Itoophiyaa keessatti oomishaman gara Ameerikaatti galchuu dhaabe)",
+  "ኩዌት የተሰነዘሩባትን የድሮን ጥቃቶች ማክሸፏን ገለጸች (Iran war live: Kuwait says intercepting ‘hostile’ drone attacks)"
  ],
  "posted_at": [
   1794790435.0731378,
@@ -2666,6 +2666,7 @@
   1794947867.6964378,
   1794947871.2362602,
   1794951407.8552186,
-  1794955023.3849351
+  1794955023.3849351,
+  1794961275.431316
  ]
 }
