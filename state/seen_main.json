@@ -1,8 +1,5 @@
 {
  "seen": {
-  "42252a953d2f5fa1": 1793781331.7945702,
-  "26b7366490002ef2": 1793781331.7945702,
-  "09d0ad7f577017d3": 1793781331.7945702,
   "11101170971a96e6": 1793783408.611773,
   "ae80776ed31e3dc6": 1793783408.611773,
   "42b647c320b5cc8a": 1793783408.611773,
@@ -2536,10 +2533,13 @@
   "7df4fd7c08aa604e": 1794989471.340101,
   "ad210451497e183a": 1794989471.340101,
   "c7319f7765128caf": 1794989471.340101,
-  "1f68a3e49e133e31": 1794989471.340101
+  "1f68a3e49e133e31": 1794989471.340101,
+  "7e80aea695d48fc1": 1794990917.269662,
+  "8a79f2e97bde0efd": 1794990917.269662,
+  "bd8101aa117d4edf": 1794990917.269662,
+  "b8799f4bb2d85cda": 1794990917.269662
  },
  "recent_headlines": [
-  "በሞያሌ እና አካባቢው ያቀረረው የኦሮሚያ እና ሶማሌ ክልሎች የወሰን ግጭት የነዋሪዎችን እንቅስቃሴ አስተጓጎለ (Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens)",
   "ዩክሬን ከአሜሪካ እና አውሮፓ ጋር የሰላም ድርድር አደረገች (Ukraine holds peace talks with US, Europe as conflict escalates)",
   "ዩናይትድ ስቴትስ ቻይና የኤአይ ቺፖችን በሌሎች ሀገራት በኩል እንዳታገኝ ገደብ ጣለች (US moves to block China’s remote access to AI chips amid Nvidia scandal)",
   "የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ ለተፈጸመው ጥቃት ኃላፊነት መውሰዱን ገለጸ (የኦሮሞ ነጻነት ሠራዊት በአርሲ ሽርካ ወረዳ \"እርምጃ\" መውሰዱን አምኖ፣ የተገደሉት \"የትርፍ ጊዜ ተዋጊዎች\" ናቸው አለ)",
@@ -2578,10 +2578,10 @@
   "ቱርክ በሶማሊያ ያሰማራቻቸውን ስድስት ኤፍ-16 ተዋጊ ጄቶች ቅያሪ አጠናቀቀች (#Daily_Brief: #Türkiye completes rotation of six F-16 fighter jets deployed in #Somalia)",
   "ሶማሌላንድ \"ለብሔራዊ ደህንነት ስጋት ደቅነዋል\" ያለቻቸውን የአሜሪካ ዜጎች በቁጥጥር ስር ማዋሏን ገለጸች (Somaalilaandi lammiilee Ameerikaa “nageenya biyyaalesshaaf yaaddoo uumaniiru” jette yeroo muraasaaf to’annoo jala oolchuu beeksifte)",
   "ኢትዮጵያ ከታላቋ ብሪታንያ እና ኢንዶኔዢያ ጋር በአቪዬሽን ዘርፍ ትብብሯን ለማጠናከር ተወያየች (Ethiopia Steps Up Aviation Diplomacy with UK and Indonesia, Advancing Strategic International Partnerships)",
-  "ቻይና እና ሩሲያ ባለብዙ ወገን የዓለም ሥርዓትን ለመምራት እንደሚሠሩ Xi Jinping ገለጹ (Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit)"
+  "ቻይና እና ሩሲያ ባለብዙ ወገን የዓለም ሥርዓትን ለመምራት እንደሚሠሩ Xi Jinping ገለጹ (Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit)",
+  "በኢትዮጵያ ንግድ ባንኮች 1.4 ቢሊዮን ዶላር ያልተመለሰ የውጭ ምንዛሬ ጥያቄ መኖሩ ተገለጸ (Ethiopia’s Commercial Banks carry $1.4 billion FX backlog amid liquidity constraints)"
  ],
  "posted_at": [
-  1794817510.2333636,
   1794822297.9681137,
   1794825455.271854,
   1794825458.8126996,
@@ -2642,6 +2642,7 @@
   1794982522.3962874,
   1794985825.3065412,
   1794985828.915039,
-  1794989530.9284363
+  1794989530.9284363,
+  1794990954.780957
  ]
 }
