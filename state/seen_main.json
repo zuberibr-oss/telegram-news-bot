@@ -1,15 +1,5 @@
 {
  "seen": {
-  "9a98db9e8303418c": 1793876894.5653899,
-  "0c855c3ac99f1018": 1793876894.5653899,
-  "282ee34ca7ac3f17": 1793876894.5653899,
-  "bc4d4c32f5d52b6e": 1793876894.5653899,
-  "3e896237d1999293": 1793876894.5653899,
-  "ff9048a4d34e7f5b": 1793876894.5653899,
-  "d2522b22858c2725": 1793876894.5653899,
-  "8f866ba06aa0b02d": 1793876894.5653899,
-  "6ed6b4afd88603a7": 1793876894.5653899,
-  "194f3425ee7452af": 1793876894.5653899,
   "c259f6bb0bbdcd4f": 1793878589.8915174,
   "30143641c9382bfa": 1793878589.8915174,
   "caefa8c2cbe6d482": 1793878589.8915174,
@@ -2561,11 +2551,15 @@
   "b37a81b50f32c49b": 1795084531.6016304,
   "b75e915b958a6d45": 1795084531.6016304,
   "945e5b55fe0fabf6": 1795084531.6016304,
-  "581439949104f3d6": 1795084531.6016304
+  "581439949104f3d6": 1795084531.6016304,
+  "dc190bc3502a29c0": 1795086500.4789999,
+  "b597393013e1adf1": 1795086500.4789999,
+  "1ef36054efd0fae5": 1795086500.4789999,
+  "76ab7bac766036e2": 1795086500.4789999,
+  "f300747be0ce34ed": 1795086500.4789999,
+  "d2a63a3049b5d51d": 1795086500.4789999
  },
  "recent_headlines": [
-  "ሶማሌላንድ \"ለብሔራዊ ደህንነት ስጋት ደቅነዋል\" ያለቻቸውን የአሜሪካ ዜጎች በቁጥጥር ስር ማዋሏን ገለጸች (Somaalilaandi lammiilee Ameerikaa “nageenya biyyaalesshaaf yaaddoo uumaniiru” jette yeroo muraasaaf to’annoo jala oolchuu beeksifte)",
-  "ኢትዮጵያ ከታላቋ ብሪታንያ እና ኢንዶኔዢያ ጋር በአቪዬሽን ዘርፍ ትብብሯን ለማጠናከር ተወያየች (Ethiopia Steps Up Aviation Diplomacy with UK and Indonesia, Advancing Strategic International Partnerships)",
   "ቻይና እና ሩሲያ ባለብዙ ወገን የዓለም ሥርዓትን ለመምራት እንደሚሠሩ Xi Jinping ገለጹ (Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit)",
   "በኢትዮጵያ ንግድ ባንኮች 1.4 ቢሊዮን ዶላር ያልተመለሰ የውጭ ምንዛሬ ጥያቄ መኖሩ ተገለጸ (Ethiopia’s Commercial Banks carry $1.4 billion FX backlog amid liquidity constraints)",
   "ዓለም አቀፍ ዲፕሎማቶች በመቀሌ የቀድሞ ተዋጊዎች ማቋቋሚያ ማዕከልን ጎበኙ (International Diplomatic Community Visits Former Combatants’ Rehabilitation Center in Ethiopia’s Tigray Region)",
@@ -2603,7 +2597,9 @@
   "በአዲስ አበባ ለችግር ተጋላጭ ሴቶች የሥልጠናና የሥራ ዕድል የሚፈጥር ማዕከል ተከፈተ (Addis Ababa’s Urban Renewal Is Replacing Exploitation with Dignity, Skills and Economic Opportunity for Women – Mayor)",
   "ኢትዮጵያ ከአሜሪካ አምስት ታሪካዊ የባህል ቅርሶችን አስመለሰች (Ethiopia Reclaims Five Historic Cultural Treasures Through Landmark International Partnership)",
   "ዶናልድ ትራምፕ በቻይናው የአፔክ ጉባኤ የኒውክሌር ጦር መሣሪያዎችን ለመቀነስ ጥሪ አቀረቡ (Trump calls for nuclear arms reduction at APEC summit)",
-  "በጋዛ የተተገበረው የሰላም ዕቅድ መክሸፉን ዓለም አቀፍ የረድኤት ድርጅቶች ገለጹ (‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say)"
+  "በጋዛ የተተገበረው የሰላም ዕቅድ መክሸፉን ዓለም አቀፍ የረድኤት ድርጅቶች ገለጹ (‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say)",
+  "የዓለም አቀፉ ፍርድ ቤት ምያንማር በሮሂንጊያዎች ላይ የዘር ማጥፋት ፈጽማለች ሲል ብይን ሰጠ (UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya)",
+  "በሞያሌ ለአንድ ወር የዘለቀው ግጭት መቆሙ እና ውይይት መጀመሩ ተገለጸ (ለአንድ ወር በግጭት በተናጠችው ሞያሌ በማክሰኞ ጀምሮ ተኩስ መቆሙን ነዋሪዎች እና ቀይ መስቀል ገለጹ)"
  ],
  "posted_at": [
   1794915343.8059137,
@@ -2669,6 +2665,8 @@
   1795083006.7547374,
   1795083010.3188684,
   1795084584.696072,
-  1795084588.2019649
+  1795084588.2019649,
+  1795086565.290342,
+  1795086568.7517745
  ]
 }
