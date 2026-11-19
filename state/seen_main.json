@@ -1,12 +1,5 @@
 {
  "seen": {
-  "8f07f8cb32635053": 1793873400.5641918,
-  "26c907d5d1de4d4a": 1793873400.5641918,
-  "c8c76292f34dedd5": 1793873400.5641918,
-  "da6d2441b0a5dc80": 1793873400.5641918,
-  "7c5da34fc7800a46": 1793873400.5641918,
-  "96698a37995a0f30": 1793873400.5641918,
-  "45c9c81c089bcd0d": 1793873400.5641918,
   "e22ea7b15f11459f": 1793874956.182534,
   "7b342aafb824517f": 1793874956.182534,
   "b20d915ce366c245": 1793874956.182534,
@@ -2564,12 +2557,12 @@
   "10896aa6ea8d372c": 1795079396.4212413,
   "18d0391804df1a95": 1795079396.4212413,
   "864b90a985b700f1": 1795079396.4212413,
-  "4115b81919f23a12": 1795080927.2287996
+  "4115b81919f23a12": 1795080927.2287996,
+  "8d2a77649c7c041a": 1795082948.894601,
+  "be907144ce2d78e0": 1795082948.894601,
+  "8558fc00eef2d934": 1795082948.894601
  },
  "recent_headlines": [
-  "የአገር ውስጥ የመድኃኒት አቅርቦት ድርሻ ወደ 44 በመቶ ማደጉን የጤና ሚኒስቴር ገለጸ (Dhiheessiin qoricha biyya keessaa waggoota afran darban dhibbeentaa 8 irraa gara 44tti guddachuu Ministeerri Fayyaa ibse)",
-  "ባሕሬን እና ኩዌት የተሰነዘሩባቸውን የኢራን ጥቃቶች ማክሸፋቸውን ገለጹ (Iran war live: Bahrain, Kuwait intercept attacks, Manana blames Iran)",
-  "በባድመ አቅራቢያ በተፈጸመ የድሮን ጥቃት አራት ሲቪሎች መቁሰላቸው ተገለጸ (በባድመ የገጠር ቀበሌ በደረሰ የድሮን ጥቃት ቢያንስ 4 ሲቪሎች መጎዳታቸው ተገለጸ)",
   "ኢትዮጵያ በዓለም አቀፉ የሲቪል አቪዬሽን ድርጅት ጉባኤ የአፍሪካን የአየር ትራንስፖርት ጥያቄ አቀረበች (Ethiopia Amplifies Africa’s Collective Call for a Global Air Transport Development Plan at ICAO Conference)",
   "ቱርክ በሶማሊያ ያሰማራቻቸውን ስድስት ኤፍ-16 ተዋጊ ጄቶች ቅያሪ አጠናቀቀች (#Daily_Brief: #Türkiye completes rotation of six F-16 fighter jets deployed in #Somalia)",
   "ሶማሌላንድ \"ለብሔራዊ ደህንነት ስጋት ደቅነዋል\" ያለቻቸውን የአሜሪካ ዜጎች በቁጥጥር ስር ማዋሏን ገለጸች (Somaalilaandi lammiilee Ameerikaa “nageenya biyyaalesshaaf yaaddoo uumaniiru” jette yeroo muraasaaf to’annoo jala oolchuu beeksifte)",
@@ -2606,11 +2599,12 @@
   "የአውሮፓ መሪዎች ለዩክሬን ድጋፍ ለማሰባሰብ እና በሰላም ድርደሩ ለመሳተፍ በበርሊን ሊመክሩ ነው (Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence)",
   "ዶናልድ ትራምፕ፣ ሺ ጂንፒንግ እና ቪላዲሚር ፑቲን በቻይና የተሦስትዮሽ ጉባኤ ጀመሩ (APEC Live: Trump-Xi-Putin meeting to focus on Ukraine, Iran, AI)",
   "የአውሮፓ ህብረት በሞያሌ ለተፈናቀሉ ዜጎች የ550 ሺህ ዩሮ ድጋፍ መድበ (Daily_Brief: #EU allocates €550,000 emergency aid to help civilians displaced by #Moyale conflict)",
-  "በሪያድ እና ደቡብ ሳዑዲ ላይ የተሰነዘሩ የሁቲ ሚሳይሎችን ማክሸፉን የሳዑዲ ጥምረት ገለጸ (Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south)"
+  "በሪያድ እና ደቡብ ሳዑዲ ላይ የተሰነዘሩ የሁቲ ሚሳይሎችን ማክሸፉን የሳዑዲ ጥምረት ገለጸ (Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south)",
+  "ሰሜን ኮሪያ የዩራኒየም ማበልጸጊያ ተቋሟን እያስፋፋች መሆኑን የዓለም አቀፉ የኒውክሌር ኤጀንሲ ገለጸ (North Korea expanding uranium enrichment facility, UN nuclear watchdog says)",
+  "በአዲስ አበባ ለችግር ተጋላጭ ሴቶች የሥልጠናና የሥራ ዕድል የሚፈጥር ማዕከል ተከፈተ (Addis Ababa’s Urban Renewal Is Replacing Exploitation with Dignity, Skills and Economic Opportunity for Women – Mayor)",
+  "ኢትዮጵያ ከአሜሪካ አምስት ታሪካዊ የባህል ቅርሶችን አስመለሰች (Ethiopia Reclaims Five Historic Cultural Treasures Through Landmark International Partnership)"
  ],
  "posted_at": [
-  1794908245.34578,
-  1794910171.7126255,
   1794915343.8059137,
   1794926157.02794,
   1794926160.450655,
@@ -2669,6 +2663,9 @@
   1795066567.0370605,
   1795073753.1652746,
   1795077371.983238,
-  1795079443.5849504
+  1795079443.5849504,
+  1795083003.1662698,
+  1795083006.7547374,
+  1795083010.3188684
  ]
 }
