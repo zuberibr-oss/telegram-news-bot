@@ -1,7 +1,5 @@
 {
  "seen": {
-  "d5a793a4c9574709": 1793907291.803463,
-  "883132bd00d96ae1": 1793907291.803463,
   "7d3beb92042948e4": 1793909326.1134496,
   "59403a2b4b0a541e": 1793909326.1134496,
   "f8ddbd82c1c688e8": 1793909326.1134496,
@@ -2549,12 +2547,13 @@
   "c732c1a5cc7b214e": 1795113344.8395696,
   "6f78c6c77513ede5": 1795113344.8395696,
   "a787d36b9e6c60c8": 1795115228.321809,
-  "95a1bec975bb2429": 1795115228.321809
+  "95a1bec975bb2429": 1795115228.321809,
+  "5299f287398630b0": 1795116921.4061787,
+  "fa13f897c21c29ee": 1795116921.4061787,
+  "ca76d224b8a09a29": 1795116921.4061787,
+  "677610ea16acaf97": 1795116921.4061787
  },
  "recent_headlines": [
-  "የእስራኤል ጦር በማዕከላዊ ጋዛ አዲስ ወታደራዊ እርምጃ መጀመሩን ተከተሎ ፍልስጥኤማውያን በመሸሽ ላይ ናቸው (Palestinians flee refugee camp as Israel begins operation in central Gaza)",
-  "በሆርሙዝ ጅረት የንግድ መርከቦች የኢንሹራንስ ክፍያ 64 ሚሊዮን ዶላር መድረሱ ተገለጸ (US official says Hormuz insurance hits $64m: Is the strait really open?)",
-  "ኤርትራ ትራኮማን እንደ ሕዝብ ጤና ስጋት በማስወገድ 11ኛዋ የአፍሪካ ሀገር ሆነች (Daily_Brief: #Eritrea becomes 11th #African country to eliminate trachoma as public health problem)",
   "Hakeem Jeffries የአሜሪካ የተወካዮች ምክር ቤት አፈ ጉባኤ ዕጩ ሆነው ተመረጡ (Democrats nominate Hakeem Jeffries to be US Speaker of the House)",
   "አምስት የአውሮፓ ህብረት ሀገራት ጥገኝነት የተከለከሉ ስደተኞችን ወደ ሩዋንዳ ለመላክ አቅደዋል (Five EU nations to deport migrants to Rwanda)",
   "በሞያሌ በተከሰተው ግጭት ምክንያት የአካባቢው ነዋሪዎች ከቀያቸው እየተፈናቀሉ ነው (Uummanni nagaan Moyyaalee keessaa baqachaa jira; haala amma jiruun dhumni walitti bu’iinsichaa hin beekamu — Walitti bu’iinsi hammaachaa dhufuun rakkoo namoomaa daran hammeessaa jira)",
@@ -2591,10 +2590,12 @@
   "በኢትዮጵያ እና ኤርትራ ወሰን ባድመ አካባቢ የድሮን እና የከባድ መሣሪያ ጥቃቶች መፈጸማቸው ተገለጸ (Drone strikes and artillery fire reported near Ethio–Eritrea border, civilians injured)",
   "ሶማሊያ የኤምሬትስ አምባሳደር ከሀገር እንዲወጡ አዘዘች፤ ሉዓላዊነቴ ተደፍሯል ስትል ከሰሰች (Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty)",
   "Donald Trump፣ Vladimir Putin እና Xi Jinping የጋራ የሰላም መግለጫ አወጡ (Trump, Putin and Xi release 'peace declaration' after historic meeting)",
-  "Anthropic በ81.3 ቢሊዮን ዶላር በአሜሪካ የታሪክ ትልቁን IPO በማካሄድ በናስዳክ መነገድ ጀመረ (Anthropic starts trading in the US after blockbuster IPO)"
+  "Anthropic በ81.3 ቢሊዮን ዶላር በአሜሪካ የታሪክ ትልቁን IPO በማካሄድ በናስዳክ መነገድ ጀመረ (Anthropic starts trading in the US after blockbuster IPO)",
+  "የየመን ሁቲ አማፂያን ቁልፍ የቀይ ባሕር ቦታዎችን በመቆጣጠር ወደ ኤደን እየገሰገሱ ነው (Daily_Brief: #Houthis advance toward #Aden after government forces withdraw from key #Red_Sea coastal positions)",
+  "የእስራኤልን አዲስ ጥቃት በመሸሽ በርካታ የጋዛ ነዋሪዎች ከቡሬጅ ስደተኞች ካምፕ እየተፈናቀሉ ነው (Families flee Gaza’s Bureij camp as Israel launches new offensive)",
+  "የአውሮፓ መሪዎች ከሩሲያ ጋር የሰላም ውይይት ለማድረግ ዝግጁ መሆናቸውን ገለጹ (Europe ready for talks with Russia on ending war in Ukraine, leaders say)"
  ],
  "posted_at": [
-  1794942530.4351237,
   1794946190.7127914,
   1794947860.5926814,
   1794947864.1360376,
@@ -2662,6 +2663,9 @@
   1795097423.5631738,
   1795100998.0355215,
   1795102583.1294675,
-  1795108105.7539937
+  1795108105.7539937,
+  1795116966.8214457,
+  1795116970.257855,
+  1795116973.6618788
  ]
 }
