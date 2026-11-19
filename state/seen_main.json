@@ -1,19 +1,5 @@
 {
  "seen": {
-  "c259f6bb0bbdcd4f": 1793878589.8915174,
-  "30143641c9382bfa": 1793878589.8915174,
-  "caefa8c2cbe6d482": 1793878589.8915174,
-  "fefab5c8ccb3dc7b": 1793878589.8915174,
-  "dfb6799ab252e683": 1793878589.8915174,
-  "94faeb81347cd3a4": 1793880738.0578723,
-  "14f15d20e9442a2e": 1793880738.0578723,
-  "6f079667c47d67b6": 1793880738.0578723,
-  "015c406724bbdd1d": 1793880738.0578723,
-  "52dd83662b2f139c": 1793880738.0578723,
-  "87be17aea21e0048": 1793880738.0578723,
-  "5c71176895651bcf": 1793880738.0578723,
-  "8c912e5ebf34e30b": 1793880738.0578723,
-  "3844ea5644dec66c": 1793880738.0578723,
   "258e75db9342de89": 1793882263.643555,
   "7f4868e44c0f2fe9": 1793884160.440176,
   "8429f9bed902c8d5": 1793884160.440176,
@@ -2562,12 +2548,18 @@
   "11fdec4007c5efc2": 1795088124.498512,
   "d41eeab234d517d0": 1795088124.498512,
   "cd6e9b04f19ed482": 1795088124.498512,
-  "5d6e9b51c69c641e": 1795088124.498512
+  "5d6e9b51c69c641e": 1795088124.498512,
+  "5601ab6ce0d1f929": 1795090292.6496115,
+  "5b3373a91bf7d2d3": 1795090292.6496115,
+  "e6a157665634adbc": 1795090292.6496115,
+  "7a03195eb7f0afdf": 1795090292.6496115,
+  "e45e93807a377742": 1795090292.6496115,
+  "dd7da8addfae2bfd": 1795090292.6496115,
+  "0fad707fd008826a": 1795090292.6496115,
+  "0426a1b72eb43330": 1795090292.6496115,
+  "73c73e9924967445": 1795090292.6496115
  },
  "recent_headlines": [
-  "በኢትዮጵያ ንግድ ባንኮች 1.4 ቢሊዮን ዶላር ያልተመለሰ የውጭ ምንዛሬ ጥያቄ መኖሩ ተገለጸ (Ethiopia’s Commercial Banks carry $1.4 billion FX backlog amid liquidity constraints)",
-  "ዓለም አቀፍ ዲፕሎማቶች በመቀሌ የቀድሞ ተዋጊዎች ማቋቋሚያ ማዕከልን ጎበኙ (International Diplomatic Community Visits Former Combatants’ Rehabilitation Center in Ethiopia’s Tigray Region)",
-  "በትግራይ ክልል የመንግሥት አገልግሎቶች እና የትምህርት እንቅስቃሴ እንደገና መጀመራቸውን ጊዜያዊ አስተዳደሩ ገለጸ (Tigray Region Sees Stable Social and Economic Activity as Caretaker Administration Restores Public Services)",
   "Donald Trump እና Xi Jinping በቻይናው የአፔክ ጉባኤ ጎን ለጎን ውይይት አደረጉ (As Trump arrives in China, low expectations for breakthroughs in rivalry)",
   "ኢትዮጵያ እና UNEP በኮፕ32 አጀንዳዎች እና በአየር ንብረት ፋይናንስ ላይ ተወያዩ (Ethiopia and UNEP Put Adaptation Finance, Renewable Energy and Urban Climate Resilience on COP32 Agenda)",
   "ኤል ኒኞ እና የኢራን ጦርነት በኢትዮጵያ ኢኮኖሚ ላይ ተጽዕኖ ሊያሳድሩ እንደሚችሉ ተገለጸ (El Ninofi Waraanni Iraan bara 2027 Itoophiyaatti namoota miiliyoona tokkotti siqan hiyyummaaf akka saaxilan, guddina walii galaa diinagdee biyyattiis haga dhibbeentaa tokkoon duubatti akka harkisan qorannoon akeeke)",
@@ -2604,7 +2596,10 @@
   "በጋዛ የተተገበረው የሰላም ዕቅድ መክሸፉን ዓለም አቀፍ የረድኤት ድርጅቶች ገለጹ (‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say)",
   "የዓለም አቀፉ ፍርድ ቤት ምያንማር በሮሂንጊያዎች ላይ የዘር ማጥፋት ፈጽማለች ሲል ብይን ሰጠ (UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya)",
   "በሞያሌ ለአንድ ወር የዘለቀው ግጭት መቆሙ እና ውይይት መጀመሩ ተገለጸ (ለአንድ ወር በግጭት በተናጠችው ሞያሌ በማክሰኞ ጀምሮ ተኩስ መቆሙን ነዋሪዎች እና ቀይ መስቀል ገለጹ)",
-  "ዴንማርክ ከግሪንላንድ እና አሜሪካ ጋር የተደረገውን የአርክቲክ የደህንነት ስምምነት አጸደቀች (Denmark parliament approves security deal with Greenland and US)"
+  "ዴንማርክ ከግሪንላንድ እና አሜሪካ ጋር የተደረገውን የአርክቲክ የደህንነት ስምምነት አጸደቀች (Denmark parliament approves security deal with Greenland and US)",
+  "በትውልደ ኤርትራዊው Joe Neguse የአሜሪካ የተወካዮች ምክር ቤት ረዳት አፈ ጉባኤ ሆነው ተመረጡ (#Daily_Brief: #Eritrean-descended Joe Neguse elected Assistant Speaker of #US House)",
+  "ኢትዮጵያ በሁለተኛው የዓለም አቀፍ የአየር ንብረት ግምገማ ላይ የነበራትን ራዕይ አቀረበች (Ethiopia Sets Out Vision for a Global Climate Stocktake That Delivers Action, Support and Equity)",
+  "ኢትዮጵያ የአቪዬሽን ዲፕሎማሲዋን በማስፋፋት አዳዲስ ዓለም አቀፍ የበረራ መስመሮችን ለመክፈት እየሠራች ነው (Ethiopia Expands Aviation Diplomacy, Pursues Stronger Air Links Across Europe, Asia and North America)"
  ],
  "posted_at": [
   1794926157.02794,
@@ -2672,6 +2667,9 @@
   1795084588.2019649,
   1795086565.290342,
   1795086568.7517745,
-  1795088170.205167
+  1795088170.205167,
+  1795090373.2007103,
+  1795090376.7725291,
+  1795090380.4043133
  ]
 }
