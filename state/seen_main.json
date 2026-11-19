@@ -1,8 +1,5 @@
 {
  "seen": {
-  "92bc02619f12527f": 1793839583.3321831,
-  "b1d75c9b0ae9fe7d": 1793839583.3321831,
-  "4adc404d632f16a6": 1793839583.3321831,
   "157ce491d4b76bcb": 1793841013.290756,
   "b5807542ead6e422": 1793841013.290756,
   "58de0f8bd725a936": 1793841013.290756,
@@ -2537,10 +2534,16 @@
   "7120c9d9aa8aee46": 1795047620.888085,
   "84ac769cdfc7c3be": 1795047620.888085,
   "b2388b2a1dbba5fa": 1795047620.888085,
-  "cb3d09b8c89d408e": 1795047620.888085
+  "cb3d09b8c89d408e": 1795047620.888085,
+  "2e76bd9076c6406d": 1795049283.4910905,
+  "e77147d53a5e290d": 1795049283.4910905,
+  "d990142209607481": 1795049283.4910905,
+  "de9a381d57fa4ac6": 1795049283.4910905,
+  "44146e446500d18d": 1795049283.4910905,
+  "5c3e5892d7fd400d": 1795049283.4910905,
+  "6e78caa6f322340e": 1795049283.4910905
  },
  "recent_headlines": [
-  "የአውሮፓ ህብረት ከ12 የአፍሪካ ሀገራት የተወጣጡ 87 አየር መንገድ ኩባንያዎችን ከግዛቱ አገደ (​EU aviation blacklist hits 12 African nations)",
   "የምሥራቅ አፍሪካ የልማት በይነ መንግሥታት ባለሥልጣን (IGAD) አዲሱ የትብብር ስምምነት በሕግ ጸና (New IGAD Treaty takes effect as Horn of Africa marks 40 years of regional cooperation)",
   "ካናዳ እና ቻይና አዳዲስ የታሪፍ ማቃለያ ስምምነቶችን ይፋ አደረጉ (China, Canada expand tariff relief after Carney-Xi meeting)",
   "የኦሮሞ ነጻነት ሠራዊት የኢሰመኮን የአርሲ ግድያ ሪፖርት ውድቅ አደረገ (News: OLA disputes Rights Commission findings on Arsi killings, accuses commission of political bias)",
@@ -2579,11 +2582,10 @@
   "አሜሪካ ከ26 ዓመታት በኋላ የኩፍኝ በሽታን የማስወገድ ደረጃዋን አጣች (US loses measles-free status after 26 years in historic setback)",
   "አሜሪካ እና ቬኔዙዌላ ወታደራዊ እና የደህንነት ትብብር ስምምነት ተፈራረሙ (US Defence Secretary Hegseth reveals military partnership on Venezuela trip)",
   "የዓለም አቀፉ ፍርድ ቤት በምያንማር የዘር ማጥፋት ክስ ላይ ብይን ሊሰጥ ነው (Myanmar faces historic genocide verdict at UN court over Rohingya massacres)",
-  "የአርቴፊሻል ኢንተለጀንስ አበልጻጊው Anthropic በ1.4 ትሪሊዮን ዶላር ግምት ወደ አክሲዮን ገበያ ሊገባ ነው (Claude-maker Anthropic poised for more than $1.4tn stock market debut)"
+  "የአርቴፊሻል ኢንተለጀንስ አበልጻጊው Anthropic በ1.4 ትሪሊዮን ዶላር ግምት ወደ አክሲዮን ገበያ ሊገባ ነው (Claude-maker Anthropic poised for more than $1.4tn stock market debut)",
+  "በሶማሊያ የሕገ መንግሥት ማሻሻያን ተከተሎ የፖለቲካ እና የሕግ ውጥረት ተከሰተ (Somalia’s constitutional overhaul tests its fragile federal bargain)"
  ],
  "posted_at": [
-  1794876487.907458,
-  1794876491.2634876,
   1794886543.7583709,
   1794896161.3147535,
   1794896164.815242,
@@ -2646,6 +2648,7 @@
   1795034158.8931544,
   1795037791.0085447,
   1795043353.3575988,
-  1795047681.840731
+  1795047681.840731,
+  1795049337.0605917
  ]
 }
