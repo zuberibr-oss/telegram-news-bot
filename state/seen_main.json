@@ -1,7 +1,5 @@
 {
  "seen": {
-  "1bc65a9886fc5c8d": 1793910947.829523,
-  "f1a757403feaf0a9": 1793910947.829523,
   "f10b5f7c4973381f": 1793912913.5217538,
   "2f0360e27ea26e13": 1793912913.5217538,
   "b29e4110d1f77409": 1793912913.5217538,
@@ -2553,10 +2551,14 @@
   "9fc699495e9003af": 1795118928.8768878,
   "c4b772002e727afd": 1795118928.8768878,
   "5f00ed646316bffc": 1795118928.8768878,
-  "bd8e4c5810a8716d": 1795118928.8768878
+  "bd8e4c5810a8716d": 1795118928.8768878,
+  "8b06bff5af831626": 1795120536.6173434,
+  "d1f6ab6c38d7ed4c": 1795120536.6173434,
+  "197a77d6780300ed": 1795120536.6173434,
+  "7d8f5417ec6e9aa9": 1795120536.6173434,
+  "b06c15b2f9c9b520": 1795120536.6173434
  },
  "recent_headlines": [
-  "Hakeem Jeffries የአሜሪካ የተወካዮች ምክር ቤት አፈ ጉባኤ ዕጩ ሆነው ተመረጡ (Democrats nominate Hakeem Jeffries to be US Speaker of the House)",
   "አምስት የአውሮፓ ህብረት ሀገራት ጥገኝነት የተከለከሉ ስደተኞችን ወደ ሩዋንዳ ለመላክ አቅደዋል (Five EU nations to deport migrants to Rwanda)",
   "በሞያሌ በተከሰተው ግጭት ምክንያት የአካባቢው ነዋሪዎች ከቀያቸው እየተፈናቀሉ ነው (Uummanni nagaan Moyyaalee keessaa baqachaa jira; haala amma jiruun dhumni walitti bu’iinsichaa hin beekamu — Walitti bu’iinsi hammaachaa dhufuun rakkoo namoomaa daran hammeessaa jira)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአዲስ አበባ የ57 ሄክታር የኮሪደር ልማት ፕሮጀክትን መረቁ (PM Abiy Commissions 57-Hectare Corridor Development in Addis Ababa, Setting New Benchmark for Africa’s Green Urban Development)",
@@ -2595,10 +2597,10 @@
   "Anthropic በ81.3 ቢሊዮን ዶላር በአሜሪካ የታሪክ ትልቁን IPO በማካሄድ በናስዳክ መነገድ ጀመረ (Anthropic starts trading in the US after blockbuster IPO)",
   "የየመን ሁቲ አማፂያን ቁልፍ የቀይ ባሕር ቦታዎችን በመቆጣጠር ወደ ኤደን እየገሰገሱ ነው (Daily_Brief: #Houthis advance toward #Aden after government forces withdraw from key #Red_Sea coastal positions)",
   "የእስራኤልን አዲስ ጥቃት በመሸሽ በርካታ የጋዛ ነዋሪዎች ከቡሬጅ ስደተኞች ካምፕ እየተፈናቀሉ ነው (Families flee Gaza’s Bureij camp as Israel launches new offensive)",
-  "የአውሮፓ መሪዎች ከሩሲያ ጋር የሰላም ውይይት ለማድረግ ዝግጁ መሆናቸውን ገለጹ (Europe ready for talks with Russia on ending war in Ukraine, leaders say)"
+  "የአውሮፓ መሪዎች ከሩሲያ ጋር የሰላም ውይይት ለማድረግ ዝግጁ መሆናቸውን ገለጹ (Europe ready for talks with Russia on ending war in Ukraine, leaders say)",
+  "የኤል ኒኞ ተፅዕኖ በኢትዮጵያ የ2027 የኢኮኖሚ ዕድገት ላይ ቅናሽ ሊያስከትል እንደሚችል ተገለጸ (El Niño threatens harvest, could slow 2027 GDP growth by up to 1.1%​)"
  ],
  "posted_at": [
-  1794946190.7127914,
   1794947860.5926814,
   1794947864.1360376,
   1794947867.6964378,
@@ -2668,6 +2670,7 @@
   1795108105.7539937,
   1795116966.8214457,
   1795116970.257855,
-  1795116973.6618788
+  1795116973.6618788,
+  1795120574.3842018
  ]
 }
