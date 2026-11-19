@@ -1,15 +1,5 @@
 {
  "seen": {
-  "7b0bb39d9b447536": 1793891347.681422,
-  "a62332c71f11ee44": 1793891347.681422,
-  "1ca5f5369cd0b41d": 1793891347.681422,
-  "0d7de3131f9db77b": 1793891347.681422,
-  "900ca16e2d812c50": 1793891347.681422,
-  "8279fac5aa452feb": 1793891347.681422,
-  "bebd08d926977b8e": 1793891347.681422,
-  "35149357a7adeeb9": 1793891347.681422,
-  "190924e4e884412e": 1793891347.681422,
-  "a48bc7658079fd3a": 1793891347.681422,
   "3a3234338bc95dc3": 1793892949.6141918,
   "8f470938d55a1a1d": 1793892949.6141918,
   "7898417a2c121a70": 1793892949.6141918,
@@ -2573,10 +2563,18 @@
   "b5af81a8115c3f6b": 1795098937.1022046,
   "1cf4d0064e65bab6": 1795098937.1022046,
   "036eeca4ca9a9e00": 1795098937.1022046,
-  "a1224017ae2825e7": 1795098937.1022046
+  "a1224017ae2825e7": 1795098937.1022046,
+  "f6171bf9ae5e3ccd": 1795100933.820689,
+  "bd7c996430b13572": 1795100933.820689,
+  "cde6807e17654851": 1795100933.820689,
+  "48af078fd4026a4b": 1795100933.820689,
+  "bb5534dc31f383cc": 1795100933.820689,
+  "ca4745089703284e": 1795100933.820689,
+  "b0943ea75fc994bb": 1795100933.820689,
+  "86e8abbeb2852ad0": 1795100933.820689,
+  "2973ed38310adbb7": 1795100933.820689
  },
  "recent_headlines": [
-  "ዶናልድ ትራምፕን ለመገደል ከኢራን ጋር በማሴር የተከሰሰው ፓኪስታናዊ የ27 ዓመት እስራት ተፈረደበት (Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump)",
   "የኢትዮጵያ አየር መንገድ የShebaMiles ደንበኞች መረጃ ደህንነት ጥሰት ማጋጠሙን ገለጸ (Ethiopian Airlines’ ShebaMiles reports data breach)",
   "ዩክሬን የሩሲያ እና የክሬሚያ ማገናኛ ድልድይ ላይ የከበደ ጥቃት ፈጸመች (‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge)",
   "የእስራኤል ጦር በማዕከላዊ ጋዛ አዲስ ወታደራዊ እርምጃ መጀመሩን ተከተሎ ፍልስጥኤማውያን በመሸሽ ላይ ናቸው (Palestinians flee refugee camp as Israel begins operation in central Gaza)",
@@ -2615,7 +2613,8 @@
   "ናይጄሪያ ክልሎች የራሳቸው የፖሊስ ኃይል እንዲያቋቁሙ የሚያስችል የሕገ መንግሥት ማሻሻያ አጸደቀች (Nigeria: States set to get their own police forces)",
   "የአሜሪካ ኩባንያዎች ጥምረት በኬንያ የ60 ቢሊዮን ዶላር የማዕድን ፕሮጀክት ጨረታ አሸነፈ (US consortium wins huge Kenya mining deal, beating Chinese rivals)",
   "የሴኔጋል ገዢ ፓርቲ ፕሬዚዳንት Bassirou Diomaye Fayeን ከፓርቲ አባላትነታቸው አገደ (President Bassirou Diomaye Faye excluded from Senegal's ruling party)",
-  "በኢትዮጵያ እና ኤርትራ ወሰን ባድመ አካባቢ የድሮን እና የከባድ መሣሪያ ጥቃቶች መፈጸማቸው ተገለጸ (Drone strikes and artillery fire reported near Ethio–Eritrea border, civilians injured)"
+  "በኢትዮጵያ እና ኤርትራ ወሰን ባድመ አካባቢ የድሮን እና የከባድ መሣሪያ ጥቃቶች መፈጸማቸው ተገለጸ (Drone strikes and artillery fire reported near Ethio–Eritrea border, civilians injured)",
+  "ሶማሊያ የኤምሬትስ አምባሳደር ከሀገር እንዲወጡ አዘዘች፤ ሉዓላዊነቴ ተደፍሯል ስትል ከሰሰች (Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty)"
  ],
  "posted_at": [
   1794929763.8745532,
@@ -2689,6 +2688,7 @@
   1795091986.1602266,
   1795093808.6648133,
   1795097419.8367221,
-  1795097423.5631738
+  1795097423.5631738,
+  1795100998.0355215
  ]
 }
