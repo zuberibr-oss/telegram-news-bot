@@ -1,9 +1,5 @@
 {
  "seen": {
-  "ba82e7a420bad465": 1793862626.3872106,
-  "f4abf00dcbff3901": 1793864132.4503987,
-  "fac6fcaef3ebfbc7": 1793864132.4503987,
-  "02c241122131352a": 1793864132.4503987,
   "e991b722751c3ac9": 1793866423.3278594,
   "c5fad1acbd987f0d": 1793866423.3278594,
   "b5647cf78808470d": 1793866423.3278594,
@@ -2550,10 +2546,19 @@
   "81e68576625bc233": 1795072177.7272851,
   "f36632eb5f838e50": 1795072177.7272851,
   "189e8d3b3acb3534": 1795072177.7272851,
-  "5353aeb03efae34a": 1795072177.7272851
+  "5353aeb03efae34a": 1795072177.7272851,
+  "9232817285ad6133": 1795073706.6238074,
+  "48c73768b251a3d7": 1795073706.6238074,
+  "57c7535f0f73cda4": 1795073706.6238074,
+  "ebf280395a92cc58": 1795073706.6238074,
+  "b182e28c72c7d39b": 1795073706.6238074,
+  "d341b40e456de67b": 1795073706.6238074,
+  "6230b0b4712b0fce": 1795073706.6238074,
+  "a3df3a4599c8f04b": 1795073706.6238074,
+  "d3a6626aa2eb539a": 1795073706.6238074,
+  "871182e6756fae49": 1795073706.6238074
  },
  "recent_headlines": [
-  "TOYO በኢትዮጵያ ያመረታቸውን የፀሐይ ኃይል ሴሎች ወደ አሜሪካ መላክ አቆመ (Oduu: TOYOn qorannoo daldalaa Ameerikaa keessatti gaggeeffamaa jiru hordofee seelota soolaarii aduu Itoophiyaa keessatti oomishaman gara Ameerikaatti galchuu dhaabe)",
   "ኩዌት የተሰነዘሩባትን የድሮን ጥቃቶች ማክሸፏን ገለጸች (Iran war live: Kuwait says intercepting ‘hostile’ drone attacks)",
   "የሰላም ቦርድ በጋዛ የተደረሰው የተኩስ ማቆም ስምምነት ሊፈርስ እንደሚችል አስጠነቀቀ (Board of Peace warns Gaza ceasefire faces imminent collapse without action)",
   "የአገር ውስጥ የመድኃኒት አቅርቦት ድርሻ ወደ 44 በመቶ ማደጉን የጤና ሚኒስቴር ገለጸ (Dhiheessiin qoricha biyya keessaa waggoota afran darban dhibbeentaa 8 irraa gara 44tti guddachuu Ministeerri Fayyaa ibse)",
@@ -2592,11 +2597,10 @@
   "በሶማሊያ የሕገ መንግሥት ማሻሻያን ተከተሎ የፖለቲካ እና የሕግ ውጥረት ተከሰተ (Somalia’s constitutional overhaul tests its fragile federal bargain)",
   "ኢራን ባዮሎጂካዊ መሣሪያዎችን ለማልማት እየሠራች ነው ሲሉ Donald Trump ከሰሱ (Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh)",
   "ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር በኒውክሌር ጉዳዮች ላይ ለመወያየት አቅደዋል (Trump wants to talk nuclear with Putin and Xi)",
-  "የአውሮፓ መሪዎች ለዩክሬን ድጋፍ ለማሰባሰብ እና በሰላም ድርደሩ ለመሳተፍ በበርሊን ሊመክሩ ነው (Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence)"
+  "የአውሮፓ መሪዎች ለዩክሬን ድጋፍ ለማሰባሰብ እና በሰላም ድርደሩ ለመሳተፍ በበርሊን ሊመክሩ ነው (Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence)",
+  "ዶናልድ ትራምፕ፣ ሺ ጂንፒንግ እና ቪላዲሚር ፑቲን በቻይና የተሦስትዮሽ ጉባኤ ጀመሩ (APEC Live: Trump-Xi-Putin meeting to focus on Ukraine, Iran, AI)"
  ],
  "posted_at": [
-  1794899485.8251798,
-  1794900946.6335938,
   1794903129.9006367,
   1794903133.3293345,
   1794906652.8014607,
@@ -2657,6 +2661,7 @@
   1795049337.0605917,
   1795057825.5124884,
   1795064972.8433323,
-  1795066567.0370605
+  1795066567.0370605,
+  1795073753.1652746
  ]
 }
