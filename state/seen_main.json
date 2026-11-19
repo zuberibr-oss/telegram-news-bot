@@ -1,10 +1,5 @@
 {
  "seen": {
-  "becdb3ebbadf431c": 1793838067.7908394,
-  "d90c999fbbd509f5": 1793838067.7908394,
-  "2dc45ccd9c17ecb8": 1793838067.7908394,
-  "7dc6164fe5453b8a": 1793838067.7908394,
-  "62f2b65b80f904e0": 1793838067.7908394,
   "92bc02619f12527f": 1793839583.3321831,
   "b1d75c9b0ae9fe7d": 1793839583.3321831,
   "4adc404d632f16a6": 1793839583.3321831,
@@ -2534,10 +2529,17 @@
   "bd9e5813a1198e39": 1795041386.1024334,
   "d6c2e5586e8ea2d5": 1795043320.6140122,
   "afd9fff3ea09b2c4": 1795044912.100607,
-  "39b12bf9d7bd8409": 1795044912.100607
+  "39b12bf9d7bd8409": 1795044912.100607,
+  "8939494207f82e1d": 1795047620.888085,
+  "dc676b0255c9b980": 1795047620.888085,
+  "829f9e4b70c50808": 1795047620.888085,
+  "398d8ed738b66670": 1795047620.888085,
+  "7120c9d9aa8aee46": 1795047620.888085,
+  "84ac769cdfc7c3be": 1795047620.888085,
+  "b2388b2a1dbba5fa": 1795047620.888085,
+  "cb3d09b8c89d408e": 1795047620.888085
  },
  "recent_headlines": [
-  "የኢትዮጵያ ብሔራዊ ባንክ የፋይናንስ ቴክኖሎጂዎችን ለመፈተሽ የሚያስችል መመሪያ አወጣ (Central bank opens regulatory sandbox for fintechs and banks to test new products)",
   "የአውሮፓ ህብረት ከ12 የአፍሪካ ሀገራት የተወጣጡ 87 አየር መንገድ ኩባንያዎችን ከግዛቱ አገደ (​EU aviation blacklist hits 12 African nations)",
   "የምሥራቅ አፍሪካ የልማት በይነ መንግሥታት ባለሥልጣን (IGAD) አዲሱ የትብብር ስምምነት በሕግ ጸና (New IGAD Treaty takes effect as Horn of Africa marks 40 years of regional cooperation)",
   "ካናዳ እና ቻይና አዳዲስ የታሪፍ ማቃለያ ስምምነቶችን ይፋ አደረጉ (China, Canada expand tariff relief after Carney-Xi meeting)",
@@ -2576,11 +2578,10 @@
   "Donald Trump እና Vladimir Putin በቻይና በነጠላ ውይይት ሊያደርጉ ነው (Trump and Putin to meet one-on-one in China Thursday)",
   "አሜሪካ ከ26 ዓመታት በኋላ የኩፍኝ በሽታን የማስወገድ ደረጃዋን አጣች (US loses measles-free status after 26 years in historic setback)",
   "አሜሪካ እና ቬኔዙዌላ ወታደራዊ እና የደህንነት ትብብር ስምምነት ተፈራረሙ (US Defence Secretary Hegseth reveals military partnership on Venezuela trip)",
-  "የዓለም አቀፉ ፍርድ ቤት በምያንማር የዘር ማጥፋት ክስ ላይ ብይን ሊሰጥ ነው (Myanmar faces historic genocide verdict at UN court over Rohingya massacres)"
+  "የዓለም አቀፉ ፍርድ ቤት በምያንማር የዘር ማጥፋት ክስ ላይ ብይን ሊሰጥ ነው (Myanmar faces historic genocide verdict at UN court over Rohingya massacres)",
+  "የአርቴፊሻል ኢንተለጀንስ አበልጻጊው Anthropic በ1.4 ትሪሊዮን ዶላር ግምት ወደ አክሲዮን ገበያ ሊገባ ነው (Claude-maker Anthropic poised for more than $1.4tn stock market debut)"
  ],
  "posted_at": [
-  1794874862.55765,
-  1794874865.8997755,
   1794876487.907458,
   1794876491.2634876,
   1794886543.7583709,
@@ -2644,6 +2645,7 @@
   1795034154.3790689,
   1795034158.8931544,
   1795037791.0085447,
-  1795043353.3575988
+  1795043353.3575988,
+  1795047681.840731
  ]
 }
