@@ -1,16 +1,5 @@
 {
  "seen": {
-  "09b34395bc2b8257": 1793916405.4947205,
-  "2b9a7954eade135f": 1793916405.4947205,
-  "dd95b73885dddccc": 1793916405.4947205,
-  "6f079667c47d67b6": 1793916405.4947205,
-  "23d407d2b60ae753": 1793916405.4947205,
-  "0a0aa2fae1a440ab": 1793916405.4947205,
-  "bc2e32e781e4fbe2": 1793916405.4947205,
-  "4f90fc900d82c9ac": 1793916405.4947205,
-  "26d325ec365ffe3e": 1793916405.4947205,
-  "d6665e2696a3cb70": 1793916405.4947205,
-  "94faeb81347cd3a4": 1793916405.4947205,
   "50b3cc3ee6afcf85": 1793934535.1626897,
   "c8e99a2dcc50bb5a": 1793938150.8614442,
   "78a15b5a65421817": 1793941689.6928082,
@@ -1297,10 +1286,11 @@
   "da351c17df468c4b": 1795122412.8772805,
   "d2c47fc18f72dbdc": 1795124055.5075626,
   "ba2245bce356947b": 1795124055.5075626,
-  "bb22d3b0872644fe": 1795124055.5075626
+  "bb22d3b0872644fe": 1795124055.5075626,
+  "7f9461c3ea57aebe": 1795126045.1653166,
+  "b3342043d3a4fd51": 1795126045.1653166
  },
  "recent_headlines": [
-  "አፍሪካ በሳይበር ጥቃት በዓለም የመጀመሪያዋ ክልል መሆኗን ቼክ ፖይንት ገለጸ (Africa now the most attacked region for cyber threats, Check Point)",
   "ኤም-ፔሳ ኢትዮጵያ ከያጉትፔ ጋር የሳውንድቦክስ ስምምነት ተፈራረመ (M-PESA Ethiopia, YagoutPay Sign Soundbox Deal to Speed up)",
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የባንኮች መካከል የገንዘብ ገበያ መመሪያ አወጣ (EPD/02/2026 – INTEREST-FREE INTERBANK MONEY MARKET DIRECTIVE)",
   "የNVIDIA ዋና ሥራ አስፈጻሚ ጄንሰን ሁዋንግ ከኃላፊነታቸው ለቀቁ (NVIDIA CEO Jensen Huang Resigns as Colette Kress Takes Over)",
@@ -1339,10 +1329,10 @@
   "First Circle Capital የ26 ሚሊዮን ዶላር የአፍሪካ ፊንቴክ ፈንድ አጠናቀቀ (First Circle Capital Closes $26 Million African Fintech Fund)",
   "MTN የ2.2 ቢሊዮን ዶላር የIHS Towers ግዢን አስመልካች ማብራሪያ ሰጠ (MTN CEO addresses tribunal on tower strategy U-turn)",
   "ሴኔጋል መሠረት ያደረገው Wave በኮንጎ ዲሞክራሲያዊ ሪፐብሊክ የሞባይል ገንዘብ ፈቃድ አገኘ (Wave, the Senegalese unicorn, gets EMI license in DRC)",
-  "ናይጄሪያ የክሪፕቶ ኩባንያዎች የታክስ ምዝገባ እንዲያጠናቅቁ የጊዜ ገደብ አስቀመጠች (Nigeria gives crypto firms until November 30 to submit tax registration)"
+  "ናይጄሪያ የክሪፕቶ ኩባንያዎች የታክስ ምዝገባ እንዲያጠናቅቁ የጊዜ ገደብ አስቀመጠች (Nigeria gives crypto firms until November 30 to submit tax registration)",
+  "የኢትዮጵያ ብሔራዊ ባንክ በልዩ ኢኮኖሚ ዞኖች ለሚሰሩ ባንኮች አዲስ መመሪያ አወጣ (IPDC Urges Stronger Financial Support for Free Trade Zone Investors as New Banking Rules Take Effect)"
  ],
  "posted_at": [
-  1794951358.9702728,
   1794953345.1970851,
   1794982477.572539,
   1794984078.319869,
@@ -1352,6 +1342,7 @@
   1795041385.8745239,
   1795043320.4284036,
   1795122491.434864,
-  1795124133.279669
+  1795124133.279669,
+  1795126119.9076333
  ]
 }
