@@ -1,8 +1,5 @@
 {
  "seen": {
-  "f10b5f7c4973381f": 1793912913.5217538,
-  "2f0360e27ea26e13": 1793912913.5217538,
-  "b29e4110d1f77409": 1793912913.5217538,
   "c2af700efe4a17c5": 1793914591.7377882,
   "878fbd3c7e0e194c": 1793914591.7377882,
   "51a80ab85e3e8630": 1793914591.7377882,
@@ -2556,10 +2553,15 @@
   "d1f6ab6c38d7ed4c": 1795120536.6173434,
   "197a77d6780300ed": 1795120536.6173434,
   "7d8f5417ec6e9aa9": 1795120536.6173434,
-  "b06c15b2f9c9b520": 1795120536.6173434
+  "b06c15b2f9c9b520": 1795120536.6173434,
+  "90734ab016653091": 1795122491.6481838,
+  "76e480d6ca9e0bf8": 1795122491.6481838,
+  "0c1c24c81e7bf025": 1795122491.6481838,
+  "ff67f7a5efe668b6": 1795122491.6481838,
+  "c4c2a380e865a283": 1795122491.6481838,
+  "85e108863fe89f69": 1795122491.6481838
  },
  "recent_headlines": [
-  "አምስት የአውሮፓ ህብረት ሀገራት ጥገኝነት የተከለከሉ ስደተኞችን ወደ ሩዋንዳ ለመላክ አቅደዋል (Five EU nations to deport migrants to Rwanda)",
   "በሞያሌ በተከሰተው ግጭት ምክንያት የአካባቢው ነዋሪዎች ከቀያቸው እየተፈናቀሉ ነው (Uummanni nagaan Moyyaalee keessaa baqachaa jira; haala amma jiruun dhumni walitti bu’iinsichaa hin beekamu — Walitti bu’iinsi hammaachaa dhufuun rakkoo namoomaa daran hammeessaa jira)",
   "ጠቅላይ ሚኒስትር ዐቢይ አሕመድ በአዲስ አበባ የ57 ሄክታር የኮሪደር ልማት ፕሮጀክትን መረቁ (PM Abiy Commissions 57-Hectare Corridor Development in Addis Ababa, Setting New Benchmark for Africa’s Green Urban Development)",
   "ኢትዮጵያ ስደተኞችን በኢኮኖሚ ለማካተት የግል ባለሃብቶች ኢንቨስትመንታቸውን እንዲያሳድጉ ጥሪ አቀረበች (Ethiopia Calls for Greater Private Investment to Boost Refugee Economic Inclusion)",
@@ -2598,13 +2600,10 @@
   "የየመን ሁቲ አማፂያን ቁልፍ የቀይ ባሕር ቦታዎችን በመቆጣጠር ወደ ኤደን እየገሰገሱ ነው (Daily_Brief: #Houthis advance toward #Aden after government forces withdraw from key #Red_Sea coastal positions)",
   "የእስራኤልን አዲስ ጥቃት በመሸሽ በርካታ የጋዛ ነዋሪዎች ከቡሬጅ ስደተኞች ካምፕ እየተፈናቀሉ ነው (Families flee Gaza’s Bureij camp as Israel launches new offensive)",
   "የአውሮፓ መሪዎች ከሩሲያ ጋር የሰላም ውይይት ለማድረግ ዝግጁ መሆናቸውን ገለጹ (Europe ready for talks with Russia on ending war in Ukraine, leaders say)",
-  "የኤል ኒኞ ተፅዕኖ በኢትዮጵያ የ2027 የኢኮኖሚ ዕድገት ላይ ቅናሽ ሊያስከትል እንደሚችል ተገለጸ (El Niño threatens harvest, could slow 2027 GDP growth by up to 1.1%​)"
+  "የኤል ኒኞ ተፅዕኖ በኢትዮጵያ የ2027 የኢኮኖሚ ዕድገት ላይ ቅናሽ ሊያስከትል እንደሚችል ተገለጸ (El Niño threatens harvest, could slow 2027 GDP growth by up to 1.1%​)",
+  "የቀይ መስቀል ማኅበር በኦሮሚያ ያለው ሰብዓዊ ውጥረት እየከፋ መምጣቱን አስጠነቀቀ (Red Cross cautions of worsening humanitarian crisis in Oromia as conflict, displacement deepen civilian hardship)"
  ],
  "posted_at": [
-  1794947860.5926814,
-  1794947864.1360376,
-  1794947867.6964378,
-  1794947871.2362602,
   1794951407.8552186,
   1794955023.3849351,
   1794961275.431316,
@@ -2671,6 +2670,7 @@
   1795116966.8214457,
   1795116970.257855,
   1795116973.6618788,
-  1795120574.3842018
+  1795120574.3842018,
+  1795122526.180076
  ]
 }
