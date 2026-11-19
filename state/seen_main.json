@@ -2547,10 +2547,12 @@
   "14c1af9c09316cce": 1795064937.446243,
   "8f5e2d93916e6629": 1795064937.446243,
   "554dc5dcdedc17c2": 1795064937.446243,
-  "d021186e9905e41b": 1795064937.446243
+  "d021186e9905e41b": 1795064937.446243,
+  "f25aba508c73d113": 1795066528.439794,
+  "ee8be0d0a8791b44": 1795066528.439794,
+  "26b0967f9c33248e": 1795066528.439794
  },
  "recent_headlines": [
-  "የኦሮሞ ነጻነት ሠራዊት የኢሰመኮን የአርሲ ግድያ ሪፖርት ውድቅ አደረገ (News: OLA disputes Rights Commission findings on Arsi killings, accuses commission of political bias)",
   "TOYO በኢትዮጵያ ያመረታቸውን የፀሐይ ኃይል ሴሎች ወደ አሜሪካ መላክ አቆመ (Oduu: TOYOn qorannoo daldalaa Ameerikaa keessatti gaggeeffamaa jiru hordofee seelota soolaarii aduu Itoophiyaa keessatti oomishaman gara Ameerikaatti galchuu dhaabe)",
   "ኩዌት የተሰነዘሩባትን የድሮን ጥቃቶች ማክሸፏን ገለጸች (Iran war live: Kuwait says intercepting ‘hostile’ drone attacks)",
   "የሰላም ቦርድ በጋዛ የተደረሰው የተኩስ ማቆም ስምምነት ሊፈርስ እንደሚችል አስጠነቀቀ (Board of Peace warns Gaza ceasefire faces imminent collapse without action)",
@@ -2589,7 +2591,8 @@
   "የአርቴፊሻል ኢንተለጀንስ አበልጻጊው Anthropic በ1.4 ትሪሊዮን ዶላር ግምት ወደ አክሲዮን ገበያ ሊገባ ነው (Claude-maker Anthropic poised for more than $1.4tn stock market debut)",
   "በሶማሊያ የሕገ መንግሥት ማሻሻያን ተከተሎ የፖለቲካ እና የሕግ ውጥረት ተከሰተ (Somalia’s constitutional overhaul tests its fragile federal bargain)",
   "ኢራን ባዮሎጂካዊ መሣሪያዎችን ለማልማት እየሠራች ነው ሲሉ Donald Trump ከሰሱ (Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh)",
-  "ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር በኒውክሌር ጉዳዮች ላይ ለመወያየት አቅደዋል (Trump wants to talk nuclear with Putin and Xi)"
+  "ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር በኒውክሌር ጉዳዮች ላይ ለመወያየት አቅደዋል (Trump wants to talk nuclear with Putin and Xi)",
+  "የአውሮፓ መሪዎች ለዩክሬን ድጋፍ ለማሰባሰብ እና በሰላም ድርደሩ ለመሳተፍ በበርሊን ሊመክሩ ነው (Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence)"
  ],
  "posted_at": [
   1794896161.3147535,
@@ -2656,6 +2659,7 @@
   1795047681.840731,
   1795049337.0605917,
   1795057825.5124884,
-  1795064972.8433323
+  1795064972.8433323,
+  1795066567.0370605
  ]
 }
