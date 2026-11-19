@@ -1,10 +1,5 @@
 {
  "seen": {
-  "e991b722751c3ac9": 1793866423.3278594,
-  "c5fad1acbd987f0d": 1793866423.3278594,
-  "b5647cf78808470d": 1793866423.3278594,
-  "0ba4441699959bcf": 1793866423.3278594,
-  "47c49b7c053701b6": 1793866423.3278594,
   "92cdf4932761dbbb": 1793869884.256802,
   "e27c2aabcb1a211f": 1793871329.4539995,
   "8f07f8cb32635053": 1793873400.5641918,
@@ -2559,10 +2554,13 @@
   "871182e6756fae49": 1795073706.6238074,
   "9708e305c90ccaf3": 1795075861.8640854,
   "d368c0715fbe252d": 1795075861.8640854,
-  "4570589ca121a5db": 1795075861.8640854
+  "4570589ca121a5db": 1795075861.8640854,
+  "b007e831aab8bb83": 1795077344.0737145,
+  "00715038297aede5": 1795077344.0737145,
+  "85c224a47e44089a": 1795077344.0737145,
+  "24ceb9edf026abf2": 1795077344.0737145
  },
  "recent_headlines": [
-  "ኩዌት የተሰነዘሩባትን የድሮን ጥቃቶች ማክሸፏን ገለጸች (Iran war live: Kuwait says intercepting ‘hostile’ drone attacks)",
   "የሰላም ቦርድ በጋዛ የተደረሰው የተኩስ ማቆም ስምምነት ሊፈርስ እንደሚችል አስጠነቀቀ (Board of Peace warns Gaza ceasefire faces imminent collapse without action)",
   "የአገር ውስጥ የመድኃኒት አቅርቦት ድርሻ ወደ 44 በመቶ ማደጉን የጤና ሚኒስቴር ገለጸ (Dhiheessiin qoricha biyya keessaa waggoota afran darban dhibbeentaa 8 irraa gara 44tti guddachuu Ministeerri Fayyaa ibse)",
   "ባሕሬን እና ኩዌት የተሰነዘሩባቸውን የኢራን ጥቃቶች ማክሸፋቸውን ገለጹ (Iran war live: Bahrain, Kuwait intercept attacks, Manana blames Iran)",
@@ -2601,11 +2599,10 @@
   "ኢራን ባዮሎጂካዊ መሣሪያዎችን ለማልማት እየሠራች ነው ሲሉ Donald Trump ከሰሱ (Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh)",
   "ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር በኒውክሌር ጉዳዮች ላይ ለመወያየት አቅደዋል (Trump wants to talk nuclear with Putin and Xi)",
   "የአውሮፓ መሪዎች ለዩክሬን ድጋፍ ለማሰባሰብ እና በሰላም ድርደሩ ለመሳተፍ በበርሊን ሊመክሩ ነው (Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence)",
-  "ዶናልድ ትራምፕ፣ ሺ ጂንፒንግ እና ቪላዲሚር ፑቲን በቻይና የተሦስትዮሽ ጉባኤ ጀመሩ (APEC Live: Trump-Xi-Putin meeting to focus on Ukraine, Iran, AI)"
+  "ዶናልድ ትራምፕ፣ ሺ ጂንፒንግ እና ቪላዲሚር ፑቲን በቻይና የተሦስትዮሽ ጉባኤ ጀመሩ (APEC Live: Trump-Xi-Putin meeting to focus on Ukraine, Iran, AI)",
+  "የአውሮፓ ህብረት በሞያሌ ለተፈናቀሉ ዜጎች የ550 ሺህ ዩሮ ድጋፍ መድበ (Daily_Brief: #EU allocates €550,000 emergency aid to help civilians displaced by #Moyale conflict)"
  ],
  "posted_at": [
-  1794903129.9006367,
-  1794903133.3293345,
   1794906652.8014607,
   1794908245.34578,
   1794910171.7126255,
@@ -2665,6 +2662,7 @@
   1795057825.5124884,
   1795064972.8433323,
   1795066567.0370605,
-  1795073753.1652746
+  1795073753.1652746,
+  1795077371.983238
  ]
 }
