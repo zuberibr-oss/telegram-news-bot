@@ -1,11 +1,5 @@
 {
  "seen": {
-  "7f4868e44c0f2fe9": 1793884160.440176,
-  "8429f9bed902c8d5": 1793884160.440176,
-  "5540741f0a87f7b2": 1793884160.440176,
-  "d53d7d4f47dcb6d8": 1793884160.440176,
-  "2887b2cf96cff1a9": 1793884160.440176,
-  "1457070ca0932705": 1793884160.440176,
   "21d812b702c10663": 1793885755.8158822,
   "f0e012a12dfca717": 1793885755.8158822,
   "4a31ce174bbc920e": 1793885755.8158822,
@@ -2563,10 +2557,12 @@
   "6f467dec5a9c69ab": 1795091926.3699763,
   "e3f14da77d4f1935": 1795091926.3699763,
   "9b928c70153a9a65": 1795091926.3699763,
-  "b3ff516e05a7c00e": 1795091926.3699763
+  "b3ff516e05a7c00e": 1795091926.3699763,
+  "472988fd585ad186": 1795093770.9540706,
+  "201b02e5ab982dc2": 1795093770.9540706,
+  "3e9e64e13534cde1": 1795093770.9540706
  },
  "recent_headlines": [
-  "ኤል ኒኞ እና የኢራን ጦርነት በኢትዮጵያ ኢኮኖሚ ላይ ተጽዕኖ ሊያሳድሩ እንደሚችሉ ተገለጸ (El Ninofi Waraanni Iraan bara 2027 Itoophiyaatti namoota miiliyoona tokkotti siqan hiyyummaaf akka saaxilan, guddina walii galaa diinagdee biyyattiis haga dhibbeentaa tokkoon duubatti akka harkisan qorannoon akeeke)",
   "የአሜሪካው ፕሬዝዳንት ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር ለሚያደርጉት ጉባኤ ቻይና ገቡ (Trump arrives in China ahead of trilateral summit with Xi, Putin)",
   "የሳዑዲ መሪ ጥምረት በየመኑ ሁቲዎች 60 የጦር ኢላማዎች ላይ ጥቃት ፈጸመ (Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’)",
   "ዶናልድ ትራምፕን ለመገደል ከኢራን ጋር በማሴር የተከሰሰው ፓኪስታናዊ የ27 ዓመት እስራት ተፈረደበት (Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump)",
@@ -2605,7 +2601,8 @@
   "ኢትዮጵያ በሁለተኛው የዓለም አቀፍ የአየር ንብረት ግምገማ ላይ የነበራትን ራዕይ አቀረበች (Ethiopia Sets Out Vision for a Global Climate Stocktake That Delivers Action, Support and Equity)",
   "ኢትዮጵያ የአቪዬሽን ዲፕሎማሲዋን በማስፋፋት አዳዲስ ዓለም አቀፍ የበረራ መስመሮችን ለመክፈት እየሠራች ነው (Ethiopia Expands Aviation Diplomacy, Pursues Stronger Air Links Across Europe, Asia and North America)",
   "ኢትዮጵያ የኮፕ31 የድርድር ሂደት ስኬታማ እንዲሆን ድጋፏን አረጋገጠች (Ethiopia Backs COP31 Negotiation Process, Looks to Build on Its Outcomes at COP32)",
-  "ናይጄሪያ ክልሎች የራሳቸው የፖሊስ ኃይል እንዲያቋቁሙ የሚያስችል የሕገ መንግሥት ማሻሻያ አጸደቀች (Nigeria: States set to get their own police forces)"
+  "ናይጄሪያ ክልሎች የራሳቸው የፖሊስ ኃይል እንዲያቋቁሙ የሚያስችል የሕገ መንግሥት ማሻሻያ አጸደቀች (Nigeria: States set to get their own police forces)",
+  "የአሜሪካ ኩባንያዎች ጥምረት በኬንያ የ60 ቢሊዮን ዶላር የማዕድን ፕሮጀክት ጨረታ አሸነፈ (US consortium wins huge Kenya mining deal, beating Chinese rivals)"
  ],
  "posted_at": [
   1794926157.02794,
@@ -2678,6 +2675,7 @@
   1795090376.7725291,
   1795090380.4043133,
   1795091982.5564418,
-  1795091986.1602266
+  1795091986.1602266,
+  1795093808.6648133
  ]
 }
