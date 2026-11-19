@@ -1,13 +1,5 @@
 {
  "seen": {
-  "21d812b702c10663": 1793885755.8158822,
-  "f0e012a12dfca717": 1793885755.8158822,
-  "4a31ce174bbc920e": 1793885755.8158822,
-  "1f90346841d1b267": 1793885755.8158822,
-  "e3f1401101735953": 1793887783.1911204,
-  "4351c6fbd6280adf": 1793887783.1911204,
-  "43f2f1226175ab76": 1793887783.1911204,
-  "fcd45b79ed6885d4": 1793887783.1911204,
   "7b0bb39d9b447536": 1793891347.681422,
   "a62332c71f11ee44": 1793891347.681422,
   "1ca5f5369cd0b41d": 1793891347.681422,
@@ -2564,11 +2556,20 @@
   "e047c89ab44ebfbf": 1795095331.957047,
   "041592931cc9968b": 1795095331.957047,
   "835f2fa4acdb2f4f": 1795095331.957047,
-  "78d559ce913bef97": 1795095331.957047
+  "78d559ce913bef97": 1795095331.957047,
+  "59b53e533d84f18e": 1795097347.2888465,
+  "717b5c8e4075dad9": 1795097347.2888465,
+  "33b0bb38898f19fe": 1795097347.2888465,
+  "5619b7a654432631": 1795097347.2888465,
+  "1d50ec070522ff16": 1795097347.2888465,
+  "fdd7b1e39257e56d": 1795097347.2888465,
+  "d0dacbb1d31342b9": 1795097347.2888465,
+  "ea0a9d9270ab4f98": 1795097347.2888465,
+  "6b71bd3f16724179": 1795097347.2888465,
+  "5026010b0270afdd": 1795097347.2888465,
+  "8aca73c7396b6721": 1795097347.2888465
  },
  "recent_headlines": [
-  "የአሜሪካው ፕሬዝዳንት ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር ለሚያደርጉት ጉባኤ ቻይና ገቡ (Trump arrives in China ahead of trilateral summit with Xi, Putin)",
-  "የሳዑዲ መሪ ጥምረት በየመኑ ሁቲዎች 60 የጦር ኢላማዎች ላይ ጥቃት ፈጸመ (Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’)",
   "ዶናልድ ትራምፕን ለመገደል ከኢራን ጋር በማሴር የተከሰሰው ፓኪስታናዊ የ27 ዓመት እስራት ተፈረደበት (Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump)",
   "የኢትዮጵያ አየር መንገድ የShebaMiles ደንበኞች መረጃ ደህንነት ጥሰት ማጋጠሙን ገለጸ (Ethiopian Airlines’ ShebaMiles reports data breach)",
   "ዩክሬን የሩሲያ እና የክሬሚያ ማገናኛ ድልድይ ላይ የከበደ ጥቃት ፈጸመች (‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge)",
@@ -2606,7 +2607,9 @@
   "ኢትዮጵያ የአቪዬሽን ዲፕሎማሲዋን በማስፋፋት አዳዲስ ዓለም አቀፍ የበረራ መስመሮችን ለመክፈት እየሠራች ነው (Ethiopia Expands Aviation Diplomacy, Pursues Stronger Air Links Across Europe, Asia and North America)",
   "ኢትዮጵያ የኮፕ31 የድርድር ሂደት ስኬታማ እንዲሆን ድጋፏን አረጋገጠች (Ethiopia Backs COP31 Negotiation Process, Looks to Build on Its Outcomes at COP32)",
   "ናይጄሪያ ክልሎች የራሳቸው የፖሊስ ኃይል እንዲያቋቁሙ የሚያስችል የሕገ መንግሥት ማሻሻያ አጸደቀች (Nigeria: States set to get their own police forces)",
-  "የአሜሪካ ኩባንያዎች ጥምረት በኬንያ የ60 ቢሊዮን ዶላር የማዕድን ፕሮጀክት ጨረታ አሸነፈ (US consortium wins huge Kenya mining deal, beating Chinese rivals)"
+  "የአሜሪካ ኩባንያዎች ጥምረት በኬንያ የ60 ቢሊዮን ዶላር የማዕድን ፕሮጀክት ጨረታ አሸነፈ (US consortium wins huge Kenya mining deal, beating Chinese rivals)",
+  "የሴኔጋል ገዢ ፓርቲ ፕሬዚዳንት Bassirou Diomaye Fayeን ከፓርቲ አባላትነታቸው አገደ (President Bassirou Diomaye Faye excluded from Senegal's ruling party)",
+  "በኢትዮጵያ እና ኤርትራ ወሰን ባድመ አካባቢ የድሮን እና የከባድ መሣሪያ ጥቃቶች መፈጸማቸው ተገለጸ (Drone strikes and artillery fire reported near Ethio–Eritrea border, civilians injured)"
  ],
  "posted_at": [
   1794926157.02794,
@@ -2680,6 +2683,8 @@
   1795090380.4043133,
   1795091982.5564418,
   1795091986.1602266,
-  1795093808.6648133
+  1795093808.6648133,
+  1795097419.8367221,
+  1795097423.5631738
  ]
 }
