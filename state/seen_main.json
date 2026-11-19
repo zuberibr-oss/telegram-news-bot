@@ -1,10 +1,5 @@
 {
  "seen": {
-  "3a3234338bc95dc3": 1793892949.6141918,
-  "8f470938d55a1a1d": 1793892949.6141918,
-  "7898417a2c121a70": 1793892949.6141918,
-  "fb0c1a9995c8a08b": 1793892949.6141918,
-  "2cbbbc7c6bab72ff": 1793892949.6141918,
   "8ee06764530679d5": 1793895083.5183587,
   "17ba819cdc6836e5": 1793895083.5183587,
   "bbdccdee00d91df5": 1793895083.5183587,
@@ -2572,10 +2567,10 @@
   "ca4745089703284e": 1795100933.820689,
   "b0943ea75fc994bb": 1795100933.820689,
   "86e8abbeb2852ad0": 1795100933.820689,
-  "2973ed38310adbb7": 1795100933.820689
+  "2973ed38310adbb7": 1795100933.820689,
+  "7830bec9de7d396f": 1795102552.3206599
  },
  "recent_headlines": [
-  "የኢትዮጵያ አየር መንገድ የShebaMiles ደንበኞች መረጃ ደህንነት ጥሰት ማጋጠሙን ገለጸ (Ethiopian Airlines’ ShebaMiles reports data breach)",
   "ዩክሬን የሩሲያ እና የክሬሚያ ማገናኛ ድልድይ ላይ የከበደ ጥቃት ፈጸመች (‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge)",
   "የእስራኤል ጦር በማዕከላዊ ጋዛ አዲስ ወታደራዊ እርምጃ መጀመሩን ተከተሎ ፍልስጥኤማውያን በመሸሽ ላይ ናቸው (Palestinians flee refugee camp as Israel begins operation in central Gaza)",
   "በሆርሙዝ ጅረት የንግድ መርከቦች የኢንሹራንስ ክፍያ 64 ሚሊዮን ዶላር መድረሱ ተገለጸ (US official says Hormuz insurance hits $64m: Is the strait really open?)",
@@ -2614,11 +2609,10 @@
   "የአሜሪካ ኩባንያዎች ጥምረት በኬንያ የ60 ቢሊዮን ዶላር የማዕድን ፕሮጀክት ጨረታ አሸነፈ (US consortium wins huge Kenya mining deal, beating Chinese rivals)",
   "የሴኔጋል ገዢ ፓርቲ ፕሬዚዳንት Bassirou Diomaye Fayeን ከፓርቲ አባላትነታቸው አገደ (President Bassirou Diomaye Faye excluded from Senegal's ruling party)",
   "በኢትዮጵያ እና ኤርትራ ወሰን ባድመ አካባቢ የድሮን እና የከባድ መሣሪያ ጥቃቶች መፈጸማቸው ተገለጸ (Drone strikes and artillery fire reported near Ethio–Eritrea border, civilians injured)",
-  "ሶማሊያ የኤምሬትስ አምባሳደር ከሀገር እንዲወጡ አዘዘች፤ ሉዓላዊነቴ ተደፍሯል ስትል ከሰሰች (Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty)"
+  "ሶማሊያ የኤምሬትስ አምባሳደር ከሀገር እንዲወጡ አዘዘች፤ ሉዓላዊነቴ ተደፍሯል ስትል ከሰሰች (Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty)",
+  "Donald Trump፣ Vladimir Putin እና Xi Jinping የጋራ የሰላም መግለጫ አወጡ (Trump, Putin and Xi release 'peace declaration' after historic meeting)"
  ],
  "posted_at": [
-  1794929763.8745532,
-  1794929767.3060036,
   1794933369.213455,
   1794933372.6038368,
   1794935431.4488323,
@@ -2689,6 +2683,7 @@
   1795093808.6648133,
   1795097419.8367221,
   1795097423.5631738,
-  1795100998.0355215
+  1795100998.0355215,
+  1795102583.1294675
  ]
 }
