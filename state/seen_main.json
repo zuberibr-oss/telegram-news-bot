@@ -1,9 +1,5 @@
 {
  "seen": {
-  "e22ea7b15f11459f": 1793874956.182534,
-  "7b342aafb824517f": 1793874956.182534,
-  "b20d915ce366c245": 1793874956.182534,
-  "1d10f0eb7ed24af1": 1793874956.182534,
   "9a98db9e8303418c": 1793876894.5653899,
   "0c855c3ac99f1018": 1793876894.5653899,
   "282ee34ca7ac3f17": 1793876894.5653899,
@@ -2560,11 +2556,14 @@
   "4115b81919f23a12": 1795080927.2287996,
   "8d2a77649c7c041a": 1795082948.894601,
   "be907144ce2d78e0": 1795082948.894601,
-  "8558fc00eef2d934": 1795082948.894601
+  "8558fc00eef2d934": 1795082948.894601,
+  "9a0bcf2d8e1a7921": 1795084531.6016304,
+  "b37a81b50f32c49b": 1795084531.6016304,
+  "b75e915b958a6d45": 1795084531.6016304,
+  "945e5b55fe0fabf6": 1795084531.6016304,
+  "581439949104f3d6": 1795084531.6016304
  },
  "recent_headlines": [
-  "ኢትዮጵያ በዓለም አቀፉ የሲቪል አቪዬሽን ድርጅት ጉባኤ የአፍሪካን የአየር ትራንስፖርት ጥያቄ አቀረበች (Ethiopia Amplifies Africa’s Collective Call for a Global Air Transport Development Plan at ICAO Conference)",
-  "ቱርክ በሶማሊያ ያሰማራቻቸውን ስድስት ኤፍ-16 ተዋጊ ጄቶች ቅያሪ አጠናቀቀች (#Daily_Brief: #Türkiye completes rotation of six F-16 fighter jets deployed in #Somalia)",
   "ሶማሌላንድ \"ለብሔራዊ ደህንነት ስጋት ደቅነዋል\" ያለቻቸውን የአሜሪካ ዜጎች በቁጥጥር ስር ማዋሏን ገለጸች (Somaalilaandi lammiilee Ameerikaa “nageenya biyyaalesshaaf yaaddoo uumaniiru” jette yeroo muraasaaf to’annoo jala oolchuu beeksifte)",
   "ኢትዮጵያ ከታላቋ ብሪታንያ እና ኢንዶኔዢያ ጋር በአቪዬሽን ዘርፍ ትብብሯን ለማጠናከር ተወያየች (Ethiopia Steps Up Aviation Diplomacy with UK and Indonesia, Advancing Strategic International Partnerships)",
   "ቻይና እና ሩሲያ ባለብዙ ወገን የዓለም ሥርዓትን ለመምራት እንደሚሠሩ Xi Jinping ገለጹ (Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit)",
@@ -2602,7 +2601,9 @@
   "በሪያድ እና ደቡብ ሳዑዲ ላይ የተሰነዘሩ የሁቲ ሚሳይሎችን ማክሸፉን የሳዑዲ ጥምረት ገለጸ (Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south)",
   "ሰሜን ኮሪያ የዩራኒየም ማበልጸጊያ ተቋሟን እያስፋፋች መሆኑን የዓለም አቀፉ የኒውክሌር ኤጀንሲ ገለጸ (North Korea expanding uranium enrichment facility, UN nuclear watchdog says)",
   "በአዲስ አበባ ለችግር ተጋላጭ ሴቶች የሥልጠናና የሥራ ዕድል የሚፈጥር ማዕከል ተከፈተ (Addis Ababa’s Urban Renewal Is Replacing Exploitation with Dignity, Skills and Economic Opportunity for Women – Mayor)",
-  "ኢትዮጵያ ከአሜሪካ አምስት ታሪካዊ የባህል ቅርሶችን አስመለሰች (Ethiopia Reclaims Five Historic Cultural Treasures Through Landmark International Partnership)"
+  "ኢትዮጵያ ከአሜሪካ አምስት ታሪካዊ የባህል ቅርሶችን አስመለሰች (Ethiopia Reclaims Five Historic Cultural Treasures Through Landmark International Partnership)",
+  "ዶናልድ ትራምፕ በቻይናው የአፔክ ጉባኤ የኒውክሌር ጦር መሣሪያዎችን ለመቀነስ ጥሪ አቀረቡ (Trump calls for nuclear arms reduction at APEC summit)",
+  "በጋዛ የተተገበረው የሰላም ዕቅድ መክሸፉን ዓለም አቀፍ የረድኤት ድርጅቶች ገለጹ (‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say)"
  ],
  "posted_at": [
   1794915343.8059137,
@@ -2666,6 +2667,8 @@
   1795079443.5849504,
   1795083003.1662698,
   1795083006.7547374,
-  1795083010.3188684
+  1795083010.3188684,
+  1795084584.696072,
+  1795084588.2019649
  ]
 }
