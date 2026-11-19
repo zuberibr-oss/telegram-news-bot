@@ -1,11 +1,5 @@
 {
  "seen": {
-  "c8e3c38e2c51a89d": 1793853332.7978468,
-  "0d318201f6bd3b0e": 1793853332.7978468,
-  "27cadf32bbe2b5a1": 1793853332.7978468,
-  "01d73235f37728a7": 1793853332.7978468,
-  "22c314b1ed5ff4f4": 1793855357.281804,
-  "543c963a49aa8b8c": 1793855357.281804,
   "015cd64f0f802fed": 1793856995.3072736,
   "97baceed94396976": 1793859277.3240166,
   "04ed481f7856764c": 1793859277.3240166,
@@ -2547,10 +2541,15 @@
   "73653230b2881ac3": 1795061359.938778,
   "3b25d151869ae255": 1795061359.938778,
   "7287a0abe12a8d92": 1795062902.3738678,
-  "31ee7e2696354769": 1795062902.3738678
+  "31ee7e2696354769": 1795062902.3738678,
+  "3371e7fb2015c39c": 1795064937.446243,
+  "ff312ac2936cd38e": 1795064937.446243,
+  "14c1af9c09316cce": 1795064937.446243,
+  "8f5e2d93916e6629": 1795064937.446243,
+  "554dc5dcdedc17c2": 1795064937.446243,
+  "d021186e9905e41b": 1795064937.446243
  },
  "recent_headlines": [
-  "ካናዳ እና ቻይና አዳዲስ የታሪፍ ማቃለያ ስምምነቶችን ይፋ አደረጉ (China, Canada expand tariff relief after Carney-Xi meeting)",
   "የኦሮሞ ነጻነት ሠራዊት የኢሰመኮን የአርሲ ግድያ ሪፖርት ውድቅ አደረገ (News: OLA disputes Rights Commission findings on Arsi killings, accuses commission of political bias)",
   "TOYO በኢትዮጵያ ያመረታቸውን የፀሐይ ኃይል ሴሎች ወደ አሜሪካ መላክ አቆመ (Oduu: TOYOn qorannoo daldalaa Ameerikaa keessatti gaggeeffamaa jiru hordofee seelota soolaarii aduu Itoophiyaa keessatti oomishaman gara Ameerikaatti galchuu dhaabe)",
   "ኩዌት የተሰነዘሩባትን የድሮን ጥቃቶች ማክሸፏን ገለጸች (Iran war live: Kuwait says intercepting ‘hostile’ drone attacks)",
@@ -2589,7 +2588,8 @@
   "የዓለም አቀፉ ፍርድ ቤት በምያንማር የዘር ማጥፋት ክስ ላይ ብይን ሊሰጥ ነው (Myanmar faces historic genocide verdict at UN court over Rohingya massacres)",
   "የአርቴፊሻል ኢንተለጀንስ አበልጻጊው Anthropic በ1.4 ትሪሊዮን ዶላር ግምት ወደ አክሲዮን ገበያ ሊገባ ነው (Claude-maker Anthropic poised for more than $1.4tn stock market debut)",
   "በሶማሊያ የሕገ መንግሥት ማሻሻያን ተከተሎ የፖለቲካ እና የሕግ ውጥረት ተከሰተ (Somalia’s constitutional overhaul tests its fragile federal bargain)",
-  "ኢራን ባዮሎጂካዊ መሣሪያዎችን ለማልማት እየሠራች ነው ሲሉ Donald Trump ከሰሱ (Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh)"
+  "ኢራን ባዮሎጂካዊ መሣሪያዎችን ለማልማት እየሠራች ነው ሲሉ Donald Trump ከሰሱ (Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh)",
+  "ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር በኒውክሌር ጉዳዮች ላይ ለመወያየት አቅደዋል (Trump wants to talk nuclear with Putin and Xi)"
  ],
  "posted_at": [
   1794896161.3147535,
@@ -2655,6 +2655,7 @@
   1795043353.3575988,
   1795047681.840731,
   1795049337.0605917,
-  1795057825.5124884
+  1795057825.5124884,
+  1795064972.8433323
  ]
 }
