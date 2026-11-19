@@ -1,6 +1,5 @@
 {
  "seen": {
-  "258e75db9342de89": 1793882263.643555,
   "7f4868e44c0f2fe9": 1793884160.440176,
   "8429f9bed902c8d5": 1793884160.440176,
   "5540741f0a87f7b2": 1793884160.440176,
@@ -2557,11 +2556,16 @@
   "dd7da8addfae2bfd": 1795090292.6496115,
   "0fad707fd008826a": 1795090292.6496115,
   "0426a1b72eb43330": 1795090292.6496115,
-  "73c73e9924967445": 1795090292.6496115
+  "73c73e9924967445": 1795090292.6496115,
+  "f11158f3dce08ee6": 1795091926.3699763,
+  "ec820e3d697e31a6": 1795091926.3699763,
+  "fad8496ef7fa3cbb": 1795091926.3699763,
+  "6f467dec5a9c69ab": 1795091926.3699763,
+  "e3f14da77d4f1935": 1795091926.3699763,
+  "9b928c70153a9a65": 1795091926.3699763,
+  "b3ff516e05a7c00e": 1795091926.3699763
  },
  "recent_headlines": [
-  "Donald Trump እና Xi Jinping በቻይናው የአፔክ ጉባኤ ጎን ለጎን ውይይት አደረጉ (As Trump arrives in China, low expectations for breakthroughs in rivalry)",
-  "ኢትዮጵያ እና UNEP በኮፕ32 አጀንዳዎች እና በአየር ንብረት ፋይናንስ ላይ ተወያዩ (Ethiopia and UNEP Put Adaptation Finance, Renewable Energy and Urban Climate Resilience on COP32 Agenda)",
   "ኤል ኒኞ እና የኢራን ጦርነት በኢትዮጵያ ኢኮኖሚ ላይ ተጽዕኖ ሊያሳድሩ እንደሚችሉ ተገለጸ (El Ninofi Waraanni Iraan bara 2027 Itoophiyaatti namoota miiliyoona tokkotti siqan hiyyummaaf akka saaxilan, guddina walii galaa diinagdee biyyattiis haga dhibbeentaa tokkoon duubatti akka harkisan qorannoon akeeke)",
   "የአሜሪካው ፕሬዝዳንት ዶናልድ ትራምፕ ከቻይና እና ሩሲያ መሪዎች ጋር ለሚያደርጉት ጉባኤ ቻይና ገቡ (Trump arrives in China ahead of trilateral summit with Xi, Putin)",
   "የሳዑዲ መሪ ጥምረት በየመኑ ሁቲዎች 60 የጦር ኢላማዎች ላይ ጥቃት ፈጸመ (Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’)",
@@ -2599,7 +2603,9 @@
   "ዴንማርክ ከግሪንላንድ እና አሜሪካ ጋር የተደረገውን የአርክቲክ የደህንነት ስምምነት አጸደቀች (Denmark parliament approves security deal with Greenland and US)",
   "በትውልደ ኤርትራዊው Joe Neguse የአሜሪካ የተወካዮች ምክር ቤት ረዳት አፈ ጉባኤ ሆነው ተመረጡ (#Daily_Brief: #Eritrean-descended Joe Neguse elected Assistant Speaker of #US House)",
   "ኢትዮጵያ በሁለተኛው የዓለም አቀፍ የአየር ንብረት ግምገማ ላይ የነበራትን ራዕይ አቀረበች (Ethiopia Sets Out Vision for a Global Climate Stocktake That Delivers Action, Support and Equity)",
-  "ኢትዮጵያ የአቪዬሽን ዲፕሎማሲዋን በማስፋፋት አዳዲስ ዓለም አቀፍ የበረራ መስመሮችን ለመክፈት እየሠራች ነው (Ethiopia Expands Aviation Diplomacy, Pursues Stronger Air Links Across Europe, Asia and North America)"
+  "ኢትዮጵያ የአቪዬሽን ዲፕሎማሲዋን በማስፋፋት አዳዲስ ዓለም አቀፍ የበረራ መስመሮችን ለመክፈት እየሠራች ነው (Ethiopia Expands Aviation Diplomacy, Pursues Stronger Air Links Across Europe, Asia and North America)",
+  "ኢትዮጵያ የኮፕ31 የድርድር ሂደት ስኬታማ እንዲሆን ድጋፏን አረጋገጠች (Ethiopia Backs COP31 Negotiation Process, Looks to Build on Its Outcomes at COP32)",
+  "ናይጄሪያ ክልሎች የራሳቸው የፖሊስ ኃይል እንዲያቋቁሙ የሚያስችል የሕገ መንግሥት ማሻሻያ አጸደቀች (Nigeria: States set to get their own police forces)"
  ],
  "posted_at": [
   1794926157.02794,
@@ -2670,6 +2676,8 @@
   1795088170.205167,
   1795090373.2007103,
   1795090376.7725291,
-  1795090380.4043133
+  1795090380.4043133,
+  1795091982.5564418,
+  1795091986.1602266
  ]
 }
