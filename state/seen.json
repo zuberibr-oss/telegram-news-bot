@@ -1,25 +1,5 @@
 {
  "seen": {
-  "062240747a9faa68": 1793914465.6827097,
-  "6ee19774f90924b2": 1793914465.6827097,
-  "7777c5114e00e0e6": 1793914465.6827097,
-  "b5365f71e23b4871": 1793914465.6827097,
-  "3eb51ebc8a33d602": 1793914465.6827097,
-  "4d947fb0a4b5a7f1": 1793914465.6827097,
-  "d1eb18ec568aeefb": 1793914465.6827097,
-  "dbad26b7b5fd91cf": 1793914465.6827097,
-  "82644a147d177ba8": 1793914465.6827097,
-  "6647c924fb845a53": 1793914465.6827097,
-  "813622de9260d4b9": 1793914465.6827097,
-  "11c00f851d1a6942": 1793914465.6827097,
-  "b78bacf9f210767b": 1793914465.6827097,
-  "ccda8b39f212413f": 1793914465.6827097,
-  "1f90346841d1b267": 1793914465.6827097,
-  "c7717207617ebf7b": 1793914465.6827097,
-  "b05bbbd7f7c1c068": 1793914465.6827097,
-  "35753962cbce9403": 1793914465.6827097,
-  "d26fdc0ba5fa4d5a": 1793914465.6827097,
-  "227ab6ae1825c54b": 1793914465.6827097,
   "09b34395bc2b8257": 1793916405.4947205,
   "2b9a7954eade135f": 1793916405.4947205,
   "dd95b73885dddccc": 1793916405.4947205,
@@ -1314,10 +1294,12 @@
   "a3c76baea998f0a6": 1795118875.260062,
   "495945d9e4738ef9": 1795122412.8772805,
   "b06c15b2f9c9b520": 1795122412.8772805,
-  "da351c17df468c4b": 1795122412.8772805
+  "da351c17df468c4b": 1795122412.8772805,
+  "d2c47fc18f72dbdc": 1795124055.5075626,
+  "ba2245bce356947b": 1795124055.5075626,
+  "bb22d3b0872644fe": 1795124055.5075626
  },
  "recent_headlines": [
-  "የገቢዎች ሚኒስቴር ከ50 ሺህ ብር በላይ በሚያገኙ የዲጂታል ይዘት ፈጣሪዎች ላይ የገቢ ግብር ጣለ (Ministry of Revenues Imposes Income Tax on Digital Content Creators Earning Above 50,000 Birr)",
   "አፍሪካ በሳይበር ጥቃት በዓለም የመጀመሪያዋ ክልል መሆኗን ቼክ ፖይንት ገለጸ (Africa now the most attacked region for cyber threats, Check Point)",
   "ኤም-ፔሳ ኢትዮጵያ ከያጉትፔ ጋር የሳውንድቦክስ ስምምነት ተፈራረመ (M-PESA Ethiopia, YagoutPay Sign Soundbox Deal to Speed up)",
   "የኢትዮጵያ ብሔራዊ ባንክ ከወለድ ነፃ የባንኮች መካከል የገንዘብ ገበያ መመሪያ አወጣ (EPD/02/2026 – INTEREST-FREE INTERBANK MONEY MARKET DIRECTIVE)",
@@ -1356,10 +1338,10 @@
   "የኢትዮጵያ ኢኮኖሚክስ ባለሙያዎች ማኅበር በውጭ ምንዛሬ ገበያው ላይ አስጠነቀቀ (Slower Birr Depreciation Masks Deeper Problems in Ethiopia’s Forex Market, EEA Says)",
   "First Circle Capital የ26 ሚሊዮን ዶላር የአፍሪካ ፊንቴክ ፈንድ አጠናቀቀ (First Circle Capital Closes $26 Million African Fintech Fund)",
   "MTN የ2.2 ቢሊዮን ዶላር የIHS Towers ግዢን አስመልካች ማብራሪያ ሰጠ (MTN CEO addresses tribunal on tower strategy U-turn)",
-  "ሴኔጋል መሠረት ያደረገው Wave በኮንጎ ዲሞክራሲያዊ ሪፐብሊክ የሞባይል ገንዘብ ፈቃድ አገኘ (Wave, the Senegalese unicorn, gets EMI license in DRC)"
+  "ሴኔጋል መሠረት ያደረገው Wave በኮንጎ ዲሞክራሲያዊ ሪፐብሊክ የሞባይል ገንዘብ ፈቃድ አገኘ (Wave, the Senegalese unicorn, gets EMI license in DRC)",
+  "ናይጄሪያ የክሪፕቶ ኩባንያዎች የታክስ ምዝገባ እንዲያጠናቅቁ የጊዜ ገደብ አስቀመጠች (Nigeria gives crypto firms until November 30 to submit tax registration)"
  ],
  "posted_at": [
-  1794949702.2523952,
   1794951358.9702728,
   1794953345.1970851,
   1794982477.572539,
@@ -1369,6 +1351,7 @@
   1795039819.8871963,
   1795041385.8745239,
   1795043320.4284036,
-  1795122491.434864
+  1795122491.434864,
+  1795124133.279669
  ]
 }
