@@ -1,14 +1,5 @@
 {
  "seen": {
-  "71f12833af042177": 1793896545.8988378,
-  "0ff2aba67965a634": 1793896545.8988378,
-  "948be5e3aacbf343": 1793896545.8988378,
-  "e32db1944858525a": 1793896545.8988378,
-  "b38048ff62afbaeb": 1793896545.8988378,
-  "a605c7925f2eeb15": 1793896545.8988378,
-  "96fb40ec1c5ec2c3": 1793896545.8988378,
-  "82644a147d177ba8": 1793896545.8988378,
-  "bbf2385b45e3d491": 1793896545.8988378,
   "f407ed2c1f8c3228": 1793898512.420736,
   "eec070043ad2d157": 1793898512.420736,
   "c9374d821f2a7966": 1793898512.420736,
@@ -2567,10 +2558,15 @@
   "651a75b6fec11a48": 1795104552.9935184,
   "431a71fdc1f1cc97": 1795104552.9935184,
   "ab933bbd7f8a7099": 1795104552.9935184,
-  "90531474b1a72d12": 1795106102.6605427
+  "90531474b1a72d12": 1795106102.6605427,
+  "6b7c5dfeab55cd50": 1795108049.1115508,
+  "9d899fa07961876a": 1795108049.1115508,
+  "fd17748bcf61a627": 1795108049.1115508,
+  "350aff1cd987bd0f": 1795108049.1115508,
+  "b3d271cf8fec1510": 1795108049.1115508,
+  "8dd6bab50395536e": 1795108049.1115508
  },
  "recent_headlines": [
-  "ዩክሬን የሩሲያ እና የክሬሚያ ማገናኛ ድልድይ ላይ የከበደ ጥቃት ፈጸመች (‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge)",
   "የእስራኤል ጦር በማዕከላዊ ጋዛ አዲስ ወታደራዊ እርምጃ መጀመሩን ተከተሎ ፍልስጥኤማውያን በመሸሽ ላይ ናቸው (Palestinians flee refugee camp as Israel begins operation in central Gaza)",
   "በሆርሙዝ ጅረት የንግድ መርከቦች የኢንሹራንስ ክፍያ 64 ሚሊዮን ዶላር መድረሱ ተገለጸ (US official says Hormuz insurance hits $64m: Is the strait really open?)",
   "ኤርትራ ትራኮማን እንደ ሕዝብ ጤና ስጋት በማስወገድ 11ኛዋ የአፍሪካ ሀገር ሆነች (Daily_Brief: #Eritrea becomes 11th #African country to eliminate trachoma as public health problem)",
@@ -2609,11 +2605,10 @@
   "የሴኔጋል ገዢ ፓርቲ ፕሬዚዳንት Bassirou Diomaye Fayeን ከፓርቲ አባላትነታቸው አገደ (President Bassirou Diomaye Faye excluded from Senegal's ruling party)",
   "በኢትዮጵያ እና ኤርትራ ወሰን ባድመ አካባቢ የድሮን እና የከባድ መሣሪያ ጥቃቶች መፈጸማቸው ተገለጸ (Drone strikes and artillery fire reported near Ethio–Eritrea border, civilians injured)",
   "ሶማሊያ የኤምሬትስ አምባሳደር ከሀገር እንዲወጡ አዘዘች፤ ሉዓላዊነቴ ተደፍሯል ስትል ከሰሰች (Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty)",
-  "Donald Trump፣ Vladimir Putin እና Xi Jinping የጋራ የሰላም መግለጫ አወጡ (Trump, Putin and Xi release 'peace declaration' after historic meeting)"
+  "Donald Trump፣ Vladimir Putin እና Xi Jinping የጋራ የሰላም መግለጫ አወጡ (Trump, Putin and Xi release 'peace declaration' after historic meeting)",
+  "Anthropic በ81.3 ቢሊዮን ዶላር በአሜሪካ የታሪክ ትልቁን IPO በማካሄድ በናስዳክ መነገድ ጀመረ (Anthropic starts trading in the US after blockbuster IPO)"
  ],
  "posted_at": [
-  1794933369.213455,
-  1794933372.6038368,
   1794935431.4488323,
   1794940537.3020897,
   1794942530.4351237,
@@ -2683,6 +2678,7 @@
   1795097419.8367221,
   1795097423.5631738,
   1795100998.0355215,
-  1795102583.1294675
+  1795102583.1294675,
+  1795108105.7539937
  ]
 }
