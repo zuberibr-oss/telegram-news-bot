@@ -1,7 +1,5 @@
 {
  "seen": {
-  "36d35eeb4e76012c": 1793943334.938794,
-  "8cd881f6a2baa440": 1793943334.938794,
   "f448839555ebb51b": 1793945706.912679,
   "51006d4f066064c7": 1793945706.912679,
   "19e67f582fd6a74b": 1793947201.1806037,
@@ -2592,10 +2590,30 @@
   "f66cc3dd480e10a9": 1795151319.3703415,
   "8644d2b57fe24b45": 1795151319.3703415,
   "f6f9c51d09add113": 1795151319.3703415,
-  "a7245b93b9451db0": 1795151319.3703415
+  "a7245b93b9451db0": 1795151319.3703415,
+  "a0ae074db94461b2": 1795155219.6579888,
+  "5c5f234bbbb5fd73": 1795155219.6579888,
+  "e737068156266f44": 1795155219.6579888,
+  "6d1cdc5817130edd": 1795155219.6579888,
+  "9d57db864e1f8ed3": 1795155219.6579888,
+  "905efb33ba581b47": 1795155219.6579888,
+  "4c69130ed42be6af": 1795155219.6579888,
+  "6ee38bec70a08fe9": 1795155219.6579888,
+  "23163e7f662de7ae": 1795155219.6579888,
+  "78a5d6763ba16990": 1795155219.6579888,
+  "52b8ef5d1903859a": 1795155219.6579888,
+  "f7c61804d9429e3b": 1795155219.6579888,
+  "e62ad8e1adaf68cc": 1795155219.6579888,
+  "c43f70b44e610275": 1795155219.6579888,
+  "1db1897c3fb59440": 1795155219.6579888,
+  "406bbd970fdc0b8f": 1795155219.6579888,
+  "6e9bed69f5ba4bf6": 1795155219.6579888,
+  "2966fd757e07f97a": 1795155219.6579888,
+  "3c4f7526e7da382d": 1795155219.6579888,
+  "9a25f37a3157620c": 1795155219.6579888,
+  "e4f621c3618ce05f": 1795155219.6579888
  },
  "recent_headlines": [
-  "አሜሪካ እና ቬኔዙዌላ ወታደራዊ እና የደህንነት ትብብር ስምምነት ተፈራረሙ (US Defence Secretary Hegseth reveals military partnership on Venezuela trip)",
   "የዓለም አቀፉ ፍርድ ቤት በምያንማር የዘር ማጥፋት ክስ ላይ ብይን ሊሰጥ ነው (Myanmar faces historic genocide verdict at UN court over Rohingya massacres)",
   "የአርቴፊሻል ኢንተለጀንስ አበልጻጊው Anthropic በ1.4 ትሪሊዮን ዶላር ግምት ወደ አክሲዮን ገበያ ሊገባ ነው (Claude-maker Anthropic poised for more than $1.4tn stock market debut)",
   "በሶማሊያ የሕገ መንግሥት ማሻሻያን ተከተሎ የፖለቲካ እና የሕግ ውጥረት ተከሰተ (Somalia’s constitutional overhaul tests its fragile federal bargain)",
@@ -2634,7 +2652,8 @@
   "የሶማሊላንድ የወደብ ባለሥልጣን በእስራኤል ጉብኝት በማድረግ የመግባቢያ ሰነዶችን ተለዋወጡ (Daily_Brief: #Somaliland ports official visits #Israel, exchanges draft MoUs with maritime organizations)",
   "ሩሲያ ለዩክሬን ከ NATO ጋር ተመሳሳይ የደህንነት ዋስትና ለመስጠት መስማማቷን Jared Kushner ገለጹ (Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine)",
   "የየመን ሁቲዎች በሳዑዲ ዓረብያ ዋና ከተማ ሪያድ ላይ ጥቃታቸውን አበራቱ (Iran war live: Houthis escalate attacks on Saudi capital)",
-  "የአፍሪካ አገራት ተጨማሪ የአየር ንብረት ድጋፍ ሲጠይቁ የአውሮፓ ህብረት የቀደመው ይፈጸም አለ (More climate money for Africa? Europe says use what's already pledged)"
+  "የአፍሪካ አገራት ተጨማሪ የአየር ንብረት ድጋፍ ሲጠይቁ የአውሮፓ ህብረት የቀደመው ይፈጸም አለ (More climate money for Africa? Europe says use what's already pledged)",
+  "ኢትዮጵያ 5ኛውን የዓለም አቀፍ የአፍሪካ ሕዝብ ጤና ጉባኤ ልታስተናግድ ነው (PM Abiy Extends Ethiopia’s Welcome to African Leaders, Global Health Delegates Ahead of CPHIA 2026)"
  ],
  "posted_at": [
   1794982519.0891457,
@@ -2703,6 +2722,7 @@
   1795127763.395782,
   1795129703.2157207,
   1795133949.5564706,
-  1795136957.4468637
+  1795136957.4468637,
+  1795155268.4279397
  ]
 }
