@@ -1,10 +1,5 @@
 {
  "seen": {
-  "f448839555ebb51b": 1793945706.912679,
-  "51006d4f066064c7": 1793945706.912679,
-  "19e67f582fd6a74b": 1793947201.1806037,
-  "760214e4943864cd": 1793947201.1806037,
-  "878c5172966430fc": 1793947201.1806037,
   "b23d7d695e187c9f": 1793948989.8767295,
   "0712b6ad0594432c": 1793948989.8767295,
   "e87c48ee3e2c7873": 1793950541.1312459,
@@ -2611,10 +2606,19 @@
   "2966fd757e07f97a": 1795155219.6579888,
   "3c4f7526e7da382d": 1795155219.6579888,
   "9a25f37a3157620c": 1795155219.6579888,
-  "e4f621c3618ce05f": 1795155219.6579888
+  "e4f621c3618ce05f": 1795155219.6579888,
+  "5113122f8166893a": 1795156885.5360003,
+  "70ea79286211c4d8": 1795156885.5360003,
+  "a5628cbc0f706bc9": 1795156885.5360003,
+  "ab1d5622c520c9c5": 1795156885.5360003,
+  "5226f65df53f3f12": 1795156885.5360003,
+  "e7d3d1e4cdc058d5": 1795156885.5360003,
+  "ad6f07bfbfbd5795": 1795156885.5360003,
+  "b2a4ed8ab348c8e3": 1795156885.5360003,
+  "f32fa7aa9f5e7e6c": 1795156885.5360003,
+  "7d14f3b038acc511": 1795156885.5360003
  },
  "recent_headlines": [
-  "የዓለም አቀፉ ፍርድ ቤት በምያንማር የዘር ማጥፋት ክስ ላይ ብይን ሊሰጥ ነው (Myanmar faces historic genocide verdict at UN court over Rohingya massacres)",
   "የአርቴፊሻል ኢንተለጀንስ አበልጻጊው Anthropic በ1.4 ትሪሊዮን ዶላር ግምት ወደ አክሲዮን ገበያ ሊገባ ነው (Claude-maker Anthropic poised for more than $1.4tn stock market debut)",
   "በሶማሊያ የሕገ መንግሥት ማሻሻያን ተከተሎ የፖለቲካ እና የሕግ ውጥረት ተከሰተ (Somalia’s constitutional overhaul tests its fragile federal bargain)",
   "ኢራን ባዮሎጂካዊ መሣሪያዎችን ለማልማት እየሠራች ነው ሲሉ Donald Trump ከሰሱ (Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh)",
@@ -2653,11 +2657,10 @@
   "ሩሲያ ለዩክሬን ከ NATO ጋር ተመሳሳይ የደህንነት ዋስትና ለመስጠት መስማማቷን Jared Kushner ገለጹ (Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine)",
   "የየመን ሁቲዎች በሳዑዲ ዓረብያ ዋና ከተማ ሪያድ ላይ ጥቃታቸውን አበራቱ (Iran war live: Houthis escalate attacks on Saudi capital)",
   "የአፍሪካ አገራት ተጨማሪ የአየር ንብረት ድጋፍ ሲጠይቁ የአውሮፓ ህብረት የቀደመው ይፈጸም አለ (More climate money for Africa? Europe says use what's already pledged)",
-  "ኢትዮጵያ 5ኛውን የዓለም አቀፍ የአፍሪካ ሕዝብ ጤና ጉባኤ ልታስተናግድ ነው (PM Abiy Extends Ethiopia’s Welcome to African Leaders, Global Health Delegates Ahead of CPHIA 2026)"
+  "ኢትዮጵያ 5ኛውን የዓለም አቀፍ የአፍሪካ ሕዝብ ጤና ጉባኤ ልታስተናግድ ነው (PM Abiy Extends Ethiopia’s Welcome to African Leaders, Global Health Delegates Ahead of CPHIA 2026)",
+  "በኢትዮጵያ እና ኤርትራ ድንበር ውጥረት በመጨመሩ አሜሪካ ለዜጎቿ የጉዞ ማስጠንቀቂያ ሰጠች (በኢትዮጵያ እና ኤርትራ ድንበር ወታደሮች መሰማራታቸው መዘገቡን ተከትሎ አሜሪካ ለዜጎቿ የጉዞ ማስጠንቀቂያ ሰጠች)"
  ],
  "posted_at": [
-  1794982519.0891457,
-  1794982522.3962874,
   1794985825.3065412,
   1794985828.915039,
   1794989530.9284363,
@@ -2723,6 +2726,7 @@
   1795129703.2157207,
   1795133949.5564706,
   1795136957.4468637,
-  1795155268.4279397
+  1795155268.4279397,
+  1795156953.8034399
  ]
 }
